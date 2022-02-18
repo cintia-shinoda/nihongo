@@ -77,10 +77,10 @@
 
 ## 2022
 
-|  #  | Date       | Content |       |
-|:---:|:----------:|:-------:|:-----:|
-|     | 12/01/2022 | B - 121 | かこ（めいしぶん）１ - Pretérito (frases substantivas) 1|
-|     | 20/01/2022 | B - 131 | かこ（めいしぶん）2 - Pretérito (frases substantivas) 2 |
-|     | 02/02/2022 | B - 141 | かこ（けいようしぶん）１ - Pretérito (frases adjetivas) 1 |
-|     | 09/02/2022 | B - 151 | かこ（けいようしぶん)　2　- Pretérito (frases adjetivas) 2 |
-|     | 17/02/2022 | B - 161 | かこ（けいようしぶん）3 - Pretérito (frases adjetivas) 3 |
+|  #  | Date       | Content |       | |
+|:---:|:----------:|:-------:|:-----|:---|
+|     | 12/01/2022 | B - 121 | かこ（めいしぶん）１ | Pretérito (frases substantivas) 1
+|     | 20/01/2022 | B - 131 | かこ（めいしぶん）2 | Pretérito (frases substantivas) 2 |
+|     | 02/02/2022 | B - 141 | かこ（けいようしぶん）１ | Pretérito (frases adjetivas) 1 |
+|     | 09/02/2022 | B - 151 | かこ（けいようしぶん)　2 | Pretérito (frases adjetivas) 2 |
+|     | 17/02/2022 | B - 161 | かこ（けいようしぶん）3 | Pretérito (frases adjetivas) 3 |

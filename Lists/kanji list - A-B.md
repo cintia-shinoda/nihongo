@@ -145,19 +145,19 @@
 | 高 | | | alto, caro | B - 121 |	
 | 土 | | | solo, terra, lama | B - 121 |
 | 木 | き | | árvore, madeira | B - 121 |
-|  |  |  | intervalo, entre | B -131 |
-|  |  |  | voltar | B - 131 |
-|  |  |  | entardecer | B - 131 |
-|  |  |  | água | B - 131 |
-|  |  |  | pais, parentes | B - 141 |
-|  |  |  | loja | B - 141 |
-|  |  |  | ter | B - 141 |
-|  |  |  | barato, seguro | B - 141 |
-|  |  |  | muito, bastante | B - 151 |
-|  |  |  | pequeno | B - 151 |
-|  |  |  | longe | B - 151 |
-|  |  |  | velho, antigo | B - 151 |
-|  |  |  | verão | B - 161 |
-|  |  |  | casa, família | B - 161 |
-|  |  |  | número | B - 161 |
-|  |  |  | durante, entre | B - 161 |
+| 間 | カン |  | intervalo, entre | B -131 |
+| 帰 | かえ |  | voltar | B - 131 |
+| 夕 | ゆう |  | entardecer | B - 131 |
+| 水 | みず　|  | água | B - 131 |
+| 親 | おや |  | pais, parentes | B - 141 |
+| 店 | みせ |  | loja | B - 141 |
+| 有 |  |  | ter | B - 141 |
+| 安 | やす |  | barato, seguro | B - 141 |
+| 多 | おお |  | muito, bastante | B - 151 |
+| 小 | ちい |  | pequeno | B - 151 |
+| 遠 | とお |  | longe | B - 151 |
+| 古 | ふる |  | velho, antigo | B - 151 |
+| 夏 | なつ |  | verão | B - 161 |
+| 家 | いえ |  | casa, família | B - 161 |
+| 数 |  |  | número | B - 161 |
+| 間 | あいだ　・　ま|  | durante, entre | B - 161 |

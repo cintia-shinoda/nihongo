@@ -161,3 +161,19 @@
 | 家 | いえ |  | casa, família | B - 161 |
 | 数 |  |  | número | B - 161 |
 | 間 | あいだ　・　ま|  | durante, entre | B - 161 |
+| 東 |<ul><li>ひがし</li><li>トウ</li></ul> |  | leste | B - 171 |
+| 南 | | | sul | B - 171 |
+|  |  |  | norte | B - 171 |
+|  |  |  | oeste | B - 171 |
+|  |  |  | manhã | B - 171 |
+|  |  |  | de dia | B - 171 |
+|  |  |  | céu | B - 171 |
+|  |  |  | mar | B - 171 |
+|  |  |  | bosque | B - 171 |
+|  |  |  | navio | B - 171 |
+|  |  |  | antes, frente | B - 171 |
+|  |  |  | depois, atrás | B - 171 |
+|  |  |  | fora, exterior | B - 171 |
+|  |  |  | idioma, palavra | B - 171 |
+|  |  |  | comprido, longo, cabeça(de um grupo, organização) | B - 171 |
+|  |  |  | pouco | B - 171 |

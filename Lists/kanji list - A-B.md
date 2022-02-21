@@ -85,6 +85,7 @@
 | 兄 | あに | 兄 (meu irmão mais velho) | irmão mais velho | A - 161 |
 | 方 | ほう | 〜の　方が (expressão usada para comparação) | direção | A - 171 |
 | 安 | やす | 安い　です (é barato) | calmo | A - 171 |
+
 <br><br><br>
 
 

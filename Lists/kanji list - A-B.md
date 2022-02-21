@@ -1,4 +1,4 @@
-
+# Level A
 
 | ideogram | readings |  | translation | lesson |
 |:---:|:---|:---|:---|:---:|
@@ -85,6 +85,13 @@
 | 兄 | あに | 兄 (meu irmão mais velho) | irmão mais velho | A - 161 |
 | 方 | ほう | 〜の　方が (expressão usada para comparação) | direção | A - 171 |
 | 安 | やす | 安い　です (é barato) | calmo | A - 171 |
+<br><br><br>
+
+
+
+# Level B
+
+| ideogram | readings |  | translation | lesson |
 | 歩 | ある | | andar | B - 1|
 | 生 |  |  | vida, nascer | B - 1|
 | 行 | い |  | ir | B - 1 |

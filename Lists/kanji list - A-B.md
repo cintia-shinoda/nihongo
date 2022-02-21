@@ -92,6 +92,7 @@
 # Level B
 
 | ideogram | readings |  | translation | lesson |
+|:---:|:---|:---|:---|:---:|
 | 歩 | ある | | andar | B - 1|
 | 生 |  |  | vida, nascer | B - 1|
 | 行 | い |  | ir | B - 1 |

@@ -55,36 +55,36 @@
 | 八百 | はっぴゃく |  | 800 | A - 11 |
 | 九百 | きゅうひゃく |  | 900 | A - 11 |
 | 千 | せん |  | 1000 | A - 11 |
-| 小 | しょう |  | pequeno | A - 21 |
-| 本 | ほん |  | origem, livro | A - 21 |
-| 先 | せん |  | anterior | A - 31 |
-| 友 | とも |  | amigo | A - 31 |
-| 犬 | いぬ |  | cachorro | A - 41 |
-| 白 | はく |  | branco | A - 41 |
-| 生 | せい |  | estar vivo (vida) | A - 51 |
-| 牛 | うし |  | boi / vaca | A - 51 |
-| 父 | ちち |  | meu pai | A - 61 |
-| 花 | はな |  | flor | A - 61 |
-| 赤 | あか |  | vermelho | A - 71 |
-| 子 | こ |  | filho | A - 71 |
-| 車 | しゃ |  | veículo sobre rodas | A - 81 |
-| 母 | はは |  | mãe | A - 81 |
-| 学 | がく・がっ |  | aprender/estudar | A - 91 |
-| 大 | だい |  | grande | A - 91 |
-| 雨 | あめ |  | chuva | A - 101 |
-| 入 | い |  | colocar, inserir | A - 101 |
-| 校 | こう |  | escola | A - 111 |
-| 見 | み |  | ver | A - 111 |
-| 青 | あお |  | azul | A - 131 |
-| 名 | めい |  | nome | A - 131 |
-| 高 | たか |  | alto | A - 141 |
-| 切 | せつ |  | cortar | A - 141 |
-| 広 | ひろ |  | espaçoso | A - 151 |
-| 古 | ふる |  | velho | A - 151 |
-| 店 | みせ |  | loja | A - 161 |
-| 兄 | あに |  | irmão mais velho | A - 161 |
-| 方 | ほう |  | direção | A - 171 |
-| 安 | やす |  | calmo | A - 171 |
+| 小 | しょう | 小がくせい (estudante de ensino fundamental) | pequeno | A - 21 |
+| 本 | ほん | 本　(livro) | origem, livro | A - 21 |
+| 先 | せん | 先せい　(professor) | anterior | A - 31 |
+| 友 | とも | 友だち (amigo) | amigo | A - 31 |
+| 犬 | いぬ | 犬 (cachorro) | cachorro | A - 41 |
+| 白 | はく | 白さい (acelga) | branco | A - 41 |
+| 生 | せい | 先生 (professor) | estar vivo (vida) | A - 51 |
+| 牛 | うし | 牛 (boi) | boi / vaca | A - 51 |
+| 父 | ちち | 父 (meu pai) | meu pai | A - 61 |
+| 花 | はな | 花 (flor) | flor | A - 61 |
+| 赤 | あか | 赤ちゃん (bebê) | vermelho | A - 71 |
+| 子 | こ | 子ども (criança) | filho | A - 71 |
+| 車 | しゃ | でん車 (trem) | veículo sobre rodas | A - 81 |
+| 母 | はは | 母 (minha mãe) | mãe | A - 81 |
+| 学 | がく・がっ | 学こう (escola) | aprender/estudar | A - 91 |
+| 大 | だい | 大学 (universidade) | grande | A - 91 |
+| 雨 | あめ | 雨 (chuva) | chuva | A - 101 |
+| 入 | い | 入れます (colocar, inserir) | colocar, inserir | A - 101 |
+| 校 | こう | 学校 (escola) | escola | A - 111 |
+| 見 | み | 見ます (ver, assistir) | ver | A - 111 |
+| 青 | あお | 青い (azul) | azul | A - 131 |
+| 名 | めい | ゆう名な (famoso) | nome | A - 131 |
+| 高 | たか | 高い　です (é alto)　| alto | A - 141 |
+| 切 | せつ | しん切　です (é atencioso) | cortar | A - 141 |
+| 広 | ひろ | 広い です (é espaçoso) | espaçoso | A - 151 |
+| 古 | ふる |　古い です　(é velho) | velho | A - 151 |
+| 店 | みせ | 店 (loja) | loja | A - 161 |
+| 兄 | あに | 兄 (meu irmão mais velho) | irmão mais velho | A - 161 |
+| 方 | ほう | 〜の　方が (expressão usada para comparação) | direção | A - 171 |
+| 安 | やす | 安い　です (é barato) | calmo | A - 171 |
 | 歩 | ある | | andar | B - 1|
 | 生 |  |  | vida, nascer | B - 1|
 | 行 | い |  | ir | B - 1 |

@@ -80,7 +80,7 @@
 | 高 | たか | 高い　です (é alto)　| alto | A - 141 |
 | 切 | せつ | しん切　です (é atencioso) | cortar | A - 141 |
 | 広 | ひろ | 広い です (é espaçoso) | espaçoso | A - 151 |
-| 古 | ふる |　古い です　(é velho) | velho | A - 151 |
+| 古 | ふる | 古い です　(é velho) | velho | A - 151 |
 | 店 | みせ | 店 (loja) | loja | A - 161 |
 | 兄 | あに | 兄 (meu irmão mais velho) | irmão mais velho | A - 161 |
 | 方 | ほう | 〜の　方が (expressão usada para comparação) | direção | A - 171 |
@@ -170,19 +170,19 @@
 | 家 | いえ |  | casa, família | B - 161 |
 | 数 |  |  | número | B - 161 |
 | 間 | あいだ　・　ま|  | durante, entre | B - 161 |
-| 東 |<ul><li>ひがし</li><li>トウ</li></ul> |  | leste | B - 171 |
-| 南 |  |  | sul | B - 171 |
-|  |  |  | norte | B - 171 |
-|  |  |  | oeste | B - 171 |
-|  |  |  | manhã | B - 171 |
-|  |  |  | de dia | B - 171 |
-|  |  |  | céu | B - 171 |
-|  |  |  | mar | B - 171 |
-|  |  |  | bosque | B - 171 |
-|  |  |  | navio | B - 171 |
-|  |  |  | antes, frente | B - 171 |
-|  |  |  | depois, atrás | B - 171 |
-|  |  |  | fora, exterior | B - 171 |
-|  |  |  | idioma, palavra | B - 171 |
-|  |  |  | comprido, longo, cabeça(de um grupo, organização) | B - 171 |
-|  |  |  | pouco | B - 171 |
+| 東 |ひがし　・　トウ |  | leste | B - 171 |
+| 南 | みなみ　・ ナン　|  | sul | B - 171 |
+| 北 | きた ・ ホク |  | norte | B - 171 |
+| 西 | にし ・　セイ　|  | oeste | B - 171 |
+| 朝 | あさ ・ チョウ |  | manhã | B - 171 |
+| 昼 | ひる ・ チュウ |  | de dia | B - 171 |
+| 空 | そら ・　クウ　|  | céu | B - 171 |
+| 海 | うみ ・　カイ　|  | mar | B - 171 |
+| 林 | はやし ・　リン　|  | bosque | B - 171 |
+| 船 | ふね  ・　セン　|  | navio | B - 171 |
+| 前 | まえ ・　ゼン　|  | antes, frente | B - 171 |
+| 後 | うしろ ・　ゴ　|  | depois, atrás | B - 171 |
+| 外 | そと ・ カイ　|  | fora, exterior | B - 171 |
+| 語 | ゴ |  | idioma, palavra | B - 171 |
+| 長 | ながい ・　チョウ　|  | comprido, longo, cabeça(de um grupo, organização) | B - 171 |
+| 少 | すこし ・ ショウ　|  | pouco | B - 171 |

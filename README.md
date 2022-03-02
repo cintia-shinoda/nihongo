@@ -79,8 +79,9 @@
 
 |  #  | Date       | Content |       | |
 |:---:|:----------:|:-------:|:-----|:---|
-| 58 | 12/01/2022 | B - 121 | かこ（めいしぶん）１ | Pretérito (frases substantivas) 1
-| 59 | 20/01/2022 | B - 131 | かこ（めいしぶん）2 | Pretérito (frases substantivas) 2 |
-| 60 | 02/02/2022 | B - 141 | かこ（けいようしぶん）１ | Pretérito (frases adjetivas) 1 |
-| 61 | 09/02/2022 | B - 151 | かこ（けいようしぶん）2 | Pretérito (frases adjetivas) 2 |
-| 62 | 17/02/2022 | B - 161 | かこ（けいようしぶん）3 | Pretérito (frases adjetivas) 3 |
+| 58 | 12/01/2022 | B - 12 | かこ（めいしぶん）１ | Pretérito (frases substantivas) 1
+| 59 | 20/01/2022 | B - 13 | かこ（めいしぶん）2 | Pretérito (frases substantivas) 2 |
+| 60 | 02/02/2022 | B - 14 | かこ（けいようしぶん）１ | Pretérito (frases adjetivas) 1 |
+| 61 | 09/02/2022 | B - 15 | かこ（けいようしぶん）2 | Pretérito (frases adjetivas) 2 |
+| 62 | 17/02/2022 | B - 16 | かこ（けいようしぶん）3 | Pretérito (frases adjetivas) 3 |
+| 63 | 02/03/2022 | <ul><li>B - 17</li><li>B - 18</li></ul> | <ul><li></li><li>ストーリ - 2</li></ul> | <ul><li></li><li>Histórias 2</li></ul> |

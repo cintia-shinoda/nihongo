@@ -1,4 +1,4 @@
-FORMA NEGATIVA DE FRASES VERBAIS NO PRETÉRITO
+# FORMA NEGATIVA DE FRASES VERBAIS NO PRETÉRITO
 
 | | Não Pretérito | Pretérito |
 |:---:|:----------:|:-------:|

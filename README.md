@@ -85,4 +85,5 @@
 | 61 | 09/02/2022 | B - 15 | かこ（けいようしぶん）2 | Pretérito (frases adjetivas) 2 |
 | 62 | 17/02/2022 | B - 16 | かこ（けいようしぶん）3 | Pretérito (frases adjetivas) 3 |
 | 63 | 02/03/2022 |<ul><li>B - 17</li><li>B - 18</li></ul>|<ul><li></li><li>ストーリ - 2</li></ul>|<ul><li></li><li>Histórias 2</li></ul> |
-| 64 | 10/03/2022 |<ul><li>B - 19</li><li>Test B</li></ul> | <ul><li></li><li></li></ul>| <ul><li>Revisão das palavras</li><li>Teste de Assimilação B</li></ul> |
+| 64 | 10/03/2022 |<ul><li>B - 19</li><li>Test B</li></ul> | <ul><li>ことばの まとめ</li><li></li></ul>| <ul><li>Revisão das palavras</li><li>Teste de Assimilação B</li></ul> |
+| 65 | 16/03/2022 | C - 1 | ごじゅん | Ordem das palavras |

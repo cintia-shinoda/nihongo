@@ -42,22 +42,22 @@
 | 花 | はな　・　カ | 花 (はな) = flor　・　花びん (かびん) = vaso | B - 91 |
 | 万 | マン | dez mil　・　一万五千 (いちまんごせん) = 15.000 | B - 91 |
 | 子 | こ　・　シ | criança, sufixo　・　子ども (こども) = criança　・　電子レンジ (でんしれんじ) = forno de microondas | B - 91 |
-| 立 | た | levantar | B - 101 |
-| 出 | で・だ | sair | B - 101 |
-| 作 | つく | preparar | B - 101 |
-| 飲 | の | beber | B - 101 |
-| 走 | はし | correr | B -101 |
-| 読 | よ | ler | B - 101 |
-| 文 |  | frase | B - 101 |
-| 字 |  | escrita, letra | B - 101 |	
-| 男 | おとこ | homem, masculino | B -101 |
-| 女 | おんな | mulher, feminino | B -101 |
-| 妹 | いもうと | irmã mais nova | B - 101 |
-| 手 | て | mão, braço | B - 101 |
-| 足 | あし | pé, perna | B - 101 | 
-| 力 | ちから | força | B - 101 |
-| 気 |  | espírito, mente | B - 101 |	
-| 天 | あめ・あま | paraíso, céu | B - 101 |
+| 立 | た　・　リツ | levantar | B - 101 |
+| 出 | で　・　だ　・　シュツ (シュッ) | sair | B - 101 |
+| 作 | つく　・　サク | preparar | B - 101 |
+| 飲 | の　・　イン | beber | B - 101 |
+| 走 | はし　・　ソウ | correr | B -101 |
+| 読 | よ　・　ドク | ler | B - 101 |
+| 文 | ブン ・ モン | frase | B - 101 |
+| 字 | ジ | escrita, letra | B - 101 |	
+| 男 | おとこ　・　ダン | homem, masculino | B -101 |
+| 女 | おんな　・　ジョ | mulher, feminino | B -101 |
+| 妹 | いもうと　・　マイ | irmã mais nova | B - 101 |
+| 手 | て　・　シュ | mão, braço | B - 101 |
+| 足 | あし　・　ソク | pé, perna | B - 101 | 
+| 力 | ちから　・　リョク | força | B - 101 |
+| 気 | キ | espírito, mente | B - 101 |	
+| 天 | あめ (あま) ・ テン | paraíso, céu | B - 101 |
 | 去 |  | partir | B - 121 |	
 | 高 |  | alto, caro | B - 121 |	
 | 土 |  | solo, terra, lama | B - 121 |

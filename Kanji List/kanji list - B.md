@@ -58,10 +58,10 @@
 | 力 | ちから　・　リョク | força | B - 101 |
 | 気 | キ | espírito, mente | B - 101 |	
 | 天 | あめ (あま) ・ テン | paraíso, céu | B - 101 |
-| 去 |  | partir | B - 121 |	
-| 高 |  | alto, caro | B - 121 |	
-| 土 |  | solo, terra, lama | B - 121 |
-| 木 | き | árvore, madeira | B - 121 |
+| 去 | キョ | partir | B - 121 |	
+| 高 | たか ・ コウ | alto, caro | B - 121 |	
+| 土 | ド | solo, terra, lama | B - 121 |
+| 木 | き　・　モク | árvore, madeira | B - 121 |
 | 間 | カン | intervalo, entre | B -131 |
 | 帰 | かえ | voltar | B - 131 |
 | 夕 | ゆう | entardecer | B - 131 |

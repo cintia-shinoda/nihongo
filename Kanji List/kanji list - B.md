@@ -71,9 +71,9 @@
 | 有 | ユウ | ter | B - 141 |
 | 安 | やす　・　アン | barato, seguro | B - 141 |
 | 多 | おお | muito, bastante | B - 151 |
-| 小 | ちい | pequeno | B - 151 |
-| 遠 | とお | longe | B - 151 |
-| 古 | ふる | velho, antigo | B - 151 |
+| 小 | ちい　・　こ　・　ショウ | pequeno | B - 151 |
+| 遠 | とお　・　エン | longe | B - 151 |
+| 古 | ふる　・　コ | velho, antigo | B - 151 |
 | 夏 | なつ | verão | B - 161 |
 | 家 | いえ | casa, família | B - 161 |
 | 数 |  | número | B - 161 |

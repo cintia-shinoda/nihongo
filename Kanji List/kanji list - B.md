@@ -34,10 +34,10 @@
 | 大 | おお　・　ダイ | grande, universidade　・　大きい (おおきい) = grande　・　大学生 (だいがくせい) = universitário | B - 71 |
 | 左 | ひだり | 左 (ひだり) = esquerda | B - 71 |
 | 白 | しろ　・　ハク | 白 (しろい) = branco　・　白さい (はくさい) = acelga | B - 71 |
-| 右 | みぎ | direita | B - 81 |
-| 車 | くるま | carro | B - 81 |
-| 電 |  | eletricidade | B - 81 |	
-| 下 | した | embaixo | B - 81 |
+| 右 | みぎ | 右 (みぎ) = direita | B - 81 |
+| 車 | くるま　・　シャ | 車 (くるま) = carro　・　でん車 (でんしゃ) = trem | B - 81 |
+| 電 | デン | eletricidade　・　電車 (でんしゃ) = trem | B - 81 |	
+| 下 | した　・　カ | 下 (した) = embaixo　・　ち下てつ (ちかてつ) = metrô | B - 81 |
 | 円 |  | iene, círculo | B - 91 |	
 | 花 | はな | flor | B - 91 |
 | 万 |  | dez mil | B - 91 |

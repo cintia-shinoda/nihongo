@@ -38,10 +38,10 @@
 | 車 | くるま　・　シャ | 車 (くるま) = carro　・　でん車 (でんしゃ) = trem | B - 81 |
 | 電 | デン | eletricidade　・　電車 (でんしゃ) = trem | B - 81 |	
 | 下 | した　・　カ | 下 (した) = embaixo　・　ち下てつ (ちかてつ) = metrô | B - 81 |
-| 円 |  | iene, círculo | B - 91 |	
-| 花 | はな | flor | B - 91 |
-| 万 |  | dez mil | B - 91 |
-| 子 | こ | criança, sufixo | B - 91 |
+| 円 | エン | iene, círculo　・　円 (えん) = iene | B - 91 |	
+| 花 | はな　・　カ | 花 (はな) = flor　・　花びん (かびん) = vaso | B - 91 |
+| 万 | マン | dez mil　・　一万五千 (いちまんごせん) = 15.000 | B - 91 |
+| 子 | こ　・　シ | criança, sufixo　・　子ども (こども) = criança　・　電子レンジ (でんしれんじ) = forno de microondas | B - 91 |
 | 立 | た | levantar | B - 101 |
 | 出 | で・だ | sair | B - 101 |
 | 作 | つく | preparar | B - 101 |

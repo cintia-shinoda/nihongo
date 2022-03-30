@@ -30,10 +30,10 @@
 | 来 | き ・ ライ | 来ます (きます) = vir　・　来年 (らいねん) = próximo ano | B - 61 |	
 | 休 | やす　・　キュウ | descanso　・　なつ休み (なつやすみ) = férias de verão　・　休日 (きゅうじつ) = feriado | B -  61 |
 | 日 | ひ (び) ・ か　・　ニチ　・　ジツ | dia, sol, Japão　・　日よう日 (にちようび) = domingo　・　五日 (いつか) = dia cinco　・　休日 (きゅうじつ) = feriado　・　一日 (ついたち) = dia primeiro　・　二日 (ふつか) = dia dois　・ 日本 (にほん) = Japão　| B - 61 |
-| 金 | かね | metal, ouro, dinheiro | B - 71 |
-| 大 | おお | grande, universidade | B - 71 |
-| 左 | ひだり | esquerda | B - 71 |
-| 白 | しろ | branco | B - 71 |
+| 金 | かね　・　キン | metal, ouro, dinheiro　・　お金 (おかね) = dinheiro　・　金よう日 (きんようび) = sexta-feira | B - 71 |
+| 大 | おお　・　ダイ | grande, universidade　・　大きい (おおきい) = grande　・　大学生 (だいがくせい) = universitário | B - 71 |
+| 左 | ひだり | 左 (ひだり) = esquerda | B - 71 |
+| 白 | しろ　・　ハク | 白 (しろい) = branco　・　白さい (はくさい) = acelga | B - 71 |
 | 右 | みぎ | direita | B - 81 |
 | 車 | くるま | carro | B - 81 |
 | 電 |  | eletricidade | B - 81 |	

@@ -75,9 +75,9 @@
 | 遠 | とお　・　エン | longe | B - 151 |
 | 古 | ふる　・　コ | velho, antigo | B - 151 |
 | 夏 | なつ | verão | B - 161 |
-| 家 | いえ | casa, família | B - 161 |
-| 数 |  | número | B - 161 |
-| 間 | あいだ　・　ま| durante, entre | B - 161 |
+| 家 | いえ　・　や　・　カ | casa, família | B - 161 |
+| 数 | スウ | número | B - 161 |
+| 間 | あいだ　・　ま　・　カン | durante, entre | B - 161 |
 | 東 |ひがし　・　トウ | leste | B - 171 |
 | 南 | みなみ　・ ナン　| sul | B - 171 |
 | 北 | きた ・ ホク | norte | B - 171 |

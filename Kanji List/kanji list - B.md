@@ -80,8 +80,8 @@
 | 間 | あいだ　・　ま　・　カン | durante, entre | B - 161 |
 | 東 |ひがし　・　トウ | leste | B - 171 |
 | 南 | みなみ　・ ナン　| sul | B - 171 |
-| 北 | きた ・ ホク | norte | B - 171 |
-| 西 | にし ・　セイ　| oeste | B - 171 |
+| 北 | きた ・ ホク (ホッ、ボク) | norte | B - 171 |
+| 西 | にし ・　セイ　・　サイ (ザイ)　| oeste | B - 171 |
 | 朝 | あさ ・ チョウ | manhã | B - 171 |
 | 昼 | ひる ・ チュウ | de dia | B - 171 |
 | 空 | そら ・　クウ　| céu | B - 171 |
@@ -89,8 +89,8 @@
 | 林 | はやし ・　リン　| bosque | B - 171 |
 | 船 | ふね  ・　セン　| navio | B - 171 |
 | 前 | まえ ・　ゼン　| antes, frente | B - 171 |
-| 後 | うしろ ・　ゴ　| depois, atrás | B - 171 |
-| 外 | そと ・ カイ　| fora, exterior | B - 171 |
+| 後 | うし ・　ゴ　| depois, atrás | B - 171 |
+| 外 | そと ・ ガイ　| fora, exterior | B - 171 |
 | 語 | ゴ | idioma, palavra | B - 171 |
-| 長 | ながい ・　チョウ　| comprido, longo, cabeça(de um grupo, organização) | B - 171 |
-| 少 | すこし ・ ショウ　| pouco | B - 171 |
+| 長 | なが ・　チョウ　| comprido, longo, cabeça(de um grupo, organização) | B - 171 |
+| 少 | すこ　・　すく ・ ショウ　| pouco | B - 171 |

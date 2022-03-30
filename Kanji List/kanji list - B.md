@@ -63,13 +63,13 @@
 | 土 | ド | solo, terra, lama | B - 121 |
 | 木 | き　・　モク | árvore, madeira | B - 121 |
 | 間 | カン | intervalo, entre | B -131 |
-| 帰 | かえ | voltar | B - 131 |
+| 帰 | かえ　・　キ | voltar | B - 131 |
 | 夕 | ゆう | entardecer | B - 131 |
-| 水 | みず　| água | B - 131 |
-| 親 | おや | pais, parentes | B - 141 |
-| 店 | みせ | loja | B - 141 |
-| 有 |  | ter | B - 141 |
-| 安 | やす | barato, seguro | B - 141 |
+| 水 | みず　・　スイ　| água | B - 131 |
+| 親 | おや　・　シン | pais, parentes | B - 141 |
+| 店 | みせ　・　テン | loja | B - 141 |
+| 有 | ユウ | ter | B - 141 |
+| 安 | やす　・　アン | barato, seguro | B - 141 |
 | 多 | おお | muito, bastante | B - 151 |
 | 小 | ちい | pequeno | B - 151 |
 | 遠 | とお | longe | B - 151 |

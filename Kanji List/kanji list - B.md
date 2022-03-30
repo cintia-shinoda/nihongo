@@ -18,10 +18,10 @@
 | 月 | つき　・　ゲツ　・　ガツ | 月 (つき) = lua　・　月ようび (げつようび) = segunda-feira　・ 月 (がつ) = mês [九月 (くがつ) = setembro] | B - 31 |
 | 買 | か | 買います (かいます) = comprar | B - 31 |
 | 入 | はい・い | 入ります (はいります) = entrar　・　入れます (いれます) = guardar | B - 31 |
-| 家 | いえ | casa, família | B - 41 |
-| 切 | き | cortar | B - 41 |
-| 国 | | país | B - 41 |
-| 人 | ひと | ser humano | B - 41 |
+| 家 | いえ　・　カ | 家 (いえ) = casa　・ 家ぞく (かぞく) = família | B - 41 |
+| 切 | き　・　セツ | 切ります (きります) = cortar　・ しん切 (しんせつ) = atencioso | B - 41 |
+| 国 | コク (ゴク) | país　・　中国 (ちゅうごく) = China | B - 41 |
+| 人 | ひと　・　ジン　・　ニン | ser humano　・　人 (ひと) = pessoa　・　アメリカ人 (アメリカじん) = americano　・　三人 (さんにん) = três pessoas　・　一人 (ひとり) = uma pessoa | B - 41 |
 | 帰 | かえ | voltar | B - 51 |
 | 方 | かた・がた | direção, sentido | B - 51 |
 | 分 |  | minuto | B - 51 |

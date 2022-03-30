@@ -1,23 +1,23 @@
 # Level B
 
-| ideogram | readings |  | translation | lesson |
-|:---:|:---|:---|:---|:---:|
-| 歩 | ある | | andar | B - 1|
-| 生 |  |  | vida, nascer | B - 1|
-| 行 | い |  | ir | B - 1 |
-| 母 | はは |  | mãe | B - 1 |
-| 書 | か |  | escrever | B - 11 |
-| 年 |  |  |ano | B - 11 |
-| 食 | た |  | comer, comida | B - 11 |
-| 父 | ちち |  | pai | B - 11 |
-| 来 | き |  | vir | B - 21 |
-| 中 | なか |  | meio, dentro | B -21 |
-| 何 | なに（なん）|  | o que | B -21 |
-| 牛 | うし |  | boi | B - 21 |
-| 時 | |  | tempo | B -31 |	
-| 月 | つき |  | lua, mês | B - 31 |
-| 買 | か |  | comprar | B - 31 |
-| 入 | はい・い |  | entrar, guardar | B - 31 |
+| ideogram | readings | translation | lesson |
+|:---:|:---|:---|:---:|
+| 歩 | ある | 歩きます (あるきます) = andar | B - 1 |
+| 生 | う　・　セイ　・　ショウ (ジョウ) | 生まれます (うまれます) = vida, nascer ・ 先生 (せんせい) = professor　・ 学生 (がくせい) = aluno　・　たん生び (たんじょうび) = aniversário | B - 1 |
+| 行 | い　・　コウ | 行きます (いきます) = ir　・　りょ行 (りょこう) = viagem | B - 1 |
+| 母 | はは | 母 (はは) = minha mãe　・　お母さん (おかあさん) = mãe | B - 1 |
+| 書 | か　・　ショ | 書きます (かきます) = escrever　・ じ書 (じしょ) = dicionário | B - 11 |
+| 年 | ネン | 年 (ねん) = ano ・　きょ年 (きょねん) = ano passado | B - 11 |
+| 食 | た　・　ショク | 食べます (たべます) = comer, comida　・ ゆう食 (ゆうしょく) = jantar | B - 11 |
+| 父 | ちち | 父 (ちち) = meu pai　・　お父さん (おとうさん) = pai | B - 11 |
+| 来 | き | 来ます (きます) = vir | B - 21 |
+| 中 | なか　・　チュウ | 中 (なか) = meio, dentro　・　中学生 (ちゅうがくせい) = estudante do ensino fundamental (7o. a 9o. ano) | B -21 |
+| 何 | なに（なん）| o que ? | B -21 |
+| 牛 | うし　・　ギュウ | 牛 (うし) = boi　・　牛にく (ぎゅうにく) = carne de  vaca | B - 21 |
+| 時 | ジ |  = tempo　・　三時 (さんじ) = três horas | B -31 |	
+| 月 | つき　・　ゲツ　・　ガツ | 月 (つき) = lua　・　月ようび (げつようび) = segunda-feira　・ 月 (がつ) = mês [九月 (くがつ) = setembro] | B - 31 |
+| 買 | か | 買います (かいます) = comprar | B - 31 |
+| 入 | はい・い | 入ります (はいります) = entrar　・　入れます (いれます) = guardar | B - 31 |
 | 家 | いえ |  | casa, família | B - 41 |
 | 切 | き |  | cortar | B - 41 |
 | 国 | |  | país | B - 41 |

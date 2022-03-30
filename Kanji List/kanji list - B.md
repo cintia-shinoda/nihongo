@@ -22,14 +22,14 @@
 | 切 | き　・　セツ | 切ります (きります) = cortar　・ しん切 (しんせつ) = atencioso | B - 41 |
 | 国 | コク (ゴク) | país　・　中国 (ちゅうごく) = China | B - 41 |
 | 人 | ひと　・　ジン　・　ニン | ser humano　・　人 (ひと) = pessoa　・　アメリカ人 (アメリカじん) = americano　・　三人 (さんにん) = três pessoas　・　一人 (ひとり) = uma pessoa | B - 41 |
-| 帰 | かえ | voltar | B - 51 |
-| 方 | かた・がた | direção, sentido | B - 51 |
-| 分 |  | minuto | B - 51 |
-| 火 | ひ | fogo | B - 51
-| 今 |  | agora | B - 61 |
-|  |  | vir | B - 61 |	
-| 休 | やす | descanso | B -  61 |
-| 日 | ひ・び・か | dia, sol, Japão | B - 61 |
+| 帰 | かえ | 帰ります (かえります) = voltar | B - 51 |
+| 方 | かた (がた)　・　ホウ | direção, sentido　・　ゆう方 (ゆうがた) = entardecer　・　わたしの　方が　おもいです。 (わたしの ほうが おもいです。) = eu sou mais pesado. | B - 51 |
+| 分 | フン (プン) | minuto ・ 二分 (にふん) = dois minutos　・　四十分 (よんじゅっぷん) = quarenta minutos | B - 51 |
+| 火 | ひ　・　カ | 火 (ひ) = fogo　・　火ようび (かようび) = terça-feira | B - 51 |
+| 今 | ホン | agora　・　今しゅう (こんしゅう) = esta semana　・　今日 (きょう) = hoje　・　今年 (ことし) = este ano | B - 61 |
+| 来 | き ・ ライ | 来ます (きます) = vir　・　来年 (らいねん) = próximo ano | B - 61 |	
+| 休 | やす　・　キュウ | descanso　・　なつ休み (なつやすみ) = férias de verão　・　休日 (きゅうじつ) = feriado | B -  61 |
+| 日 | ひ (び) ・ か　・　ニチ　・　ジツ | dia, sol, Japão　・　日よう日 (にちようび) = domingo　・　五日 (いつか) = dia cinco　・　休日 (きゅうじつ) = feriado　・　一日 (ついたち) = dia primeiro　・　二日 (ふつか) = dia dois　・ 日本 (にほん) = Japão　| B - 61 |
 | 金 | かね | metal, ouro, dinheiro | B - 71 |
 | 大 | おお | grande, universidade | B - 71 |
 | 左 | ひだり | esquerda | B - 71 |

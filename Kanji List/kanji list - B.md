@@ -42,55 +42,55 @@
 | 花 | はな　・　カ | 花 (はな) = flor　・　花びん (かびん) = vaso | B - 91 |
 | 万 | マン | dez mil　・　一万五千 (いちまんごせん) = 15.000 | B - 91 |
 | 子 | こ　・　シ | criança, sufixo　・　子ども (こども) = criança　・　電子レンジ (でんしれんじ) = forno de microondas | B - 91 |
-| 立 | た　・　リツ | levantar | B - 101 |
-| 出 | で　・　だ　・　シュツ (シュッ) | sair | B - 101 |
-| 作 | つく　・　サク | preparar | B - 101 |
-| 飲 | の　・　イン | beber | B - 101 |
-| 走 | はし　・　ソウ | correr | B -101 |
-| 読 | よ　・　ドク | ler | B - 101 |
-| 文 | ブン ・ モン | frase | B - 101 |
-| 字 | ジ | escrita, letra | B - 101 |	
-| 男 | おとこ　・　ダン | homem, masculino | B -101 |
-| 女 | おんな　・　ジョ | mulher, feminino | B -101 |
-| 妹 | いもうと　・　マイ | irmã mais nova | B - 101 |
-| 手 | て　・　シュ | mão, braço | B - 101 |
-| 足 | あし　・　ソク | pé, perna | B - 101 | 
-| 力 | ちから　・　リョク | força | B - 101 |
-| 気 | キ | espírito, mente | B - 101 |	
-| 天 | あめ (あま) ・ テン | paraíso, céu | B - 101 |
-| 去 | キョ | partir | B - 121 |	
-| 高 | たか ・ コウ | alto, caro | B - 121 |	
-| 土 | ド | solo, terra, lama | B - 121 |
-| 木 | き　・　モク | árvore, madeira | B - 121 |
-| 間 | カン | intervalo, entre | B -131 |
-| 帰 | かえ　・　キ | voltar | B - 131 |
-| 夕 | ゆう | entardecer | B - 131 |
-| 水 | みず　・　スイ　| água | B - 131 |
-| 親 | おや　・　シン | pais, parentes | B - 141 |
-| 店 | みせ　・　テン | loja | B - 141 |
-| 有 | ユウ | ter | B - 141 |
-| 安 | やす　・　アン | barato, seguro | B - 141 |
-| 多 | おお | muito, bastante | B - 151 |
-| 小 | ちい　・　こ　・　ショウ | pequeno | B - 151 |
-| 遠 | とお　・　エン | longe | B - 151 |
-| 古 | ふる　・　コ | velho, antigo | B - 151 |
-| 夏 | なつ | verão | B - 161 |
-| 家 | いえ　・　や　・　カ | casa, família | B - 161 |
-| 数 | スウ | número | B - 161 |
-| 間 | あいだ　・　ま　・　カン | durante, entre | B - 161 |
-| 東 |ひがし　・　トウ | leste | B - 171 |
-| 南 | みなみ　・ ナン　| sul | B - 171 |
-| 北 | きた ・ ホク (ホッ、ボク) | norte | B - 171 |
-| 西 | にし ・　セイ　・　サイ (ザイ)　| oeste | B - 171 |
-| 朝 | あさ ・ チョウ | manhã | B - 171 |
-| 昼 | ひる ・ チュウ | de dia | B - 171 |
-| 空 | そら ・　クウ　| céu | B - 171 |
-| 海 | うみ ・　カイ　| mar | B - 171 |
-| 林 | はやし ・　リン　| bosque | B - 171 |
-| 船 | ふね  ・　セン　| navio | B - 171 |
-| 前 | まえ ・　ゼン　| antes, frente | B - 171 |
-| 後 | うし ・　ゴ　| depois, atrás | B - 171 |
-| 外 | そと ・ ガイ　| fora, exterior | B - 171 |
-| 語 | ゴ | idioma, palavra | B - 171 |
-| 長 | なが ・　チョウ　| comprido, longo, cabeça(de um grupo, organização) | B - 171 |
-| 少 | すこ　・　すく ・ ショウ　| pouco | B - 171 |
+| 立 | た　・　リツ | 立ちます (たちます) = levantar　・　国立げきじょう (こくりっげきじょう) = Teatro Nacional | B - 101 |
+| 出 | で　・　だ　・　シュツ (シュッ) | 出ます (でます) = sair　・　出します (たします) = enviar　・　出ぱつします (しゅっぱつします) = partir | B - 101 |
+| 作 | つく　・　サク | 作ります (つくります) = preparar　・　作ひん (さくひん) = obra | B - 101 |
+| 飲 | の　・　イン | 飲みます (のみます) = beber　・　飲食てん (いんしょくてん) = restaurante | B - 101 |
+| 走 | はし　・　ソウ | 走ります (はしります) = correr　・　走 (そう) = corrida | B - 101 |
+| 読 | よ　・　ドク | 読みます (よみます) = ler　・　読書 (どくしょ) = leitura | B - 101 |
+| 文 | ブン ・ モン |  frase　・　文か (ぶんか) = cultura　・　作文 (さくぶん) = redação　・　ちゅう文します (ちゅうもんします) = pedir | B - 101 |
+| 字 | ジ | escrita, letra　・　かん字 (かんじ) = kanji　・　すう字 (すうじ) = número | B - 101 |	
+| 男 | おとこ　・　ダン | homem　・　男の子 (おとこのこ) = menino　・　男せいよう (だんせいよう) = masculino | B - 101 |
+| 女 | おんな　・　ジョ | 女の人 (おんなのひと) = mulher　・　女せいよう (じょせいよう) = feminino | B - 101 |
+| 妹 | いもうと　・　マイ | 妹 (いもうと) = irmã mais nova　・　し妹 (しまい) = irmãs | B - 101 |
+| 手 | て　・　シュ | 手 (て) = mão　・　切手 (きって) = selo　・　か手 (かしゅ = cantor | B - 101 |
+| 足 | あし　・　ソク | 足 (あし) = pé, perna　・　えん足 (えんそく) = excursão | B - 101 | 
+| 力 | ちから　・　リョク | força　・　力 (ちから) = forte　・　ぜん力 (ぜんりょく) = com toda força | B - 101 |
+| 気 | キ | espírito, mente, energia　・　おげん気ですか (おげんきですか) = está bem?　・　電気や (でんきや) = loja de eletrônicos | B - 101 |	
+| 天 | あめ (あま) ・ テン | paraíso, céu　・　天の川 (あまのがわ) = Via Láctea　・　天気よほう (てんきよほう) = previsão do tempo　・　天ぷら (てんぷら) = tempura | B - 101 |
+| 去 | キョ | partir　・　去年 (きょねん) = ano passado | B - 121 |	
+| 高 | たか ・ コウ | caro　・　高い (たかい) = alto ・ 高校生 (こうこうせい) = estudante do ensino médio | B - 121 |	
+| 土 | ド | solo, terra, lama　・　土よう日 (どようび) = sábado | B - 121 |
+| 木 | き　・　モク | árvore, madeira　・　木 (き) = árvore　・　木よう日 (もくようび) = quinta-feira | B - 121 |
+| 間 | カン | intervalo, entre　・　一時間まえ (いちじかんまえ) = há uma hora | B - 131 |
+| 帰 | かえ　・　キ | 帰ります (かえります) = voltar　・　帰国 (きこく) = volta ao país | B - 131 |
+| 夕 | ゆう | 夕方 (ゆうがた) = entardecer　・　夕食 (ゆうしょく) = jantar | B - 131 |
+| 水 | みず　・　スイ　| 水 (みず) = água　・　水よう日 (すいようび) = quarta-feira | B - 131 |
+| 親 | おや　・　シン | pais, parentes　・　親子どん (おやこどん) = oyakodon　・　親切 (しんせつ) = atencioso　・　親せき (しんせき) = parentes | B - 141 |
+| 店 | みせ　・　テン | お店 (おみせ) = loja　・　店いん (てんいん) = balconista | B - 141 |
+| 有 | ユウ | ter ・ 有名 (ゆうめい) = famoso | B - 141 |
+| 安 | やす　・　アン | 安い (やすい) = barato　・　安ぜん (あんぜん) = seguro | B - 141 |
+| 多 | おお | 多 (おおい) = muito, bastante | B - 151 |
+| 小 | ちい　・　こ　・　ショウ | 小さい (ちいさい) = pequeno　・　小づつみ (こづつみ) = pacote pequeno, encomenda　・　小学生 (しょうがくせい) = aluno de ensino fundamental - 1o. a 6o. ano | B - 151 |
+| 遠 | とお　・　エン | 遠い (とおい) = longe　・　遠足 (えんそく) = excursão | B - 151 |
+| 古 | ふる　・　コ | 古い (ふるい) = velho, antigo　・　中古車 (ちゅうこしゃ) = carro usado | B - 151 |
+| 夏 | なつ | 夏 (なつ) = verão | B - 161 |
+| 家 | いえ　・　や　・　カ | 家 (いえ) = casa　・　家ちん (やちん) = aluguel　・　家ぞく (かぞく) = família | B - 161 |
+| 数 | スウ | 数学 (すうがく) = matemática　・　数字 (すうじ) = número | B - 161 |
+| 間 | あいだ　・　ま　・　カン | 間 (あいだ) = durante　・　い間 (いま) = sala de estar　・　二時間ん (にじかんはん) = duas horas e meia | B - 161 |
+| 東 |ひがし　・　トウ | 東 (ひがし) = leste　・　東きょう (とうきょう) = Tóquio | B - 171 |
+| 南 | みなみ　・ ナン　| 南 (みなみ) = sul　・　東南 (とうなん) = sudeste | B - 171 |
+| 北 | きた ・ ホク (ホッ、ボク) | 北 (きた) = norte　・　東北ち方 (とうほくちほう) = região Nordeste | B - 171 |
+| 西 | にし ・　セイ　・　サイ (ザイ)　| 西 (にし) = oeste　・　西ぶげき (せいぶげき) = filme de faroeste　・　東西南北 (とうざいなんぼく) = leste, oeste, sul, norte | B - 171 |
+| 朝 | あさ ・ チョウ | 朝 (あさ) = manhã　・　朝食 (ちゅうしょく) = café da manhã | B - 171 |
+| 昼 | ひる ・ チュウ | de dia　・　昼食 (ちゅうしょく) = almoço　・　昼休み (ひるやすみ) = intervalo de almoço | B - 171 |
+| 空 | そら ・　クウ　| 空 (そら) = céu　・　空こう (くうこう) = aeroporto | B - 171 |
+| 海 | うみ ・　カイ　| 海 (うみ) = mar　・　北海どう (ほっかいどう) = Hokkaido | B - 171 |
+| 林 | はやし ・　リン　| 林 (はやし) = bosque　・　林間学校 (りんかんがっこう) = curso de férias no campo | B - 171 |
+| 船 | ふね  ・　セン　| 船 (ふね) = navio　・　かもつ船 (かもつせん) = navio cargueiro | B - 171 |
+| 前 | まえ ・　ゼン　| 前 (まえ) = frente　・　ご前 (ごぜん) = de manhã | B - 171 |
+| 後 | うし ・　ゴ　| 後ろ (うしろ) = atrás　・　ご後 (ごご) = da tarde　　・　前後 (ぜんご) = frente, atrás | B - 171 |
+| 外 | そと ・ ガイ　| 外 (そと) = fora　・　海外りょ行 (かいがいりょこう) = viagem ao exterior | B - 171 |
+| 語 | ゴ | idioma, palavra　・　外国語 (がいこくご) = idioma estrangeiro　・　日本語 (にほんご) = idioma japonês | B - 171 |
+| 長 | なが ・　チョウ　| 長い (ながい) = comprido, longo　・　船長 (せんちょう) = capitão do navio　・　校長 (こうちょう) = diretor da escola | B - 171 |
+| 少 | すこ　・　すく ・ ショウ　| 少し (すこし) = pouco　・　少ない (すくない) = poucos　・　少年 (しょうねん) = jovem | B - 171 |

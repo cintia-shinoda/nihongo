@@ -88,3 +88,4 @@
 | 64 | 10/03/2022 |<ul><li>B - 19</li><li>Test B</li></ul> | <ul><li>ことばの まとめ</li><li>日本語　- B</li></ul>| <ul><li>Revisão das palavras</li><li>Teste de Assimilação B</li></ul> |
 | 65 | 16/03/2022 | C - 1 | ごじゅん | Ordem das palavras |
 | 66 | 24/03/2022 | C - 11 | じょし　１ | Partículas 1 |
+| 67 | 30/03/2022 | C - 21 | じょし　２ | Partículas 2 |

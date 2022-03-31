@@ -82,6 +82,6 @@
 | 広 | ひろ | 広い (ひろい) espaçoso | A - 151 |
 | 古 | ふる | 古い (ふるい) = velho | A - 151 |
 | 店 | みせ | 店 (みせ) loja | A - 161 |
-| 兄 | あに | 兄 (あに) | meu irmão mais velho | A - 161 |
+| 兄 | あに | 兄 (あに) = meu irmão mais velho | A - 161 |
 | 方 | ほう | direção　・　〜の　方が = expressão usada para comparação | A - 171 |
 | 安 | やす | calmo　・　安い (barato) | A - 171 |

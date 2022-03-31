@@ -1,6 +1,6 @@
 # Level C
 
-| ideogram | readings |  | lesson |
+| ideogram | readings | translations | lesson |
 |:---:|:---|:---|:---:|
 | 草 | くさ | くさ = capim | C - 1 |
 | 竹 | たけ | たけ = bambu | C - 1 |
@@ -20,3 +20,9 @@
 | 明 | あか | 明るい (あかるい) = iluminado, claro ・ * 明日　(あした) = amanhã | C - 21 |
 | 細 | ほそ | 細い (ほそい) = fino | C - 21 |
 | 親 | おや　・　シン | 親 (おや) = pais　・　親切 (しんせつ) = atencioso | C - 21 |
+| 新 | あたら　・　シン | 新しい (あたらしい) = novo　・　新ぶん (しんぶん) = jornal | C - 31 |
+| 着 | き ・ つ ・　チャク | 着ます (きます) = vestir　・　着きます (つきます) = chegar | C - 31 |
+| 父 | ちち ・ フ | 父 (ちち) = meu pai　・　そ父 (そふ) = meu avô　・　お父さん (おとうさん) = pai | C - 31 |
+| 自 | ジ | 自どう車 (じどうしゃ) = veículo, carro | C - 31 |
+| 駅 | エキ | 駅 (えき) = estação | C - 31 |
+| 歩 | ある ・ ホ | 歩きます (あるきます) = caminhar　・　さん歩します (さんぽします) = passear | C - 31 |

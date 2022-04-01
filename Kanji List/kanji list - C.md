@@ -4,25 +4,25 @@
 |:---:|:---|:---|:---:|
 | 草 | くさ | くさ = capim | C - 1 |
 | 竹 | たけ | たけ = bambu | C - 1 |
-| 土 | つち　・ 　ド | 土 (つち) = solo, terra ・　土ようび (どようび) = sábado | C - 1 |
+| 土 | <ul><li>つち</li><li>ド</li></ul> | <ul><li>土 (つち) = solo, terra</li><li>土ようび (どようび) = sábado</li></ul> | C - 1 |
 | 虫 | むし | むし = inseto | C - 1 |
 | 村 | むら | むら = vila | C -  1 |
-| 赤 | あか | 赤い (あかい) = vermelho ・ 赤ちゃん (あかちゃん) = bebê | C - 1 |
+| 赤 | あか | <ul><li>赤い (あかい) = vermelho</li><li>赤ちゃん (あかちゃん) = bebê</li></ul> | C - 1 |
 | 始 | はじ | 始まります (はじまります) = começar | C - 11 |
 | 終 | お | 終わります (おわります) = terminar | C - 11 |
-| 山 | やま　・　サン | 山 (やま) = montanha　・　ふじ山 (ふじさん) = Monte Fuji | C -  11 |
-| 歌 | うた ・ カ | 歌います (うたいます) = cantar ・　歌　(うた) = canção　・　歌手　(かしゅ) = cantor | C - 11 |
+| 山 |<ul><li>やま</li><li>サン</li></ul> |<ul><li>山 (やま) = montanha</li><li>ふじ山 (ふじさん) = Monte Fuji</li></ul> | C -  11 |
+| 歌 |<ul><li>うた</li><li>カ</li></ul>| <ul><li>歌います (うたいます) = cantar</li><li>歌　(うた) = canção</li><li>歌手　(かしゅ) = cantor</li></ul> | C - 11 |
 | 英 | エイ | 英語 (えいご) = inglês | C - 11 |
-| 数 | かず　・　スウ | 数学　(すうがく) = matemática | C - 11 |
-| 教 | おし　・　キョウ | 教えます (おしえます) = ensinar　・　教しつ　(きょうしつ) = sala de aula | C - 21 |
-| 答 | こた | 答えます (こたえます) = responder　・　答え (こたえ) = resposta | C - 21 |
-| 入 | い ・　はい　・　ニュウ | 入れます (いれます) = colocar ・　入ります (はいります) = entrar　・　入学 (にゅうがく) = matrícula | C - 21 |
-| 明 | あか | 明るい (あかるい) = iluminado, claro ・ * 明日　(あした) = amanhã | C - 21 |
+| 数 | <ul><li>かず</li><li>スウ</li></ul> | 数学　(すうがく) = matemática | C - 11 |
+| 教 | <ul><li>おし</li><li>キョウ</li></ul> | <ul><li>教えます (おしえます) = ensinar</li><li>教しつ　(きょうしつ) = sala de aula</li></ul> | C - 21 |
+| 答 | こた | <ul><li>答えます (こたえます) = responder</li><li>答え (こたえ) = resposta</li></ul> | C - 21 |
+| 入 | <ul><li>い</li><li>はい</li><li>ニュウ</li></ul> | <ul><li>入れます (いれます) = colocar</li><li>入ります (はいります) = entrar</li><li>入学 (にゅうがく) = matrícula</li></ul> | C - 21 |
+| 明 | あか | <ul><li>明るい (あかるい) = iluminado, claro</li><li>* 明日　(あした) = amanhã</li></ul> | C - 21 |
 | 細 | ほそ | 細い (ほそい) = fino | C - 21 |
-| 親 | おや　・　シン | 親 (おや) = pais　・　親切 (しんせつ) = atencioso | C - 21 |
-| 新 | あたら　・　シン | 新しい (あたらしい) = novo　・　新ぶん (しんぶん) = jornal | C - 31 |
-| 着 | き ・ つ ・　チャク | 着ます (きます) = vestir　・　着きます (つきます) = chegar | C - 31 |
-| 父 | ちち ・ フ | 父 (ちち) = meu pai　・　そ父 (そふ) = meu avô　・　お父さん (おとうさん) = pai | C - 31 |
+| 親 | <ul><li>おや</li><li>シン</li></ul> | <ul><li>親 (おや) = pais</li><li>親切 (しんせつ) = atencioso</li></ul> | C - 21 |
+| 新 | <ul><li>あたら</li><li>シン</li></ul> | <ul><li>新しい (あたらしい) = novo</li><li>新ぶん (しんぶん) = jornal</li></ul> | C - 31 |
+| 着 | <ul><li>き</li><li>つ</li><li>チャク</li></ul> | <ul><li>着ます (きます) = vestir</li><li>着きます (つきます) = chegar</li></ul> | C - 31 |
+| 父 | <ul><li>ちち</li><li>フ</li></ul> | <ul><li>父 (ちち) = meu pai</li><li>そ父 (そふ) = meu avô</li><li>お父さん (おとうさん) = pai</li></ul> | C - 31 |
 | 自 | ジ | 自どう車 (じどうしゃ) = veículo, carro | C - 31 |
 | 駅 | エキ | 駅 (えき) = estação | C - 31 |
-| 歩 | ある ・ ホ | 歩きます (あるきます) = caminhar　・　さん歩します (さんぽします) = passear | C - 31 |
+| 歩 | <ul><li>ある</li><li>ホ</li></ul> | <ul><li>歩きます (あるきます) = caminhar</li><li>さん歩します (さんぽします) = passear</li></ul> | C - 31 |

@@ -55,33 +55,33 @@
 | 八百 | はっぴゃく | 800 | A - 11 |
 | 九百 | きゅうひゃく | 900 | A - 11 |
 | 千 | せん | 1000 | A - 11 |
-| 小 | しょう | pequeno　・　小がくせい (しょうがくせい) = estudante de ensino fundamental - 1o. a 6o. ano | A - 21 |
-| 本 | ほん | origem　・　本 (ほん) = livro | A - 21 |
-| 先 | せん | anterior　・　先せい (せんせい) = professor　| A - 31 |
+| 小 | しょう | <ul><li>pequeno</li><li>小がくせい (しょうがくせい) = estudante de ensino fundamental - 1o. a 6o. ano</li></ul> | A - 21 |
+| 本 | ほん | <ul><li>origem</li><li>本 (ほん) = livro</li></ul> | A - 21 |
+| 先 | せん | <ul><li>anterior</li><li>先せい (せんせい) = professor</li></ul>　| A - 31 |
 | 友 | とも | 友だち (ともだち) = amigo| A - 31 |
 | 犬 | いぬ | 犬 (いぬ) = cachorro | A - 41 |
-| 白 | はく | branco　・　白さい (はくさい) = acelga | A - 41 |
-| 生 | せい | estar vivo (vida)　・　先生 (せんせい) professor | A - 51 |
+| 白 | はく | <ul><li>branco</li><li>白さい (はくさい) = acelga</li></ul> | A - 41 |
+| 生 | せい | <ul><li>estar vivo (vida)</li><li>先生 (せんせい) professor</li></ul> | A - 51 |
 | 牛 | うし | 牛 (うし) = boi / vaca | A - 51 |
 | 父 | ちち | 父 (ちち) = meu pai | A - 61 |
 | 花 | はな | 花 (はな) = flor | A - 61 |
-| 赤 | あか | vermelho　・　赤ちゃん (あかちゃん) = bebê | A - 71 |
-| 子 | こ | filho　・　子ども (こども) = criança | A - 71 |
-| 車 | しゃ | veículo sobre rodas　・　でん車 (でんしゃ) = trem | A - 81 |
-| 母 | はは | mãe　・　母 (はは) minha mãe | A - 81 |
-| 学 | がく　・　がっ | aprender/estudar　・　学こう (がこう) = escola | A - 91 |
-| 大 | だい | grande　・　大学 (だいがく)  universidade| A - 91 |
-| 雨 | あめ | chuva　・　雨 (あめ) chuva | A - 101 |
+| 赤 | あか | <ul><li>vermelho</li><li>赤ちゃん (あかちゃん) = bebê</li></ul> | A - 71 |
+| 子 | こ | <ul><li>filho</li><li>子ども (こども) = criança</li></ul> | A - 71 |
+| 車 | しゃ | <ul><li>veículo sobre rodas</li><li>でん車 (でんしゃ) = trem</li></ul> | A - 81 |
+| 母 | はは | <ul><li>mãe</li><li>母 (はは) minha mãe</li></ul> | A - 81 |
+| 学 | <ul><li>がく</li><li>がっ</li></ul> | <ul><li>aprender/estudar</li><li>学こう (がこう) = escola</li></ul> | A - 91 |
+| 大 | だい | <ul><li>grande</li><li>大学 (だいがく) universidade</li></ul>| A - 91 |
+| 雨 | あめ | 雨 (あめ) chuva | A - 101 |
 | 入 | い | 入れます (いれます) colocar, inserir | A - 101 |
 | 校 | こう | 学校 (がっこう) = escola | A - 111 |
 | 見 | み | 見ます (みます) ver, assistir | A - 111 |
 | 青 | あお | 青い (あおい) = azul | A - 131 |
-| 名 | めい | nome　・　ゆう名な (ゆうめいな) = famoso | A - 131 |
+| 名 | めい | <ul><li>nome</li><li>ゆう名な (ゆうめいな) = famoso</li></ul> | A - 131 |
 | 高 | たか | 高い　(たかい) = alto | A - 141 |
-| 切 | せつ | cortar　・　しん切 (しんせつ) = atencioso | A - 141 |
+| 切 | せつ | <ul><li>cortar</li><li>しん切 (しんせつ) = atencioso</li></ul> | A - 141 |
 | 広 | ひろ | 広い (ひろい) espaçoso | A - 151 |
 | 古 | ふる | 古い (ふるい) = velho | A - 151 |
 | 店 | みせ | 店 (みせ) loja | A - 161 |
 | 兄 | あに | 兄 (あに) = meu irmão mais velho | A - 161 |
-| 方 | ほう | direção　・　〜の　方が = expressão usada para comparação | A - 171 |
-| 安 | やす | calmo　・　安い (barato) | A - 171 |
+| 方 | ほう | <ul><li>direção</li><li>〜の　方が = expressão usada para comparação</li></ul> | A - 171 |
+| 安 | やす | <ul><li>calmo</li><li>安い (barato)</li></ul> | A - 171 |

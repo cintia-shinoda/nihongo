@@ -26,3 +26,9 @@
 | 自 | ジ | 自どう車 (じどうしゃ) = veículo, carro | C - 31 |
 | 駅 | エキ | 駅 (えき) = estação | C - 31 |
 | 歩 | <ul><li>ある</li><li>ホ</li></ul> | <ul><li>歩きます (あるきます) = caminhar</li><li>さん歩します (さんぽします) = passear</li></ul> | C - 31 |
+| 近　| ちか | 近く (ちかく) = perto | C - 41 |
+| 週 | シュウ | 一週間 (いっしゅうかん) = uma semana | C - 41 |
+| 読 | <ul><li>よ</li><li>ドク</li></ul> | <ul><li>読みます (よみます) = ler</li><li>読書 (どくしょ) = leitura</li></ul> | C - 41 |
+| 通 | <ul><li>かよ</li><li>とお</li></ul> | <ul><li>通います (かよいます) = frequentar</li><li>通ります (とおります) = passar</li></ul> | C - 41 |
+| 弟 | おとうと | 弟 (おとうと) = meu irmão mais novo | C - 41 |
+| 着 | <ul><li>つ</li><li>き</li></ul> | <ul><li>着きます (つきます) = chegar</li><li>着ます (きます) = vestir</li></ul> | C - 41 |

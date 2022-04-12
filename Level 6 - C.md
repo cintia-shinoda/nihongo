@@ -38,3 +38,6 @@
 
 
 ## Usos de ```に```
+- indica o tempo ou o lugar
+- indica a frequência ou a proporção
+- indica o destino/direção/lugar a que se dirige/ponto de chegada de uma ação

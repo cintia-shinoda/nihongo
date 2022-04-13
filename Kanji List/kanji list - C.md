@@ -32,3 +32,9 @@
 | 通 | <ul><li>かよ</li><li>とお</li></ul> | <ul><li>通います (かよいます) = frequentar</li><li>通ります (とおります) = passar</li></ul> | C - 41 |
 | 弟 | おとうと | 弟 (おとうと) = meu irmão mais novo | C - 41 |
 | 着 | <ul><li>つ</li><li>き</li></ul> | <ul><li>着きます (つきます) = chegar</li><li>着ます (きます) = vestir</li></ul> | C - 41 |
+| 会 | <ul><li>あ</li><li>カイ</li></ul> | <ul><li>会います (あいます) = encontrar</li><li>会しゃ (かいしゃ) = empresa</li></ul>  | C - 51 |
+| 絵 | エ | 絵 (え) = pintura | C - 51 |
+| 母 | <ul><li>はは</li><li>ボ</li></ul> | <ul><li>母 (はは) = minha mãe</li><li>そ母 (そぼ) = minha avó</li><li>お母さん (おかあさん) = mãe</li><ul> | C - 51 |
+| 春 | はる | 春 (はる) = primavera | C - 51 |
+| 才 | サイ | <ul><li>anos (idade)</li><li>十三才 (じゅうさんさい) = treze anos</li></ul> | C - 51 |
+| 来 | <ul><li>き</li><li>ライ</li></ul> | <ul><li>来ます (きます) = vir</li><li>来年 (らいねん) = próximo ano</li></ul> | C - 51 |

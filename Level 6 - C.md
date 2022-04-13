@@ -41,3 +41,28 @@
 - indica o tempo ou o lugar
 - indica a frequência ou a proporção
 - indica o destino/direção/lugar a que se dirige/ponto de chegada de uma ação
+- indica a pessoa que é o alvo de uma ação
+- indica a pessoa que dá ou ensina algo
+- indica o resultado de uma mudança
+<br><br><br>
+
+
+## Expressões que indicam idade
+
+|   |   |   |
+|:---:|:---:|:---:|
+| 一才 | いっさい | 1 |
+| 二才 | にさい | 2 |
+| 三才 | さんさい | 3 |
+| 四才 | よんさい | 4 |
+| 五才 | ごさい | 5 |
+| 六才 | ろくさい | 6 |
+| 七才 | ななさい | 7 |
+| 八才 | はっさい | 8 |
+| 九才 | きゅうさい | 9 |
+| 十才 | じゅっさい | 10 |
+| 十一才 | じゅういっさい | 11 |
+| 二十才 | にじゅっさい | 20 |
+| 二十一才 | にじゅういっさい | 21 |
+| 三十才 | さんじゅっさい | 30 |
+| 四十才 | よんじゅっさい  | 40 |

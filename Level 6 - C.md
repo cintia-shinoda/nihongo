@@ -72,12 +72,14 @@
 
 
 ## Usos de ```の```
+- indica grupo ou posse / qualidade atribuída (modificador)
 
 <br><br><br>
 
 
 
 ## Usos de ```と```
-
-
+- é usado para ligar dois substantivos
+- indica a pessoa com quem se realiza uma ação.
+- acrescentado aos substantivos, indica o critério de comparação
 <br><br><br>

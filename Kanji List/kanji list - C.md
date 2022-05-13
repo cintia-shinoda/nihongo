@@ -44,9 +44,9 @@
 | 食事 | ジ | 食事 (しょくじ) = refeição | C - 61 |
 | 楽 | <ul><li>たの</li><li>ガク</li></ul> | <ul><li>楽しい (たのしい) = divertido</li><li>おん楽 (おんがく) = música</li></ul> | C - 61 |
 | 友 | <ul><li>とも</li><li>ユウ</li></ul> | <ul><li>友だち (ともだち) = amigo</li><li>親友 (しんゆう) = amigo íntimo</li></ul> | C - 61 |
-| 待 |  | 待ちます | C - 71 |
-| 美 |  |  | C - 71 |
-| 間 |  |  | C - 71 |
-| 病 |  | 病気 | C - 71 |
-| 院 |  |  | C - 71 |
-| 電 |  | 電車 | C - 71 |
+| 待 |  | 待ちます () = esperar | C - 71 |
+| 美 |  | <ul><li>lindo</li><li>  () = museu de artes</li></ul> | C - 71 |
+| 間 | <ul><li></li><li></li></ul> | <ul><li>  () = sala de estar</li><li>  () = durante (o intervalo)</li><li>  () = horário</li></ul> | C - 71 |
+| 病 |  | 病気 () = doença | C - 71 |
+| 院 |  | <ul><li>instituto</li><li>  () = hospital</li></ul> | C - 71 |
+| 電 |  | 電車 () = trem | C - 71 |

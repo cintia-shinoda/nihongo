@@ -83,3 +83,11 @@
 - indica a pessoa com quem se realiza uma ação.
 - acrescentado aos substantivos, indica o critério de comparação
 <br><br><br>
+
+
+
+## Usos de ```で```
+- indica o lugar onde ocorre uma ação
+- indica o meio ou o método
+- indica a causa ou o motivo
+<br><br><br>

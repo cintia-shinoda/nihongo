@@ -41,7 +41,7 @@
 | 話 | <ul><li>はな</li><li>ワ</li></ul> | <ul><li>話します (はなします) = falar</li><li>電話 (でんわ) = telefone</li></ul> | C - 61 |
 | 姉 | <ul><li>あね</li><li>シ</li></ul> | <ul><li>姉 (あね) = minha irmã mais velha</li><li>姉妹 (しまい) = irmãs</li></ul> | C - 61 |
 | 名 | <ul><li>な</li><li>メイ</li></ul> | <ul><li>名前 (なまえ) = nome</li><li>有名 (ゆうめい) = famoso</li></ul> | C - 61 |
-| 食事 | ジ | 食事 (しょくじ) = refeição | C - 61 |
+| 食 | ジ | 食事 (しょくじ) = refeição | C - 61 |
 | 楽 | <ul><li>たの</li><li>ガク</li></ul> | <ul><li>楽しい (たのしい) = divertido</li><li>おん楽 (おんがく) = música</li></ul> | C - 61 |
 | 友 | <ul><li>とも</li><li>ユウ</li></ul> | <ul><li>友だち (ともだち) = amigo</li><li>親友 (しんゆう) = amigo íntimo</li></ul> | C - 61 |
 | 待 | ま | 待ちます (まちます) = esperar | C - 71 |

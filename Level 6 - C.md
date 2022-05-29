@@ -91,3 +91,6 @@
 - indica o meio ou o método
 - indica a causa ou o motivo
 <br><br><br>
+
+
+## ```から```

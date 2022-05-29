@@ -50,3 +50,9 @@
 | 病 | ビョウ | 病気 (びょうき) = doença | C - 71 |
 | 院 | イン | <ul><li>instituto</li><li> 病院 (びょういん) = hospital</li></ul> | C - 71 |
 | 電 | デン | 電車 (でんしゃ) = trem | C - 71 |
+| 乗 | の | 乗ります (のります) = pegar, subir (meio de transporte) | C - 81 |
+| 風 | <ul><li>かぜ</li><li>フウ</li></ul> | <ul><li> 風 (かぜ) = vento</li><li> たい風 (たいふう) = tufão</li></ul> | C - 81 |
+| 後 | <ul><li>うし</li><li>あと</li><li>ご</li></ul> | <ul><li> 後ろ (うしろ) = atrás</li><li>後で (あとで) = depois</li><li>ご後 (ごご) = tarde (depois do meio-dia)</li></ul> | C - 81 |
+| 道 | <ul><li>みち</li><li>どう</li></ul> | <ul><li>道 (みち) = estrada, caminho</li><li>北海道 (ほっかいどう) = Hokkaido</li></ul> | C - 81 |
+| 夜 | よる | 夜 (よる) = noite | C - 81 |
+| 東 | <ul><li>ひがし</li><li>トウ</li></ul> | <ul><li>東 (ひがし) = leste</li><li>東きょう (とうきょう) = Tóquio</li></ul> | C - 81 |

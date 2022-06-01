@@ -49,7 +49,7 @@
 | 走 | <ul><li>はし</li><li>ソウ</li></ul> | <ul><li>走ります (はしります) = correr</li><li>走 (そう) = corrida</li></ul> | B - 101 |
 | 読 | <ul><li>よ</li><li>ドク</li></ul> | <ul><li>読みます (よみます) = ler</li><li>読書 (どくしょ) = leitura</li></ul> | B - 101 |
 | 文 | <ul><li>ブン</li><li>モン</li></ul> |  <ul><li>frase</li><li>文か (ぶんか) = cultura</li><li>作文 (さくぶん) = redação</li><li>ちゅう文します (ちゅうもんします) = pedir</li></ul> | B - 101 |
-| 字 | ジ | <ul><li>scrita, letra</li><li>かん字 (かんじ) = kanji</li><li>すう字 (すうじ) = número</li></ul> | B - 101 |	
+| 字 | ジ | <ul><li>escrita, letra</li><li>かん字 (かんじ) = kanji</li><li>すう字 (すうじ) = número</li></ul> | B - 101 |	
 | 男 | <ul><li>おとこ</li><li>ダン</li></ul> | <ul><li>homem</li><li>男の子 (おとこのこ) = menino</li><li>男せいよう (だんせいよう) = masculino</li></ul> | B - 101 |
 | 女 | <ul><li>おんな</li><li>ジョ</li></ul> | <ul><li>女の人 (おんなのひと) = mulher</li><li>女せいよう (じょせいよう) = feminino</li></ul> | B - 101 |
 | 妹 | <ul><li>いもうと</li><li>マイ</li></ul> | <ul><li>妹 (いもうと) = irmã mais nova</li><li>し妹 (しまい) = irmãs</li></ul> | B - 101 |

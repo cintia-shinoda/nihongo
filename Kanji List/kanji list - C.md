@@ -56,3 +56,9 @@
 | 道 | <ul><li>みち</li><li>どう</li></ul> | <ul><li>道 (みち) = estrada, caminho</li><li>北海道 (ほっかいどう) = Hokkaido</li></ul> | C - 81 |
 | 夜 | よる | 夜 (よる) = noite | C - 81 |
 | 東 | <ul><li>ひがし</li><li>トウ</li></ul> | <ul><li>東 (ひがし) = leste</li><li>東きょう (とうきょう) = Tóquio</li></ul> | C - 81 |
+|  |  |  | C - 91 |
+|  |  |  | C - 91 |
+|  |  |  | C - 91 |
+|  |  |  | C - 91 |
+|  |  |  | C - 91 |
+|  |  |  | C - 91 |

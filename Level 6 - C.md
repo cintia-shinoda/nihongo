@@ -94,3 +94,24 @@
 
 
 ## ```から```
+- indica o ponto de início de uma ação
+- indica o momento de início de uma ação
+<br><br>
+
+
+## ```まで```
+- indica a extensão ou o limite de uma ação. Pode ser usado tanto para tempo como para lugar
+- é frequentemente usado como "~から ~まで"
+<br><br>
+
+
+## ```も```
+<br><br>
+
+
+## ```より```
+<br><br>
+
+
+## ```や```
+<br><br>

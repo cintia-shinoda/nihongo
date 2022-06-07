@@ -106,12 +106,18 @@
 
 
 ## ```も```
+- indica repetição de uma ação (também)
+- é usado para enumerar dois ou mais substantivos
+- é usado para indicar negação de dois ou mais adjetivos seguidos
 <br><br>
 
 
 ## ```より```
+- é usado para comparar dois objetos
+- há casos em que se usa a expressão
 <br><br>
 
 
 ## ```や```
+- é usado para enumerar dois ou mais substantivos
 <br><br>

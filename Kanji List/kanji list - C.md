@@ -56,9 +56,9 @@
 | 道 | <ul><li>みち</li><li>どう</li></ul> | <ul><li>道 (みち) = estrada, caminho</li><li>北海道 (ほっかいどう) = Hokkaido</li></ul> | C - 81 |
 | 夜 | よる | 夜 (よる) = noite | C - 81 |
 | 東 | <ul><li>ひがし</li><li>トウ</li></ul> | <ul><li>東 (ひがし) = leste</li><li>東きょう (とうきょう) = Tóquio</li></ul> | C - 81 |
-|  |  |  | C - 91 |
-|  |  |  | C - 91 |
-|  |  |  | C - 91 |
-|  |  |  | C - 91 |
-|  |  |  | C - 91 |
-|  |  |  | C - 91 |
+| 旅 | リョ | 旅行 (りょこう) = viagem | C - 91 |
+| 音 | オン | 音楽 (おんがく) = música | C - 91 |
+| 年 | <ul><li>とし</li><li>ネン</li></ul> | <ul><li>まい年 (まいとし) = todos os anos</li><li>去年 (きょねん) = ano passado</li></ul> | C - 91 |
+| 秋 | あき | 秋 (あき) = outono | C - 91 |
+| 冬 | ふゆ | 冬 (ふゆ) = inverno | C - 91 |
+| 今 | <ul><li>いま</li><li>コン</li></ul>| <ul><li>今 (いま) = agora</li><li>今月 (こんげつ) = este mês</li><li>今年(ことし) = este ano</li></ul> | C - 91 |

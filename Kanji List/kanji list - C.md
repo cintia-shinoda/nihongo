@@ -62,3 +62,9 @@
 | 秋 | あき | 秋 (あき) = outono | C - 91 |
 | 冬 | ふゆ | 冬 (ふゆ) = inverno | C - 91 |
 | 今 | <ul><li>いま</li><li>コン</li></ul>| <ul><li>今 (いま) = agora</li><li>今月 (こんげつ) = este mês</li><li>今年(ことし) = este ano</li></ul> | C - 91 |
+| 銀 | ギン | 銀行 () = banco | C - 101 |
+| 教 | シツ | <ul><li>quarto</li><li>教室 (きょうしつ) = sala de aula</li></ul> | C - 101 |
+| 教 | <ul><li>おし</li><li>キョウ</li></ul> | <ul><li>教えます (おしえます) = ensinar</li><li>教会 (きょうかい) = igreja</li></ul> | C - 101 |
+| 紙 | かみ | <ul><li>papel</li><li>手紙 (てがみ) = carta</li></ul> | C - 101 |
+| 社 | シャ | <ul><li>empresa</li><li>社長 (しゃちょう) = presidente (de uma empresa)</li></ul> | C - 101 |
+| 話 | <ul><li>はな</li><li>ワ</li></ul> | <ul><li>話します (はなします) = falar, conversar</li><li>電話 (でんわ) = telefone</li></ul> | C - 101 |

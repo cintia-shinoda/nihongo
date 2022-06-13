@@ -121,3 +121,14 @@
 ## ```や```
 - é usado para enumerar dois ou mais substantivos
 <br><br>
+
+
+## ```partícula + は```
+- は é usada para enfatizar a diferença e pode ser combinada com outras partículas
+- combinações: には, からは, とは, よりは, までは
+<br><br>
+
+
+## ```partícula + も````
+- も é usada para indicar repetição e pode ser combinada com outras partículas. significa "também"
+- combinações: にも, からも, とも, でも

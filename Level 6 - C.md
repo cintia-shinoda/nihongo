@@ -132,3 +132,16 @@
 ## ```partícula + も````
 - も é usada para indicar repetição e pode ser combinada com outras partículas. significa "também"
 - combinações: にも, からも, とも, でも
+
+
+## Histórias 1: 音楽会
+日よう日に　田中さんと　高木さんは　音楽会に　行きました。
+
+有名な　ピアニストが　ショパンの　きょくを　えんそうします。
+
+えんそうは　六時はんに　始まります。
+
+Concerto musical
+No domingo, Tanaka-san e Takagi-san foram ao concerto musical.
+Uma pianista famosa apresenta uma música de Chopin.
+A apresentação começa às seis e meia.

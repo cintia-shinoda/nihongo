@@ -134,14 +134,56 @@
 - combinações: にも, からも, とも, でも
 
 
-## Histórias 1: 音楽会
+## ストーリー　１ - Histórias 1
+### 音楽会
+### Concerto musical
 日よう日に　田中さんと　高木さんは　音楽会に　行きました。
+No domingo, Tanaka-san e Takagi-san foram ao concerto musical.
+<br>
 
 有名な　ピアニストが　ショパンの　きょくを　えんそうします。
+Uma pianista famosa apresenta uma música de Chopin.
+<br>
 
 えんそうは　六時はんに　始まります。
-
-Concerto musical
-No domingo, Tanaka-san e Takagi-san foram ao concerto musical.
-Uma pianista famosa apresenta uma música de Chopin.
 A apresentação começa às seis e meia.
+<br><br>
+
+
+二人は ご後　六時に　国立げきじょうの　入り口で　待ちあわせました。
+Os dois marcaram para se encontrar às seis horas da tarde a entrada do Teatro Nacional.
+<br>
+
+でも、高木さんが　なかなか　来ません。
+Mas, Takagi-san custa a chegar.
+<br>
+
+" 田中さん、 ごめんなさい。
+"Tanaka-san, me desculpe.
+
+こうつうじゅうたいで　おくれました。"
+Atrasei-me por causa do congestionamento no trânsito."
+<br><br>
+
+
+二人は　げきじょうの　中に　入りました。
+Os dois entraram no teatro.
+<br>
+
+中は　とても　広かったです。
+Dentro era muito amplo.
+<br>
+
+二人の　せきは　後ろの　方でした。
+O assento dos dois ficava na parte de trás.
+<br>
+
+ピアニストが　とうじょうしました。
+A pianista apareceu (no palco).
+<br>
+
+えんそうが　始まりました。
+A apresentação começou.
+<br><br>
+
+

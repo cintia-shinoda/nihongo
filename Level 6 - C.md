@@ -187,3 +187,24 @@ A apresentação começou.
 <br><br>
 
 
+とても　すばらしい　えんそうでした。
+Foi uma apresentação maravilhosa.
+<br>
+
+かんきゃくは　大きな　はく手を　おくりました。
+A plateia aplaudiu fortemente.
+<br>
+
+ぜんぶで　五つの　きゃくを　ひきました。
+(Ela) tocou cinco músicas no total.
+<br>
+
+音楽会は　八時に　終わりました。
+O concerto musical terminou às oito horas.
+<br><br><br>
+
+
+
+### お花見
+### Apreciação das flores de cerejeira
+

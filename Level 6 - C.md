@@ -207,4 +207,21 @@ O concerto musical terminou às oito horas.
 
 ### お花見
 ### Apreciação das flores de cerejeira
+春に　なりました。
+A primavera chegou.
+<br>
 
+さくらの　花が　さきました。
+As flores de cerejeira desabrocharam.
+<br>
+
+日本では　春に　よく　お花見を　します。
+No Japão, é comum na primavera apreciarmos as flores de cerejeira.
+
+さくらの　木の　下で　おべんとうを　食べます。
+Comemos lanche debaixo das cerejeiras.
+<br>
+
+おとなたちは　おさけも　飲みます。
+Os adultos bebem também bebidas alcoólicas.
+<br><br>

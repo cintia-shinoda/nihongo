@@ -225,3 +225,16 @@ Comemos lanche debaixo das cerejeiras.
 おとなたちは　おさけも　飲みます。
 Os adultos bebem também bebidas alcoólicas.
 <br><br>
+
+
+山田さんは　木村さんと　うえのこうえんに　行きました。
+Yamada-san foi ao Parque Ueno com Kimura-san.
+<br>
+
+うえのこうえんは　お花見の　名しょです。
+O Parque Ueno é um local famoso pela apreciação das flores de cerejeira.
+<br>
+
+ご後　五時、こうえんには　すでに　たくさんの　人が　います。
+Às cinco horas da tarde, no parque já há muitas pessoas.
+<br><br>

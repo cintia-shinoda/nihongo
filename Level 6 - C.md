@@ -238,3 +238,22 @@ O Parque Ueno é um local famoso pela apreciação das flores de cerejeira.
 ご後　五時、こうえんには　すでに　たくさんの　人が　います。
 Às cinco horas da tarde, no parque já há muitas pessoas.
 <br><br>
+
+
+二人は　ばい店で　おべんとうと　おちゃを　買いました。
+Os dois compraram lanche e chá no quiosque.
+<br>
+
+さくらの　木の　下に　シートを　しきました。
+Estenderam uma lona debaixo da cerejeira.
+<br>
+
+そして　シートの　上に　すわりました。
+E se sentaram sobre a lona.
+<br>
+
+夜に　なりました。
+A noite chegou.
+<br><br>
+
+

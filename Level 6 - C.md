@@ -257,3 +257,17 @@ A noite chegou.
 <br><br>
 
 
+となりでは　男の人たちが　おさけを　飲みます。
+Ao lado, os homens bebem bebidas alcoólicas.
+<br>
+
+そして　男の人たちは　歌を　歌います。
+E os homens cantam canções.
+<br>
+
+おどりも　おどります。
+Também dançam.
+<br>
+
+こうえんは　とても　にぎやかです。
+O parque está muito animado.

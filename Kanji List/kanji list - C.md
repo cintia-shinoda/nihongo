@@ -68,8 +68,8 @@
 | 紙 | かみ | <ul><li>papel</li><li>手紙 (てがみ) = carta</li></ul> | C - 101 |
 | 社 | シャ | <ul><li>empresa</li><li>社長 (しゃちょう) = presidente (de uma empresa)</li></ul> | C - 101 |
 | 話 | <ul><li>はな</li><li>ワ</li></ul> | <ul><li>話します (はなします) = falar, conversar</li><li>電話 (でんわ) = telefone</li></ul> | C - 101 |
-| 京 | キョウ | 東京 (とうきょう) = Tóquio | C - 121 |
-|  |  |  | C - 121 |
+| 京 | キョウ | <ul><li>capital</li><li>東京 (とうきょう) = Tóquio</li></ul> | C - 121 |
+| 港 | コウ | <ul><li>porto</li><li>空港 (くうこう) = aeroporto</li></ul> | C - 121 |
 |  |  |  | C - 121 |
 |  |  |  | C - 121 |
 |  |  |  | C - 121 |

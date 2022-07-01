@@ -70,10 +70,10 @@
 | 話 | <ul><li>はな</li><li>ワ</li></ul> | <ul><li>話します (はなします) = falar, conversar</li><li>電話 (でんわ) = telefone</li></ul> | C - 101 |
 | 京 | キョウ | <ul><li>capital</li><li>東京 (とうきょう) = Tóquio</li></ul> | C - 121 |
 | 港 | コウ | <ul><li>porto</li><li>空港 (くうこう) = aeroporto</li></ul> | C - 121 |
-|  |  |  | C - 121 |
-|  |  |  | C - 121 |
-|  |  |  | C - 121 |
-|  |  |  | C - 121 |
+| 行 | <ul><li>**ゆ**き</li><li>**い**きます</li><li>コウ</li></ul> |  <ul><li>京と行き (きょうとゆき) = destino/direção a Quioto</li><li>行きます (いきます) = ir</li><li>旅行 (りょこう) = viagem</li></ul> | C - 121 |
+| 服 | フク | 服 (ふく) = roupa | C - 121 |
+| 止 | <ul><li>**と**まります</li><li>シ</li><ul> | <ul><li>止まります (とまります) = parar</li><li>中止に　なります (ちゅうしに なります) = ser cancelado</li><ul> | C - 121 |
+| 方 | <ul><li>かた</li><li>ホウ</li></ul> | <ul><li>どの 方 (どの かた) = qual pessoa</li><li>西の　方 (にしの ほう) = sentido oeste</li></ul> | C - 121 |
 |  |  |  | C - 131 |
 |  |  |  | C - 131 |
 |  |  |  | C - 131 |

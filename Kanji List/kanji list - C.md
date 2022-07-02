@@ -74,9 +74,9 @@
 | 服 | フク | 服 (ふく) = roupa | C - 121 |
 | 止 | <ul><li>**と**まります</li><li>シ</li><ul> | <ul><li>止まります (とまります) = parar</li><li>中止に　なります (ちゅうしに なります) = ser cancelado</li><ul> | C - 121 |
 | 方 | <ul><li>かた</li><li>ホウ</li></ul> | <ul><li>どの 方 (どの かた) = qual pessoa</li><li>西の　方 (にしの ほう) = sentido oeste</li></ul> | C - 121 |
-|  |  |  | C - 131 |
-|  |  |  | C - 131 |
-|  |  |  | C - 131 |
+| 図 | ト | <ul><li>figura</li><li>図書かん (としょかん) = biblioteca</li></ul> | C - 131 |
+|  | <ul><li></li><li></li></ul> | <ul><li>vender</li><li> () = seção de vendas</li><li> () = loja, quiosque, banca, barraca</li></ul> | C - 131 |
+|  | <ul><li></li><li></li></ul> | <ul><li> () = longe</li><li> () = excursão</li></ul> | C - 131 |
 |  |  |  | C - 131 |
 |  |  |  | C - 131 |
 |  |  |  | C - 131 |

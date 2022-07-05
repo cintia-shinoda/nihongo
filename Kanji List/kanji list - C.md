@@ -77,6 +77,6 @@
 | 図 | ト | <ul><li>figura</li><li>図書かん (としょかん) = biblioteca</li></ul> | C - 131 |
 | 売 | <ul><li>う</li><li>バイ</li></ul> | <ul><li>売ります (うります) = vender</li><li>売りば (うりば) = seção de vendas</li><li>売店 (ばいてん) = loja, quiosque, banca, barraca</li></ul> | C - 131 |
 | 遠 | <ul><li>とお</li><li>エン</li></ul> | <ul><li>遠い (とおい) = longe</li><li>遠足 (えんそく) = excursão</li></ul> | C - 131 |
-|  |  |  | C - 131 |
+| 勉 | ベン | 勉強 (べんきょう) = estudo | C - 131 |
 |  |  |  | C - 131 |
 |  |  |  | C - 131 |

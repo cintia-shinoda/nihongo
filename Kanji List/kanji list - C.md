@@ -79,4 +79,4 @@
 | 遠 | <ul><li>とお</li><li>エン</li></ul> | <ul><li>遠い (とおい) = longe</li><li>遠足 (えんそく) = excursão</li></ul> | C - 131 |
 | 勉 | ベン | <ul><li>esforço</li><li>勉強 (べんきょう) = estudo</li></ul> | C - 131 |
 | 強 | キョウ | <ul><li>forte</li><li>勉強 (べんきょう) = estudo</li></ul> | C - 131 |
-|  | <ul><li></li><li></li><li></li></ul> | <ul><li></li><li></li><li></li></ul> | C - 131 |
+| 出 | <ul><li>**で**ます</li><li>**だ**します</li><li>シュッ</li></ul> | <ul><li>出口 (でぐち) = saída</li><li>手紙を 出します (てがみを だします) enviar uma carta</li><li>出ぱつします (しゅっぱつします) = partir</li></ul> | C - 131 |

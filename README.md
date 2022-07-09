@@ -98,5 +98,5 @@
 | 74 | 08/06/2022 | C - 91 | じょし　９ | Partículas 9 |
 | 75 | 15/06/2022 | C - 101 | じょし　１０ | Partículas 10 |
 | 76 | 22/06/2022 | C - 111 | ストーリー　１ | Histórias 1 |
-| 77 | 29/06/2022 | C - 121 | こそあど　１ |  |
+| 77 | 29/06/2022 | C - 121 | こそあど　１ | palavras こそあど se refere ao grupo de palavras formadas por これ, それ, あれ, どれ ou seus derivados. O termo foi criado à partir das iniciais こ,　そ,　あ,　ど |
 | 78 | 06/07/2022 | C - 131 | こそあど　２ |  |

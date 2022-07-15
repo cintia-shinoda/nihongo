@@ -81,5 +81,8 @@
 | 強 | キョウ | <ul><li>forte</li><li>勉強 (べんきょう) = estudo</li></ul> | C - 131 |
 | 出 | <ul><li>**で**ます</li><li>**だ**します</li><li>シュッ</li></ul> | <ul><li>出口 (でぐち) = saída</li><li>手紙を 出します (てがみを だします) enviar uma carta</li><li>出ぱつします (しゅっぱつします) = partir</li></ul> | C - 131 |
 | 聞 | <ul><li>き</li><li>ブン</li></ul> | <ul><li>聞きます (ききます) = ouvir</li><li>新聞 (しんぶん) = jornal</li></ul> | C - 141 |
-|  |  |  | C - 141 |
-|  |  |  | C - 141 |
+| 午 | ゴ | 午後 (ごご) = tarde (após o meio-dia) | C - 141 |
+| 国 | <ul><li>くに</li><li>コク</li><ul> | <ul><li>国 (くに) = país</li><li>外国 (がいこく) = exterior</li><ul> | C - 141 |
+| 形 | <ul><li>かたち</li><li>ギョウ</li></ul> |  <ul><li>形 (かたち) = formato</li><li>人形 (にんぎょう) = boneca</li></ul> | C - 141 |
+| 注 | チュウ | <ul><li>encher</li><li>注文します (ちゅうもんします) = pedir</li></ul> | C - 141 |
+| 文 |  <ul><li>モン</li><li>ブン</li></ul> |  <ul><li> 注文します (ちゅうもんします) = pedir</li><li>作文 (さくぶん) = redação</li></ul> | C - 141 |

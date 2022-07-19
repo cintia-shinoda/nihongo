@@ -86,4 +86,4 @@
 | 形 | <ul><li>かたち</li><li>ギョウ</li></ul> |  <ul><li>形 (かたち) = formato</li><li>人形 (にんぎょう) = boneca</li></ul> | C - 141 |
 | 注 | チュウ | <ul><li>encher</li><li>注文します (ちゅうもんします) = pedir</li></ul> | C - 141 |
 | 文 |  <ul><li>モン</li><li>ブン</li></ul> |  <ul><li> 注文します (ちゅうもんします) = pedir</li><li>作文 (さくぶん) = redação</li></ul> | C - 141 |
-|  |  |  | C - 151 |
+| 肉 | ニク | 牛肉 (ぎゅうにく) = carne de vaca | C - 151 |

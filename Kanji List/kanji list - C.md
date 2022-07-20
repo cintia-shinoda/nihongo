@@ -87,3 +87,4 @@
 | 注 | チュウ | <ul><li>encher</li><li>注文します (ちゅうもんします) = pedir</li></ul> | C - 141 |
 | 文 |  <ul><li>モン</li><li>ブン</li></ul> |  <ul><li> 注文します (ちゅうもんします) = pedir</li><li>作文 (さくぶん) = redação</li></ul> | C - 141 |
 | 肉 | ニク | 牛肉 (ぎゅうにく) = carne de vaca | C - 151 |
+| 屋 | や | <ul><li>loja (indica estabelecimento comercial)</li><li>本屋 (ほんや)) = livraria</li></ul> | C - 151 |

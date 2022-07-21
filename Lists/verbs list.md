@@ -28,3 +28,9 @@
 | 来ます (きます) | vir |
 | 行きます (いきます) | ir |
 | とまります | hospedar-se |
+| します | jogar |
+| おきます | acordar |
+| 手つだいます (てつだいます) | ajudar |
+| 見ます (みます) | assistir |
+| さん歩します (さんぽします) | passear |
+| あそびます | brincar |

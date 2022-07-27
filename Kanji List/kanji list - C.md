@@ -88,3 +88,4 @@
 | 文 |  <ul><li>モン</li><li>ブン</li></ul> |  <ul><li> 注文します (ちゅうもんします) = pedir</li><li>作文 (さくぶん) = redação</li></ul> | C - 141 |
 | 肉 | ニク | 牛肉 (ぎゅうにく) = carne de vaca | C - 151 |
 | 屋 | や | <ul><li>loja (indica estabelecimento comercial)</li><li>本屋 (ほんや)) = livraria</li></ul> | C - 151 |
+| 姉 | <ul><li>あね</li><li>シ</li></ul> | <ul><li>姉 (あね) = minha irmã mais velha</li><li>姉妹 (しまい) = irmãs</li><li>お姉さん (おねえさん) = irmã mais velha</li></ul> | C - 151 |

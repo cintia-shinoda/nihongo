@@ -91,3 +91,4 @@
 | 姉 | <ul><li>あね</li><li>シ</li></ul> | <ul><li>姉 (あね) = minha irmã mais velha</li><li>姉妹 (しまい) = irmãs</li><li>お姉さん (おねえさん) = irmã mais velha</li></ul> | C - 151 |
 | 同 | おな | 同じ (おなじ) = igual, mesmo | C -151 |
 | 半 | ハン | <ul><li>metade</li><li>六時半 (ろくじはん) = seis e meia</li></ul> | C - 151 |
+| 兄 | あに | <ul><li>あに () = meu irmão mais velho</li><li> お兄さん (おにいさん) = irmão mais velho</li></ul> | C - 151 |

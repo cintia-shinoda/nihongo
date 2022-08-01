@@ -271,3 +271,15 @@ Também dançam.
 
 こうえんは　とても　にぎやかです。
 O parque está muito animado.
+<br><br><br>
+
+
+
+## Advérbios que indicam quantidade
+### ```いろいろ``` = vários
+
+### ```たくさん``` = muito (para quantidade)
+
+### ```少し (すこし)``` = pouco
+
+### ```〜しか``` = só

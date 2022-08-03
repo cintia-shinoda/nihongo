@@ -283,3 +283,11 @@ O parque está muito animado.
 ### ```少し (すこし)``` = pouco
 
 ### ```〜しか``` = só
+
+
+## Advérbios que indicam frequência
+### ```いつも``` = sempre
+
+### ```よく``` = com frequência
+
+### ```ときどき``` = às vezes

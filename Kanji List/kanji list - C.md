@@ -93,3 +93,4 @@
 | 半 | ハン | <ul><li>metade</li><li>六時半 (ろくじはん) = seis e meia</li></ul> | C - 151 |
 | 兄 | あに | <ul><li>あに () = meu irmão mais velho</li><li> お兄さん (おにいさん) = irmão mais velho</li></ul> | C - 151 |
 | 短 | みじか | 短い (みじかい) = curto | C - 161 |
+| 早 | はや | 早い (はやい) = cedo | C - 161 |

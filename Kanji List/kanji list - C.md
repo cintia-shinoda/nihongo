@@ -94,3 +94,4 @@
 | 兄 | あに | <ul><li>あに () = meu irmão mais velho</li><li> お兄さん (おにいさん) = irmão mais velho</li></ul> | C - 151 |
 | 短 | みじか | 短い (みじかい) = curto | C - 161 |
 | 早 | はや | 早い (はやい) = cedo | C - 161 |
+| 美 | <ul><li>うつく</li><li>ビ</li></ul> | <ul><li> 美しい (うつくしい) = belo</li><li> 美じゅつかん (びじゅつかん) = museu de artes</li></ul> | C - 161 |

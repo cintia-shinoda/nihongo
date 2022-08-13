@@ -98,3 +98,11 @@
 | 発 | パツ | 出発します (しゅっぱつします) = partir | C - 161 |
 | 全 | ゼン | 全いん (ぜんいん) = todos | C - 161 |
 | 見 | <ul><li>み</li><li>ケン</li></ul> | <ul><li>見ます (みます) = ver</li><li>見学します (けんがくします) = visitar</li></ul> | C - 161 |
+
+
+### C - 171
+
+|   |   |   |
+|---|---|---|
+| 右 | direita | <ul><li>みぎ</li><li>ウ</li><li>コウ</li></ul> | <ul><li>右の　足 (みぎの　あし) = perna direita</li><li>右せつします (うせつします) = virar à direita</li></ul> |
+| 左 | esquerda | <ul><li>ひだり</li><li>サ</li></ul> | <ul><li>左の　耳 (ひだりの みみ) = orelha esquerda</li><li>前後左右 (ぜん, ご, さ, ゆう) = frete, atrás, esquerdo, direito</li></ul> |

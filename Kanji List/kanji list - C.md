@@ -106,3 +106,5 @@
 |---|---|---|
 | 右 | direita | <ul><li>みぎ</li><li>ウ</li><li>コウ</li></ul> | <ul><li>右の　足 (みぎの　あし) = perna direita</li><li>右せつします (うせつします) = virar à direita</li></ul> |
 | 左 | esquerda | <ul><li>ひだり</li><li>サ</li></ul> | <ul><li>左の　耳 (ひだりの みみ) = orelha esquerda</li><li>前後左右 (ぜん, ご, さ, ゆう) = frete, atrás, esquerdo, direito</li></ul> |
+| 生 | viver, nascer | <ul><li>**い**きる</li><li></li><li></li><li></li></ul> |
+<ul><li> () = ser que vive no mar</li><li> () o bebê nasceu</li><li> () = estudante do 3o. ano</li></ul> |

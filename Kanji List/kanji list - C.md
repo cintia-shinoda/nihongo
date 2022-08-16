@@ -107,4 +107,6 @@
 | 右 | direita | <ul><li>みぎ</li><li>ウ</li><li>コウ</li></ul> | <ul><li>右の　足 (みぎの　あし) = perna direita</li><li>右せつします (うせつします) = virar à direita</li></ul> |
 | 左 | esquerda | <ul><li>ひだり</li><li>サ</li></ul> | <ul><li>左の　耳 (ひだりの みみ) = orelha esquerda</li><li>前後左右 (ぜん, ご, さ, ゆう) = frete, atrás, esquerdo, direito</li></ul> |
 | 生 | viver, nascer | <ul><li>**い**きる</li><li>**う**まれる</li><li>セイ</li><li>ジョウ</li></ul> | <ul><li>海の　生きもの (うみの　いきもの) = ser que vive no mar</li><li>赤ちゃんが 生まれました (あかちゃんが うまれました) o bebê nasceu</li><li>三年生 (さんねんせい) = estudante do 3o. ano</li></ul> |
-| 大 | grande | <ul><li></li><li></li><li></li></ul> | <ul><li> () = panda grande</li><li> () = universitário</li><li> () = foto preciosa</li></ul> |
+| 大 | grande | <ul><li>**おお**きい</li><li>ダイ</li><li>タイ</li></ul> | <ul><li>大きな　パンダ (おおきな　パンダ) = panda grande</li><li>大学生 (だいがくせい) = universitário</li><li>大切な しゃしん (たいせつな しゃしん) = foto preciosa</li></ul> |
+|  | som | <ul><li></li><li></li></ul> | <ul><li> () = som estrondoso</li><li> () = música</li></ul> |
+|  | forte | <ul><li></li><li></li></ul> | <ul><li></li><li></li></ul> |

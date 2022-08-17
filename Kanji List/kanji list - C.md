@@ -108,5 +108,7 @@
 | 左 | esquerda | <ul><li>ひだり</li><li>サ</li></ul> | <ul><li>左の　耳 (ひだりの みみ) = orelha esquerda</li><li>前後左右 (ぜん, ご, さ, ゆう) = frete, atrás, esquerdo, direito</li></ul> |
 | 生 | viver, nascer | <ul><li>**い**きる</li><li>**う**まれる</li><li>セイ</li><li>ジョウ</li></ul> | <ul><li>海の　生きもの (うみの　いきもの) = ser que vive no mar</li><li>赤ちゃんが 生まれました (あかちゃんが うまれました) o bebê nasceu</li><li>三年生 (さんねんせい) = estudante do 3o. ano</li></ul> |
 | 大 | grande | <ul><li>**おお**きい</li><li>ダイ</li><li>タイ</li></ul> | <ul><li>大きな　パンダ (おおきな　パンダ) = panda grande</li><li>大学生 (だいがくせい) = universitário</li><li>大切な しゃしん (たいせつな しゃしん) = foto preciosa</li></ul> |
-|  | som | <ul><li></li><li></li></ul> | <ul><li> () = som estrondoso</li><li> () = música</li></ul> |
-|  | forte | <ul><li></li><li></li></ul> | <ul><li></li><li></li></ul> |
+| 音 | som | <ul><li>おと</li><li>オン</li></ul> | <ul><li>大きな　音 (おおきな おと) = som estrondoso</li><li>音楽 (おんがく) = música</li></ul> |
+| 強 | forte | <ul><li>**つよ**い</li><li>キョウ</li></ul> | <ul><li>強い　せん手 (つよい　せんしゅ) = atleta forte</li><li>勉強 (べんきょう) = estudo</li></ul> |
+|  | noite | <ul><li></li><li></li></ul> | <ul><li> () = manhã, tarde e noite</li><li> () = madrugada</li></ul> |
+|  | iluminado | <ul><li></li><li></li></ul> | <ul><li></li><li></li><li></li></ul> |

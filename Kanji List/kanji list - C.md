@@ -110,5 +110,7 @@
 | 大 | grande | <ul><li>**おお**きい</li><li>ダイ</li><li>タイ</li></ul> | <ul><li>大きな　パンダ (おおきな　パンダ) = panda grande</li><li>大学生 (だいがくせい) = universitário</li><li>大切な しゃしん (たいせつな しゃしん) = foto preciosa</li></ul> |
 | 音 | som | <ul><li>おと</li><li>オン</li></ul> | <ul><li>大きな　音 (おおきな おと) = som estrondoso</li><li>音楽 (おんがく) = música</li></ul> |
 | 強 | forte | <ul><li>**つよ**い</li><li>キョウ</li></ul> | <ul><li>強い　せん手 (つよい　せんしゅ) = atleta forte</li><li>勉強 (べんきょう) = estudo</li></ul> |
-|  | noite | <ul><li></li><li></li></ul> | <ul><li> () = manhã, tarde e noite</li><li> () = madrugada</li></ul> |
-|  | iluminado | <ul><li></li><li></li></ul> | <ul><li></li><li></li><li></li></ul> |
+| 夜 | noite | <ul><li>よる</li><li>ヤ</li></ul> | <ul><li>朝と 昼と 夜 (あさ　ひる　よる) = manhã, tarde e noite</li><li>しん夜 (しんや) = madrugada</li></ul> |
+| 明 | iluminado | <ul><li>**あか**るい</li><li>メイ</li></ul> | <ul><li>明るい　月(あかるい　つき) = lua iluminada</li><li>せつ明 (せつめい) = explicação</li><li>明日 (あした) = amanhã</li></ul> |
+|  | figura | <ul><li></li><li></li></ul> | <ul><li> () = mapa</li><li> () = biblioteca</li></ul> |
+|  | porto | <ul><li></li><li></li></ul> | <ul><li> () = porto</li><li> () = aeroporto</li></ul> |

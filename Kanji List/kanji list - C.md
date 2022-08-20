@@ -112,5 +112,7 @@
 | 強 | forte | <ul><li>**つよ**い</li><li>キョウ</li></ul> | <ul><li>強い　せん手 (つよい　せんしゅ) = atleta forte</li><li>勉強 (べんきょう) = estudo</li></ul> |
 | 夜 | noite | <ul><li>よる</li><li>ヤ</li></ul> | <ul><li>朝と 昼と 夜 (あさ　ひる　よる) = manhã, tarde e noite</li><li>しん夜 (しんや) = madrugada</li></ul> |
 | 明 | iluminado | <ul><li>**あか**るい</li><li>メイ</li></ul> | <ul><li>明るい　月(あかるい　つき) = lua iluminada</li><li>せつ明 (せつめい) = explicação</li><li>明日 (あした) = amanhã</li></ul> |
-|  | figura | <ul><li></li><li></li></ul> | <ul><li> () = mapa</li><li> () = biblioteca</li></ul> |
-|  | porto | <ul><li></li><li></li></ul> | <ul><li> () = porto</li><li> () = aeroporto</li></ul> |
+| 図 | figura | <ul><li>ズ</li><li>ト</li></ul> | <ul><li>ち図 (ちず) = mapa</li><li>図書かん (としょかん) = biblioteca</li></ul> |
+| 港 | porto | <ul><li>みなと</li><li>コウ</li></ul> | <ul><li>港 (みなと) = porto</li><li>空港 (くうこう) = aeroporto</li></ul> |
+| 乗 | pegar, subir | <ul><li>のる</li><li>ジョウ</li></ul> | <ul><li>バスに 乗ります。 (バスに　のります) = pego o ônibus</li><li>乗車 (じょうしゃ) = embarque</li></ul> |
+| 着 | vestir, chegar | <ul><li>きる</li><li>つく</li><li>チャク</li></ul> |  <ul><li>ドレスを　着ます (ドレスを　きます) = visto um vestido de gala</li><li>空港に 着きます (くうこうに つきます) = chego ao aeroporto</li><li>何時に とう着しましたか (なんじに　とうちゃくしましたか) = a que horas chegou?</li></ul> |

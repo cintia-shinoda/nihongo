@@ -116,3 +116,7 @@
 | 港 | porto | <ul><li>みなと</li><li>コウ</li></ul> | <ul><li>港 (みなと) = porto</li><li>空港 (くうこう) = aeroporto</li></ul> |
 | 乗 | pegar, subir | <ul><li>のる</li><li>ジョウ</li></ul> | <ul><li>バスに 乗ります。 (バスに　のります) = pego o ônibus</li><li>乗車 (じょうしゃ) = embarque</li></ul> |
 | 着 | vestir, chegar | <ul><li>きる</li><li>つく</li><li>チャク</li></ul> |  <ul><li>ドレスを　着ます (ドレスを　きます) = visto um vestido de gala</li><li>空港に 着きます (くうこうに つきます) = chego ao aeroporto</li><li>何時に とう着しましたか (なんじに　とうちゃくしましたか) = a que horas chegou?</li></ul> |
+| 近 | perto | <ul><li>ちかい</li><li>キン</li></ul> | <ul><li>近くの　本屋 (ちかくの　ほんや) = livraria próxima</li><li>近じょの　病院 (きんじょの　びょういん) = hospital da vizinhança</li></ul> |
+| 通 | frequentar, passar | <ul><li>かよう</li><li>とおる</li><li>ツウ</li></ul> | <ul><li>大学に　通います (だいがくに かよいます) = frequento a universidade</li><li>バスが　通ります (バスが　とおります) = o ônibus passa</li><li>こう通事こ (こうつうじこ) = acidente de trânsito</li></ul> |
+|  | hora, momento | <ul><li></li><li></li></ul> | <ul><li> () = quando está enfermo</li><li> () = quatro horas da tarde</li></ul> |
+|  | fato | <ul><li></li><li></li></ul> | <ul><li></li><li></li></ul> |

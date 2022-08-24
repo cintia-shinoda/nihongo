@@ -118,5 +118,5 @@
 | 着 | vestir, chegar | <ul><li>きる</li><li>つく</li><li>チャク</li></ul> |  <ul><li>ドレスを　着ます (ドレスを　きます) = visto um vestido de gala</li><li>空港に 着きます (くうこうに つきます) = chego ao aeroporto</li><li>何時に とう着しましたか (なんじに　とうちゃくしましたか) = a que horas chegou?</li></ul> |
 | 近 | perto | <ul><li>ちかい</li><li>キン</li></ul> | <ul><li>近くの　本屋 (ちかくの　ほんや) = livraria próxima</li><li>近じょの　病院 (きんじょの　びょういん) = hospital da vizinhança</li></ul> |
 | 通 | frequentar, passar | <ul><li>かよう</li><li>とおる</li><li>ツウ</li></ul> | <ul><li>大学に　通います (だいがくに かよいます) = frequento a universidade</li><li>バスが　通ります (バスが　とおります) = o ônibus passa</li><li>こう通事こ (こうつうじこ) = acidente de trânsito</li></ul> |
-|  | hora, momento | <ul><li></li><li></li></ul> | <ul><li> () = quando está enfermo</li><li> () = quatro horas da tarde</li></ul> |
-|  | fato | <ul><li></li><li></li></ul> | <ul><li></li><li></li></ul> |
+| 時 | hora, momento | <ul><li>とき</li><li>ジ</li></ul> | <ul><li>病気の 時 (びょうきの　とき) = quando está enfermo</li><li>午後 四時 (ごご　よじ) = quatro horas da tarde</li></ul> |
+| 事 | fato | <ul><li>こと</li><li>ジ</li></ul> | <ul><li>父の し事 () = trabalho do meu pai</li><li>食事 (しょくじ) = refeição</li></ul> |

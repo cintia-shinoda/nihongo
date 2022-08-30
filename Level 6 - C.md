@@ -291,3 +291,61 @@ O parque está muito animado.
 ### ```よく``` = com frequência
 
 ### ```ときどき``` = às vezes
+
+
+
+### C - 181 - ストーリー　２
+#### 東京タワー　: Torre de Tóquio
+わたしは　ブラウンさんと　東京タワーに　行きました。
+Eu fui com Brown-san à Torre de Tóquio.
+
+わたしたちは　エレベーターに　乗りました。
+Nós pegamos o elevador
+
+そして、　てんぼうだいで　エレベーターを　おりました。
+E no mirante descemos do elevador.
+
+そこで　ガラスの　まどから　東京の　まちを　見ました。
+Aí olhamosa cidade de Tóquio através da janela de vidro.
+
+
+まず、　北の　方を　見ました。
+Primeiramente, olhamos na direção norte.
+
+そちらは あさ草の　方です。
+Nessa direção é Asakusa.
+
+ブラウンさんは　わたしに　しつもんを　しました。
+Brown-san me fez uma pergunta.
+
+「　スカイツリーは　どっちですか。」
+"Em que direção fica o SKYTREE?"
+
+
+「　スカイツリーは　あっちです。」
+"O SKYTREE fica naquela direção."
+
+「　ああ、あれですか。
+あれは　この　タワーより　高いですか。」
+"Ah, é aquilo.
+Aquilo é mais alto que esta torre?"
+
+「　はい、　日本で　一ばん　高いです。」
+"Sim, é a mais alta do Japão."
+
+
+
+つぎに　南の　方を　見ました。
+Depois olhamos na direção sul.
+
+「 あそこは 港ですか。」
+"Lá é o porto?"
+
+「 そうです。 その そぼに　はしが　あります。」
+"Sim. Há uma ponte próximo daí."
+
+「 海の 上の　はしですね。」
+"É a ponte sobre o mar, certo?"
+
+「 いつも 車が たくさん 走ります。」
+"Sempre passam muitos carros."

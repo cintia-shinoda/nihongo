@@ -349,3 +349,21 @@ Depois olhamos na direção sul.
 
 「 いつも 車が たくさん 走ります。」
 "Sempre passam muitos carros."
+<br><br>
+
+
+#### 買いもの: Compras
+もうすぐ 冬に　なります。
+Em breve chega o inverno.
+
+あき子さんは　デパートに　行きました。
+Akiko-san foi à loja de departamentos.
+
+「　セーターの　売りばは　どちらですか。」
+"Em que direção fica a seção de vendas de suéteres?"
+
+「　あちらです。　」
+"Fica naquela direção."
+
+店いんが　答えました。
+A balconista respondeu.

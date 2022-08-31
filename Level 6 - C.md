@@ -367,3 +367,35 @@ Akiko-san foi à loja de departamentos.
 
 店いんが　答えました。
 A balconista respondeu.
+<br>
+
+売りばには　セーターが　いろいろ　ありました。
+Na seção de vendas, havia vários suéteres.
+
+「　どの　セーターが　おすすめですか。　」
+"Qual suéter (você) recomenda?"
+
+「　この　赤い　セーターです。
+"(Recomendo) este suéter vermelho.
+
+デザインが　新しいです。
+É um modelo novo.
+
+それに　とても　あたたかいです。　」
+Além disso, é muito quentinho."
+<br>
+
+
+"Mas, isto está um pouco grande.
+
+
+Não há um menor?"
+
+
+"Há sim.
+
+
+Aqui está.
+
+
+O provador fica nesta direção.

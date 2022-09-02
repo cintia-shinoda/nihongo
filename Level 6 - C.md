@@ -386,16 +386,31 @@ Além disso, é muito quentinho."
 <br>
 
 
+でも、　これは　ちょっと　大きいです。
 "Mas, isto está um pouco grande.
 
-
+もっと　小さい　ものは　ありませんか。
 Não há um menor?"
 
-
+「　あります。
 "Há sim.
 
-
+こちらです。
 Aqui está.
 
+し着室は　こちらに　あります。」
+O provador fica nesta direção.”
+<br>
 
-O provador fica nesta direção.
+
+
+Akiko-san vestiu o suéter no provador.
+
+
+Gostou muito.
+
+「 」
+"Então, compro isto. Quanto é?"
+
+「 」
+"Muito obrigada. São 5.000 ienes."

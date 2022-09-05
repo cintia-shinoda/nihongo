@@ -5,36 +5,26 @@
 - indica o sujeito da frase
 
 - acompanha informações que indicam ```capacidade/habilidade, gosto ou aversão```
-
-<br><br><br>
+<br><br>
 
 
 ## Usos de ```は```
 - indica o assunto que o falante deseja destacar
-
 - quando a ```informação de tempo ou lugar``` é o assunto da frase
-
 - indica o ```assunto de toda a frase```
-
 - quando tomamos o objeto do verbo como assunto
-
 - pode ser usado para indicar uma informação já conhecida
-
 - pode ser usado para enfatizar a diferença
-
 - enfatiza a informação que o sucede
-<br><br><br>
+<br><br>
 
 
 ## Usos de ```を```
 - indica o objeto direto
-
 - indica o ponto de partida
-
 - indica o luggar onde ocorre a ação
-
 - há casos em que を é omitido
-<br><br><br>
+<br><br>
 
 
 ## Usos de ```に```
@@ -45,6 +35,7 @@
 - indica a pessoa que dá ou ensina algo
 - indica o resultado de uma mudança
 <br><br><br>
+
 
 
 ## Expressões que indicam idade
@@ -73,24 +64,21 @@
 
 ## Usos de ```の```
 - indica grupo ou posse / qualidade atribuída (modificador)
-
-<br><br><br>
-
+<br><br>
 
 
 ## Usos de ```と```
 - é usado para ligar dois substantivos
 - indica a pessoa com quem se realiza uma ação.
 - acrescentado aos substantivos, indica o critério de comparação
-<br><br><br>
-
+<br><br>
 
 
 ## Usos de ```で```
 - indica o lugar onde ocorre uma ação
 - indica o meio ou o método
 - indica a causa ou o motivo
-<br><br><br>
+<br><br>
 
 
 ## ```から```
@@ -132,6 +120,8 @@
 ## ```partícula + も````
 - も é usada para indicar repetição e pode ser combinada com outras partículas. significa "também"
 - combinações: にも, からも, とも, でも
+<br><br><br>
+
 
 
 ## ストーリー　１ - Histórias 1
@@ -201,73 +191,55 @@ A plateia aplaudiu fortemente.
 
 音楽会は　八時に　終わりました。
 O concerto musical terminou às oito horas.
-<br><br><br>
-
+<br><br>
 
 
 ### お花見
 ### Apreciação das flores de cerejeira
 春に　なりました。
 A primavera chegou.
-<br>
 
 さくらの　花が　さきました。
 As flores de cerejeira desabrocharam.
-<br>
 
 日本では　春に　よく　お花見を　します。
 No Japão, é comum na primavera apreciarmos as flores de cerejeira.
 
 さくらの　木の　下で　おべんとうを　食べます。
 Comemos lanche debaixo das cerejeiras.
-<br>
 
 おとなたちは　おさけも　飲みます。
 Os adultos bebem também bebidas alcoólicas.
-<br><br>
-
 
 山田さんは　木村さんと　うえのこうえんに　行きました。
 Yamada-san foi ao Parque Ueno com Kimura-san.
-<br>
 
 うえのこうえんは　お花見の　名しょです。
 O Parque Ueno é um local famoso pela apreciação das flores de cerejeira.
-<br>
 
 ご後　五時、こうえんには　すでに　たくさんの　人が　います。
 Às cinco horas da tarde, no parque já há muitas pessoas.
-<br><br>
-
 
 二人は　ばい店で　おべんとうと　おちゃを　買いました。
 Os dois compraram lanche e chá no quiosque.
-<br>
 
 さくらの　木の　下に　シートを　しきました。
 Estenderam uma lona debaixo da cerejeira.
-<br>
 
 そして　シートの　上に　すわりました。
 E se sentaram sobre a lona.
-<br>
 
 夜に　なりました。
 A noite chegou.
-<br><br>
-
 
 となりでは　男の人たちが　おさけを　飲みます。
 Ao lado, os homens bebem bebidas alcoólicas.
-<br>
 
 そして　男の人たちは　歌を　歌います。
 E os homens cantam canções.
-<br>
 
 おどりも　おどります。
 Também dançam.
-<br>
 
 こうえんは　とても　にぎやかです。
 O parque está muito animado.
@@ -277,20 +249,33 @@ O parque está muito animado.
 
 ## Advérbios que indicam quantidade
 ### ```いろいろ``` = vários
+<br><br>
+
 
 ### ```たくさん``` = muito (para quantidade)
+<br><br>
+
 
 ### ```少し (すこし)``` = pouco
+<br><br>
+
 
 ### ```〜しか``` = só
+<br><br><br>
+
 
 
 ## Advérbios que indicam frequência
 ### ```いつも``` = sempre
+<br><br>
+
 
 ### ```よく``` = com frequência
+<br><br>
+
 
 ### ```ときどき``` = às vezes
+<br><br><br>
 
 
 
@@ -308,7 +293,6 @@ E no mirante descemos do elevador.
 そこで　ガラスの　まどから　東京の　まちを　見ました。
 Aí olhamosa cidade de Tóquio através da janela de vidro.
 
-
 まず、　北の　方を　見ました。
 Primeiramente, olhamos na direção norte.
 
@@ -321,7 +305,6 @@ Brown-san me fez uma pergunta.
 「　スカイツリーは　どっちですか。」
 "Em que direção fica o SKYTREE?"
 
-
 「　スカイツリーは　あっちです。」
 "O SKYTREE fica naquela direção."
 
@@ -332,8 +315,6 @@ Aquilo é mais alto que esta torre?"
 
 「　はい、　日本で　一ばん　高いです。」
 "Sim, é a mais alta do Japão."
-
-
 
 つぎに　南の　方を　見ました。
 Depois olhamos na direção sul.
@@ -367,7 +348,6 @@ Akiko-san foi à loja de departamentos.
 
 店いんが　答えました。
 A balconista respondeu.
-<br>
 
 売りばには　セーターが　いろいろ　ありました。
 Na seção de vendas, havia vários suéteres.
@@ -383,8 +363,6 @@ Na seção de vendas, havia vários suéteres.
 
 それに　とても　あたたかいです。　」
 Além disso, é muito quentinho."
-<br>
-
 
 でも、　これは　ちょっと　大きいです。
 "Mas, isto está um pouco grande.
@@ -400,17 +378,16 @@ Aqui está.
 
 し着室は　こちらに　あります。」
 O provador fica nesta direção.”
-<br>
 
 
-
+あき子さんは　し着室で　セーターを　着ました。
 Akiko-san vestiu o suéter no provador.
 
-
+とても　気に入りました。
 Gostou muito.
 
-「 」
+「 では、　これを　買います。　いくらですか。 」
 "Então, compro isto. Quanto é?"
 
-「 」
+「 ありがとうございます。　五千円です。 」
 "Muito obrigada. São 5.000 ienes."

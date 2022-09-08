@@ -1,4 +1,4 @@
-# Level C
+# Nível C
 
 
 ## Usos de ```が```
@@ -22,7 +22,7 @@
 ## Usos de ```を```
 - indica o objeto direto
 - indica o ponto de partida
-- indica o luggar onde ocorre a ação
+- indica o lugar onde ocorre a ação
 - há casos em que を é omitido
 <br><br>
 
@@ -117,7 +117,7 @@
 <br><br>
 
 
-## ```partícula + も````
+## ```partícula + も```
 - も é usada para indicar repetição e pode ser combinada com outras partículas. significa "também"
 - combinações: にも, からも, とも, でも
 <br><br><br>

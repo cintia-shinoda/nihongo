@@ -85,7 +85,7 @@
 | 61 | 09/02/2022 | B - 15 | かこ（けいようしぶん）2 | Pretérito (frases adjetivas) 2 |
 | 62 | 17/02/2022 | B - 16 | かこ（けいようしぶん）3 | Pretérito (frases adjetivas) 3 |
 | 63 | 02/03/2022 |<ul><li>B - 17</li><li>B - 18</li></ul> | <ul><li>かんじ　２</li><li>ストーリ - 2</li></ul> | <ul><li>Kanji 2</li><li>Histórias 2</li></ul> |
-| 64 | 10/03/2022 |<ul><li>B - 19</li><li>Test B</li></ul> | <ul><li>ことばの まとめ</li><li>日本語　- B</li></ul>| <ul><li>Revisão das palavras</li><li>Teste de Assimilação B</li></ul> |
+| 64 | 10/03/2022 |<ul><li>B - 19</li><li>Teste B</li></ul> | <ul><li>ことばの まとめ</li><li>日本語 テスト　- B</li></ul>| <ul><li>Revisão das palavras</li><li>Teste de Assimilação B</li></ul> |
 | 65 | 16/03/2022 | C - 1 | ごじゅん | Ordem das palavras |
 | 66 | 24/03/2022 | C - 11 | じょし　１ | Partículas 1 |
 | 67 | 30/03/2022 | C - 21 | じょし　２ | Partículas 2 |
@@ -106,3 +106,4 @@
 | 82 | 17/08/2022 | C - 171 | かんじ | Kanji |
 | 83 | 24/08/2022 | C - 181 | ストーリー　２ | Histórias 2 |
 | 84 | 31/08/2022 | C - 191 | ことばの　まとめ | Revisão das palavras |
+| 85 | 08/09/2022 | Teste | 日本語 テスト | Teste de Assimilação C |

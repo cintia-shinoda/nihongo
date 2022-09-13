@@ -18,19 +18,19 @@
 | 植 | planta | <ul><li>**う**えます</li><li>ショク</li></ul> | <ul><li>木を植えます。 (きをうえます。) = Planto uma árvore.</li><li>植物 (しょくぶつ) = planta</li></ul> |
 | 野 | campo | <ul><li>の</li><li>ヤ</li></ul> | <ul><li>野はら (のはら) = campo</li><li>野さい (やさい) = hortaliças</li></ul> |
 | 球 | bola | <ul><li>たま</li><li>キュウ</li></ul> | <ul><li>球 (たま) = bola</li><li>地球 (ちきゅう) = Terra</li><li>野球 (やきゅう) = beisebol</li></ul> |
-|  | ilha | <ul><li></li><li></li></ul> | <ul><li> () = ilha grande</li><li> () = península</li></ul> |
-|  | lagoa | <ul><li></li><li></li></ul> | <ul><li> () = lagoa pequena</li><li> () = bateria, pilha</li></ul> |
-|  | cruzamento | <ul><li></li><li></li></ul> | <ul><li> () = As ruas cruzam.</li><li> () = cruzamento</li><li> () = Troco.</li></ul> |
-|  | <ul><li>falecido</li><li>velho</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = acidente de trânsito</li><li> () = avaria</li></ul> |
-|  | prédio público | <ul><li></li><li></li></ul> | <ul><li> () = biblioteca</li><li> () = museu de artes</li><li> () = cinema</li></ul> |
-|  | fechar | <ul><li></li><li></li></ul> | <ul><li> () = Fecho a porta.</li><li> () = fechar</li></ul> |
-|  | abrir | <ul><li></li><li></li></ul> | <ul><li> () = Abro a janela.</li><li> () = abre e fecha</li></ul> |
-|  | pensar | <ul><li></li><li></li></ul> | <ul><li> () = Penso bem.</li><li> () = Consulto.</li></ul> |
-|  | ontem | <ul><li></li><li></li></ul> | <ul><li> () = ontem à noite</li><li> () = ontem</li></ul> |
-|  | visitante | <ul><li></li><li></li></ul> | <ul><li> () = freguês</li><li> () = turista</li></ul> |
-|  | gostar | <ul><li></li><li></li></ul> | <ul><li> () = Gosto de lamen.</li><li> () = comida favorita</li></ul> |
-|  | dizer | <ul><li></li><li></li></ul> | <ul><li> () = Agradeço.</li><li> () = palavra</li><li> () = dialeto</li></ul> |
-|  | cabeça | <ul><li></li><li></li></ul> | <ul><li> () = cabeça</li><li> () = no topo, a frente</li><li> () = dor de cabeça</li></ul> |
-|  | <ul><li>suporte</li><li>contagem para veículos</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = dois carros</li><li> () = estante para televisão</li><li> () = tufão</li></ul> |
-|  | lugar | <ul><li></li><li></li></ul> | <ul><li> () = cozinha</li><li> () = local</li><li> () = vizinhança</li><li> () = ponto de ônibus</li></ul> |
-|  | escuro | <ul><li></li><li></li></ul> | <ul><li> () = Fora está escuro.</li><li> () = memorização</li></ul> |
+| 島 | ilha | <ul><li>しま</li><li>トウ</li></ul> | <ul><li>大きな島 (おおきなしま) = ilha grande</li><li>半島 (はんとう) = península</li></ul> |
+| 池 | lagoa | <ul><li>いけ</li><li>チ</li></ul> | <ul><li>小さな池 (ちいさないけ) = lagoa pequena</li><li>電池 (でんち) = bateria, pilha</li></ul> |
+| 交 | cruzamento | <ul><li>まじわります</li><li>コウ</li></ul> | <ul><li>道が交わります。 (みちがまじわります。) = As ruas cruzam.</li><li>交さてん (こうさてん) = cruzamento</li><li>交かんします。 (こうかんします。) = Troco.</li></ul> |
+| 故 | <ul><li>falecido</li><li>velho</li></ul> | <ul><li>(ゆう)</li><li>コ</li></ul> | <ul><li>交通事故 (こうつうじこ) = acidente de trânsito</li><li>故しょう (こしょう) = avaria</li></ul> |
+| 館 | prédio público | <ul><li>(やかた)</li><li>カン</li></ul> | <ul><li>図書館 (としょかん) = biblioteca</li><li>美じゅつかん (びじゅつかん) = museu de artes</li><li>えいが館 (えいがかん) = cinema</li></ul> |
+| 閉 | fechar | <ul><li>**し**めます (**と**じます)</li><li>ヘイ</li></ul> | <ul><li>ドアを閉めます。 (ドアをしめます。) = Fecho a porta.</li><li>閉館します (へいかんします) = fechar</li></ul> |
+| 開 | abrir | <ul><li>あけます (ひらきます)</li><li>カイ</li></ul> | <ul><li>まどを開けます。 (まどをあけます。) = Abro a janela.</li><li>開閉 (かいへい) = abre e fecha</li></ul> |
+| 考 | pensar | <ul><li>かんがえます</li><li>コウ</li></ul> | <ul><li>よく考えます。 (よくかんがえます。) = Penso bem.</li><li>さん考にします。 (さんこうにします。) = Consulto.</li></ul> |
+| 昨 | ontem | <ul><li>***</li><li>サク</li></ul> | <ul><li>昨夜 (さくや) = ontem à noite</li><li>昨日 (きのう) = ontem</li></ul> |
+| 客 | visitante | <ul><li>***</li><li>キャク (カク)</li></ul> | <ul><li>お客さん (おきゃくさん) = freguês</li><li>かんこう客 (かんこうきゃく) = turista</li></ul> |
+| 好 | gostar | <ul><li>すきです (このえます)</li><li>コウ</li></ul> | <ul><li>ラーメンが好きです。 (ラーメンがすきです。) = Gosto de lamen.</li><li>好物 (こうぶつ) = comida favorita</li></ul> |
+| 言 | dizer | <ul><li>**い**います・こと</li><li>ゲン (ゴン)</li></ul> | <ul><li>おれいを言います。 (おれいをいいます。) = Agradeço.</li><li>言ば (ことば) = palavra</li><li>方言 (ほうげん) = dialeto</li></ul> |
+| 頭 | cabeça | <ul><li>あたま</li><li>トウ・ズ</li></ul> | <ul><li>頭 (あたま) = cabeça</li><li>先頭 (せんとう) = no topo, a frente</li><li>頭つう (ずつう) = dor de cabeça</li></ul> |
+| 台 | <ul><li>suporte</li><li>contagem para veículos</li></ul> | <ul><li>***</li><li>ダイ・タイ</li></ul> | <ul><li>二台の車 (にだいくるま) = dois carros</li><li>テレビ台 (テレビだい) = estante para televisão</li><li>台風 (たいふう) = tufão</li></ul> |
+| 所 | lugar | <ul><li>ところ</li><li>ショ・ジョ</li></ul> | <ul><li>台所 (だいどころ) = cozinha</li><li>場所 (ばしょ) = local</li><li>近所 (きんじょ) = vizinhança</li><li>ていりゅう所 (ていりゅうじょ) = ponto de ônibus</li></ul> |
+| 暗 | escuro | <ul><li>くらい</li><li>アン</li></ul> | <ul><li>外は暗いです。 (そとはくらいです。) = Fora está escuro.</li><li>暗き (あんき) = memorização</li></ul> |

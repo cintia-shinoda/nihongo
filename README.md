@@ -107,3 +107,4 @@
 | 83 | 24/08/2022 | C - 181 | ストーリー　２ | Histórias 2 |
 | 84 | 31/08/2022 | C - 191 | ことばの　まとめ | Revisão das palavras |
 | 85 | 08/09/2022 | Teste | 日本語 テスト | Teste de Assimilação C |
+| 86 | 14/09/2022 | D - 1 | 漢字 １| Kanji 1 |

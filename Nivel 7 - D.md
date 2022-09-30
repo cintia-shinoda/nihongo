@@ -18,3 +18,13 @@
 | não pretérito negativo | 〜が　**いません** | 〜が　**いない** |
 | pretérito afirmativo | 〜が　**いました** | 〜が　**いた** |
 | pretérito negativo | 〜が　**いませんでした** | 〜が　**いなかった** |
+<br><br>
+
+
+### ```Frases Substantivas```
+|    | FORMAL | INFORMAL |
+|:---:|:---|:---|
+| não pretérito afirmativo | ~**です** | ~**だ** |
+| não pretérito negativo | ~**ではありません** | ~**ではない** |
+| pretérito afirmativo | ~**でした** | ~**だった** |
+| pretérito negativo | ~**ではありませんでした** | ~**ではな買った** |

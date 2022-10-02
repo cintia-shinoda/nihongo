@@ -28,3 +28,6 @@
 | não pretérito negativo | ~**ではありません** | ~**ではない** |
 | pretérito afirmativo | ~**でした** | ~**だった** |
 | pretérito negativo | ~**ではありませんでした** | ~**ではな買った** |
+
+
+### Frases Adjetivas

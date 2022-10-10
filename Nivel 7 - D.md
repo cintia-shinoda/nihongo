@@ -58,7 +58,7 @@
 
 |    | FORMAL | INFORMAL |
 |:---:|:---|:---|
-| não pretérito afirmativo | 明るいです | 明るい |
-| não pretérito negativo | 明るくありません | 明るくない |
-| pretérito afirmativo | 明るかったです | 明るかった |
-| pretérito negativo | 明るくありませんでした | 明るくなかった |
+| não pretérito afirmativo | 明るい**です** | 明**るい** |
+| não pretérito negativo | 明る**くありません** | 明る**くない** |
+| pretérito afirmativo | 明る**かったです** | 明る**かった** |
+| pretérito negativo | 明る**くありませんでした** | 明る**くなかった** |

@@ -50,3 +50,13 @@
 | não pretérito negativo | きらい**ではありません** | きらい**ではない** |
 | pretérito afirmativo | きらい**でした** | きらい**だった** |
 | pretérito negativo | きらい**ではありませんでした** | きらい**ではなかった** |
+
+
+### ```Frases Adjetivas い```
+
+|    | FORMAL | INFORMAL |
+|:---:|:---|:---|
+| não pretérito afirmativo |  |  |
+| não pretérito negativo |  |  |
+| pretérito afirmativo |  |  |
+| pretérito negativo |  |  |

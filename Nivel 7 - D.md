@@ -54,9 +54,11 @@
 
 ### ```Frases Adjetivas い```
 
+明るいです。　É claro.
+
 |    | FORMAL | INFORMAL |
 |:---:|:---|:---|
-| não pretérito afirmativo |  |  |
-| não pretérito negativo |  |  |
-| pretérito afirmativo |  |  |
-| pretérito negativo |  |  |
+| não pretérito afirmativo | 明るいです | 明るい |
+| não pretérito negativo | 明るくありません | 明るくない |
+| pretérito afirmativo | 明るかったです | 明るかった |
+| pretérito negativo | 明るくありませんでした | 明るくなかった |

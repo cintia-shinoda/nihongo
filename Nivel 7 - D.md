@@ -50,6 +50,7 @@
 | não pretérito negativo | きらい**ではありません** | きらい**ではない** |
 | pretérito afirmativo | きらい**でした** | きらい**だった** |
 | pretérito negativo | きらい**ではありませんでした** | きらい**ではなかった** |
+<br>
 
 
 ### ```Frases Adjetivas い```
@@ -62,3 +63,29 @@
 | não pretérito negativo | 明る**くありません** | 明る**くない** |
 | pretérito afirmativo | 明る**かったです** | 明る**かった** |
 | pretérito negativo | 明る**くありませんでした** | 明る**くなかった** |
+
+
+### ```Ligação de Frases```
+#### ```Frases Substantivas```
+会社員です。 (かいしゃいんです。) = Sou funcionário de empresa
+
+| formal | informal | ligação de frases |
+|:---:|:---:|:---:|
+| 会社員**です** | 会社員**だ** | 会社員**で** |
+
+
+#### ```Frases Adjetivas な```
+上手です。 (じょうずです) = é bom (habilidoso).
+
+| formal | informal | ligação de frases | modificador do substantivo |
+|:---:|:---:|:---:|:---:|
+| 上手**です** | 上手**だ** | 上手**で** | 上手**な** |
+
+
+#### ```Frases Adjetivas い```
+おいしいです。 / かわいいです。 = É gostoso./É gracioso.
+
+| formal | informal | ligação de frases | modificador do substantivo |
+|:---:|:---:|:---:|:---:|
+| おいしい**です** | おいしい | おいし**くて** | おいしい |
+| かわいい**です** | かわいい | かわい**くて** | かわいい |

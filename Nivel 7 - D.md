@@ -92,7 +92,7 @@
 <br><br>
 
 
-### ```Forma do dicionário (infinitivo)```
+### ```Forma do dicionário (infinitivo) - Grupo II```
 
 | forma ます | infinitivo | tradução |
 |:---:|:---:|:---:|
@@ -106,3 +106,25 @@
 | 閉め**ます** (しめます) | 閉め**る** (しめる) | fechar |
 | 答え**ます** (こたえます) | 答え**る** (こたえる) | responder |
 | 教え**ます** (おしえます) | 教え**る** (おしえる) | ensinar |
+<br>
+
+
+### ```Forma do dicionário (infinitivo) - Grupo I e verbos irregulares```
+
+|  | forma ます | infinitivo | tradução |
+|:---:|:---:|:---:|:---:|
+| い -> う | 会**い**ます (あいます) | 会**う** (あう) | encontrar |
+| い -> う | 買**い**ます (かいます) | 買**う** (かう) | comprar |
+| き -> く | 動**き**ます (うごきます) | 動**く** (うごく) | mover |
+| き -> く | 書**き**ます (かきます) | 書**く** (かく) | escrever |
+| ぎ -> ぐ | ぬ**ぎ**ます | ぬ**ぐ** | tirar (roupa) |
+| し -> す | 出**し**ます (だします) | 出**す** (だす) | tirar |
+| し -> す | 話**し**ます (はなします) | 話**す** (はなす) | falar |
+| ち -> つ | 待**ち**ます (まちます) | 待**つ** (まつ) | esperar |
+| り -> る | 帰**り**ます (かえります) | 帰**る** (かえる) | voltar |
+| り -> る | 乗**り**ます (のります) | 乗**る** (のる) | tomar, subir (meio de transporte) |
+| み -> む | 飲**み**ます (のみます) | 飲**む** (のむ) | beber |
+| み -> む | 読**み**ます (よみます) | 読**む** (よむ) | ler |
+| び -> ぶ | 運**び**ます (はこびます) | 運**ぶ** (はこぶ) | carregar |
+| irregular | します | する | fazer |
+| irregular | 来ます (きます) | 来る (くる) | vir |

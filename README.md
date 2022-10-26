@@ -112,3 +112,4 @@
 | 88 | 07/10/2022 | D - 21 | ふつうたい １ | Estilo informal 1 |
 | 89 | 14/10/2022 | D - 31 | ふつうたい ２ | Estilo informal ２ |
 | 90 | 19/10/2022 | D - 41 | 動詞の辞書形 １ (どうしのじしょけい １) | Forma do dicionário (infinitivo) 1 |
+| 91 | 26/10/2022 | D - 51 | 動詞の辞書形 ２ (どうしのじしょけい ２ | Forma do dicionário (infinitivo) 2 |

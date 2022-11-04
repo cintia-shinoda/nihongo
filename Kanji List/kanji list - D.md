@@ -34,3 +34,19 @@
 | 台 | <ul><li>suporte</li><li>contagem para veículos</li></ul> | <ul><li>***</li><li>ダイ・タイ</li></ul> | <ul><li>二台の車 (にだいくるま) = dois carros</li><li>テレビ台 (テレビだい) = estante para televisão</li><li>台風 (たいふう) = tufão</li></ul> |
 | 所 | lugar | <ul><li>ところ</li><li>ショ・ジョ</li></ul> | <ul><li>台所 (だいどころ) = cozinha</li><li>場所 (ばしょ) = local</li><li>近所 (きんじょ) = vizinhança</li><li>ていりゅう所 (ていりゅうじょ) = ponto de ônibus</li></ul> |
 | 暗 | escuro | <ul><li>くらい</li><li>アン</li></ul> | <ul><li>外は暗いです。 (そとはくらいです。) = Fora está escuro.</li><li>暗き (あんき) = memorização</li></ul> |
+
+<br>
+
+
+## D - 71
+
+|   |   |   |   |
+|---|---|---|---|
+|  | <ul><li>vencer</li><li>exceder</li></ul> | <ul><li></li><li></li></ul> |  () = Vencemos o jogo de futebol. |
+|  | <ul><li>perder</li><li>sofrer</li></ul> | <ul><li></li><li> ()</li></ul> | <ul><li> () = Perdemos o jogo de beisebol.</li><li> () = disputa</li></ul> |
+|  | colocar | <ul><li></li><li>()</li></ul> | <ul><li> () = Coloco a mala.</li><li> () = depósito</li></ul> |
+|   | carga | <ul><li></li><li>()</li></ul> |  () = bagagem |
+|  | <ul><li>composição musical</li><li>curva</li></ul> | <ul><li></li><li></li></ul> |<ul><li> () = Viro à esquerda.</li><li> () = música popular</li></ul> |
+|  | voar | <ul><li></li><li></li></ul> |  () = Voa pelo céu. |
+|  | <ul><li>máquina</li><li>oportunidade</li></ul> | <ul><li>()</li><li></li></ul> | <ul><li> () = oportunidade</li><li> () = avião</li></ul> |
+|  | dispositivo mecânico | <ul><li>***</li><li></li></ul> |  () = máquina |

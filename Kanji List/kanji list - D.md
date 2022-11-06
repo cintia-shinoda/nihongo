@@ -42,11 +42,15 @@
 
 |   |   |   |   |
 |---|---|---|---|
-|  | <ul><li>vencer</li><li>exceder</li></ul> | <ul><li></li><li></li></ul> |  () = Vencemos o jogo de futebol. |
-|  | <ul><li>perder</li><li>sofrer</li></ul> | <ul><li></li><li> ()</li></ul> | <ul><li> () = Perdemos o jogo de beisebol.</li><li> () = disputa</li></ul> |
-|  | colocar | <ul><li></li><li>()</li></ul> | <ul><li> () = Coloco a mala.</li><li> () = depósito</li></ul> |
-|   | carga | <ul><li></li><li>()</li></ul> |  () = bagagem |
-|  | <ul><li>composição musical</li><li>curva</li></ul> | <ul><li></li><li></li></ul> |<ul><li> () = Viro à esquerda.</li><li> () = música popular</li></ul> |
-|  | voar | <ul><li></li><li></li></ul> |  () = Voa pelo céu. |
-|  | <ul><li>máquina</li><li>oportunidade</li></ul> | <ul><li>()</li><li></li></ul> | <ul><li> () = oportunidade</li><li> () = avião</li></ul> |
-|  | dispositivo mecânico | <ul><li>***</li><li></li></ul> |  () = máquina |
+| 勝 | <ul><li>vencer</li><li>exceder</li></ul> | <ul><li>**か**つ</li><li>ショウ</li></ul> | サッカーの しあいに勝つ。 (サッカーの しあいにかつ) = Vencemos o jogo de futebol. |
+| 負 | <ul><li>perder</li><li>sofrer</li></ul> | <ul><li>**ま**ける</li><li>ブ (フ)</li></ul> | <ul><li>野球の　しあいに負ける。 (やきゅうの　しあいにまける。) = Perdemos o jogo de beisebol.</li><li>勝負 (しょうぶ) = disputa</li></ul> |
+| 置 | colocar | <ul><li>**お**く</li><li>(チ)</li></ul> | <ul><li>かばんを置く。 (かばんをおく。) = Coloco a mala.</li><li>置き場 (おきば) = depósito</li></ul> |
+| 荷物 | carga | <ul><li>に</li><li>(カ)</li></ul> | 荷物 (にもつ) = bagagem | 　　　　　
+| 曲 | <ul><li>composição musical</li><li>curva</li></ul> | <ul><li>**ま**がる</li><li>キョク</li></ul> |<ul><li>左に曲がる (ひだりにまがる。) = Viro à esquerda.</li><li>歌よう曲 (かようきょく) = música popular</li></ul> |
+| 飛 | voar | <ul><li>**と**ぶ</li><li>ヒ</li></ul> | 空を飛ぶ。 (そらをとぶ。) = Voa pelo céu. |
+| 機 | <ul><li>máquina</li><li>oportunidade</li></ul> | <ul><li>(はた)</li><li>キ</li></ul> | <ul><li>機会 (きかい) = oportunidade</li><li>飛行機 (ひこうき) = avião</li></ul> |
+| 械 | dispositivo mecânico | <ul><li>***</li><li>カイ</li></ul> | 機械 (きかい) = máquina |
+|  | descer | <ul><li></li><li></li><li></li></ul> | <ul><li> () = Chove.</li><li> () = Desço do ônibus.</li></ul> |
+|  | neve | <ul><li></li><li></li></ul> | <ul><li> () = Neva.</li><li> () = queda de neve</li></ul> |
+|  | quente | <ul><li></li><li></li></ul> | <ul><li> () = roupa quente</li><li> () = aquecedor</li></ul> |
+|  | <ul><li>amarrar</li><li>concluir</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = Amarrar um laço.</li><li> () = Casaremos.</li></ul> |

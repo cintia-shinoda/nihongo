@@ -45,12 +45,32 @@
 | 勝 | <ul><li>vencer</li><li>exceder</li></ul> | <ul><li>**か**つ</li><li>ショウ</li></ul> | サッカーの しあいに勝つ。 (サッカーの しあいにかつ) = Vencemos o jogo de futebol. |
 | 負 | <ul><li>perder</li><li>sofrer</li></ul> | <ul><li>**ま**ける</li><li>ブ (フ)</li></ul> | <ul><li>野球の　しあいに負ける。 (やきゅうの　しあいにまける。) = Perdemos o jogo de beisebol.</li><li>勝負 (しょうぶ) = disputa</li></ul> |
 | 置 | colocar | <ul><li>**お**く</li><li>(チ)</li></ul> | <ul><li>かばんを置く。 (かばんをおく。) = Coloco a mala.</li><li>置き場 (おきば) = depósito</li></ul> |
-| 荷物 | carga | <ul><li>に</li><li>(カ)</li></ul> | 荷物 (にもつ) = bagagem | 　　　　　
+| 荷 | carga | <ul><li>に</li><li>(カ)</li></ul> | 荷物 (にもつ) = bagagem | 　　　　　
 | 曲 | <ul><li>composição musical</li><li>curva</li></ul> | <ul><li>**ま**がる</li><li>キョク</li></ul> |<ul><li>左に曲がる (ひだりにまがる。) = Viro à esquerda.</li><li>歌よう曲 (かようきょく) = música popular</li></ul> |
 | 飛 | voar | <ul><li>**と**ぶ</li><li>ヒ</li></ul> | 空を飛ぶ。 (そらをとぶ。) = Voa pelo céu. |
 | 機 | <ul><li>máquina</li><li>oportunidade</li></ul> | <ul><li>(はた)</li><li>キ</li></ul> | <ul><li>機会 (きかい) = oportunidade</li><li>飛行機 (ひこうき) = avião</li></ul> |
 | 械 | dispositivo mecânico | <ul><li>***</li><li>カイ</li></ul> | 機械 (きかい) = máquina |
-|  | descer | <ul><li></li><li></li><li></li></ul> | <ul><li> () = Chove.</li><li> () = Desço do ônibus.</li></ul> |
-|  | neve | <ul><li></li><li></li></ul> | <ul><li> () = Neva.</li><li> () = queda de neve</li></ul> |
-|  | quente | <ul><li></li><li></li></ul> | <ul><li> () = roupa quente</li><li> () = aquecedor</li></ul> |
-|  | <ul><li>amarrar</li><li>concluir</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = Amarrar um laço.</li><li> () = Casaremos.</li></ul> |
+| 降 | descer | <ul><li>ふる</li><li>おりる</li><li>コウ</li></ul> | <ul><li>雨が　ふる。 (あめが　ふる。) = Chove.</li><li>バスを降りる。 (バスを　おりる。) = Desço do ônibus.</li></ul> |
+| 雪 | neve | <ul><li>ゆき</li><li>セツ</li></ul> | <ul><li>雪が　降る。 (ゆきが　ふる。) = Neva.</li><li>降雪 (こうせつ) = queda de neve</li></ul> |
+| 暖 | quente | <ul><li>あたたかい</li><li>ダン</li></ul> | <ul><li>暖かい　服 (あたたかい　ふこ) = roupa quente</li><li>暖ぼう (だんぼう) = aquecedor</li></ul> |
+| 結 | <ul><li>amarrar</li><li>concluir</li></ul> | <ul><li>むすぶ</li><li>ケツ</li></ul> | <ul><li>リボンを　結ぶ。 (リボンを　むすぶ。) = Amarrar um laço.</li><li>結こんする。 (けつこんする。) = Casaremos.</li></ul> |
+| 正 | correto | <ul><li>ただしい</li><li>セイ・ショウ</li></ul> | <ul><li>正しい (ただしい) = correto</li><li>正かく (せいかく) = preciso</li><li>お正月 (おしょうがつ) = Ano-Novo</li></ul> |
+| 仕 | servir | <ul><li>つかえる</li><li>シ</li></ul> | <ul><li>社長に　仕える。 (しゃちょうに　つかえる。) = Sirvo o presidente.</li><li>仕事 (しごと) = trabalho</li></ul> |
+| 打 | acertar | <ul><li>うつ</li><li>ダ</li></ul> | <ul><li>球を 打つ。 (たまを　うつ。) = Bato a bola.</li><li>打しゃ (だしゃ) = rebatedor</li></ul> |
+| 顔 | face | <ul><li>かお</li><li>ガン</li></ul> | <ul><li>顔 (かお) = rosto</li><li>せん顔 (せんがん) = limpeza facial; lavagem do rosto</li></ul> |
+|  | nadar |<ul><li></li><li></li></ul>|<ul><li> () = nadar</li><li> () = natação</li></ul>|
+|  |<ul><li>chinês</li><li>companheiro</li></ul>|<ul><li>***</li><li></li></ul>| () = *kanji*|
+|  |<ul><li>extinguir</li><li>gastar</li></ul>|<ul><li> ()</li><li></li></ul>|<ul><li> () = apagar</li><li> () = borracha</li><li> () = carro de bombeiros</li></ul>|
+|  | brincar | <ul><li></li><li></li></ul>|<ul><li> () = brincar</li><li>  () = parque de diversões</li></ul>|
+|  | razão |<ul><li>***</li><li></li></ul>|<ul><li> () = cozinha, culinária</li><li> () = geografia</li></ul>|
+|  | aprender |<ul><li></li><li></li></ul>|<ul><li> () = Aprendo piano.</li><li> () = Estudo.</li></ul>|
+|  | treino |<ul><li></li><li></li></ul>|<ul><li> () = Amasso a argila.</li><li> () = Pratico.</li></ul>|
+|  |<ul><li>chamar</li><li>convidar</li></ul>| () = Convido os amigos para vir em casa.
+|  | morrer |<ul><li></li><li></li></ul>|<ul><li> () = Morre de doença.</li><li>  () = morte acidental</li></ul>|
+|  | corpo |<ul><li></li><li>()</li></ul>|<ul><li> () = Movo o corpo.</li><li> () = cadáver</li></ul>|
+|  | segurar |<ul><li></li><li>()</li></ul>|<ul><li> () = Seguro o hashi.</li><li> () = sentimento</li><li>() = rico</li></ul>|
+|  | quente |<ul><li></li><li></li></ul>|<ul><li> () = água quente</li><li>() = Tenho febre.</li></ul>|
+|  | dentro |<ul><li></li><li></li></ul>|<ul><li> () = dentro e fora</li><li> () = minha esposa</li></ul>|
+|  | proposta |<ul><li>***</li><li></li></ul>| () = mostrar, guiar |
+|  | dar a volta |<ul><li></li><li></li></ul>|<ul><li> () = A Terra gira.</li><li> () = três vezes</li><li> () = esta vez</li></ul>|
+|  | todos |<ul><li>***</li><li></li></ul>|<ul><li> () = todos os dias</li><li> () =  todos os anos</li><li> () = todas as vezes.</li></ul>|

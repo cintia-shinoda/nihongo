@@ -58,11 +58,11 @@
 | 仕 | servir | <ul><li>つかえる</li><li>シ</li></ul> | <ul><li>社長に　仕える。 (しゃちょうに　つかえる。) = Sirvo o presidente.</li><li>仕事 (しごと) = trabalho</li></ul> |
 | 打 | acertar | <ul><li>うつ</li><li>ダ</li></ul> | <ul><li>球を 打つ。 (たまを　うつ。) = Bato a bola.</li><li>打しゃ (だしゃ) = rebatedor</li></ul> |
 | 顔 | face | <ul><li>かお</li><li>ガン</li></ul> | <ul><li>顔 (かお) = rosto</li><li>せん顔 (せんがん) = limpeza facial; lavagem do rosto</li></ul> |
-|  | nadar |<ul><li></li><li></li></ul>|<ul><li> () = nadar</li><li> () = natação</li></ul>|
-|  |<ul><li>chinês</li><li>companheiro</li></ul>|<ul><li>***</li><li></li></ul>| () = *kanji*|
-|  |<ul><li>extinguir</li><li>gastar</li></ul>|<ul><li> ()</li><li></li></ul>|<ul><li> () = apagar</li><li> () = borracha</li><li> () = carro de bombeiros</li></ul>|
-|  | brincar | <ul><li></li><li></li></ul>|<ul><li> () = brincar</li><li>  () = parque de diversões</li></ul>|
-|  | razão |<ul><li>***</li><li></li></ul>|<ul><li> () = cozinha, culinária</li><li> () = geografia</li></ul>|
+| 泳 | nadar |<ul><li>おやぐ</li><li>エイ</li></ul>|<ul><li>泳ぐ (およぐ) = nadar</li><li>水泳 (すいえい) = natação</li></ul>|
+| 漢 |<ul><li>chinês</li><li>companheiro</li></ul>|<ul><li>***</li><li>カン</li></ul>|漢字 (かんじ) = *kanji*|
+| 消 |<ul><li>extinguir</li><li>gastar</li></ul>|<ul><li>けす (きえる)</li><li>ショウ</li></ul>|<ul><li>消す (けす) = apagar</li><li>消しゴム (けしゴム) = borracha</li><li>消ぼう車 (しょうぼうしゃ) = carro de bombeiros</li></ul>|
+| 遊 | brincar | <ul><li>あそぶ</li><li>コウ</li></ul>|<ul><li>遊ぶ (あそぶ) = brincar</li><li>遊園地 (ゆうえんち) = parque de diversões</li></ul>|
+| 理 | razão |<ul><li>***</li><li>リ</li></ul>|<ul><li>りょう理 (りょうり) = cozinha, culinária</li><li>地理 (ちり) = geografia</li></ul>|
 |  | aprender |<ul><li></li><li></li></ul>|<ul><li> () = Aprendo piano.</li><li> () = Estudo.</li></ul>|
 |  | treino |<ul><li></li><li></li></ul>|<ul><li> () = Amasso a argila.</li><li> () = Pratico.</li></ul>|
 |  |<ul><li>chamar</li><li>convidar</li></ul>| () = Convido os amigos para vir em casa.

@@ -63,8 +63,8 @@
 | 消 |<ul><li>extinguir</li><li>gastar</li></ul>|<ul><li>けす (きえる)</li><li>ショウ</li></ul>|<ul><li>消す (けす) = apagar</li><li>消しゴム (けしゴム) = borracha</li><li>消ぼう車 (しょうぼうしゃ) = carro de bombeiros</li></ul>|
 | 遊 | brincar | <ul><li>あそぶ</li><li>コウ</li></ul>|<ul><li>遊ぶ (あそぶ) = brincar</li><li>遊園地 (ゆうえんち) = parque de diversões</li></ul>|
 | 理 | razão |<ul><li>***</li><li>リ</li></ul>|<ul><li>りょう理 (りょうり) = cozinha, culinária</li><li>地理 (ちり) = geografia</li></ul>|
-|  | aprender |<ul><li></li><li></li></ul>|<ul><li> () = Aprendo piano.</li><li> () = Estudo.</li></ul>|
-|  | treino |<ul><li></li><li></li></ul>|<ul><li> () = Amasso a argila.</li><li> () = Pratico.</li></ul>|
+| 習 | aprender |<ul><li>ならう</li><li>シュウ</li></ul>|<ul><li>ピアノを　習う。 (ピアノを ならう。) = Aprendo piano.</li><li>学習する (がくしゅうする。) = Estudo.</li></ul>|
+| 練 | treino |<ul><li>ねる</li><li>レン</li></ul>|<ul><li>土を　練る。 (つちを　ねる) = Amasso a argila.</li><li>練習を　する。 (れんしゅうを する。) = Pratico.</li></ul>|
 |  |<ul><li>chamar</li><li>convidar</li></ul>| () = Convido os amigos para vir em casa.
 |  | morrer |<ul><li></li><li></li></ul>|<ul><li> () = Morre de doença.</li><li>  () = morte acidental</li></ul>|
 |  | corpo |<ul><li></li><li>()</li></ul>|<ul><li> () = Movo o corpo.</li><li> () = cadáver</li></ul>|

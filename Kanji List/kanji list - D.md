@@ -65,12 +65,12 @@
 | 理 | razão |<ul><li>***</li><li>リ</li></ul>|<ul><li>りょう理 (りょうり) = cozinha, culinária</li><li>地理 (ちり) = geografia</li></ul>|
 | 習 | aprender |<ul><li>ならう</li><li>シュウ</li></ul>|<ul><li>ピアノを　習う。 (ピアノを ならう。) = Aprendo piano.</li><li>学習する (がくしゅうする。) = Estudo.</li></ul>|
 | 練 | treino |<ul><li>ねる</li><li>レン</li></ul>|<ul><li>土を　練る。 (つちを　ねる) = Amasso a argila.</li><li>練習を　する。 (れんしゅうを する。) = Pratico.</li></ul>|
-|  |<ul><li>chamar</li><li>convidar</li></ul>| () = Convido os amigos para vir em casa.
-|  | morrer |<ul><li></li><li></li></ul>|<ul><li> () = Morre de doença.</li><li>  () = morte acidental</li></ul>|
-|  | corpo |<ul><li></li><li>()</li></ul>|<ul><li> () = Movo o corpo.</li><li> () = cadáver</li></ul>|
-|  | segurar |<ul><li></li><li>()</li></ul>|<ul><li> () = Seguro o hashi.</li><li> () = sentimento</li><li>() = rico</li></ul>|
-|  | quente |<ul><li></li><li></li></ul>|<ul><li> () = água quente</li><li>() = Tenho febre.</li></ul>|
-|  | dentro |<ul><li></li><li></li></ul>|<ul><li> () = dentro e fora</li><li> () = minha esposa</li></ul>|
-|  | proposta |<ul><li>***</li><li></li></ul>| () = mostrar, guiar |
-|  | dar a volta |<ul><li></li><li></li></ul>|<ul><li> () = A Terra gira.</li><li> () = três vezes</li><li> () = esta vez</li></ul>|
-|  | todos |<ul><li>***</li><li></li></ul>|<ul><li> () = todos os dias</li><li> () =  todos os anos</li><li> () = todas as vezes.</li></ul>|
+| 呼ぶ |<ul><li>chamar</li><li>convidar</li></ul>|友だちを　家に　呼ぶ。 (ともだちを いえに　よぶ。) = Convido os amigos para vir em casa.
+| 死 | morrer |<ul><li>しぬ</li><li>シ</li></ul>|<ul><li>病気で　死ぬ。 (びょうきで　しぬ。) = Morre de doença.</li><li>事故死 (じこし) = morte acidental</li></ul>|
+| 体 | corpo |<ul><li>からだ</li><li>タイ・(テイ)</li></ul>|<ul><li>体を　動かす。 (からだを　うごかす。) = Movo o corpo.</li><li>死体 (したい) = cadáver</li></ul>|
+| 持 | segurar |<ul><li>もつ</li><li>(ジ)</li></ul>|<ul><li>はしを　持つ。 (はしを　もつ。) = Seguro o hashi.</li><li>気持ち (きもち) = sentimento</li><li>お金持　(おかねもち) = rico</li></ul>|
+| 熱い | quente |<ul><li>あつい</li><li>ネツ</li></ul>|<ul><li>熱いおゆ (あついおゆ) = água quente</li><li>熱が　ある。　(ねつが　ある。) = Tenho febre.</li></ul>|
+| 内 | dentro |<ul><li>うち</li><li>ナイ</li></ul>|<ul><li>内と外 (うちとそと) = dentro e fora</li><li>家内 (かない・つま) = minha esposa</li></ul>|
+| 案 | proposta |<ul><li>***</li><li>アン</li></ul>|案内　する (あんない　する) = mostrar, guiar |
+| 回 | dar a volta |<ul><li>まわる</li><li>カイ</li></ul>|<ul><li>地球は　回る。 (ちきゅうは　まわる。) = A Terra gira.</li><li>三回 (さんかい) = três vezes</li><li>今回 (こんかい) = esta vez</li></ul>|
+| 毎 | todos |<ul><li>***</li><li>マイ</li></ul>|<ul><li>毎日 (まいにち) = todos os dias</li><li>毎年 (まいとし) =  todos os anos</li><li>毎回 (まいかい) = todas as vezes.</li></ul>|

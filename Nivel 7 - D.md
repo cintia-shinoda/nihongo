@@ -149,3 +149,27 @@
 | irregular | 勉強します (べんきょうします) | 勉強する (べんきょうする) | 勉強しない (べんきょうしない) | estudar |
 | irregular | 運動します (うんどうします) | 運動する (うんどうする) | 運動しない (うんどうしない) | fazer exercício físico |
 | irregular | さん歩します (さんぽします) | さん歩する (さんぽする) | さん歩しない (さんぽしない) | passear |
+
+<br><br>
+
+
+
+### ```Forma た e forma て 1 - GII```
+
+| forma ます | infinitivo | forma た | forma て | tradução |
+|:---:|:---:|:---:|:---:|:---:|
+| não pretérito formal | não pretérito informal | pretérito informal | forma de ligação de frase |
+|  () |  () |  () |  () | ver, assistir |
+|  |  |  |  | acordar |
+|  () |  () |  () |  () | vestir |
+|  () |  () |  () |  () | descer |
+|  |  |  |  |  cair|
+|  () |  () |  () |  () | sair |
+|  |  |  |  | dormir |
+|  () |  () |  () |  () | comer |
+|  () |  () |  () |  () | abrir |
+|  () |  () |  () |  () | fechar |
+|  () |  () |  () |  () | perder |
+|  () |  () |  () |  () | responder |
+|  () |  () |  () |  () | ensinar |
+|  () |  () |  () |  () | pensar |

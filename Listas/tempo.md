@@ -2,18 +2,18 @@
 
 |   |   | tradução |
 |:---:|:---:|:---:|
-|  |  | hoje |
-|  |  | ontem |
-|  |  | amanhã |
-|  |  | esta semana |
-|  |  | semana passada |
-|  |  | próxima semana |
-|  |  | este mês |
-|  |  | mês passado |
-|  |  | próximo mês |
-|  |  | este ano |
-|  |  | ano passado |
-|  |  | próximo ano |
+| 今日 | きょう | hoje |
+| 昨日 | きのう | ontem |
+| 明日 | あした | amanhã |
+| 今週 | こんしゅう | esta semana |
+| 先週 | せんしゅう | semana passada |
+| 来週 | らいしゅう | próxima semana |
+| 今月 | こんげつ | este mês |
+| 先月 | せんげつ | mês passado |
+| 来月 | らいげつ | próximo mês |
+| 今年 | ことし | este ano |
+| 去年 | きょねん | ano passado |
+| 来年 | らいねん | próximo ano |
 
 <br>
 
@@ -56,15 +56,15 @@
 ## Meses
 |   |   | tradução |
 |:---:|:---:|:---:|
-|  |  | Janeiro |
-|  |  | Fevereiro |
-|  |  | Março |
-|  |  | Abril |
-|  |  | Maio |
-|  |  | Junho |
-|  |  | Julho |
-|  |  | Agosto |
-|  |  | Setembro |
-|  |  | Outubro |
-|  |  | Novembro |
-|  |  | Dezembro |
+| 一月 |  | Janeiro |
+| 二月 |  | Fevereiro |
+| 三月 |  | Março |
+| 四月 |  | Abril |
+| 五月 |  | Maio |
+| 六月 |  | Junho |
+| 七月 |  | Julho |
+| 八月 |  | Agosto |
+| 九月 |  | Setembro |
+| 十月 |  | Outubro |
+| 十一月 |  | Novembro |
+| 十二月 |  | Dezembro |

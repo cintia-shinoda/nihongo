@@ -59,7 +59,7 @@
 - para objetos finos (bilhete, camiseta): sufixo "まい"
 - para livros e cadernos: sufixo "さつ"
 
-|  | 本 | こ |  |  |
+|  | 本 | こ | まい | さつ |
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | いっぽん | いっこ | いちまい | いっさつ |
 | 2 | にほん | にこ | にまい | にさつ |

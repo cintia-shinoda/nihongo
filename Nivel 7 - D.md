@@ -238,17 +238,17 @@
 
 ### ```verbos do Grupo I cujo infinitivo termina em "す", e verbos irregulares```
 
-| forma ます | infinitivo | forma た | forma て | tradução |
-|:---:|:---:|:---:|:---:|:---:|
-| não pretérito formal | não pretérito informal | pretérito informal | forma de ligação de frase |
-|  () |  () |  () |  () |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  () |  () |  () |  () |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  () |  () |  () |  () |  |
-|  () |  () |  () |  () |  |
-|  () |  () |  () |  () |  |
-|  |  |  |  |  |
+|  | forma ます | infinitivo | forma た | forma て | tradução |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|  | não pretérito formal | não pretérito informal | pretérito informal | forma de ligação de frase |
+| Grupo I | 出します (だします) | 出す (だす) | 出した (だした) | 出して (だして) | tirar |
+| Grupo I | おします | おす | おした | おして | apertar |
+| Grupo I | さします | さす | さした | さして | abrir (guarda-chuva) |
+| Grupo I | 話します (はなします) | 話す (はなす) | 話した (はなした) | 話して (はなして) | conversar |
+| Grupo I | さがします | さがす | さがした | さがして | procurar |
+| Grupo I | すごします | すごす | すごした | すごして | passar (um tempo) |
+| Irregular | します | する | した | して | fazer |
+| Irregular | 旅行します (りょこうします) | 旅行する (りょこうする) | 旅行した (りょこうした) | 旅行して (りょこうして) | viajar |
+| Irregular | 勉強します (べんきょうします) | 勉強する (べんきょうする) | 勉強した (べんきょうした) | 勉強して (べんきょうして) | estudar |
+| Irregular | 結こんします (けっこんします) | 結こんする (けっこんする) | 結こんした (けっこんした) | 結こんして (けっこんして) | casar-se |
+| Irregular | 来ます (きます) | 来る (くる) | 来た (きた) | 来て (きて) | vir |

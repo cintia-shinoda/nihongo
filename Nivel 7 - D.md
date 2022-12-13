@@ -234,3 +234,21 @@
 | ならびます | ならぶ | ならんだ | ならんで | fazer fila |
 | えらびます | えらぶ | えらんだ | えらんで | escolher |
 | 死にます (しにます) | 死ぬ (しぬ) | 死んだ (しんだ) | 死んで (しんで) | morrer |
+
+
+### ```verbos do Grupo I cujo infinitivo termina em "す", e verbos irregulares```
+
+| forma ます | infinitivo | forma た | forma て | tradução |
+|:---:|:---:|:---:|:---:|:---:|
+| não pretérito formal | não pretérito informal | pretérito informal | forma de ligação de frase |
+|  () |  () |  () |  () |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  () |  () |  () |  () |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  () |  () |  () |  () |  |
+|  () |  () |  () |  () |  |
+|  () |  () |  () |  () |  |
+|  |  |  |  |  |

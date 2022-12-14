@@ -234,6 +234,7 @@
 | ならびます | ならぶ | ならんだ | ならんで | fazer fila |
 | えらびます | えらぶ | えらんだ | えらんで | escolher |
 | 死にます (しにます) | 死ぬ (しぬ) | 死んだ (しんだ) | 死んで (しんで) | morrer |
+<br>
 
 
 ### ```verbos do Grupo I cujo infinitivo termina em "す", e verbos irregulares```

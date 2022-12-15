@@ -74,3 +74,11 @@
 | 案 | proposta |<ul><li>***</li><li>アン</li></ul>|案内　する (あんない　する) = mostrar, guiar |
 | 回 | dar a volta |<ul><li>まわる</li><li>カイ</li></ul>|<ul><li>地球は　回る。 (ちきゅうは　まわる。) = A Terra gira.</li><li>三回 (さんかい) = três vezes</li><li>今回 (こんかい) = esta vez</li></ul>|
 | 毎 | todos |<ul><li>***</li><li>マイ</li></ul>|<ul><li>毎日 (まいにち) = todos os dias</li><li>毎年 (まいとし) =  todos os anos</li><li>毎回 (まいかい) = todas as vezes.</li></ul>|
+<br>
+
+
+## D - 131
+
+|   |   |   |   |
+|---|---|---|---|
+|  | Estado | <ul><li>***</li><li></li></ul> | <ul><li>  () = Honshu</li><li>  () = Kyushu</li></ul> |

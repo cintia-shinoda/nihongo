@@ -253,3 +253,28 @@
 | Irregular | 勉強します (べんきょうします) | 勉強する (べんきょうする) | 勉強した (べんきょうした) | 勉強して (べんきょうして) | estudar |
 | Irregular | 結こんします (けっこんします) | 結こんする (けっこんする) | 結こんした (けっこんした) | 結こんして (けっこんして) | casar-se |
 | Irregular | 来ます (きます) | 来る (くる) | 来た (きた) | 来て (きて) | vir |
+<br>
+
+
+### ストーリー　１ (Histórias 1)
+#### 日本 (にほん) ー Japão
+
+これは　日本地図だ。
+これは　にほんちずだ。
+Isto é um mapa do Japão
+
+日本は　アジアで　もっとも　東に　ある。
+にほんは　アジアで　もっとも　ひがしに　ある。
+O Japão se localiza no extremo leste na Ásia.
+
+日本には　四つの　大きな島が　ある。
+にほんには　よっつの　おおきなしまが　ある。
+No Japão, há quatro grandes ilhas.
+
+北海道、　本州、四国、　九州だ。
+ほっかいどう、　ほんしゅう、　しこく、　きゅうしゅうだ。
+São Hokkaido, Honshu, Shikoku e Kyushu.
+
+そのまわりは　海だ。
+そのまわりは　うみだ。
+A seu redor é mar.

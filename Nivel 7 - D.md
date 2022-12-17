@@ -260,21 +260,121 @@
 #### 日本 (にほん) ー Japão
 
 これは　日本地図だ。
+
 これは　にほんちずだ。
+
 Isto é um mapa do Japão
+<br>
 
 日本は　アジアで　もっとも　東に　ある。
+
 にほんは　アジアで　もっとも　ひがしに　ある。
+
 O Japão se localiza no extremo leste na Ásia.
+<br>
 
 日本には　四つの　大きな島が　ある。
+
 にほんには　よっつの　おおきなしまが　ある。
+
 No Japão, há quatro grandes ilhas.
+<br>
 
 北海道、　本州、四国、　九州だ。
+
 ほっかいどう、　ほんしゅう、　しこく、　きゅうしゅうだ。
+
 São Hokkaido, Honshu, Shikoku e Kyushu.
+<br>
 
 そのまわりは　海だ。
+
 そのまわりは　うみだ。
+
 A seu redor é mar.
+<br>
+
+日本は　南北に長い　国だ。
+
+にほんは　なんぼくにながい　くにだ。
+
+O Japão é um país longo no sentido norte-sul.
+<br>
+
+北海道の冬は　とても　寒い。
+
+ほっかいどうのふゆは　とても　さむい。
+
+O inverno em Hokkaido é muito frio.
+<br>
+
+雪も　たくさん　降る。
+
+ゆきも　たくさん　ふる。
+
+Também neva muito.
+<br>
+
+南の　九州や四国は　暖かい。
+
+みなみの　きゅうしゅうやしこくは　あたたかい。
+
+Kyushu e Shikoku (que ficam) no sul são (de clima) amenos.
+<br>
+
+夏は　台風が　よく来る。
+
+なつは　たいふうが　よくくる。
+
+No verão, os tufões vêm com frequência.
+<br>
+
+日本には　火山が　多い。
+
+日本には　かざんが　おおい。
+
+No Japão, há muito vulcões.
+<br>
+
+だから　地しんもよくおきる。
+
+だから　じしんもよくおきる。
+
+Por isso, ocorrem terremotos com frequência.
+<br>
+
+火山の　そばには　温せんが　ある。
+
+かざんの　そばには　おんせんが　ある。
+
+Perto dos vulcões, há águas termais.
+<br>
+
+日本人は　温せんが　大好きだ。
+
+にほんじんは　おんせんが　だいすきだ。
+
+Os japoneses adoram as águas termais.
+<br>
+
+日本の首都は　東京だ。
+
+にほんのしゅとっは　とうきょうだ。
+
+A capital do Japão é Tóquio.
+<br>
+
+東京は　人も車も　たいへん多い。
+
+とうきょう　ひともくるまも　たいへんおおい。
+
+Em Tóquio, há muitas pessoas e também muitos carros.
+<br>
+
+京都は　古い　まちで、　てらが　たくさんある。
+
+きょうとは　ふるい　まちで、　てらが　たくさんある。
+
+Quioto é uma cidade antiga e há muitos templos.
+<br>
+

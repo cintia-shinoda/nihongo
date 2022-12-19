@@ -378,3 +378,9 @@ Em Tóquio, há muitas pessoas e também muitos carros.
 Quioto é uma cidade antiga e há muitos templos.
 <br>
 
+たくさんの観こう客が　京都を　おとずれる。
+
+たくさんのかんこうきゃくが　きょうとを　おとずれる。
+
+Muitos turistas visitam Quioto.
+<br>

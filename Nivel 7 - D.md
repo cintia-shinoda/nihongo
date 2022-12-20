@@ -383,4 +383,42 @@ Quioto é uma cidade antiga e há muitos templos.
 たくさんのかんこうきゃくが　きょうとを　おとずれる。
 
 Muitos turistas visitam Quioto.
+<br><br><br>
+
+
+
+#### 野球 (やきゅう) - Beisebol
+田中さんに　野球のチケッとを　もらった。
+
+たなかさんに　やきゅうのチケットを　もらった。
+
+Ganhei um ingresso de beisebol de Tanaka-san.
+<br>
+
+野球は　日本で　とても人気がある。
+
+やきゅうは　にほんで　とてもにんきがある。
+
+O beisebol é muito popular no Japão.
+<br>
+
+サッカーや すもうよりも　ファンが　多い。
+
+サッカーや　すもうよりも　ファンが　おおい。
+
+Tem mais fãs do que futebol ou sumo.
+<br>
+
+私は　田中さんといっしょに　野球場へ行った。
+
+わたしは　たなかさんといっしょに　やきゅうじょうへいった。
+
+Eu fui com o Tanaka-san ao campo de beisebol.
+<br>
+
+今日の試あいは　ジャイアンツたいタイガースだ。
+
+きょうのしあいは　ジャイアンツたいタイガースだ。
+
+O jogo de hoje é Giants contra Tigers.
 <br>

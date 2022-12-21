@@ -81,4 +81,11 @@
 
 |   |   |   |   |
 |---|---|---|---|
-|  | Estado | <ul><li>***</li><li></li></ul> | <ul><li>  () = Honshu</li><li>  () = Kyushu</li></ul> |
+| 州 | Estado | <ul><li>***</li><li>シュウ</li></ul> | <ul><li> 本州 (ほんしゅう) = Honshu</li><li> 九州 (きゅうしゅう) = Kyushu</li></ul> |
+| 寒 | frio |<ul><li>**さむ**い</li><li>カン</li></ul>|<ul><li> 冬は寒い。 (ふゆはさむい) = O inverno é frio.</li><li> 寒気 (かんき) = frio</li></ul>|
+| 温 | temperatura amena |<ul><li>あたたかい</li><li>オン</li></ul>|<ul><li>温かいスープ (あたたかいスープ) = sopa quente</li><li> 温せん (おんせん) = águas termais</li><li> 体温 (たいおん) = temperatura do corpo</li></ul>|
+| 観 | vista |<ul><li>***</li><li>カン</li></ul>|<ul><li> 観こう客 (かんこうきゃく) = turistas</li><li> 観こう地 (かんこうち) = ponto turístico</li></ul>|
+| 試 | tentar |<ul><li>こころみる</li><li>シ</li></ul>|<ul><li> しゅう理を試みる。 (しゅうりをこころみる。) = Tento consertar.</li><li> 試あい (しあい) = jogo</li></ul>|
+| 転 | tombar |<ul><li>ころぶ</li><li>テン</li></ul>|<ul><li> 転ぶ (ころぶ) = tombar, cair</li><li> 自動車を運転する。 (じどうしゃをうんてんする。) = Dirijo o automóvel.</li></ul>|
+| 席 | assento |<ul><li>***</li><li>セキ</li></ul>|<ul><li> 観客席 (かんきゃくせき) = arquibancada</li><li> 出席 (しゅっせき) = presença</li></ul>|
+| 優 | superior, ator |<ul><li>やさしい</li><li>ユウ</li></ul>|<ul><li> 優しいこえ (やさしいこえ) = voz dócil</li><li> 優勝 (ゆうしょう) = vitória</li></ul>|

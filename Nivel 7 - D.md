@@ -422,3 +422,101 @@ Eu fui com o Tanaka-san ao campo de beisebol.
 
 O jogo de hoje é Giants contra Tigers.
 <br>
+
+野球場まで　自動車を運転した。
+
+やきゅうじょう　まで　じどうしゃをうんてんした。
+
+Dirigi o automóvel até o campo de beisebol.
+<br>
+
+野球場は　とても広くて　明るかった。
+
+やきゅうじょうは　とてもひろくて　あかるかった。
+
+O campo de beisebol era muito amplo e iluminado.
+<br>
+
+私たちは　ポップコーンを食べて、コーラを飲んだ。
+
+わたしたちは　ポップコーンをたべて、コーラをのんだ。
+
+Nós comemos pipoca e bebemos refrigerante.
+<br>
+
+試あいは　六時半に始まる。
+
+しあいは　ろくじはんにはじまる。
+
+O jogo começa às seis e meia.
+<br>
+
+いよいよ　試あいがはじまった。
+
+いよいよ　しあいがはじまった。
+
+Finalmente o jogo começou.
+<br>
+
+タイガースのせん手が　ボールをなげた。
+
+タイガースのせんしゅが　ボールをなげた。
+
+O jogador do Tigers atirou a bola.
+<br>
+
+ジャイアンツの打しゃが　打った。
+
+ジャイアンツのだしゃが　うった。
+
+O batedor do Giants bateu.
+<br>
+
+走った。　セーフ。　ヒットだ。
+
+はしった。　セーフ。　ヒットだ。
+
+(O batedor) correu. Safe. É hit.
+<br>
+
+観客席の ファンが よろこんだ。
+
+かんきゃくせきの　ファンが よろこんだ。
+
+Os fãs da arquibancada ficaram contentes.
+<br>
+
+田中さんは　ジャイアンツファンだ。
+
+たなかさんは　ジャイアンツファンだ。
+
+Tanaka-san é fã do Giants.
+<br>
+
+ジャイアンツは　強いチームだ。
+
+ジャイアンツは　つよいチームだ。
+
+Giants é um time forte.
+<br>
+
+今まで　たくさん優勝した。
+
+いままで　たくさんゆうしょうした。
+
+Até agora venceu várias vezes.
+<br>
+
+九回　ジャイアンツの打しゃが　ホームランを　打って、
+
+きゅうかい　ジャイアンツのだしゃが　ホームランを　うって。
+
+Nona entrada, o batedor do Giants bateu um home run
+<br>
+
+五たい二で　ジャイアンツが勝った。
+
+ごたいにで　ジャイアンツがかった。
+
+e o Giants venceu por cinco a dois.
+<br>

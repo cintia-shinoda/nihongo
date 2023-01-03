@@ -520,3 +520,36 @@ Nona entrada, o batedor do Giants bateu um home run
 
 e o Giants venceu por cinco a dois.
 <br>
+
+
+### ```Forma Negativa - Grupo II```
+#### ```見る (みる) = ver```
+
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| INFORMAL | 見る | 見ない | 見た | 見なかった |
+| FORMAL | 見ます | 見ません | 見ました | 見ませんでした |
+
+
+#### ```おきる = acordar```
+
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| INFORMAL | おきる | おきない | おきた |おきなかった |
+| FORMAL | おきます | おきません | おきました | おきませんでした |
+
+
+#### ```食べる (たべる) = comer```
+
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| INFORMAL | 食べる | 食べない | 食べた | 食べなかった |
+| FORMAL | 食べます | 食べません | 食べました | 食べませんでした |
+
+
+#### ```考える (かんがえる) = pensar```
+
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| INFORMAL | 考える | 考えない | 考えた | 考えなかった |
+| FORMAL | 考えます | 考えません | 考えました | 考えませんでした |

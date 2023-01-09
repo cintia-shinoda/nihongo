@@ -553,3 +553,12 @@ e o Giants venceu por cinco a dois.
 |:---|:---|:---|:---|:---|
 | INFORMAL | 考える | 考えない | 考えた | 考えなかった |
 | FORMAL | 考えます | 考えません | 考えました | 考えませんでした |
+<br>
+
+
+### ```Forma Negativa - Grupo I```
+#### ```歩く (あるく) = andar```
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| INFORMAL |  |  |  |  |
+| FORMAL |  |  |  |  |

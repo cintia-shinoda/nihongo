@@ -527,38 +527,63 @@ e o Giants venceu por cinco a dois.
 
 |   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
 |:---|:---|:---|:---|:---|
-| INFORMAL | 見る | 見ない | 見た | 見なかった |
 | FORMAL | 見ます | 見ません | 見ました | 見ませんでした |
+| INFORMAL | 見る | 見ない | 見た | 見なかった |
 
 
 #### ```おきる = acordar```
 
 |   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
 |:---|:---|:---|:---|:---|
-| INFORMAL | おきる | おきない | おきた |おきなかった |
 | FORMAL | おきます | おきません | おきました | おきませんでした |
+| INFORMAL | おきる | おきない | おきた |おきなかった |
 
 
 #### ```食べる (たべる) = comer```
 
 |   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
 |:---|:---|:---|:---|:---|
-| INFORMAL | 食べる | 食べない | 食べた | 食べなかった |
 | FORMAL | 食べます | 食べません | 食べました | 食べませんでした |
+| INFORMAL | 食べる | 食べない | 食べた | 食べなかった |
 
 
 #### ```考える (かんがえる) = pensar```
 
 |   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
 |:---|:---|:---|:---|:---|
-| INFORMAL | 考える | 考えない | 考えた | 考えなかった |
 | FORMAL | 考えます | 考えません | 考えました | 考えませんでした |
+| INFORMAL | 考える | 考えない | 考えた | 考えなかった |
 <br>
 
 
 ### ```Forma Negativa - Grupo I```
 #### ```歩く (あるく) = andar```
+
 |   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
 |:---|:---|:---|:---|:---|
-| INFORMAL |  |  |  |  |
-| FORMAL |  |  |  |  |
+| FORMAL | 歩きます | 歩きません | 歩きました | 歩きませんでした |
+| INFORMAL | 歩く | 歩かない | 歩いた | 歩かなかった |
+
+
+#### ```読む (よむ) = ler```
+
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| FORMAL | 読みます | 読みません | 読みました | 読みませんでした |
+| INFORMAL | 読む | 読まない | 読んだ | 読まなかった |
+
+
+#### ```遊ぶ (あそぶ) = brincar```
+
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| FORMAL | 遊びます | 遊びません | 遊びました | 遊びませんでした |
+| INFORMAL | 遊ぶ | 遊ばない | 遊んだ | 遊ばなかった |
+
+
+#### ```死ぬ (しぬ) = morrer```
+
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| FORMAL | 死にます | 死にません | 死にました | 死にませんでした |
+| INFORMAL | 死ぬ | 死なない | 死んだ | 死ななかった |

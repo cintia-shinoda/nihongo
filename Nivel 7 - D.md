@@ -587,3 +587,37 @@ e o Giants venceu por cinco a dois.
 |:---|:---|:---|:---|:---|
 | FORMAL | 死にます | 死にません | 死にました | 死にませんでした |
 | INFORMAL | 死ぬ | 死なない | 死んだ | 死ななかった |
+<br><br>
+
+
+### ```Forma Negativa - Grupo I```
+#### ``` () = comprar```
+
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| FORMAL |  |  |  |  |
+| INFORMAL |  |  |  |  |
+
+
+#### ``` () = levar```
+
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| FORMAL |  |  |  |  |
+| INFORMAL |  |  |  |  |
+
+
+#### ``` () = voltar```
+
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| FORMAL |  |  |  |  |
+| INFORMAL |  |  |  |  |
+
+
+#### ``` () = enviar (e-mail), tirar```
+
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| FORMAL |  |  |  |  |
+| INFORMAL |  |  |  |  |

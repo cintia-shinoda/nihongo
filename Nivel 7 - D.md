@@ -591,33 +591,33 @@ e o Giants venceu por cinco a dois.
 
 
 ### ```Forma Negativa - Grupo I```
-#### ``` () = comprar```
+#### ```買う (かう) = comprar```
 
 |   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
 |:---|:---|:---|:---|:---|
-| FORMAL |  |  |  |  |
-| INFORMAL |  |  |  |  |
+| FORMAL | 買います | 買いません | 買いました | 買いませんでした |
+| INFORMAL | 買う | 買わない | 買った | 買わなかった |
 
 
-#### ``` () = levar```
-
-|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
-|:---|:---|:---|:---|:---|
-| FORMAL |  |  |  |  |
-| INFORMAL |  |  |  |  |
-
-
-#### ``` () = voltar```
+#### ```持つ (もつ) = levar```
 
 |   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
 |:---|:---|:---|:---|:---|
-| FORMAL |  |  |  |  |
-| INFORMAL |  |  |  |  |
+| FORMAL | 持ちます | 持ちません | 持ちました | 持ちませんでした |
+| INFORMAL | 持つ | 持たない | 持った | 持たなかった |
 
 
-#### ``` () = enviar (e-mail), tirar```
+#### ```帰る (かえる) = voltar```
 
 |   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
 |:---|:---|:---|:---|:---|
-| FORMAL |  |  |  |  |
-| INFORMAL |  |  |  |  |
+| FORMAL | 帰ります | 帰りません | 帰りました | 帰りませんでした |
+| INFORMAL | 帰る | 帰らない | 帰った | 帰らなかった |
+
+
+#### ```出す (だす) = enviar (e-mail), tirar```
+
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| FORMAL | 出します | 出しません | 出しました | 出しませんでした |
+| INFORMAL | 出す | 出さない | 出した | 出さなかった |

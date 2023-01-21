@@ -621,3 +621,74 @@ e o Giants venceu por cinco a dois.
 |:---|:---|:---|:---|:---|
 | FORMAL | 出します | 出しません | 出しました | 出しませんでした |
 | INFORMAL | 出す | 出さない | 出した | 出さなかった |
+<br><br>
+
+
+### ```Forma Negativa - Irregulares```
+#### ``` () = fazer```
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| FORMAL |  |  |  |  |
+| INFORMAL |  |  |  |  |
+
+
+#### ``` () = vir```
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| FORMAL |  |  |  |  |
+| INFORMAL |  |  |  |  |
+
+
+#### ``` () = ir```
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| FORMAL |  |  |  |  |
+| INFORMAL |  |  |  |  |
+
+
+#### ``` () = emprestar```
+|   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
+|:---|:---|:---|:---|:---|
+| FORMAL |  |  |  |  |
+| INFORMAL |  |  |  |  |
+
+<br><br>
+
+
+# RESUMO
+## Grupo I
+
+|   | infinitivo | forma ます | forma た | forma て | forma ない |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ~ |  |  () |  () |  () |  () |
+| ~ |  |  () |  () |  () |  () |
+| ~ |  |  () |  () |  () |  () |
+| ~ |  |  () |  () |  () |  () |
+| ~ |  |  () |  () |  () |  () |
+| ~ |  |  () |  () |  () |  () |
+| ~ |  |  () |  () |  () |  () |
+| ~ |  |  () |  () |  () |  () |
+| ~ |  |  () |  () |  () |  () |
+| ~ |  |  () |  () |  () |  () |
+
+<br>
+
+
+## Grupo II
+
+|   | infinitivo | forma ます | forma た | forma て | forma ない |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ~ |  |  () |  () |  () |  () |
+| ~ |  |  () |  () |  () |  () |
+| ~ |  |  () |  () |  () |  () |
+| ~ |  |  () |  () |  () |  () |
+
+<br>
+
+
+## Irregular
+
+|   | infinitivo | forma ます | forma た | forma て | forma ない |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| - |  |  () |  () |  () |  () |
+| - |  |  () |  () |  () |  () |

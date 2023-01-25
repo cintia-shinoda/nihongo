@@ -625,32 +625,32 @@ e o Giants venceu por cinco a dois.
 
 
 ### ```Forma Negativa - Irregulares```
-#### ``` () = fazer```
+#### ```する = fazer```
 |   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
 |:---|:---|:---|:---|:---|
-| FORMAL |  |  |  |  |
-| INFORMAL |  |  |  |  |
+| FORMAL | します | しません | しました | しませんでした |
+| INFORMAL | する | しない | した | しなかった |
 
 
-#### ``` () = vir```
+#### ```来る (くる) = vir```
 |   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
 |:---|:---|:---|:---|:---|
-| FORMAL |  |  |  |  |
-| INFORMAL |  |  |  |  |
+| FORMAL | 来ます (きます) | 来ません (きません) | 来ました (きました) | 来ませんでした (きませんでした) |
+| INFORMAL | 来る (くる) | 来ない (こない) | 来た (きた) | 来なかった (こなかった) |
 
 
-#### ``` () = ir```
+#### ```行く (いく) = ir```
 |   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
 |:---|:---|:---|:---|:---|
-| FORMAL |  |  |  |  |
-| INFORMAL |  |  |  |  |
+| FORMAL | 行きます | 行きません | 行きました | 行きませんでした |
+| INFORMAL | 行く | 行かない | 行った | 行かなかった |
 
 
-#### ``` () = emprestar```
+#### ```かす = emprestar```
 |   | não pret. AFIRM. | não pret. NEG. | pretérito afirmativo | pretérito negativo |
 |:---|:---|:---|:---|:---|
-| FORMAL |  |  |  |  |
-| INFORMAL |  |  |  |  |
+| FORMAL | かします | かしません | かしました | かしませんでした |
+| INFORMAL | かす | かさない | かした | かさなかった |
 
 <br><br>
 
@@ -660,16 +660,16 @@ e o Giants venceu por cinco a dois.
 
 |   | infinitivo | forma ます | forma た | forma て | forma ない |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ~ |  |  () |  () |  () |  () |
-| ~ |  |  () |  () |  () |  () |
-| ~ |  |  () |  () |  () |  () |
-| ~ |  |  () |  () |  () |  () |
-| ~ |  |  () |  () |  () |  () |
-| ~ |  |  () |  () |  () |  () |
-| ~ |  |  () |  () |  () |  () |
-| ~ |  |  () |  () |  () |  () |
-| ~ |  |  () |  () |  () |  () |
-| ~ |  |  () |  () |  () |  () |
+| ~う | かう | 買います (かいます) | 買った (かった) |  | 買わない (かわない) |
+| ~つ |  |  () |  () |  () |  () |
+| ~る |  |  () |  () |  () |  () |
+| ~く |  |  () |  () |  () |  () |
+| ~く |  |  () |  () |  () |  () |
+| ~ぐ |  |  () |  () |  () |  () |
+| ~む |  |  () |  () |  () |  () |
+| ~ぶ |  |  () |  () |  () |  () |
+| ~ぬ |  |  () |  () |  () |  () |
+| ~す |  |  () |  () |  () |  () |
 
 <br>
 

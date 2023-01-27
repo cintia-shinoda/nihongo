@@ -364,7 +364,7 @@ e o Giants venceu por cinco a dois.
 ## Grupo I
 
 |   | forma ます | infinitivo | não pret. NEG (ない) | pretérito AFIRMATIVO (た) | pretérito NEGATIVO | tradução |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---|:---|:---|:---|:---|:---|:---|
 | 〜う | 買います (かいます) | 買う (かう) | 買わない (かわない) | 買った (かった) | 買わなかった (かわなかった) | comprar |
 | 〜う | 会います (あいます) | 会う (あう) |  () | 会った (あった) |  () | encontrar |
 | 〜う | 言います (いいます) | 言う (いう) |  () | 言った (いった) |  () | dizer |
@@ -420,7 +420,7 @@ e o Giants venceu por cinco a dois.
 ## Grupo II (〜る)
 
 | forma ます | infinitivo | não pret. NEG (ない) | pretérito AFIRMATIVO (た) | pretérito NEGATIVO | tradução |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---|:---|:---|:---|:---|:---|
 | 見ます (みます) | 見る (みる) | 見ない (みない) | 見た (みた) | 見なかった | ver/assistir |
 | 食べます (たべます) | 食べる (たべる) | 食べない (たべない) | 食べた (たべた) | 食べなかった | comer |
 | 出ます (でます) | 出る (でる) |  () | 出た (でた) |  () | sair |
@@ -442,7 +442,7 @@ e o Giants venceu por cinco a dois.
 ## Irregular
 
 | forma ます | infinitivo | não pret. NEG (ない) | pretérito AFIRMATIVO (た) | pretérito NEGATIVO | tradução |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---|:---|:---|:---|:---|:---|
 | します | する | しない | した | しなかった | fazer |
 | 来ます (きます) | 来る (くる) | 来ない (こない) | 来た (きた) | 来なかった (こなかった) | vir |
 | 勉強します (べんきょうします) | 勉強する (べんきょうする) | 勉強しない (べんきょうしない) | 勉強した (べんきょうした) |  () | estudar |

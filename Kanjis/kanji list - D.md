@@ -89,3 +89,7 @@
 | 転 | tombar |<ul><li>ころぶ</li><li>テン</li></ul>|<ul><li> 転ぶ (ころぶ) = tombar, cair</li><li> 自動車を運転する。 (じどうしゃをうんてんする。) = Dirijo o automóvel.</li></ul>|
 | 席 | assento |<ul><li>***</li><li>セキ</li></ul>|<ul><li> 観客席 (かんきゃくせき) = arquibancada</li><li> 出席 (しゅっせき) = presença</li></ul>|
 | 優 | superior, ator |<ul><li>やさしい</li><li>ユウ</li></ul>|<ul><li> 優しいこえ (やさしいこえ) = voz dócil</li><li> 優勝 (ゆうしょう) = vitória</li></ul>|
+| 末 | última parte |<ul><li>すえ</li><li>マツ</li></ul>| 年末 (ねんまつ) = fim de ano |
+| 状 | forma / condição / carta | <ul><li>***</li><li>ジョウ</li></ul>| 年が状 (ねんがじょう) = cartão de Ano-Novo |
+| 特 | especial | <ul><li>***</li><li>トク</li></ul>| 特べつなりょう理 (とくべつなりょうり) = culinária especial |
+| 幸 | boa sorte / felicidade |<ul><li>しあわせ</li><li>コウ</li></ul>|<ul><li> 幸せ (しあわせ) = felicidade</li><li> 幸ふつ (こうふく) = felicidade</li></ul>|

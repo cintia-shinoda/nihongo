@@ -460,6 +460,41 @@ e o Giants venceu por cinco a dois.
 #### お正月 (おしょうがつ) ー Ano-Novo
 
 日本のお正月は　一月　一日だ。
-のほんのおしょうがつは　いちがつ　ついたちだ。
-O Ano-Novo do Japão é no dia primeiro de janeiro.
 
+のほんのおしょうがつは　いちがつ　ついたちだ。
+
+O Ano-Novo do Japão é no dia primeiro de janeiro.
+<br>
+
+年末年始は　学校が　冬休みで、　会社も　休みだ。
+
+ねんまつねんしは　がっこうが　ふゆやすみで、　かいしゃも　やすみだ。
+
+No fim e começo de ano, as escolas estão em férias de inverno e as empresas também descansam.
+<br>
+
+年末は　どの家でも　そうじをする。
+
+ねんまつ　どのいえでも　そうじをする。
+
+No fim de ano, em todas as casas se faz a faxina.
+<br>
+
+大みそかの夜は　家ぞく　全員が　年こしそばを　食べる。
+
+おおみそかのよるは　かぞく　ぜんいんが　としこしそばを　たべる。
+
+Na noite da véspera do Ano-Novo, toda a família come toshikoshi soba.
+<br><br>
+
+
+Os japoneses não enviam tanto cartões de Natal.
+<br>
+
+No seu lugar, enviam cartões de Ano-Novo.
+<br>
+
+"Feliz Ano-Novo! Este ano também, conto com você!"
+<br>
+
+Todos se cumprimentaram no Ano-Novo.

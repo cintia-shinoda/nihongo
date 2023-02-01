@@ -93,3 +93,7 @@
 | 状 | forma / condição / carta | <ul><li>***</li><li>ジョウ</li></ul>| 年が状 (ねんがじょう) = cartão de Ano-Novo |
 | 特 | especial | <ul><li>***</li><li>トク</li></ul>| 特べつなりょう理 (とくべつなりょうり) = culinária especial |
 | 幸 | boa sorte / felicidade |<ul><li>しあわせ</li><li>コウ</li></ul>|<ul><li> 幸せ (しあわせ) = felicidade</li><li> 幸ふつ (こうふく) = felicidade</li></ul>|
+|  | graus / vez |<ul><li>***</li><li></li></ul>|<ul><li>  () = trinta e oito graus</li><li>  () = próxima vez</li></ul>|
+| 師 | mestre |<ul><li>***</li><li>シ</li></ul>| かんご師 (かんごし) = enfermeiro |
+| 射 | atirar |<ul><li>***</li><li>シャ</li></ul>| 注射 (ちゅうしゃ) = injeção |
+| 局 | departamento |<ul><li>***</li><li>キョク</li></ul>|<ul><li> やっ局 (やっきょく) = farmácia</li><li> ゆうびん局 (ゆうびんきょく) = agência do correio</li></ul>|

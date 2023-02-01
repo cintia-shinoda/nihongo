@@ -103,119 +103,119 @@
 これは　にほんちずだ。
 
 Isto é um mapa do Japão
-<br>
+<br><br>
 
 日本は　アジアで　もっとも　東に　ある。
 
 にほんは　アジアで　もっとも　ひがしに　ある。
 
 O Japão se localiza no extremo leste na Ásia.
-<br>
+<br><br>
 
 日本には　四つの　大きな島が　ある。
 
 にほんには　よっつの　おおきなしまが　ある。
 
 No Japão, há quatro grandes ilhas.
-<br>
+<br><br>
 
 北海道、　本州、四国、　九州だ。
 
 ほっかいどう、　ほんしゅう、　しこく、　きゅうしゅうだ。
 
 São Hokkaido, Honshu, Shikoku e Kyushu.
-<br>
+<br><br>
 
 そのまわりは　海だ。
 
 そのまわりは　うみだ。
 
 A seu redor é mar.
-<br>
+<br><br>
 
 日本は　南北に長い　国だ。
 
 にほんは　なんぼくにながい　くにだ。
 
 O Japão é um país longo no sentido norte-sul.
-<br>
+<br><br>
 
 北海道の冬は　とても　寒い。
 
 ほっかいどうのふゆは　とても　さむい。
 
 O inverno em Hokkaido é muito frio.
-<br>
+<br><br>
 
 雪も　たくさん　降る。
 
 ゆきも　たくさん　ふる。
 
 Também neva muito.
-<br>
+<br><br>
 
 南の　九州や四国は　暖かい。
 
 みなみの　きゅうしゅうやしこくは　あたたかい。
 
 Kyushu e Shikoku (que ficam) no sul são (de clima) amenos.
-<br>
+<br><br>
 
 夏は　台風が　よく来る。
 
 なつは　たいふうが　よくくる。
 
 No verão, os tufões vêm com frequência.
-<br>
+<br><br>
 
 日本には　火山が　多い。
 
 日本には　かざんが　おおい。
 
 No Japão, há muito vulcões.
-<br>
+<br><br>
 
 だから　地しんもよくおきる。
 
 だから　じしんもよくおきる。
 
 Por isso, ocorrem terremotos com frequência.
-<br>
+<br><br>
 
 火山の　そばには　温せんが　ある。
 
 かざんの　そばには　おんせんが　ある。
 
 Perto dos vulcões, há águas termais.
-<br>
+<br><br>
 
 日本人は　温せんが　大好きだ。
 
 にほんじんは　おんせんが　だいすきだ。
 
 Os japoneses adoram as águas termais.
-<br>
+<br><br>
 
 日本の首都は　東京だ。
 
 にほんのしゅとっは　とうきょうだ。
 
 A capital do Japão é Tóquio.
-<br>
+<br><br>
 
 東京は　人も車も　たいへん多い。
 
 とうきょう　ひともくるまも　たいへんおおい。
 
 Em Tóquio, há muitas pessoas e também muitos carros.
-<br>
+<br><br>
 
 京都は　古い　まちで、　てらが　たくさんある。
 
 きょうとは　ふるい　まちで、　てらが　たくさんある。
 
 Quioto é uma cidade antiga e há muitos templos.
-<br>
+<br><br>
 
 たくさんの観こう客が　京都を　おとずれる。
 
@@ -232,133 +232,133 @@ Muitos turistas visitam Quioto.
 たなかさんに　やきゅうのチケットを　もらった。
 
 Ganhei um ingresso de beisebol de Tanaka-san.
-<br>
+<br><br>
 
 野球は　日本で　とても人気がある。
 
 やきゅうは　にほんで　とてもにんきがある。
 
 O beisebol é muito popular no Japão.
-<br>
+<br><br>
 
 サッカーや すもうよりも　ファンが　多い。
 
 サッカーや　すもうよりも　ファンが　おおい。
 
 Tem mais fãs do que futebol ou sumo.
-<br>
+<br><br>
 
 私は　田中さんといっしょに　野球場へ行った。
 
 わたしは　たなかさんといっしょに　やきゅうじょうへいった。
 
 Eu fui com o Tanaka-san ao campo de beisebol.
-<br>
+<br><br>
 
 今日の試あいは　ジャイアンツたいタイガースだ。
 
 きょうのしあいは　ジャイアンツたいタイガースだ。
 
 O jogo de hoje é Giants contra Tigers.
-<br>
+<br><br>
 
 野球場まで　自動車を運転した。
 
 やきゅうじょう　まで　じどうしゃをうんてんした。
 
 Dirigi o automóvel até o campo de beisebol.
-<br>
+<br><br>
 
 野球場は　とても広くて　明るかった。
 
 やきゅうじょうは　とてもひろくて　あかるかった。
 
 O campo de beisebol era muito amplo e iluminado.
-<br>
+<br><br>
 
 私たちは　ポップコーンを食べて、コーラを飲んだ。
 
 わたしたちは　ポップコーンをたべて、コーラをのんだ。
 
 Nós comemos pipoca e bebemos refrigerante.
-<br>
+<br><br>
 
 試あいは　六時半に始まる。
 
 しあいは　ろくじはんにはじまる。
 
 O jogo começa às seis e meia.
-<br>
+<br><br>
 
 いよいよ　試あいがはじまった。
 
 いよいよ　しあいがはじまった。
 
 Finalmente o jogo começou.
-<br>
+<br><br>
 
 タイガースのせん手が　ボールをなげた。
 
 タイガースのせんしゅが　ボールをなげた。
 
 O jogador do Tigers atirou a bola.
-<br>
+<br><br>
 
 ジャイアンツの打しゃが　打った。
 
 ジャイアンツのだしゃが　うった。
 
 O batedor do Giants bateu.
-<br>
+<br><br>
 
 走った。　セーフ。　ヒットだ。
 
 はしった。　セーフ。　ヒットだ。
 
 (O batedor) correu. Safe. É hit.
-<br>
+<br><br>
 
 観客席の ファンが よろこんだ。
 
 かんきゃくせきの　ファンが よろこんだ。
 
 Os fãs da arquibancada ficaram contentes.
-<br>
+<br><br>
 
 田中さんは　ジャイアンツファンだ。
 
 たなかさんは　ジャイアンツファンだ。
 
 Tanaka-san é fã do Giants.
-<br>
+<br><br>
 
 ジャイアンツは　強いチームだ。
 
 ジャイアンツは　つよいチームだ。
 
 Giants é um time forte.
-<br>
+<br><br>
 
 今まで　たくさん優勝した。
 
 いままで　たくさんゆうしょうした。
 
 Até agora venceu várias vezes.
-<br>
+<br><br>
 
 九回　ジャイアンツの打しゃが　ホームランを　打って、
 
 きゅうかい　ジャイアンツのだしゃが　ホームランを　うって。
 
 Nona entrada, o batedor do Giants bateu um home run
-<br>
+<br><br>
 
 五たい二で　ジャイアンツが勝った。
 
 ごたいにで　ジャイアンツがかった。
 
 e o Giants venceu por cinco a dois.
-<br><br>
+<br><br><br>
 
 
 

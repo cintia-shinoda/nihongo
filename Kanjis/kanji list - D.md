@@ -1,6 +1,8 @@
+# Nível D
+
 ## D - 1
 
-|   |   |   |   |
+| ideograma | traduções | leituras | exemplos |
 |---|---|---|---|
 | 私 | particular | <ul><li>わたし</li><li>シ</li></ul> | <ul><li>私はカレーがすきです (わたしはカレーがすきです) = Eu gosto de curry.</li><li></li>私立大学 (しりつだいがく) = universidade particular</ul> |
 | 都 | metrópole | <ul><li>みやこ</li><li>ト・(ツ)</li></ul> | <ul><li>古い都 (ふるいみやこ) = cidade antiga</li><li>京都 (きょうと) = Quioto</li></ul> |
@@ -35,12 +37,13 @@
 | 所 | lugar | <ul><li>ところ</li><li>ショ・ジョ</li></ul> | <ul><li>台所 (だいどころ) = cozinha</li><li>場所 (ばしょ) = local</li><li>近所 (きんじょ) = vizinhança</li><li>ていりゅう所 (ていりゅうじょ) = ponto de ônibus</li></ul> |
 | 暗 | escuro | <ul><li>くらい</li><li>アン</li></ul> | <ul><li>外は暗いです。 (そとはくらいです。) = Fora está escuro.</li><li>暗き (あんき) = memorização</li></ul> |
 
-<br>
+<br><br><br>
+
 
 
 ## D - 71
 
-|   |   |   |   |
+| ideograma | traduções | leituras | exemplos |
 |---|---|---|---|
 | 勝 | <ul><li>vencer</li><li>exceder</li></ul> | <ul><li>**か**つ</li><li>ショウ</li></ul> | サッカーの しあいに勝つ。 (サッカーの しあいにかつ) = Vencemos o jogo de futebol. |
 | 負 | <ul><li>perder</li><li>sofrer</li></ul> | <ul><li>**ま**ける</li><li>ブ (フ)</li></ul> | <ul><li>野球の　しあいに負ける。 (やきゅうの　しあいにまける。) = Perdemos o jogo de beisebol.</li><li>勝負 (しょうぶ) = disputa</li></ul> |
@@ -74,12 +77,14 @@
 | 案 | proposta |<ul><li>***</li><li>アン</li></ul>|案内　する (あんない　する) = mostrar, guiar |
 | 回 | dar a volta |<ul><li>まわる</li><li>カイ</li></ul>|<ul><li>地球は　回る。 (ちきゅうは　まわる。) = A Terra gira.</li><li>三回 (さんかい) = três vezes</li><li>今回 (こんかい) = esta vez</li></ul>|
 | 毎 | todos |<ul><li>***</li><li>マイ</li></ul>|<ul><li>毎日 (まいにち) = todos os dias</li><li>毎年 (まいとし) =  todos os anos</li><li>毎回 (まいかい) = todas as vezes.</li></ul>|
-<br>
+
+<br><br><br>
+
 
 
 ## D - 131
 
-|   |   |   |   |
+| ideograma | traduções | leituras | exemplos |
 |---|---|---|---|
 | 州 | Estado | <ul><li>***</li><li>シュウ</li></ul> | <ul><li> 本州 (ほんしゅう) = Honshu</li><li> 九州 (きゅうしゅう) = Kyushu</li></ul> |
 | 寒 | frio |<ul><li>**さむ**い</li><li>カン</li></ul>|<ul><li> 冬は寒い。 (ふゆはさむい) = O inverno é frio.</li><li> 寒気 (かんき) = frio</li></ul>|
@@ -89,6 +94,15 @@
 | 転 | tombar |<ul><li>ころぶ</li><li>テン</li></ul>|<ul><li> 転ぶ (ころぶ) = tombar, cair</li><li> 自動車を運転する。 (じどうしゃをうんてんする。) = Dirijo o automóvel.</li></ul>|
 | 席 | assento |<ul><li>***</li><li>セキ</li></ul>|<ul><li> 観客席 (かんきゃくせき) = arquibancada</li><li> 出席 (しゅっせき) = presença</li></ul>|
 | 優 | superior, ator |<ul><li>やさしい</li><li>ユウ</li></ul>|<ul><li> 優しいこえ (やさしいこえ) = voz dócil</li><li> 優勝 (ゆうしょう) = vitória</li></ul>|
+
+<br><br><br>
+
+
+
+## D - 181
+
+| ideograma | traduções | leituras | exemplos |
+|---|---|---|---|
 | 末 | última parte |<ul><li>すえ</li><li>マツ</li></ul>| 年末 (ねんまつ) = fim de ano |
 | 状 | forma / condição / carta | <ul><li>***</li><li>ジョウ</li></ul>| 年が状 (ねんがじょう) = cartão de Ano-Novo |
 | 特 | especial | <ul><li>***</li><li>トク</li></ul>| 特べつなりょう理 (とくべつなりょうり) = culinária especial |

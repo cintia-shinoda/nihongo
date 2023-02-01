@@ -1,6 +1,6 @@
-# Level A
+# Nível A
 
-| ideograms | readings | translations | lesson |
+| ideograma | leituras | traduções | lição |
 |:---:|:---|:---|:---:|
 | 山 | やま | montanha | A - 1 |
 | 川 | かわ | rio | A - 1 |

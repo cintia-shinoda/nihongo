@@ -1,6 +1,6 @@
-# Level B
+# Nível B
 
-| ideogram | readings | translations | lesson |
+| ideograma | leituras | traduções | lição |
 |:---:|:---|:---|:---:|
 | 歩 | ある | 歩きます (あるきます) = andar | B - 1 |
 | 生 | <ul><li>う</li><li>セイ</li><li>ショウ (ジョウ)</li></ul> | <ul><li>生まれます (うまれます) = vida, nascer</li><li>先生 (せんせい) = professor</li><li>学生 (がくせい) = aluno</li><li>たん生び (たんじょうび) = aniversário</li></ul> | B - 1 |

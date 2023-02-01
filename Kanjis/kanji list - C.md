@@ -1,6 +1,6 @@
-# Level C
+# Nível C
 
-| ideogram | readings | translations | lesson |
+| ideograma | leituras | traduções | lição |
 |:---:|:---|:---|:---:|
 | 草 | くさ | くさ = capim | C - 1 |
 | 竹 | たけ | たけ = bambu | C - 1 |
@@ -98,6 +98,9 @@
 | 発 | パツ | 出発します (しゅっぱつします) = partir | C - 161 |
 | 全 | ゼン | 全いん (ぜんいん) = todos | C - 161 |
 | 見 | <ul><li>み</li><li>ケン</li></ul> | <ul><li>見ます (みます) = ver</li><li>見学します (けんがくします) = visitar</li></ul> | C - 161 |
+
+<br><br><br>
+
 
 
 ### C - 171

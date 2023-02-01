@@ -1,4 +1,4 @@
-| verb | meaning |
+| verbo | tradução |
 |:---:|:---|
 | 聞きます (ききます) | perguntar |
 | ちゅう文します (ちゅうもんします) | pedir |

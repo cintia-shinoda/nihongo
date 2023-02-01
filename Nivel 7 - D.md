@@ -464,28 +464,29 @@ e o Giants venceu por cinco a dois.
 のほんのおしょうがつは　いちがつ　ついたちだ。
 
 O Ano-Novo do Japão é no dia primeiro de janeiro.
-<br>
+<br><br>
 
 年末年始は　学校が　冬休みで、　会社も　休みだ。
 
 ねんまつねんしは　がっこうが　ふゆやすみで、　かいしゃも　やすみだ。
 
 No fim e começo de ano, as escolas estão em férias de inverno e as empresas também descansam.
-<br>
+<br><br>
 
 年末は　どの家でも　そうじをする。
 
 ねんまつ　どのいえでも　そうじをする。
 
 No fim de ano, em todas as casas se faz a faxina.
-<br>
+<br><br>
 
 大みそかの夜は　家ぞく　全員が　年こしそばを　食べる。
 
 おおみそかのよるは　かぞく　ぜんいんが　としこしそばを　たべる。
 
 Na noite da véspera do Ano-Novo, toda a família come toshikoshi soba.
-<br><br>
+<br><br><br>
+
 
 
 日本人は クリスマスカード　を　あまり　出さない。
@@ -493,14 +494,14 @@ Na noite da véspera do Ano-Novo, toda a família come toshikoshi soba.
 にほんじんは　クリスマスカード　を　あまり　ださない。
 
 Os japoneses não enviam tanto cartões de Natal.
-<br>
+<br><br>
 
 そのかわり　年が状　を　出す。
 
 そのかわり　ねんがじょう　を　だす。
 
 No seu lugar, enviam cartões de Ano-Novo.
-<br>
+<br><br>
 
 ”明けまして おめでとう ございます。
 
@@ -511,68 +512,72 @@ No seu lugar, enviam cartões de Ano-Novo.
 ことしも　よろしく　おねがい　します。”
 
 "Feliz Ano-Novo! Este ano também, conto com você!"
-<br>
+<br><br>
 
 みんな 新年の　あいさつ　を　する。
 
 みんな　しんねんの　あいさつ　を　する。
 
 Todos se cumprimentaram no Ano-Novo.
-<br>
+<br><br><br>
+
+
 
 お正月には　特べつなりょう理　を　作る。
 
 おしょうがつは　とくべつなりょうり　を　つくる。
 
 No Ano-Novo, (os japoneses) preparam uma culinária especial.
-<br>
+<br><br>
 
 それが　おせちりょう理　だ。
 
 Isso é o osechi ryouri.
-<br>
+<br><br>
 
 おもち　を　やいて、おぞうに　を　作る。
 
 おもち　を　やいて、おぞうに　を　つくる。
 
 (Os japoneses) assam bolinhos feitos de arroz e preparam ozouni.
-<br>
+<br><br>
 
 大人たちは　おさけ　を　飲む。
 
 おとなたちは　おさけ　を　のむ。
 
 Os adultos bebem bebidas alcóolicas.
-<br>
+<br><br>
 
 子どもたちは　お年だま　を　もらう。
 
 こどもたちは　おとしだま　を　もらう。
 
 As crianças ganham otoshi dama.
-<br>
+<br><br><br>
+
+
 
 私たちは　去年の　年末年始に　海外旅行　を　した。
 
 わたしたちは　きょねんの　ねんまつねんしに　かいがいりょこう　を　した。
 
 No ano passado, fizemos uma viagem ao exterior no fim de ano e começo de ano novo.
-<br>
+<br><br>
 
 それで　お正月は　日本に　いなかった。
 
 それで　おしょうがつ　にほんに　いなかった。
 
 Assim, não estávamos no Japão no Ano-Novo.
-<br>
+<br><br>
 
 今年は　旅行しなかった。
 
 ことしは　りょこうしなかった。
 
 Este ano não viajamos.
-<br>
+<br><br>
 
 みんなで　近くの　じん社に　行って、
 
@@ -583,7 +588,9 @@ Este ano não viajamos.
 ことしいちねんの　かぞくの　しあわせ　を　いのった。
 
 Fomos todos ao templo xintoísta próximo e oramos pela felicidade da família para todo este ano.
-<br><br>
+<br><br><br><br>
+
+
 
 
 #### かぜ ー Gripe
@@ -592,35 +599,36 @@ Fomos todos ao templo xintoísta próximo e oramos pela felicidade da família p
 けさ、　あたまが　とても　いたかった。
 
 Esta manhã, doía muito a cabeça.
-<br>
+<br><br>
 
 体温けいで　熱　を　はかった。
 
 たいおんけいで　ねつ　を　はかった。
 
 Medi a temperatura com o termômetro.
-<br>
+<br><br>
 
 熱が　三十八度　もあった。
 
 ねつが　さんじゅうはちど　もあった。
 
 Tinha trinta e oito graus de febre!
-<br>
+<br><br>
 
 せき　は　出なかった。しかし　のど　は　いたかった。
 
 せき　は　でなかった。しかし　のど　は　いたかった。
 
 Não tossia. Mas a garganta doía.
-<br>
+<br><br>
 
 それで　私は　学校　を　休んだ。
 
 それで　わたし　がっこう　を　やすんだ。
 
 Assim, eu faltei à escola.
-<br><br>
+<br><br><br>
+
 
 
 十時 ごろ 母 と いっしょに　病院　へ　行った。
@@ -628,60 +636,62 @@ Assim, eu faltei à escola.
 じゅうじ　ごろ　はは　と　いっしょに　びょういん　へ　いった。
 
 Por volta das dez horas, fui ao hospital junto com a minha mãe.
-<br>
+<br><br>
 
 病院は　それほど　大きくなかった。
 
 びょういん　それほど　おおきくなかった。
 
 O hospital não era tão grande.
-<br>
+<br><br>
 
 おいしゃさんが　一人、かんご師さんが　二人　いた。
 
 おいしゃさんが　ひとり、かんごしさん　ふたり　いた。
 
 Havia um médico e duas enfermeiras.
-<br>
+<br><br>
 
 かんご師さんは　とても　親切で　優しかった。
 
 かんごしさんは　とても　しんせつで　やさしかった。
 As enfermeiras eram muito atenciosas e amáveis.
-<br><br>
+<br><br><br>
+
+
 
 おいしゃさんが 私 を しんさつした。
 
 おいしゃさんが　わたし　を しんさつした。
 
 O médico me examinou.
-<br>
+<br><br>
 
 のど　を　見て　”かぜ　だね。”　と　言った。
 
 のど　を　みて　”かぜ　だね。”　と　いった。
 
 Viu minha garganta e disse, "É gripe".
-<br>
+<br><br>
 
 注射は　しなかった。
 
 ちゅうしゃは　しなかった。
 
 Não aplicou injeção.
-<br>
+<br><br>
 
 よかった。
 
 Que bom.
-<br>
+<br><br>
 
 私は　注射が　大きらいだ。
 
 わたし　ちゅうしゃが　だいきらいだ。
 
 Eu detesto injeção.
-<br><br>
+<br><br><br>
 
 
 病院の　となりの　やっ局で　くすり　を　もらった。
@@ -689,27 +699,27 @@ Eu detesto injeção.
 びょういんの　となりの　やっきょくで　くすり　を　もらった。
 
 Recebi o remédio na farmácia ao lado do hospital.
-<br>
+<br><br>
 
 家に　帰って、くすり　を　飲んだ。
 
 いえに　かえって、くすり　を　のんだ。
 
 Voltei para casa e tomei o remédio.
-<br>
+<br><br>
 
 一日中　しずかに　ねた。
 
 いちにちじゅう　しずかに　ねた。
 Fiquei deitado em repouso o dia inteiro.
-<br>
+<br><br>
 
 テレビも　見なかった。
 
 テレビも　みなかった。
 
 Nem assisti à TV.
-<br>
+<br><br>
 
 明日は　学校　を　休まない。
 

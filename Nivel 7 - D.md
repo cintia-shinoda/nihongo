@@ -655,6 +655,7 @@ Havia um médico e duas enfermeiras.
 かんご師さんは　とても　親切で　優しかった。
 
 かんごしさんは　とても　しんせつで　やさしかった。
+
 As enfermeiras eram muito atenciosas e amáveis.
 <br><br><br>
 
@@ -711,6 +712,7 @@ Voltei para casa e tomei o remédio.
 一日中　しずかに　ねた。
 
 いちにちじゅう　しずかに　ねた。
+
 Fiquei deitado em repouso o dia inteiro.
 <br><br>
 

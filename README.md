@@ -106,7 +106,7 @@
 | 82 | 17/08/2022 | C - 171 | かんじ | Kanji |
 | 83 | 24/08/2022 | C - 181 | ストーリー　２ | Histórias 2 |
 | 84 | 31/08/2022 | C - 191 | ことばの　まとめ | Revisão das palavras |
-| 85 | 08/09/2022 | Teste | 日本語 テスト | Teste de Assimilação C |
+| 85 | 08/09/2022 | Teste C | 日本語 テスト | Teste de Assimilação C |
 | 86 | 14/09/2022 | D - 1 | 漢字 １| Kanji 1 |
 | 87 | 28/09/2022 | D - 11 | ある と ない | ある e ない |
 | 88 | 07/10/2022 | D - 21 | ふつうたい １ | Estilo informal 1 |
@@ -135,3 +135,4 @@
 | 102 | 20/01/2023 | D - 161 | 動詞の否定 ３ (どうしのひてい ３) | Forma Negativa 3 |
 | 103 | 27/01/2023 | D - 171 | 動詞の否定 ４ (どうしのひてい ４) | Forma Negativa 4 |
 | 104 | 01/02/2023 | D - 181 | ストーリー ２ | Histórias 2 |
+| 105 | 08/02/2023 |<ul><li>D - 191</li><li>Teste D</li></ul>|<ul><li>語彙の まとめ (ごいの まとめ)</li><li>日本語 テスト D</li></ul>|<ul><li>Revisão das palavras</li><li>Teste de Assimilação D</li></ul>

@@ -22,3 +22,4 @@
 |  | voz |<ul><li></li><li></li></ul>|<ul><li>  () = Choro em voz alta.</li><li>  () = volume da televisão</li></ul>|
 |  | combinar, ajustar |<ul><li></li><li> ()</li></ul>|<ul><li>  () = Canção e dança se sincronizam.</li><li>  () = total</li></ul>|
 |  | chorar |<ul><li></li><li>()</li></ul>|<ul><li>  () = O bebê chora.</li><li>  () = choro (voz de choro)</li></ul>|
+|  |  |  |  |

@@ -20,10 +20,13 @@
 | 声 | voz |<ul><li>こえ</li><li>セイ</li></ul>|<ul><li> 大きな 声で　泣く。 (おおきな　こえで　泣く。) = Choro em voz alta.</li><li> テレビの 音声 (テレビの　おんせい) = volume da televisão</li></ul>|
 | 合 | combinar, ajustar |<ul><li>あう</li><li>ゴウ (ガッ)</li></ul>|<ul><li> 歌と おどりが　合う。 (うたと　おどりが　あう。) = Canção e dança se sincronizam.</li><li> 合けい (ごうけい) = total</li></ul>|
 | 泣 | chorar |<ul><li>かく</li><li>(キュウ)</li></ul>|<ul><li> 赤ちゃんが 泣く。 (あかちゃんが　なく。) = O bebê chora.</li><li> 泣き声 (なきごえ) = choro (voz de choro)</li></ul>|
-|  | viver, morar |<ul><li></li><li></li></ul>|<ul><li>  () = Moro em Tóquio.</li><li>  () = endereço</li></ul>|
-|  | tarde, devagar |<ul><li></li><li></li></ul>|<ul><li>  () O trem atrasa.</li><li>  () = horário tarde</li><li>  () = atrasar-se</li></ul>|
-|  | família |<ul><li>***</li><li></li></ul>|<ul><li>  () = família</li><li>  () = aquário</li></ul>|
-|  | ficar bravo |<ul><li> ()</li><li></li></ul>|<ul><li>  () = Meu pai ficou bravo.</li><li>  () = fúria</li></ul>|
+| 住 | viver, morar |<ul><li>すむ</li><li>ジュウ</li></ul>|<ul><li> 東京に 住む。 (とうきょうに　すむ。) = Moro em Tóquio.</li><li> 住所 (じゅうしょ) = endereço</li></ul>|
+| 遅 | tarde, devagar |<ul><li>おくれる・おそい</li><li>チ</li></ul>|<ul><li> 電車が　遅れる。 (でんしゃが　おくれる。) O trem atrasa.</li><li> 遅い 時間 (おそい　じかん) = horário tarde</li><li> 遅こくする (ちこくする) = atrasar-se</li></ul>|
+| 族 | família |<ul><li>***</li><li>ゾク</li></ul>|<ul><li> 家族 (かぞく) = família</li><li> 水族館 (すいぞくかん) = aquário</li></ul>|
+| 怒 | ficar bravo |<ul><li>おこる (いかる)</li><li>ド</li></ul>|<ul><li> 父が　怒った。 (ちちが　おこった。) = Meu pai ficou bravo.</li><li> げき怒 (げきど) = fúria</li></ul>|
+
+
+
 |  | cidade |<ul><li></li><li></li></ul>|<ul><li>  () = cidade e vila</li><li>  () = prefeito</li></ul>|
 |  | riso |<ul><li></li><li></li></ul>|<ul><li>  () = Rio em voz alta.</li><li>  () = dar gargalhadas</li></ul>|
 |  | distrito, bairro |<ul><li>***</li><li></li></ul>|<ul><li>  () subprefeitura</li><li>  () = bairro de Shijuku, Tóquio</li></ul>|

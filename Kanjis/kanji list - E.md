@@ -24,18 +24,15 @@
 | 遅 | tarde, devagar |<ul><li>おくれる・おそい</li><li>チ</li></ul>|<ul><li> 電車が　遅れる。 (でんしゃが　おくれる。) O trem atrasa.</li><li> 遅い 時間 (おそい　じかん) = horário tarde</li><li> 遅こくする (ちこくする) = atrasar-se</li></ul>|
 | 族 | família |<ul><li>***</li><li>ゾク</li></ul>|<ul><li> 家族 (かぞく) = família</li><li> 水族館 (すいぞくかん) = aquário</li></ul>|
 | 怒 | ficar bravo |<ul><li>おこる (いかる)</li><li>ド</li></ul>|<ul><li> 父が　怒った。 (ちちが　おこった。) = Meu pai ficou bravo.</li><li> げき怒 (げきど) = fúria</li></ul>|
-
-
-
-|  | cidade |<ul><li></li><li></li></ul>|<ul><li>  () = cidade e vila</li><li>  () = prefeito</li></ul>|
-|  | riso |<ul><li></li><li></li></ul>|<ul><li>  () = Rio em voz alta.</li><li>  () = dar gargalhadas</li></ul>|
-|  | distrito, bairro |<ul><li>***</li><li></li></ul>|<ul><li>  () subprefeitura</li><li>  () = bairro de Shijuku, Tóquio</li></ul>|
-|  | pronome de terceira pessoa |<ul><li></li><li>()</li></ul>|<ul><li>  () = ele</li><li>  () = ela</li></ul>|
-|  | gelado |<ul><li> () </li><li></li></ul>|<ul><li>  () = Esfrio com gelo.</li><li>  () = água gelada</li><li>  () = geladeira</li></ul>|
-|  | chá |<ul><li>***</li><li></li></ul>|<ul><li>  () = chá preto gelado</li><li>  () = Entro na lanchonete.</li></ul>|
-|  | pergunta |<ul><li></li><li></li></ul>|<ul><li>  () = perguntar</li><li>  () = questões de meio ambiente</li></ul>|
-|  | explicar |<ul><li>()</li><li></li></ul>|<ul><li>  () = Explico as regras.</li><li>  () = Leio o romance.</li></ul>|
-|  | usar |<ul><li></li><li></li></ul>|<ul><li>  () = Uso a tesoura.</li><li>  () = taxa de uso</li></ul>|
-|  | saber |<ul><li></li><li></li></ul>|<ul><li>  () = Conheci o nome.</li><li>  () = conhecimento</li></ul>|
-|  | pesquisa, amolar |<ul><li></li><li></li></ul>|<ul><li>  () = Amolo a faca.</li><li>  () = laboratório</li></ul>|
-|  | estudar exaustivamente |<ul><li></li><li></li></ul>|<ul><li>  () = Aprofundo-me nos estudos.</li><li>  () = Pesquiso.</li></ul>|
+| 町 | cidade |<ul><li>まち</li><li>チョウ</li></ul>|<ul><li> 町と　村 (まちと　むら) = cidade e vila</li><li> 町長 (ちょうちょう) = prefeito</li></ul>|
+| 笑 | riso |<ul><li>わらう</li><li>ショウ</li></ul>|<ul><li> 大声で　笑う。 (おおごえで わらう。) = Rio em voz alta.</li><li> ばく笑する (ばくしょうする) = dar gargalhadas</li></ul>|
+| 区 | distrito, bairro |<ul><li>***</li><li>ク</li></ul>|<ul><li> 区やく所 (くやくしょ) subprefeitura</li><li> 東京都　新じゅく区 (とうきょうと　しんじゅくく) = bairro de Shijuku, Tóquio</li></ul>|
+| 彼 | pronome de terceira pessoa |<ul><li>かれ・かの</li><li>(ヒ)</li></ul>|<ul><li> 彼 (かれ) = ele</li><li> 彼女 (かのじょ) = ela</li></ul>|
+| 冷 | gelado |<ul><li>ひやす (さます) つめたい</li>レイ<li></li></ul>|<ul><li> こおりで 冷やす。 (こおりで ひやす。) = Esfrio com gelo.</li><li> 冷たい　水 (つめたい みず) = água gelada</li><li> 冷ぞうこ (れいぞうこ) = geladeira</li></ul>|
+| 茶 | chá |<ul><li>***</li><li>サ・チャ</li></ul>|<ul><li> 冷たい　こう茶 (つめたい こうちゃ) = chá preto gelado</li><li> きっ茶店に　入る。 (きっさてんに　はいる。) = Entro na lanchonete.</li></ul>|
+| 問 | pergunta |<ul><li>とう</li><li>モン</li></ul>|<ul><li> 問い合わせる (といあわせる) = perguntar</li><li> かんきょう　問だい (かんきょう もんだい) = questões de meio ambiente</li></ul>|
+| 説 | explicar |<ul><li>(とく)</li><li>セツ</li></ul>|<ul><li> ルールを 説明する。 (ルールを　せつめいする。) = Explico as regras.</li><li> 小説を　読む。 (しょうせつを よむ。) = Leio o romance.</li></ul>|
+| 使 | usar |<ul><li>つかう</li><li>シ</li></ul>|<ul><li> はさみを　使う。 (はさみを　つかう。) = Uso a tesoura.</li><li> 使よう料金 (しようりょうきん) = taxa de uso</li></ul>|
+| 知 | saber |<ul><li>しる</li><li>チ</li></ul>|<ul><li> 名前を 知った。 (なまえを　しった。) = Conheci o nome.</li><li> 知しき (ちしき) = conhecimento</li></ul>|
+| 研 | pesquisa, amolar |<ul><li>とぐ</li><li>ケン</li></ul>|<ul><li> ほうちょうを　研ぐ。 (ほうちょうを　とぐ。) = Amolo a faca.</li><li> 研きゅう所 (けんきゅうじょ) = laboratório</li></ul>|
+| 究 | estudar exaustivamente |<ul><li>きわめる</li><li>キュウ</li></ul>|<ul><li> 学問を 究める。 (がくもんを きわめる。) = Aprofundo-me nos estudos.</li><li> 研究する。 (けんきゅうする。) = Pesquiso.</li></ul>|

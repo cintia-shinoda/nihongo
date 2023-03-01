@@ -138,3 +138,4 @@
 | 105 | 08/02/2023 |<ul><li>D - 191</li><li>Teste D</li></ul>|<ul><li>語彙の まとめ (ごいの まとめ)</li><li>日本語 テスト D</li></ul>|<ul><li>Revisão das palavras</li><li>Teste de Assimilação D</li></ul>
 | 106 | 17/02/2023 | E - 1 | 漢字 １ | Kanji 1 |
 | 107 | 22/02/2023 | E - 11 | て形 (てけい) | Forma て |
+| 108 | 01/03/2023 | E - 21 | 依頼表現 (いらいひょうげん) | Expressões de pedido |

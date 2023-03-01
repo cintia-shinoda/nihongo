@@ -25,3 +25,24 @@
 |:---:|:---:|:---:|:---:|
 | fazer | する | して | しないで |
 | vir | 来る (くる) | 来て (きて) | 来ないで (こないで) |
+
+<br>
+
+
+## Expressões de pedido
+
+### ```para solicitar, pedir algum objeto, etc...```
+コーヒー **を ください**。 = Dê-me café, por favor.
+
+### ```expressão de pedido```
+メニュー を 見せる。　→　メニュー を 見せ**て ください**。
+
+Mostro o menu. → Mostre-me o menu, por favor.
+
+### ```pedido na negativa```
+さとう を 入れない。→　さとう を 入れ**ないで　ください**。
+
+Não coloco açúcar. → Não coloque açúcar, por favor.
+
+### ```どうぞ```
+- expressão formal utilizada quando oferecemos algo a uma pessoa.

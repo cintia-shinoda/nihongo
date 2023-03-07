@@ -26,7 +26,7 @@
 | fazer | する | して | しないで |
 | vir | 来る (くる) | 来て (きて) | 来ないで (こないで) |
 
-<br>
+<br><br>
 
 
 ## Expressões de pedido
@@ -46,3 +46,48 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 
 ### ```どうぞ```
 - expressão formal utilizada quando oferecemos algo a uma pessoa.
+<br><br>
+
+
+## Gerúndio (~ている) - 1
+### ```吹く (ふく) = soprar```
+
+|  | NÃO pret. AFIRM. | NÃO pret. NEG. |
+|:---:|:---|:---|
+| informal | 吹い**ている** (ふいている) | 吹い**ていない** (ふいていない) |
+| formal | 吹い**ています** (ふいています) | 吹い**ていません** (ふいていません) |
+
+
+### ```見る (みる) = ver```
+
+|  | NÃO pret. AFIRM. | NÃO pret. NEG. |
+|:---:|:---|:---|
+| informal | 見**ている** (みている) | 見**ていない** (みていない) |
+| formal | 見**ています** (みています) | 見**ていません** (みていません) |
+
+
+### ```する = fazer```
+
+|  | NÃO pret. AFIRM. | NÃO pret. NEG. |
+|:---:|:---|:---|
+| informal | している | していない |
+| formal | しています | していません |
+
+
+- nevando/chovendo: 降っている (ふっている)
+- brincando: 遊んでいる (あそんでいる)
+- preparando/fazendo: 作っている (つくっている)
+- correndo: 走っている (はしっている)
+- lendo: 読んでいる (よんでいる)
+- fumando: すっている
+- carregando: 運んでいる (はこんでいる)
+- comendo: 食べている (たべている)
+- chorando: 泣ている (なている)
+- arrumando: 片づける (かたづける)
+- estudando: 勉強している (べんきょうしている)
+- funcionando: 動いている (うごいている)
+- cantando: 歌っている (うたっている)
+- dançando: おどっている
+- sorrindo: 笑っている (わらっている)
+- caminhando: 歩いている (あるいている)
+- empurrando: おしている

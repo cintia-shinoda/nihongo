@@ -95,7 +95,7 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 
 
 
-### ```  () = aprender```
+### ```習う (ならう) = aprender```
 
 |  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
 |:---:|:---|:---|:---|
@@ -103,7 +103,7 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 | formal |  |  |  |
 
 
-### ```  () = ensinar```
+### ```教える (おしえる) = ensinar```
 
 |  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
 |:---:|:---|:---|:---|
@@ -111,7 +111,7 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 | formal |  |  |  |
 
 
-### ``` = fazer```
+### ```する = fazer```
 
 |  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
 |:---:|:---|:---|:---|

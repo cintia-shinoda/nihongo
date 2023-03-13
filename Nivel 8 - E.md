@@ -91,3 +91,29 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 - sorrindo: 笑っている (わらっている)
 - caminhando: 歩いている (あるいている)
 - empurrando: おしている
+
+
+
+
+### ```  () = aprender```
+
+|  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
+|:---:|:---|:---|:---|
+| informal |  |  |  |
+| formal |  |  |  |
+
+
+### ```  () = ensinar```
+
+|  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
+|:---:|:---|:---|:---|
+| informal |  |  |  |
+| formal |  |  |  |
+
+
+### ``` = fazer```
+
+|  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
+|:---:|:---|:---|:---|
+| informal |  |  |  |
+| formal |  |  |  |

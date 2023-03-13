@@ -93,27 +93,29 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 - empurrando: おしている
 
 
-
-
-### ```習う (ならう) = aprender```
-
-|  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
-|:---:|:---|:---|:---|
-| informal |  |  |  |
-| formal |  |  |  |
-
-
-### ```教える (おしえる) = ensinar```
+## Hábito: ~ている
+- hábito ou ação contínua
+### Pretérito: ~ている -> ~ていた
+### Pretérito Negativo: ~いた -> ~ていなかった
+#### ```習う (ならう) = aprender```
 
 |  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
 |:---:|:---|:---|:---|
-| informal |  |  |  |
-| formal |  |  |  |
+| informal | 習っている | 習っていた | 習っていなかった |
+| formal | 習っています | 習っていました | 習っていませんでした |
 
 
-### ```する = fazer```
+#### ```教える (おしえる) = ensinar```
 
 |  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
 |:---:|:---|:---|:---|
-| informal |  |  |  |
-| formal |  |  |  |
+| informal | 教えている | 教えていた | 教えていなかった |
+| formal | 教えています | 教えていました | 教えていませんでした |
+
+
+#### ```する = fazer```
+
+|  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
+|:---:|:---|:---|:---|
+| informal | している | していた | していなかった |
+| formal | しています | していました | していませんでした |

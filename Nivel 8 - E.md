@@ -49,7 +49,13 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 <br><br>
 
 
-## Gerúndio (~ている) - 1
+## ~ている
+- gerúndio
+- hábito ou ação contínua
+- continuação do resultado de uma ação
+- estado
+
+
 ### ```吹く (ふく) = soprar```
 
 |  | NÃO pret. AFIRM. | NÃO pret. NEG. |
@@ -93,8 +99,6 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 - empurrando: おしている
 
 
-## Hábito: ~ている
-- hábito ou ação contínua
 ### Pretérito: ~ている -> ~ていた
 ### Pretérito Negativo: ~いた -> ~ていなかった
 #### ```習う (ならう) = aprender```
@@ -119,3 +123,30 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 |:---:|:---|:---|:---|
 | informal | している | していた | していなかった |
 | formal | しています | していました | していませんでした |
+
+
+
+### ```すわっている = estar sentado```
+
+|  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
+|:---:|:---|:---|:---|
+| informal | すわっている | すわっていた | すわっていなかった |
+| formal | すわっています | すわっていました | すわっていませんでした |
+<br>
+
+
+### ```立っている (たっている) = estar de pé```
+
+|  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
+|:---:|:---|:---|:---|
+| informal | 立っている (たっている) | 立っていた (たっていた) | 立っていなかった (たっていなかった) |
+| formal | 立っています (たっています) | 立っていました (たっていました) | 立っていませんでした (たっていませんでした) |
+<br>
+
+
+###  ```空いている (あいている) = estar livre (o assento)```
+
+|  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
+|:---:|:---|:---|:---|
+| informal | 空いている (あいている) | 空いていた (あいていた) | 空いていなかった (あいていなかった) |
+| formal | 空いています (あいています) | 空いていました (あいていました) | 空いていませんでした (あいていませんでした) |

@@ -36,3 +36,43 @@
 | 知 | saber |<ul><li>しる</li><li>チ</li></ul>|<ul><li> 名前を 知った。 (なまえを　しった。) = Conheci o nome.</li><li> 知しき (ちしき) = conhecimento</li></ul>|
 | 研 | pesquisa, amolar |<ul><li>とぐ</li><li>ケン</li></ul>|<ul><li> ほうちょうを　研ぐ。 (ほうちょうを　とぐ。) = Amolo a faca.</li><li> 研きゅう所 (けんきゅうじょ) = laboratório</li></ul>|
 | 究 | estudar exaustivamente |<ul><li>きわめる</li><li>キュウ</li></ul>|<ul><li> 学問を 究める。 (がくもんを きわめる。) = Aprofundo-me nos estudos.</li><li> 研究する。 (けんきゅうする。) = Pesquiso.</li></ul>|
+<br><br>
+
+
+
+## E - 6
+
+| ideograma | traduções | leituras | exemplos |
+|:---:|:---|:---|:---|
+|  | nível |<ul><li>***</li><li></li></ul>|<ul><li> () = nível</li><li> () = vice-campeão</li></ul>|
+|  | prevenir |<ul><li></li><li></li></ul>|<ul><li> () = Previno-me para o tufão.</li><li> () = Preparo</li></ul> |
+|  | preto |<ul><li></li><li></li></ul> |<ul><li> () = carteira preta</li><li> () = Escrevo na lousa.</li></ul> |
+|  | caixa |<ul><li></li><li>***</li></ul>|<ul><li> () = Coloco na caixa.</li><li> () = caixa de papelão</li></ul> |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |

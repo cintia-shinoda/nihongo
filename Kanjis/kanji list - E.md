@@ -48,31 +48,32 @@
 |  | prevenir |<ul><li></li><li></li></ul>|<ul><li> () = Previno-me para o tufão.</li><li> () = Preparo</li></ul> |
 |  | preto |<ul><li></li><li></li></ul> |<ul><li> () = carteira preta</li><li> () = Escrevo na lousa.</li></ul> |
 |  | caixa |<ul><li></li><li>***</li></ul>|<ul><li> () = Coloco na caixa.</li><li> () = caixa de papelão</li></ul> |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+|  | trabalho |<ul><li></li><li></li></ul>|<ul><li> () = Trabalho na fábrica</li><li> () trabalhador</li></ul>|
+|  | cor |<ul><li></li><li> ()</li></ul>|<ul><li> () = cor do semáforo</li><li> () = peculiaridade do festival</li></ul>|
+|  | amarelo |<ul><li></li><li>()</li></ul>|<ul><li> () = chapéu amarelo</li><li> () = gema de ovo</li></ul>|
+|  | contagem para objetos planos |<ul><li>***</li><li></li></ul>|<ul><li> () = um bilhete</li><li> () = Compro cem folhas coloridas</li></ul>|
+|  | lavar |<ul><li></li><li></li></ul>|<ul><li> () = Lavo as mãos.</li><li> () = máquina de lavar roupas</li></ul>|
+|  | ambos |<ul><li>***</li><li></li></ul>|<ul><li> () = pais</li><li> () = ambos</li><li>ambas as mãos</li></ul>|
+|  | feliz, contente |<ul><li></li><li></li></ul>|<ul><li> () = Ele ficou contente.</li><li> () = comédia</li></ul>|
+|  | triste |<ul><li></li><li></li></ul>|<ul><li> () = romance triste</li><li> () = tragédia</li></ul>|
+|  | coração |<ul><li></li><li></li></ul>|<ul><li> () = coração e corpo</li><li> () = preocupar-se</li></ul>|
+|  | planos, medir |<ul><li>()</li><li></li></ul>|<ul><li> () = Planejo.</li><li> () = relógio</li></ul>|
+|  | fugir |<ul><li></li><li></li></ul>|<ul><li> () = O criminoso foge.</li><li> () = fuga</li></ul>|
+|  | costa, lado de trás |<ul><li></li><li>()</li></ul>|<ul><li> () = É alto.</li><li> () = costas</li></ul>|
+|  | enviar |<ul><li></li><li></li></ul>|<ul><li> () = Envio o dinheiro.</li><li> () = transmissão de TV</li></ul>|
+|  | ajuda |<ul><li></li><li></li></ul>|<ul><li> () = Ajudo o sustento (de alguém).</li><li> () = salvar</li></ul>|
+|  | água quente |<ul><li></li><li></li></ul>|<ul><li> () = água quente e água (fria)</li><li> () = água fervente</li></ul>|
+|  | gelo |<ul><li></li><li></li></ul>|<ul><li> () = Esfrio com gelo</li><li> () = (temperatura) abaixo de zero</li></ul>|
+|  | cópia |<ul><li></li><li></li></ul>|() = Fotografo paisagens com a câmera fotográfica.|
+|  | verdade |<ul><li></li><li></li></ul>|<ul><li> () = (Faço) com toda dedicação.</li><li> () = Tiro fotos.</li></ul>|
+|  | empurrar |<ul><li></li><li>()</li></ul>|<ul><li> () = Empurro o carrinho de bebê.</li><li> () = Seguro o papel com a mão.</li></ul>|
+|  | marido |<ul><li></li><li> ()</li></ul>|<ul><li> () = marido da minha irmã mais nova</li><li> () = Adapto. (Invento.)</li></ul>|
+|  | mulher adulta |<ul><li***>***</li***><li></li></ul>|<ul><li> () = casal</li><li> () = roupa feminina</li></ul>|
+|  | acordar |<ul><li></li><li></li></ul>|<ul><li> () = Acordo de manhã.</li><li> () = levantar-se</li></ul>|
+|  | deus |<ul><li> ()</li><li> ()</li></ul>|<ul><li> () = deus</li><li> () = templo xintoísta</li></ul>|
+|  | idoso |<ul><li></li><li></li></ul>|<ul><li> () = minha avó idosa</li><li> () = idoso</li></ul>|
+|  | jovem |<ul><li></li><li>()</li></ul>|<ul><li> () = casal jovem</li><li> () = É três anos mais jovem do que eu.</li></ul>|
+|  | fraco |<ul><li></li><li></li></ul>|<ul><li> () = time fraco</li><li> () = O corpo é fraco.</li><li> () = ponto fraco</li></ul>|
+|  | cidade / mercado |<ul><li></li><li></li></ul>|<ul><li> () = mercado de peixes</li><li> () = cidade de Osaka</li></ul>|
+|  | província |<ul><li>***</li><li></li></ul>|<ul><li> () = província de Aomori</li><li> () = prédio da sede do governo provincial</li></ul>|
+|  | portão |<ul><li>()</li><li></li></ul>|<ul><li> () = Fecho o portão</li><li> () = portão principal da escola</li></ul>|

@@ -176,3 +176,27 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 | 書いてあった (書いてあった) | 書いてありました (かいてありました) | estava escrito |
 | はってあった | はってありました | estava colado(a) |
 | しいてあった | しいてありました | estava feito |
+
+
+### ```Verbo que modifica o substantivo```
+#### verbo no infinitivo + substantivo
+
+少年　が　サッカー　を　する。
+ = O rapaz joga futebol.
+
+サッカー　を　する　少年。
+ = rapaz que joga futebol
+
+#### ~ている  + substantivo
+
+家族　が　おべんとう　を　食べている。
+ = A família está comendo marmita.
+
+おべんとう　を　食べている　家族。
+ = família que está comendo marmita
+
+
+ #### frases no estilo  formal
+ - utilizamos o verbo no estilo informal
+ 少年　が　サッカー　を　**します**。
+ サッカー を　**する**　少年。

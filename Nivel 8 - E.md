@@ -200,3 +200,11 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
  - utilizamos o verbo no estilo informal
  少年　が　サッカー　を　**します**。
  サッカー を　**する**　少年。
+
+
+ #### pretérito
+ りゅう学生　が　中国　から　**来た**。
+ = O estudante estrangeiro veio da China.
+
+中国　から　**来た**　りゅう学生。
+= estudante estrangeiro que veio da China.

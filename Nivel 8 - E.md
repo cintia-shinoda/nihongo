@@ -208,3 +208,66 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 
 中国　から　**来た**　りゅう学生。
 = estudante estrangeiro que veio da China.
+
+<br>
+
+
+### Expressões de possibilidades
+#### ```não pretérito```
+##### ```afirmativo```
+Consigo tocar violino.
+
+|  |  |
+|:---|:---|
+| informal | バイオリン　を　ひく　こと　が　**できる**。 |
+| formal | バイオリン　を　ひく　こと　が　**できます**。 |
+
+##### ```negativo```
+Não consigo tocar flauta.
+
+|  |  |
+|:---|:---|
+| informal | フルート　を　吹く　こと　が　**できない**。 |
+| formal | フルート　を　吹く　こと　が　**できません**。 |
+
+<br>
+
+#### ```pretérito```
+##### ```afirmativo```
+Consegui tocar piano.
+|  |  |
+|:---|:---|
+| informal | ピアノ　を　ひく　こと　が　**できた**。 |
+| formal | ピアノ　を　ひく　こと　が　**できました**。 |
+
+
+##### ```negativo```
+Não consegui tocar flauta.
+|  |  |
+|:---|:---|
+| informal | フルート　を　吹く　こと　が　**できなかった**。 |
+| formal | フルート　を　吹く　こと　が　**できませんでした**。 |
+
+<br>
+
+ピアノ　を　ひく　こと　**も**　できる。
+
+Também consigo tocar piano./Consigo também tocar piano.
+
+<br>
+
+ピアノ　を　ひく　こと　**は**　できない。
+
+- Não consigo tocar piano.
+- enfatizando que a pessoa consegue tocar outros instrumentos, mas não o piano.
+
+
+#### ```adjetivo que modifica o verbo```
+##### ```adjetivo い```
+- い -> く
+- 早**い** (はやい) = cedo -> 早**く**　起きる (やはく　おきる) = acordar cedo
+
+
+##### ```adjetivo な```
+- な -> に
+- 上手**な** (じょうずな) = bem -> 上手　**に** ひく (じょうず　に　ひく) = tocar bem

@@ -147,3 +147,4 @@
 | 114 | 12/04/2023 | E - 81 | 動詞の名詞修飾１ (どうしのめいししゅうしょく  １) | Verbo que modifica o substantivo 1 |
 | 115 | 26/04/2023 | E - 91 | 動詞の名詞修飾２ (どうしのめいししゅうしょく ２) | Verbo que modifica o substantivo 2 |
 | 116 | 03/05/2023 | E - 101 | もの、の、こと | "もの", "の" e "こと" |
+| 117 | 17/05/2023 | E - 111 | 可能表現 (かのうひょうげん) | Expressões de possibilidades |

@@ -271,3 +271,60 @@ Também consigo tocar piano./Consigo também tocar piano.
 ##### ```adjetivo な```
 - な -> に
 - 上手**な** (じょうずな) = bem -> 上手　**に** ひく (じょうず　に　ひく) = tocar bem
+
+<br><br>
+
+
+## E-121: ストーリー　１ (Histórias 1)
+### 祭り (まつり) : Festival
+
+今日　は　秋祭り　だ。
+きょう　は　あきまつり　だ。
+Hoje é festival de outono.
+
+神社　には　たくさん　の　店　が　出る。
+じんじゃ　には　たくさん　の　みせ　が　でる。
+No templo xintoísta são montadas muitas barracas.
+
+飲み物　や　食べ物　を　売る店　が　ある。
+のみもの　や　たべもの　を　うるみせ　が　ある。
+Há barracas que vendem bebidas e comidas.
+
+風船　を　売る店、金魚　を　売る店　も　ある。
+ふうせん　を　うるみせ、きんぎょ　を　うるみせ　も　ある。
+Há também barracas que vendem balões, barracas que vendem peixinhos vermelhos.
+
+じんじゃ　は　とても　にぎやか　だ。
+O templo xintoísta está bastante movimentado.
+<br>
+
+Desde manhã cedo, as pessoas da cidade se reúnem no templo xintoísta.
+
+São os jovens que carregarão um *mikoshi*.
+
+Todos estão vestidos de quimono especial de festival.
+
+Muitos jovens juntos carregam o *mikoshi*.
+
+No *mikoshi*, são colocados enfeites de várias cores.
+
+
+O *mikoshi* sai do templo xintoísta e dá uma volta pela cidade.
+
+"Wasshoi, wasshoi." As crianças da cidade bradam e correm atrás do *mikoshi*.
+
+"Saiam da frente. É perigoso. Não se aproximem."
+
+Na frente do *mikoshi*, um homem está chamando a atenção.
+
+<br>
+
+Os festivais possuem peculiaridades de acordo com a região.
+
+Há também muitos festivais que são realizados no verão.
+
+As pessoas aguardam com expectativa os festivais que são realizados uma vez por ano.
+
+O festival de Gion em Quito e o festival de Nebuta em Aomori são festivais muito grandes.
+
+Mais de um milhão de turistas de todo o país vêm ver.

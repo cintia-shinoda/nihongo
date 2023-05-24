@@ -77,3 +77,17 @@
 |  | cidade / mercado |<ul><li></li><li></li></ul>|<ul><li> () = mercado de peixes</li><li> () = cidade de Osaka</li></ul>|
 |  | província |<ul><li>***</li><li></li></ul>|<ul><li> () = província de Aomori</li><li> () = prédio da sede do governo provincial</li></ul>|
 |  | portão |<ul><li>()</li><li></li></ul>|<ul><li> () = Fecho o portão</li><li> () = portão principal da escola</li></ul>|
+
+
+## E - 12
+
+| ideograma | traduções | leituras | exemplos |
+|:---:|:---|:---|:---|
+| 祭 | festival |<ul><li>**まつ**り</li><li>サイ</li></ul>|<ul><li>秋 **祭**り (あき **まつ**り) = festival de outono</li><li>前夜 **祭** (ぜんや **さい**) = véspera de festejos</li></ul>|
+|  |<ul><li>outro</li><li>separado</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = **Despeço**-me dos meus amigos.</li><li> () = quimono **especial**</li></ul>|
+|  |<ul><li>mente</li><li>significado</li></ul>|<ul><li>＊＊＊</li><li></li></ul>|<ul><li> () = chamar a atenção</li><li> () = Meu ponto **forte** é culinária.</li></ul>|
+|  | para ... de |<ul><li></li><li></li></ul>|<ul><li> () = **mais de** um milhão de pessoas</li><li> () = **menos de** mil ienes</li></ul>|
+|  |<ul><li>visitar um lugar sagrado</li><li>participar</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = visita ao túmulo</li><li> () = Participo de um festival.</li></ul>|
+|  | tempos antigos |<ul><li></li><li>()</li></ul>|<ul><li> () = nome antigo</li><li> () = histórias antigas</li></ul>|
+|  | flauta |<ul><li></li><li></li></ul>|<ul><li> () = **flauta** e tambor</li><li> () = **apito** do trem</li></ul>|
+|  | dificuldade |<ul><li></li><li></li></ul>|<ul><li> () = Este exercício é **difícil**.</li><li> () = exercício **difícil**</li></ul>|

@@ -298,16 +298,26 @@ Há também barracas que vendem balões, barracas que vendem peixinhos vermelhos
 O templo xintoísta está bastante movimentado.
 <br>
 
+朝　早く　から、神社　に　町　の　人びと　が　あつまる。
+あさ　はやく　から、じんじゃ　に　まち　の　ひとびと　が　あつまる。
 Desde manhã cedo, as pessoas da cidade se reúnem no templo xintoísta.
 
+みこし　を　かつぐ　若ものたち　だ。
+みこし　を　かつぐ　わかものたち　だ。
 São os jovens que carregarão um *mikoshi*.
 
+みな、祭り　の　特別な　着物　を　着ている。
+みな、まつり　の　とくべつな　きもの　を　きている。
 Todos estão vestidos de quimono especial de festival.
 
+一つ　の　みこし　を、大ぜい　の　若ものたち　が　いっしょに　かつぐ。
+ひとつ　の　みこし　を、おおぜい　の　わかものたち　が　いっしょに　かつぐ。
 Muitos jovens juntos carregam o *mikoshi*.
 
+みこし　には、いろいろな　色　の　かざり　が　つけてある。
+みこし　には、いろいろな　いろ　の　かざり　が　つけてある。
 No *mikoshi*, são colocados enfeites de várias cores.
-
+<br>
 
 O *mikoshi* sai do templo xintoísta e dá uma volta pela cidade.
 

@@ -283,78 +283,91 @@ Também consigo tocar piano./Consigo também tocar piano.
 きょう　は　あきまつり　だ。
 
 Hoje é festival de outono.
+<br>
 
 神社　には　たくさん　の　店　が　出る。
 
 じんじゃ　には　たくさん　の　みせ　が　でる。
 
 No templo xintoísta são montadas muitas barracas.
+<br>
 
 飲み物　や　食べ物　を　売る店　が　ある。
 
 のみもの　や　たべもの　を　うるみせ　が　ある。
 
 Há barracas que vendem bebidas e comidas.
+<br>
 
 風船　を　売る店、金魚　を　売る店　も　ある。
 
 ふうせん　を　うるみせ、きんぎょ　を　うるみせ　も　ある。
 
 Há também barracas que vendem balões, barracas que vendem peixinhos vermelhos.
+<br>
 
 じんじゃ　は　とても　にぎやか　だ。
 
 O templo xintoísta está bastante movimentado.
-<br>
+<br><br>
+
 
 朝　早く　から、神社　に　町　の　人びと　が　あつまる。
 
 あさ　はやく　から、じんじゃ　に　まち　の　ひとびと　が　あつまる。
 
 Desde manhã cedo, as pessoas da cidade se reúnem no templo xintoísta.
+<br>
 
 みこし　を　かつぐ　若ものたち　だ。
 
 みこし　を　かつぐ　わかものたち　だ。
 
 São os jovens que carregarão um *mikoshi*.
+<br>
 
 みな、祭り　の　特別な　着物　を　着ている。
 
 みな、まつり　の　とくべつな　きもの　を　きている。
 
 Todos estão vestidos de quimono especial de festival.
+<br>
 
 一つ　の　みこし　を、大ぜい　の　若ものたち　が　いっしょに　かつぐ。
 
 ひとつ　の　みこし　を、おおぜい　の　わかものたち　が　いっしょに　かつぐ。
 
 Muitos jovens juntos carregam o *mikoshi*.
+<br>
 
 みこし　には、いろいろな　色　の　かざり　が　つけてある。
 
 みこし　には、いろいろな　いろ　の　かざり　が　つけてある。
 
 No *mikoshi*, são colocados enfeites de várias cores.
-<br>
+<br><br>
+
 
 みこし　は　神社　を　しゅっぱつして、町　を　一回り　する。
 
 みこし　は　じんじゃ　を　しゅっぱつして、まち　を　ひとまわり　する。
 
 O *mikoshi* sai do templo xintoísta e dá uma volta pela cidade.
+<br>
 
 わっしょい、わっしょい。　町　の　子どもたち　が　かけ声　を　かけて、みこし　を　おいかける。
 
 わっしょい、わっしょい。　まち　の　こどもたち　が　かけごえ　を　かけて、みこし　を　おいかける。
 
 "Wasshoi, wasshoi." As crianças da cidade bradam e correm atrás do *mikoshi*.
+<br>
 
 どいて　ください。　あぶない　です。　近く　に　こない　で　ください。
 
 どいて　ください。　あぶない　です。　ちかく　に　こない　で　ください。
 
 "Saiam da frente. É perigoso. Não se aproximem."
+<br>
 
 みこし　の　前　で、男の人　が　注意している。
 
@@ -362,31 +375,36 @@ O *mikoshi* sai do templo xintoísta e dá uma volta pela cidade.
 
 Na frente do *mikoshi*, um homem está chamando a atenção.
 
-<br>
+<br><br>
+
 
 まつり　は、地方　ごと　に　特色　が　ある。
 
 まつり　は、ちほう　ごと　に　とくしょく　が　ある。
 
 Os festivais possuem peculiaridades de acordo com a região.
+<br>
 
 夏　に　する　祭り　も　多い。
 
 なつ　に　する　まつり　も　おおい。
 
 Há também muitos festivais que são realizados no verão.
+<br>
 
 人びと　は、年一回　の　祭り　を　楽しみ　に　している。
 
 ひとびと　は、ねんいっかい　の　まつり　を　たのしみ　に　している。
 
 As pessoas aguardam com expectativa os festivais que são realizados uma vez por ano.
+<br>
 
 京都　の　ぎおん　祭り、青森県　の　ねぶた　祭り　は、とても　大きな　祭り　だ。
 
 きょうと　の　ぎおん　まつり、あおもりけん　の　ねぶた　まつり　は、とても　おおきな　まつり　だ。
 
 O festival de Gion em Quito e o festival de Nebuta em Aomori são festivais muito grandes.
+<br>
 
 全国　から　百万人　以上　の　観こう客　が　見物　に　来る。
 
@@ -394,7 +412,7 @@ O festival de Gion em Quito e o festival de Nebuta em Aomori são festivais muit
 
 Mais de um milhão de turistas de todo o país vêm ver.
 
-<br><br>
+<br><br><br>
 
 
 ### あわおどり : "Awaodori"

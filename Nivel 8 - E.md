@@ -541,3 +541,22 @@ Mas não consegue tocar shamisen.
 しゃみせん　を　ひく　の　は　むずかしい。
 
 Tocar shamisen é difícil. 
+
+
+## E-131: Expressões de conexão de tempo 1
+### ```〜時```
+representa o momento em que a situação ou a ação acontece (aconteceu)
+
+#### ```substantivo + の 時```
+
+
+Quando era estudante da escola do ensino fundamental (1o. a 6o. ano), internava-me com frequência.
+<br>
+
+#### ```adjetivo + 時```
+
+#### ```verbo no infinitivo + 時```
+
+#### ```verbo na forma た + 時```
+
+#### ``` 〜ている (〜ていた) + 時```

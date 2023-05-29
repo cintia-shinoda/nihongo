@@ -548,12 +548,24 @@ Tocar shamisen é difícil.
 representa o momento em que a situação ou a ação acontece (aconteceu)
 
 #### ```substantivo + の 時```
+小学生　の　時、よく　入院　を　した。
 
+しょうがくせい　の　とき、よく　にゅういん　を　した。
 
 Quando era estudante da escola do ensino fundamental (1o. a 6o. ano), internava-me com frequência.
-<br>
+<br><br>
+
 
 #### ```adjetivo + 時```
+おさない　時、　私　は　体　が　よわかった。
+
+おさない　とき、　わたし　は　からだ　が　よわかった。
+
+Quando era muito novo, meu corpo era fraco.
+
+** Mesmo que a frase esteja no pretérito, o adjetivo "おさない" pode ser utilizado no não-pretérito.
+<br><br>
+
 
 #### ```verbo no infinitivo + 時```
 

@@ -545,10 +545,10 @@ Tocar shamisen é difícil.
 
 ## E-131: Expressões de conexão de tempo 1
 ### ```〜時```
-representa o momento em que a situação ou a ação acontece (aconteceu)
+representa o momento em que a situação ou a ação acontece / aconteceu
 
 #### ```substantivo + の 時```
-小学生　の　時、よく　入院　を　した。
+小学生　**の　時**、よく　入院　を　した。
 
 しょうがくせい　の　とき、よく　にゅういん　を　した。
 
@@ -557,7 +557,7 @@ Quando era estudante da escola do ensino fundamental (1o. a 6o. ano), internava-
 
 
 #### ```adjetivo + 時```
-おさない　時、　私　は　体　が　よわかった。
+おさない　**時**、　私　は　体　が　よわかった。
 
 おさない　とき、　わたし　は　からだ　が　よわかった。
 
@@ -568,7 +568,28 @@ Quando era muito novo, meu corpo era fraco.
 
 
 #### ```verbo no infinitivo + 時```
+本　を　読む　**時**、めがね　を　かける。
+
+ほん　を　よむ　とき、めがね　を　かける。
+
+Quando leio livro, ponho os óculos.
+<br><br>
+
 
 #### ```verbo na forma た + 時```
+中学生　に　なった　**時**、けん道ぶ　に　入った。
+
+ちゅうがくせい　に　なった　とき、けんどうぶ　に　はいった。
+
+Quando me tornei estudante da escola do ensino fundamental (7o. a 9o. ano), entrei no clube de kendo.
+<br><br>
+
 
 #### ``` 〜ている (〜ていた) + 時```
+運動　を　している　**時　が**、一ばん　楽しい。
+
+うんどう　を　している　とき　が、いちばん　たのしい。
+
+Quando estou praticando esporte é quando mais me divirto.
+
+** A partícula "が" dá ênfase ao momento em que se pratica esporte, que é mais divertido em comparação a outros momentos.

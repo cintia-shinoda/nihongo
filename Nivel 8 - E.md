@@ -593,3 +593,19 @@ Quando me tornei estudante da escola do ensino fundamental (7o. a 9o. ano), entr
 Quando estou praticando esporte é quando mais me divirto.
 
 ** A partícula "が" dá ênfase ao momento em que se pratica esporte, que é mais divertido em comparação a outros momentos.
+
+
+## E-141: Expressões de conexão de tempo 2
+### ```substantivo + " ()"``` e ```substantivo + " ()"```
+
+Lavo as mãos **antes** da refeição.
+
+Escovo os dentes **depois** da refeição.
+
+### ```verbo no Infinitivo + " ()"```
+
+Vou ao banco antes de fazer as compras.
+
+### ```verbo na forma た + " ()"```
+
+Coloco o macarrão e o tempero da sopa depois de a água ferver.

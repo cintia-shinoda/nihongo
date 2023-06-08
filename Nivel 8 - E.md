@@ -593,6 +593,8 @@ Quando me tornei estudante da escola do ensino fundamental (7o. a 9o. ano), entr
 Quando estou praticando esporte é quando mais me divirto.
 
 ** A partícula "が" dá ênfase ao momento em que se pratica esporte, que é mais divertido em comparação a outros momentos.
+<br><br>
+
 
 
 ## E-141: Expressões de conexão de tempo 2

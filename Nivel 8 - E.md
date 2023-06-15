@@ -611,3 +611,72 @@ Vou ao banco antes de fazer as compras.
 ### ```verbo na forma た + " ()"```
 
 Coloco o macarrão e o tempero da sopa depois de a água ferver.
+
+<br><br>
+
+
+
+## E-151 - Expressões de suposição
+
+### ```frase substantiva e frase adjetiva```
+明日　は　くもり　**だ**。(あした　は　くもり　だ。) = Amanhã estará nublado
+
+|  |   | expressão de suposição |
+|:---:|:---|:---|
+| informal | くもり　だ | くもり　だろう |
+| formal | くもり　です | くもり　でしょう |
+
+<br>
+
+
+### ``````
+明日　は　今日　より　さむい。 (あした　は　きょう　より　さむい。) = Amanhã estará mais frio do que hoje.
+
+ |  |   |   |
+|:---:|:---|:---|
+| informal | 寒い　(さむい) | 寒い　だろう　(さむい　だろう) |
+| formal | 寒い　です (さむい　です) | 寒い　でしょう (さむい　でしょう) |
+
+<br>
+
+
+### ``````
+ () = A gincana poliesportiva será adiada.
+
+|  |   |   |
+|:---:|:---|:---|
+| informal |  |  |
+| formal |  |  |
+
+<br>
+
+
+### ```expressões de suposição na forma negativa```
+ () = Ele não é criminoso.
+
+|  |   |   |
+|:---:|:---|:---|
+| informal |  |  |
+| formal |  |  |
+
+<br>
+
+
+### ``````
+ () = A prova de matemática não é difícil.
+
+ |  |   |   |
+|:---:|:---|:---|
+| informal |  |  |
+| formal |  |  |
+
+<br>
+
+
+### ``````
+ () = À tarde também a chuva não para.
+
+ |  |   |   |
+|:---:|:---|:---|
+| informal |  |  |
+| formal |  |  |

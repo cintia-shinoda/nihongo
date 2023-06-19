@@ -680,3 +680,17 @@ Coloco o macarrão e o tempero da sopa depois de a água ferver.
 |:---:|:---|:---|
 | informal | やまない | やまない　だろう |
 | formal | やみません | やまない　でしょう |
+
+<br>
+
+
+
+## E-161 - Expressões de Convite
+日本　に　行きます。 -> Vou ao Japão.
+
+にほん　に　行きましょう。-> Vamos ao Japão.
+
+にほん　に　行きませんか。-> Não gostaria de ir ao Japão?
+
+
+há situações em que ```"に"``` representa OBJETIVO e não o local.

@@ -632,7 +632,7 @@ Coloco o macarrão e o tempero da sopa depois de a água ferver.
 ### ``````
 明日　は　今日　より　さむい。 (あした　は　きょう　より　さむい。) = Amanhã estará mais frio do que hoje.
 
- |  |   |   |
+ |  |   | expressão de suposição |
 |:---:|:---|:---|
 | informal | 寒い　(さむい) | 寒い　だろう　(さむい　だろう) |
 | formal | 寒い　です (さむい　です) | 寒い　でしょう (さむい　でしょう) |
@@ -641,42 +641,42 @@ Coloco o macarrão e o tempero da sopa depois de a água ferver.
 
 
 ### ``````
- () = A gincana poliesportiva será adiada.
+運動会　は　えんきに　なる。 (うんどうかい　は　えんきに　なる。) = A gincana poliesportiva será adiada.
 
-|  |   |   |
+|  |   | expressão de suposição |
 |:---:|:---|:---|
-| informal |  |  |
-| formal |  |  |
+| informal | なる | なる　だろう |
+| formal | なります | なる　でしょう |
 
 <br>
 
 
 ### ```expressões de suposição na forma negativa```
- () = Ele não é criminoso.
+彼　は　はん人　では　ない。 (かれ　は　はんにん　では　ない。) = Ele não é criminoso.
 
-|  |   |   |
+|  |   | expressão de suposição |
 |:---:|:---|:---|
-| informal |  |  |
-| formal |  |  |
+| informal | はん人 では ない (はんにん では ない) | はん人 では ない だろう (はんにん では ない だろう) |
+| formal | はん人 では ありません (はんにん では ない ありません) | はん人 では ない でしょう (はんにん では ない でしょう) |
 
 <br>
 
 
 ### ``````
- () = A prova de matemática não é difícil.
+数学　の　試けん　は　難しく　ない。 (すうがく　の　しけん　は　むずかしく　ない。) = A prova de matemática não é difícil.
 
- |  |   |   |
+ |  |   | expressão de suposição |
 |:---:|:---|:---|
-| informal |  |  |
-| formal |  |  |
+| informal | 難しく ない (むずかしく　ない) | 難しく ない だろう (むずかしく　ない　だろう) |
+| formal | 難しく　ありません (むずかしく　ありません) | 難しく　ない　でしょう (むずかしく　ない　でしょう) |
 
 <br>
 
 
 ### ``````
- () = À tarde também a chuva não para.
+午後　も　雨　は　やまない。 (ごご　も　あめ　は　やまない。) = À tarde também a chuva não para.
 
- |  |   |   |
+ |  |   | expressão de suposição |
 |:---:|:---|:---|
-| informal |  |  |
-| formal |  |  |
+| informal | やまない | やまない　だろう |
+| formal | やみません | やまない　でしょう |

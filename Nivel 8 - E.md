@@ -694,3 +694,28 @@ Coloco o macarrão e o tempero da sopa depois de a água ferver.
 
 
 há situações em que ```"に"``` representa OBJETIVO e não o local.
+
+
+## E-171 - Expressões de Convite 2
+### Estilo INformal
+#### ```verbos do Grupo I```
+
+| infinitivo | tradução |  | expressão de convite no estilo informal |
+|:---:|:---:|:---:|:---:|
+|  () | convidar |  ->  |  () |
+|  () | encontrar-se |  ->  |  () |
+|  () | passar (um tempo) |  ->  |  () |
+|  () | esperar |  ->  |  () |
+|  () | voltar |  ->  |  () |
+
+
+
+#### ```verbos do Grupo II```
+
+| infinitivo | tradução | expressão de convite no estilo informal |
+|:---:|:---:|:---:|
+
+
+#### ```verbos Irregulares```
+| infinitivo | tradução | expressão de convite no estilo informal |
+|:---:|:---:|:---:|

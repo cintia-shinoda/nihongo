@@ -685,37 +685,45 @@ Coloco o macarrão e o tempero da sopa depois de a água ferver.
 
 
 
-## E-161 - Expressões de Convite
-日本　に　行きます。 -> Vou ao Japão.
+## E-161・E-171 - Expressões de Convite
+### Estilo ```Formal```
+日本 に 行き**ます**。(Vou ao Japão.) -> 日本 に 行き**ましょう**。(Vamos ao Japão.)
 
-にほん　に　行きましょう。-> Vamos ao Japão.
-
-にほん　に　行きませんか。-> Não gostaria de ir ao Japão?
-
-
-há situações em que ```"に"``` representa OBJETIVO e não o local.
+#### ```mais formal```
+日本　に　行き**ませんか**。-> Não gostaria de ir ao Japão?
 
 
-## E-171 - Expressões de Convite 2
-### Estilo INformal
+há situações em que ```に``` representa OBJETIVO e não o local.
+
+### Estilo ```INformal```
 #### ```verbos do Grupo I```
 
 | infinitivo | tradução |  | expressão de convite no estilo informal |
 |:---:|:---:|:---:|:---:|
-|  () | convidar |  ->  |  () |
-|  () | encontrar-se |  ->  |  () |
-|  () | passar (um tempo) |  ->  |  () |
-|  () | esperar |  ->  |  () |
-|  () | voltar |  ->  |  () |
-
+| 会**う** (あ**う**) | encontrar-se | う -> お | 会**お**う (あ**お**う) |
+| 行**く** (い**く**) | ir correndo | く -> こ | い**こ**う (い**こ**う) |
+| すご**す** | passar (um tempo) | す -> そ | すご**そ**う |
+| 待**つ** (ま**つ**) | esperar | つ -> と | 待**と**う (ま**と**う) |
+| 呼**ぶ** (よ**ぶ**) | convidar | ぶ -> ぼ | 呼**ぼ**う (よ**ぼ**う) |
+| 帰**る** (かえ**る**) | voltar | る -> ろ | 帰**ろ**う (かえ**ろ**う) |
+<br>
 
 
 #### ```verbos do Grupo II```
 
 | infinitivo | tradução | expressão de convite no estilo informal |
 |:---:|:---:|:---:|
+| 見**る** (み**る**) | ver | 見**よう** (み**よう**) |
+| 食べ**る** (たべ**る**) | comer | 食べ**よう** (たべ**よう**) |
+| 起き**る** (おき**る**) | acordar | 起き**よう** (おき**よう**) |
+| しらべ**る** | verificar | しらべ**よう** |
+| 立て**る** (たて**る**) | planejar | 立て**よう** (たて**よう**) |
+| 借り**る** (かり**る**) | pegar emprestado | 借り**よう** (かり**よう**) |
+<br>
 
 
 #### ```verbos Irregulares```
 | infinitivo | tradução | expressão de convite no estilo informal |
 |:---:|:---:|:---:|
+| する | fazer | しよう |
+| 来る (くる) | vir | 来よう (こよう) |

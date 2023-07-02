@@ -91,3 +91,17 @@
 |  | tempos antigos |<ul><li></li><li>()</li></ul>|<ul><li> () = nome antigo</li><li> () = histórias antigas</li></ul>|
 |  | flauta |<ul><li></li><li></li></ul>|<ul><li> () = **flauta** e tambor</li><li> () = **apito** do trem</li></ul>|
 |  | dificuldade |<ul><li></li><li></li></ul>|<ul><li> () = Este exercício é **difícil**.</li><li> () = exercício **difícil**</li></ul>|
+
+
+## E - 17
+| ideograma | traduções | leituras | exemplos |
+|:---:|:---|:---|:---|
+|  | espalhar | <ul><li></li><li></li></ul> | <ul><li> () = As flores de cerejeira caem.</li><li> () = passear</li></ul> |
+|  | castelo | <ul><li></li><li></li></ul> | <ul><li> () = castelo grande</li><li> () = Castelo de Osaka</li></ul> |
+|  | respiração | <ul><li></li><li></li></ul> | <ul><li> () = respirar</li><li> () = filho</li></ul> |
+|  | seção | <ul><li>***</li><li></li></ul> | <ul><li> () = clube de beisebol da escola</li><li>sala</li></ul> |
+|  | distribuir | <ul><li></li><li></li></ul> | <ul><li> () = Distribuo bebida a todos.</li><li> () = Meus pais ficam preocupados.</li></ul> |
+|  | decidir | <ul><li></li><li></li></ul> | <ul><li> () = A programação está definida.</li><li> () = Não abra de maneira nenhuma.</li></ul> |
+|  | transformação | <ul><li></li><li></li></ul> | <ul><li> () = Transforma-se totalmente.</li><li> () = Mudo a programação.</li></ul> |
+|  | costa | <ul><li></li><li></li></ul> | <ul><li> () = O navio chega à costa.</li><li> () = costa, praia</li></ul> |
+|  | real | <ul><li></li><li></li></ul> | <ul><li> () = fruto do caquizeiro</li><li> () = na realidade</li></ul> |

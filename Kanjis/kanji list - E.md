@@ -93,15 +93,15 @@
 |  | dificuldade |<ul><li></li><li></li></ul>|<ul><li> () = Este exercício é **difícil**.</li><li> () = exercício **difícil**</li></ul>|
 
 
-## E - 17
+## E - 18
 | ideograma | traduções | leituras | exemplos |
 |:---:|:---|:---|:---|
-|  | espalhar | <ul><li></li><li></li></ul> | <ul><li> () = As flores de cerejeira caem.</li><li> () = passear</li></ul> |
-|  | castelo | <ul><li></li><li></li></ul> | <ul><li> () = castelo grande</li><li> () = Castelo de Osaka</li></ul> |
-|  | respiração | <ul><li></li><li></li></ul> | <ul><li> () = respirar</li><li> () = filho</li></ul> |
-|  | seção | <ul><li>***</li><li></li></ul> | <ul><li> () = clube de beisebol da escola</li><li>sala</li></ul> |
-|  | distribuir | <ul><li></li><li></li></ul> | <ul><li> () = Distribuo bebida a todos.</li><li> () = Meus pais ficam preocupados.</li></ul> |
-|  | decidir | <ul><li></li><li></li></ul> | <ul><li> () = A programação está definida.</li><li> () = Não abra de maneira nenhuma.</li></ul> |
+| 散 | espalhar | <ul><li>**ち**る</li><li>**サン**</li></ul> | <ul><li>さくら の 花 が **ち**る。 (さくら の はな が **ち**る。) = As flores de cerejeira caem.</li><li>**散**歩する (**さん**ぽする) = passear</li></ul> |
+| 城 | castelo | <ul><li>**しろ**</li><li>**ジョウ**</li></ul> | <ul><li>大きな お**城** (おおきな お**しろ**) = castelo grande</li><li>大さか**城** (おおさか **じょう**) = Castelo de Osaka</li></ul> |
+| 息 | respiração | <ul><li>**いき**</li><li>**ンク**</li></ul> | <ul><li>**息**をする (**いき**をする) = respirar</li><li>**息**子 (**むす**こ) = filho</li></ul> |
+| 部 | seção | <ul><li>＊＊＊</li><li>**ブ**</li></ul> | <ul><li>学校 の 野球 **部** (がっこう の やきゅう **ぶ**) = clube de beisebol da escola</li><li>**部**屋 (**へ**や) = sala</li></ul> |
+| 配 | distribuir | <ul><li>く**ばる**</li><li>**ハイ**</li></ul> | <ul><li>みんな に 飲み物 を **配**る。 (みんな に のみもの を **くば**る。) = Distribuo bebida a todos.</li><li>両親 が 心**配** する。 (りょうしん が しん**ぱい** する。) = Meus pais ficam preocupados.</li></ul> |
+| 決 | decidir | <ul><li>きまる　きめる</li><li>ケツ</li></ul> | <ul><li> () = A programação está definida.</li><li> () = Não abra de maneira nenhuma.</li></ul> |
 |  | transformação | <ul><li></li><li></li></ul> | <ul><li> () = Transforma-se totalmente.</li><li> () = Mudo a programação.</li></ul> |
 |  | costa | <ul><li></li><li></li></ul> | <ul><li> () = O navio chega à costa.</li><li> () = costa, praia</li></ul> |
 |  | real | <ul><li></li><li></li></ul> | <ul><li> () = fruto do caquizeiro</li><li> () = na realidade</li></ul> |

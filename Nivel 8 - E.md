@@ -1,6 +1,11 @@
-# Nível E
+## Nível E
 
-## Forma て
+### Forma て
+- para ligar duas ou mais frases
+    - mesmo que a frase original esteja no pretérito
+- é utilizada também para demonstrar meios e recursos ou causas e justificativas
+- para ligar frases ます
+- para juntar uma frase negativa a outra frase, usa-se o verbo na forma ```〜ないで```
 
 | tradução | infinitivo | forma て | forma ないで |
 |:---:|:---:|:---:|:---:|
@@ -9,6 +14,7 @@
 | acordar | おきる | おきて | おきないで |
 | fechar | 閉める (しめる) | 閉めて (しめて) | 閉めないで (しめないで) |
 | atrasar-se | 遅れる (おくれる) | 遅れて (おくれて) | 遅れないで (おくれないで) |
+
 
 | tradução | infinitivo | forma て | forma ないで |
 |:---:|:---:|:---:|:---:|
@@ -29,34 +35,34 @@
 <br><br>
 
 
-## Expressões de pedido
+### Expressões de pedido
 
-### ```para solicitar, pedir algum objeto, etc...```
+#### ```para solicitar, pedir algum objeto, etc...```
 コーヒー **を ください**。 = Dê-me café, por favor.
 
-### ```expressão de pedido```
+#### ```expressão de pedido```
 メニュー を 見せる。　→　メニュー を 見せ**て ください**。
 
 Mostro o menu. → Mostre-me o menu, por favor.
 
-### ```pedido na negativa```
+#### ```pedido na negativa```
 さとう を 入れない。→　さとう を 入れ**ないで　ください**。
 
 Não coloco açúcar. → Não coloque açúcar, por favor.
 
-### ```どうぞ```
+#### ```どうぞ```
 - expressão formal utilizada quando oferecemos algo a uma pessoa.
 <br><br>
 
 
-## ~ている
+### ~ている
 - gerúndio
 - hábito ou ação contínua
 - continuação do resultado de uma ação
 - estado
 
 
-### ```吹く (ふく) = soprar```
+#### ```吹く (ふく) = soprar```
 
 |  | NÃO pret. AFIRM. | NÃO pret. NEG. |
 |:---:|:---|:---|
@@ -64,7 +70,7 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 | formal | 吹い**ています** (ふいています) | 吹い**ていません** (ふいていません) |
 
 
-### ```見る (みる) = ver```
+#### ```見る (みる) = ver```
 
 |  | NÃO pret. AFIRM. | NÃO pret. NEG. |
 |:---:|:---|:---|
@@ -72,7 +78,7 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 | formal | 見**ています** (みています) | 見**ていません** (みていません) |
 
 
-### ```する = fazer```
+#### ```する = fazer```
 
 |  | NÃO pret. AFIRM. | NÃO pret. NEG. |
 |:---:|:---|:---|
@@ -100,8 +106,8 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 
 
 ### Pretérito: ~ている -> ~ていた
-### Pretérito Negativo: ~いた -> ~ていなかった
-#### ```習う (ならう) = aprender```
+#### Pretérito Negativo: ~いた -> ~ていなかった
+##### ```習う (ならう) = aprender```
 
 |  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
 |:---:|:---|:---|:---|
@@ -109,7 +115,7 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 | formal | 習っています | 習っていました | 習っていませんでした |
 
 
-#### ```教える (おしえる) = ensinar```
+##### ```教える (おしえる) = ensinar```
 
 |  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
 |:---:|:---|:---|:---|
@@ -117,7 +123,7 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 | formal | 教えています | 教えていました | 教えていませんでした |
 
 
-#### ```する = fazer```
+##### ```する = fazer```
 
 |  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
 |:---:|:---|:---|:---|
@@ -125,8 +131,7 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 | formal | しています | していました | していませんでした |
 
 
-
-### ```すわっている = estar sentado```
+##### ```すわっている = estar sentado```
 
 |  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
 |:---:|:---|:---|:---|
@@ -135,7 +140,7 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 <br>
 
 
-### ```立っている (たっている) = estar de pé```
+##### ```立っている (たっている) = estar de pé```
 
 |  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
 |:---:|:---|:---|:---|
@@ -144,7 +149,7 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 <br>
 
 
-###  ```空いている (あいている) = estar livre (o assento)```
+#####  ```空いている (あいている) = estar livre (o assento)```
 
 |  | NÃO pret. AFIRM. | pretérito AFIRM. | pretérito NEG. |
 |:---:|:---|:---|:---|
@@ -153,9 +158,9 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 
 
 
-## 〜てある
+### 〜てある
 
-### Não pretérito: ```~てある → ~てあります```
+#### Não pretérito: ```~てある → ~てあります```
 
 | Informal | Formal | tradução |
 |:---:|:---:|:---:|
@@ -168,7 +173,7 @@ Não coloco açúcar. → Não coloque açúcar, por favor.
 | かざってある | かざってあります | enfeitada |
 
 
-### Pretérito: ```~ってあった → ~てありました```
+#### Pretérito: ```~ってあった → ~てありました```
 
 | Informal | Formal | tradução |
 |:---:|:---:|:---:|

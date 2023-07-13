@@ -1,4 +1,6 @@
-## Números
+# Numerais
+
+### Números
 
 | kanji | hiragana | tradução |
 |:---:|:---:|:---|
@@ -16,7 +18,7 @@
 <br>
 
 
-## Quantidade
+### Quantidade
 
 | kanji |   | tradução |
 |:---:|:---:|:---|
@@ -34,7 +36,7 @@
 <br>
 
 
-## Pessoas
+### Pessoas
 
 |   |   | tradução |
 |:---:|:---:|:---|
@@ -51,7 +53,8 @@
 
 <br>
 
-## Preço
+
+### Preço
 
 | 円 | 10 | 100 | 1,000 | 10,000 |
 |:---:|:---:|:---:|:---:|:---:|
@@ -70,7 +73,7 @@
 <br>
 
 
-## Contagem
+### Objetos
 
 - para objetos alongados: sufixo "本"
 - para objetos pequenos: sufixo "こ"
@@ -89,3 +92,11 @@
 | 8 | はっぽん　・　はちほん | はっこ　・　はちこ | はちまい | はっさつ |
 | 9 | きゅうほん | きゅうこ | きゅうまい | きゅうさつ |
 | 10 | じゅっぽん　・　じっぽん | じゅっこ　・　じっこ | じゅうまい | じゅっさつ　・　じっさつ |
+
+<br>
+
+
+### Pequenos animais
+| quantidade | kanji | leitura |
+|:---:|:---:|:---:|
+| 1 | 一ぴき | いっぴき |

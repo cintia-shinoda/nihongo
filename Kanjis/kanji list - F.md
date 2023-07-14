@@ -4,10 +4,10 @@
 
 | ideograma | traduções | leituras | exemplos |
 |:---:|:---|:---|:---|
-|  | escolher |<ul><li></li><li></li></ul>|<ul><li> () = Escolho o prefeito.</li><li> () = jogador</li></ul>|
-|  |<ul><li>atirar</li><li>enviar</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = arremessar</li><li> () = votar</li></ul>|
-|  | rápido |<ul><li> () ()</li><li></li></ul>|<ul><li> () = bola rápida</li> () =rodovia expressa</ul>|<ul><li></li><li></li></ul>|
-|  | mais |<ul><li></li><li></li></ul>|<ul><li> () = mais extenso, o maior</li><li> () = o melhor</li></ul>|
+| 選 | escolher |<ul><li>えらぶ</li><li>セン</li></ul>|<ul><li>市長を選ぶ。 (しちょうをえらぶ。) = Escolho o prefeito.</li><li>選手 (せんしゅ) = jogador</li></ul>|
+| 投 |<ul><li>atirar</li><li>enviar</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = arremessar</li><li> () = votar</li></ul>|
+| 速 | rápido |<ul><li> () ()</li><li></li></ul>|<ul><li> () = bola rápida</li> () =rodovia expressa</ul>|<ul><li></li><li></li></ul>|
+| 最 | mais |<ul><li></li><li></li></ul>|<ul><li> () = mais extenso, o maior</li><li> () = o melhor</li></ul>|
 |  |<ul><li>porta</li><li>família</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = porta</li><li> () trancar portas e janelas</li><li> () = casa</li></ul>|
 |  |<ul><li>qualidade</li><li>questão</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = perguntar</li><li> () = material da parede</li></ul>|
 |  |<ul><li>empregar</li><li>coisas a fazer</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = usar</li><li> () = residencial</li></ul>|

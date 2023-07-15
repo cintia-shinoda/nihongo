@@ -5,13 +5,13 @@
 | ideograma | traduções | leituras | exemplos |
 |:---:|:---|:---|:---|
 | 選 | escolher |<ul><li>えらぶ</li><li>セン</li></ul>|<ul><li>市長を選ぶ。 (しちょうをえらぶ。) = Escolho o prefeito.</li><li>選手 (せんしゅ) = jogador</li></ul>|
-| 投 |<ul><li>atirar</li><li>enviar</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = arremessar</li><li> () = votar</li></ul>|
-| 速 | rápido |<ul><li> () ()</li><li></li></ul>|<ul><li> () = bola rápida</li> () =rodovia expressa</ul>|<ul><li></li><li></li></ul>|
-| 最 | mais |<ul><li></li><li></li></ul>|<ul><li> () = mais extenso, o maior</li><li> () = o melhor</li></ul>|
-|  |<ul><li>porta</li><li>família</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = porta</li><li> () trancar portas e janelas</li><li> () = casa</li></ul>|
-|  |<ul><li>qualidade</li><li>questão</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = perguntar</li><li> () = material da parede</li></ul>|
-|  |<ul><li>empregar</li><li>coisas a fazer</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = usar</li><li> () = residencial</li></ul>|
-|  |<ul><li>urgente</li><li>apressar</li><li>repentino</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = apressar</li><li> () = compromisso urgente</li></ul>|
+| 投 |<ul><li>atirar</li><li>enviar</li></ul>|<ul><li>なげる</li><li>トウ</li></ul>|<ul><li>投げる (なげる) = arremessar</li><li>投びょうする (とうびょうする) = votar</li></ul>|
+| 速 | rápido |<ul><li>はやい (はやめる) (はやまる)</li><li>ソク</li></ul>|<ul><li>速い球 (はやいたま) = bola rápida</li>高速道ろ (こうそくどうろ) =rodovia expressa</ul>|
+| 最 | mais |<ul><li>もっとも</li><li>サイ</li></ul>|<ul><li>最も広い (もっともひろい) = mais extenso, o maior</li><li>最高 (さいこう) = o melhor</li></ul>|
+| 戸 |<ul><li>porta</li><li>família</li></ul>|<ul><li>と</li><li>コ</li></ul>|<ul><li>戸 (と) = porta</li><li>戸じまり (とじまり) trancar portas e janelas</li><li>一戸だて (いっこだて) = casa</li></ul>|
+| 質 |<ul><li>qualidade</li><li>questão</li></ul>|<ul><li>＊＊＊</li><li>シツ・シチ</li></ul>|<ul><li>質問する (しつもんする) = perguntar</li><li>かべの材質 (かべのざいしつ) = material da parede</li></ul>|
+| 用 |<ul><li>empregar</li><li>coisas a fazer</li></ul>|<ul><li>もちいる</li><li>ヨウ</li></ul>|<ul><li>用いる (もちいる) = usar</li><li>住たく用 (じゅうたくよう) = residencial</li></ul>|
+| 急 |<ul><li>urgente</li><li>apressar</li><li>repentino</li></ul>|<ul><li>いそぐ</li><li>キュウ</li></ul>|<ul><li>急ぐ (いそぐ) = apressar</li><li>急用 (きゅうよう) = compromisso urgente</li></ul>|
 |  | dia da semana |<ul><li></li><li></li></ul>|<ul><li>segunda-feira</li><li>dias da semana</li></ul>|
 |  | descartar |<ul><li></li><li></li></ul>| () = Jogo fora o lixo. |
 |  | não |<ul><li></li><li></li></ul>|<ul><li> () = documento necessário</li><li> () = é inseguro</li></ul>|

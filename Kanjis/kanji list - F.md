@@ -16,10 +16,10 @@
 | 捨 | descartar |<ul><li>すてる</li><li>シャ</li></ul>|ごみを捨てる (ごみをすてる。) = Jogo fora o lixo. |
 | 不 | não |<ul><li>＊＊＊</li><li>フ・ブ</li></ul>|<ul><li>不ような書るい (ふようなしょるい) = documento necessário</li><li>不安だ (ふあんだ) = é inseguro</li></ul>|
 | 思 | pensar |<ul><li>おもう</li><li>シ</li></ul>|<ul><li>思い出す (おもいだす) = lembrar-se</li><li>不思議だ (ふしぎだ) = é estranho</li></ul>|
-|  | <ul><li>assento</li><li>sentar</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = Sento na cadeira.</li><li> () = assento</li></ul>|
-|  |<ul><li>fase</li><li>mútuo</li><li>ministro</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = adversário</li><li> () = consultar, combinar</li><li> () = primeiro-ministro</ul>|
-|  |<ul><li>conveniente</li><li>posto</li><li>excremento</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = é inconveniente</li><li> () = agência dos correios</li></ul>|
-|  |<ul><li>vantagem</li><li>lucro</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = usar</li><li> () = é prático, é conveniente</li></ul>|
+| 座 | <ul><li>assento</li><li>sentar</li></ul>|<ul><li>すわる</li><li>ザ</li></ul>|<ul><li>いすに座る。 (いすにすわる。) = Sento na cadeira.</li><li>座席 (ざせき) = assento</li></ul>|
+| 相 |<ul><li>fase</li><li>mútuo</li><li>ministro</li></ul>|<ul><li>あい</li><li>ソウ・ショウ</li></ul>|<ul><li>相手 (あいて) = adversário</li><li>相だんする (そうだんする) = consultar, combinar</li><li>首相 (しゅしょう) = primeiro-ministro</ul>|
+| 便 |<ul><li>conveniente</li><li>posto</li><li>excremento</li></ul>|<ul><li>たより</li><li>ベン・ビン</li></ul>|<ul><li>不便だ (ふべんだ) = é inconveniente</li><li>ゆう便局 (ゆうびんきょく) = agência dos correios</li></ul>|
+| 利 |<ul><li>vantagem</li><li>lucro</li></ul>|<ul><li>(きく)</li><li>リ</li></ul>|<ul><li>利用する (りようする) = usar</li><li>便利だ (べんりだ) = é prático, é conveniente</li></ul>|
 |  | ferro |<ul><li></li><li></li></ul>|<ul><li> () = ferrovia</li><li> () = metrô</li></ul>|
 |  | <ul><li>oceano</li><li>oeste</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = museu de artes ocidentais</li><li> () = Oceano Pacífico</li></ul>|
 |  |<ul><li>ângulo</li><li>chifre</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = Viro a esquina.</li><li> () = triângulo</li></ul>|

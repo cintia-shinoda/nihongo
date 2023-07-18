@@ -20,18 +20,18 @@
 | 相 |<ul><li>fase</li><li>mútuo</li><li>ministro</li></ul>|<ul><li>あい</li><li>ソウ・ショウ</li></ul>|<ul><li>相手 (あいて) = adversário</li><li>相だんする (そうだんする) = consultar, combinar</li><li>首相 (しゅしょう) = primeiro-ministro</ul>|
 | 便 |<ul><li>conveniente</li><li>posto</li><li>excremento</li></ul>|<ul><li>たより</li><li>ベン・ビン</li></ul>|<ul><li>不便だ (ふべんだ) = é inconveniente</li><li>ゆう便局 (ゆうびんきょく) = agência dos correios</li></ul>|
 | 利 |<ul><li>vantagem</li><li>lucro</li></ul>|<ul><li>(きく)</li><li>リ</li></ul>|<ul><li>利用する (りようする) = usar</li><li>便利だ (べんりだ) = é prático, é conveniente</li></ul>|
-|  | ferro |<ul><li></li><li></li></ul>|<ul><li> () = ferrovia</li><li> () = metrô</li></ul>|
-|  | <ul><li>oceano</li><li>oeste</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = museu de artes ocidentais</li><li> () = Oceano Pacífico</li></ul>|
-|  |<ul><li>ângulo</li><li>chifre</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = Viro a esquina.</li><li> () = triângulo</li></ul>|
-|  |<ul><li>reto</li><li>fixo</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = Conserto a cadeira.</li><li> () = reto</li><li> () = ângulo reto</li></ul>|
-|  |<ul><li>calor de verão</li><li>quente</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = dias quentes</li><li> () = calor de final de verão</li></ul>|
-|  |<ul><li>promessa</li><li>contrato</li><li>aproximadamente</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = combinado, promessa</li><li> () = aproximadamente 40 graus</li></ul>|
-|  | adiantado |<ul><li></li><li></li></ul>|<ul><li> () = previsão do tempo</li><li> () = reservar</li></ul>|
-|  |<ul><li>virar</li><li>em direção</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = ir em direção (a)</li><li> () = direção</li></ul>|
-|  |<ul><li>adquirir</li><li>ganhar</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = Obtenho a oportunidade.</li><li> () = ser bom (ponto forte)</li></ul>|
-|  |<ul><li>período</li><li>expectativa</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = período</li><li> () = adiar</li></ul>|
-|  |<ul><li>ligar</li><li>em sucessão</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = Levo a criança.</li><li> () = feriado prolongado</li></ul>|
-|  |<ul><li>interligar</li><li>entrelaçar</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = O cabelo se enrosca.</li><li> () = avisar, comunicar</li></ul>|
+| 鉄 | ferro |<ul><li>＊＊＊</li><li>テツ</li></ul>|<ul><li>鉄道 (てつどう) = ferrovia</li><li>地下鉄 (ちかてつ) = metrô</li></ul>|
+| 洋 | <ul><li>oceano</li><li>oeste</li></ul>|<ul><li>＊＊＊</li><li>ヨウ</li></ul>|<ul><li>西洋美じゅつ館 (せいようびじゅつかん) = museu de artes ocidentais</li><li>太へい洋 (たいへいよう) = Oceano Pacífico</li></ul>|
+| 角 |<ul><li>ângulo</li><li>chifre</li></ul>|<ul><li>かど (つの)</li><li>カク</li></ul>|<ul><li>角を曲がる。 (かどをまがる。) = Viro a esquina.</li><li>三角形 (さんかくけい) = triângulo</li></ul>|
+| 直 |<ul><li>reto</li><li>fixo</li></ul>|<ul><li>なおす・すぐ・(ただちに)</li><li>チョク・(ジキ)</li></ul>|<ul><li>いすを直す。 (いすをあおす。) = Conserto a cadeira.</li><li>真っ直ぐ (まっすぐ) = reto</li><li>直角 (ちょっかく) = ângulo reto</li></ul>|
+| 暑 |<ul><li>calor de verão</li><li>quente</li></ul>|<ul><li>あつい</li><li>ショ</li></ul>|<ul><li>暑い日 (あついひ) = dias quentes</li><li>ざん暑 (ざんしょ) = calor de final de verão</li></ul>|
+| 約 |<ul><li>promessa</li><li>contrato</li><li>aproximadamente</li></ul>|<ul><li>＊＊＊</li><li>ヤク</li></ul>|<ul><li>約そく (やくそく) = combinado, promessa</li><li>約四十度 (やくよんじゅうど) = aproximadamente 40 graus</li></ul>|
+| 予 | adiantado |<ul><li>＊＊＊</li><li>ヨ</li></ul>|<ul><li>天気予ほう (てんきよほう) = previsão do tempo</li><li>予約する (よやくする) = reservar</li></ul>|
+| 向 |<ul><li>virar</li><li>em direção</li></ul>|<ul><li>むく・むかう</li><li>コウ</li></ul>|<ul><li>向かう (むかう) = ir em direção (a)</li><li>方向 (ほうこう) = direção</li></ul>|
+| 得 |<ul><li>adquirir</li><li>ganhar</li></ul>|<ul><li>える・(うる)</li><li>トク</li></ul>|<ul><li>機会を得る。 (きかいをえる。) = Obtenho a oportunidade.</li><li>得意だ (とくいだ) = ser bom (ponto forte)</li></ul>|
+| 期 |<ul><li>período</li><li>expectativa</li></ul>|<ul><li>＊＊＊</li><li></li>キ・(ゴ)</ul>|<ul><li>期間 (きかん) = período</li><li>えん期する (えんきする) = adiar</li></ul>|
+| 連 |<ul><li>ligar</li><li>em sucessão</li></ul>|<ul><li>つれる・(つらなる)・(つらねる)</li><li>レン</li></ul>|<ul><li>子どもを連れる。 (こどもをつれる。) = Levo a criança.</li><li>連休 (れんきゅう) = feriado prolongado</li></ul>|
+| 絡 |<ul><li>interligar</li><li>entrelaçar</li></ul>|<ul><li>からまる・(からむ)</li><li>ラク</li></ul>|<ul><li>かみが絡まる。 (かみがからまる。) = O cabelo se enrosca.</li><li>連絡する (れんらくする) = avisar, comunicar</li></ul>|
 |  | ruim |<ul><li></li><li></li></ul>|<ul><li> () = ruim</li><li> () = tempo ruim</li></ul>|
 |  | único |<ul><li></li><li></li></ul>|<ul><li> () = palavra</li><li> () = unidade de comprimento</li></ul>|
 |  | simples |<ul><li></li><li></li></ul>|<ul><li> () = é fácil</li><li> () = cama de armar</li></ul>|

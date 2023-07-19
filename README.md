@@ -156,3 +156,4 @@
 | 123 | 01/07/2023 | E - 171 | 勧誘表現 ２ (かんゆうひょうげん ２) | Expressões de convite 2 |
 | 124 | 05/07/2023 | E - 181 | ストーリー ２ | Histórias 2 |
 | 125 | 12/07/2023 | E - 191 | 語彙のまとめ (ごいのまとめ) | Revisão das palavras |
+| 126 | 19/07/2023 | Teste E | 日本語 テスト E | Teste de Assimilação E |

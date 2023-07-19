@@ -32,7 +32,7 @@
 | 期 |<ul><li>período</li><li>expectativa</li></ul>|<ul><li>＊＊＊</li><li></li>キ・(ゴ)</ul>|<ul><li>期間 (きかん) = período</li><li>えん期する (えんきする) = adiar</li></ul>|
 | 連 |<ul><li>ligar</li><li>em sucessão</li></ul>|<ul><li>つれる・(つらなる)・(つらねる)</li><li>レン</li></ul>|<ul><li>子どもを連れる。 (こどもをつれる。) = Levo a criança.</li><li>連休 (れんきゅう) = feriado prolongado</li></ul>|
 | 絡 |<ul><li>interligar</li><li>entrelaçar</li></ul>|<ul><li>からまる・(からむ)</li><li>ラク</li></ul>|<ul><li>かみが絡まる。 (かみがからまる。) = O cabelo se enrosca.</li><li>連絡する (れんらくする) = avisar, comunicar</li></ul>|
-|  | ruim |<ul><li></li><li></li></ul>|<ul><li> () = ruim</li><li> () = tempo ruim</li></ul>|
-|  | único |<ul><li></li><li></li></ul>|<ul><li> () = palavra</li><li> () = unidade de comprimento</li></ul>|
-|  | simples |<ul><li></li><li></li></ul>|<ul><li> () = é fácil</li><li> () = cama de armar</li></ul>|
-|  |<ul><li>tom</li><li>pesquisa</li><li> preparar</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = pesquisar</li><li> () = estado, condição</li></ul>|
+| 悪 | ruim |<ul><li>わるい</li><li>アク・(オ)</li></ul>|<ul><li>悪い (わるい) = ruim</li><li>悪天こう (あくてんこう) = tempo ruim</li></ul>|
+| 単 | único |<ul><li>＊＊＊</li><li>タン</li></ul>|<ul><li>単語 (たんご) = palavra</li><li>長さの単い (ながさのたんい) = unidade de comprimento</li></ul>|
+| 簡 | simples |<ul><li>＊＊＊</li><li>カン</li></ul>|<ul><li>簡単 (かんたん) = é fácil</li><li>簡いベッド (かんいベッド) = cama de armar</li></ul>|
+| 調 |<ul><li>tom</li><li>pesquisa</li><li> preparar</li></ul>|<ul><li>しらべる・(ととのう)・(ととのえる)</li><li>チョウ</li></ul>|<ul><li>調べる (しらべる) = pesquisar</li><li>調子 (ちょうし) = estado, condição</li></ul>|

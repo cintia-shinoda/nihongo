@@ -44,22 +44,22 @@
 
 | ideograma | traduções | leituras | exemplos |
 |:---:|:---|:---|:---|
-|  | nível |<ul><li>***</li><li></li></ul>|<ul><li> () = nível</li><li> () = vice-campeão</li></ul>|
-|  | prevenir |<ul><li></li><li></li></ul>|<ul><li> () = Previno-me para o tufão.</li><li> () = Preparo</li></ul> |
-|  | preto |<ul><li></li><li></li></ul> |<ul><li> () = carteira preta</li><li> () = Escrevo na lousa.</li></ul> |
-|  | caixa |<ul><li></li><li>***</li></ul>|<ul><li> () = Coloco na caixa.</li><li> () = caixa de papelão</li></ul> |
-|  | trabalho |<ul><li></li><li></li></ul>|<ul><li> () = Trabalho na fábrica</li><li> () trabalhador</li></ul>|
-|  | cor |<ul><li></li><li> ()</li></ul>|<ul><li> () = cor do semáforo</li><li> () = peculiaridade do festival</li></ul>|
-|  | amarelo |<ul><li></li><li>()</li></ul>|<ul><li> () = chapéu amarelo</li><li> () = gema de ovo</li></ul>|
-|  | contagem para objetos planos |<ul><li>***</li><li></li></ul>|<ul><li> () = um bilhete</li><li> () = Compro cem folhas coloridas</li></ul>|
-|  | lavar |<ul><li></li><li></li></ul>|<ul><li> () = Lavo as mãos.</li><li> () = máquina de lavar roupas</li></ul>|
-|  | ambos |<ul><li>***</li><li></li></ul>|<ul><li> () = pais</li><li> () = ambos</li><li>ambas as mãos</li></ul>|
-|  | feliz, contente |<ul><li></li><li></li></ul>|<ul><li> () = Ele ficou contente.</li><li> () = comédia</li></ul>|
-|  | triste |<ul><li></li><li></li></ul>|<ul><li> () = romance triste</li><li> () = tragédia</li></ul>|
-|  | coração |<ul><li></li><li></li></ul>|<ul><li> () = coração e corpo</li><li> () = preocupar-se</li></ul>|
-|  | planos, medir |<ul><li>()</li><li></li></ul>|<ul><li> () = Planejo.</li><li> () = relógio</li></ul>|
-|  | fugir |<ul><li></li><li></li></ul>|<ul><li> () = O criminoso foge.</li><li> () = fuga</li></ul>|
-|  | costa, lado de trás |<ul><li></li><li>()</li></ul>|<ul><li> () = É alto.</li><li> () = costas</li></ul>|
+| 準 | nível |<ul><li>＊＊＊</li><li>ジュン</li></ul>|<ul><li>水準 (すいじゅん) = nível (da água)</li><li>準優勝 (じゅんゆうしょう) = vice-campeão</li></ul>|
+| 備える | prevenir |<ul><li>そなえる</li><li>ビ</li></ul>|<ul><li>台風に備える。 (たいふにそなえる。) = Previno-me para o tufão.</li><li>準備をする。 (じゅんびをする。) = Preparo</li></ul> |
+| 黒 | preto |<ul><li>くらい</li><li>コク</li></ul> |<ul><li>黒いさいふ (くらいさいふ) = carteira preta</li><li>黒ばんに書く。 (こくばんにかく。) = Escrevo na lousa.</li></ul> |
+| 箱 | caixa |<ul><li>はこ</li><li>＊＊＊</li></ul>|<ul><li>箱に入れる。 (はこにいれる。) = Coloco na caixa.</li><li>ダンボールの箱。 (ダンボールのはこ) = caixa de papelão</li></ul> |
+| 働 | trabalho |<ul><li>はたらく</li><li>ドウ</li></ul>|<ul><li>工場で働く。 (こうじょうではたらく。) = Trabalho na fábrica</li><li>ろう働しゃ (ろうどうしゃ) trabalhador</li></ul>|
+| 色 | cor |<ul><li>いろ</li><li>ショク・ (シキ)</li></ul>|<ul><li>しんごうの色 (しんごうのいろ) = cor do semáforo</li><li>まつりの特色 (まつりのとくしょく) = peculiaridade do festival</li></ul>|
+| 黄 | amarelo |<ul><li>き</li><li>(コウ)</li></ul>|<ul><li>黄色いぼうし (きいろいぼうし) = chapéu amarelo</li><li>たまごの黄み (たまごのきみ) = gema de ovo</li></ul>|
+| 枚 | contagem para objetos planos |<ul><li>＊＊＊</li><li>マイ</li></ul>|<ul><li>一枚の切ぷ (いちまいのきっぷ) = um bilhete</li><li>色紙を百枚かう。 (いろがみをひゃくまいかう。) = Compro cem folhas coloridas</li></ul>|
+| 洗 | lavar |<ul><li>あらう</li><li>セン</li></ul>|<ul><li>手を洗う。 (てをあらう。) = Lavo as mãos.</li><li>洗たく機 (せんたくき) = máquina de lavar roupas</li></ul>|
+| 両 | ambos |<ul><li>＊＊＊</li><li>リョウ</li></ul>|<ul><li>両親 (りょうしん) = pais</li><li>両方 (りょうほう) = ambos</li><li>両手 (りょうて) = ambas as mãos</li></ul>|
+| 喜 | feliz, contente |<ul><li>よろこぶ</li><li>キ</li></ul>|<ul><li>彼は喜んだ。 (かれはよろこんだ。) = Ele ficou contente.</li><li>喜げき (きげき) = comédia</li></ul>|
+| 悲 | triste |<ul><li>かなしい</li><li>ヒ</li></ul>|<ul><li>悲しい小説 (かなしいしょうせつ) = romance triste</li><li>悲げき (ひげき) = tragédia</li></ul>|
+| 心 | coração |<ul><li>こころ</li><li>シン</li></ul>|<ul><li>心と体 (こころとからだ) = coração e corpo</li><li>心ぱいする (しんぱいする) = preocupar-se</li></ul>|
+| 計 | planos, medir |<ul><li>(はかる)</li><li>ケイ</li></ul>|<ul><li>計かくを立てる。 (けいかくをたてる。) = Planejo.</li><li>時計 (とけい) = relógio</li></ul>|
+| 逃 | fugir |<ul><li>にげる</li><li>トウ</li></ul>|<ul><li>はん人が逃げる。 (はんにんがにげる。) = O criminoso foge.</li><li>逃ぼう (とうぼう) = fuga</li></ul>|
+| 背 | costa, lado de trás |<ul><li>せ</li><li>(ハイ)</li></ul>|<ul><li>背が高い。 (せがたかい。) = É alto.</li><li>背中 (せなか) = costas</li></ul>|
 |  | enviar |<ul><li></li><li></li></ul>|<ul><li> () = Envio o dinheiro.</li><li> () = transmissão de TV</li></ul>|
 |  | ajuda |<ul><li></li><li></li></ul>|<ul><li> () = Ajudo o sustento (de alguém).</li><li> () = salvar</li></ul>|
 |  | água quente |<ul><li></li><li></li></ul>|<ul><li> () = água quente e água (fria)</li><li> () = água fervente</li></ul>|

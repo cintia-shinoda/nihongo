@@ -60,15 +60,15 @@
 | 計 | planos, medir |<ul><li>(はかる)</li><li>ケイ</li></ul>|<ul><li>計かくを立てる。 (けいかくをたてる。) = Planejo.</li><li>時計 (とけい) = relógio</li></ul>|
 | 逃 | fugir |<ul><li>にげる</li><li>トウ</li></ul>|<ul><li>はん人が逃げる。 (はんにんがにげる。) = O criminoso foge.</li><li>逃ぼう (とうぼう) = fuga</li></ul>|
 | 背 | costa, lado de trás |<ul><li>せ</li><li>(ハイ)</li></ul>|<ul><li>背が高い。 (せがたかい。) = É alto.</li><li>背中 (せなか) = costas</li></ul>|
-|  | enviar |<ul><li></li><li></li></ul>|<ul><li> () = Envio o dinheiro.</li><li> () = transmissão de TV</li></ul>|
-|  | ajuda |<ul><li></li><li></li></ul>|<ul><li> () = Ajudo o sustento (de alguém).</li><li> () = salvar</li></ul>|
-|  | água quente |<ul><li></li><li></li></ul>|<ul><li> () = água quente e água (fria)</li><li> () = água fervente</li></ul>|
-|  | gelo |<ul><li></li><li></li></ul>|<ul><li> () = Esfrio com gelo</li><li> () = (temperatura) abaixo de zero</li></ul>|
-|  | cópia |<ul><li></li><li></li></ul>|() = Fotografo paisagens com a câmera fotográfica.|
-|  | verdade |<ul><li></li><li></li></ul>|<ul><li> () = (Faço) com toda dedicação.</li><li> () = Tiro fotos.</li></ul>|
-|  | empurrar |<ul><li></li><li>()</li></ul>|<ul><li> () = Empurro o carrinho de bebê.</li><li> () = Seguro o papel com a mão.</li></ul>|
-|  | marido |<ul><li></li><li> ()</li></ul>|<ul><li> () = marido da minha irmã mais nova</li><li> () = Adapto. (Invento.)</li></ul>|
-|  | mulher adulta |<ul><li***>***</li***><li></li></ul>|<ul><li> () = casal</li><li> () = roupa feminina</li></ul>|
+| 送 | enviar |<ul><li>おくる</li><li>ソウ</li></ul>|<ul><li>お金を送る。 (おかねをおくる。) = Envio o dinheiro.</li><li>テレビほう送 (テレビほうそう) = transmissão de TV</li></ul>|
+| 助 | ajuda |<ul><li>たすける</li><li>ジョ</li></ul>|<ul><li>生かつを助ける。 (せいかつをたすける) = Ajudo o sustento (de alguém).</li><li>きゅう助する () = salvar</li></ul>|
+| 湯 | água quente |<ul><li>ゆ</li><li>トウ</li></ul>|<ul><li>お湯と水 (おゆとみず) = água quente e água (fria)</li><li>熱湯 (ねっとう) = água fervente</li></ul>|
+| 氷 | gelo |<ul><li>こおり</li><li>ヒョウ</li></ul>|<ul><li>氷で冷やす。 (こおりでひやす。) = Esfrio com gelo</li><li>氷てん下 (ひょうてんか) = (temperatura) abaixo de zero</li></ul>|
+| 写 | cópia |<ul><li>うつす</li><li>シャ</li></ul>| カメラで風を写す。 (カメラでふうけいをうつす。) = Fotografo paisagens com a câmera fotográfica.|
+| 真 | verdade |<ul><li>ま</li><li>シン</li></ul>|<ul><li>真心をこめる。 (まごころをこめる。) = (Faço) com toda dedicação.</li><li>写真をとる。 (しゃしんをとる。) = Tiro fotos.</li></ul>|
+| 押 | empurrar |<ul><li>おす・おさえる</li><li>(オウ)</li></ul>|<ul><li>ベビーカーを押す。 (ベビーカーをおす。) = Empurro o carrinho de bebê.</li><li>手で紙をおさえる。 (てでかみをおさえる。) = Seguro o papel com a mão.</li></ul>|
+| 夫 | marido |<ul><li>おっと</li><li>フウ (フ)</li></ul>|<ul><li>妹の夫 (いもうとのおっと) = marido da minha irmã mais nova</li><li>工夫をする。 (くふうをする。) = Adapto. (Invento.)</li></ul>|
+| 婦 | mulher adulta |<ul><li>＊＊＊</li><li>フ</li></ul>|<ul><li>夫婦 (ふうふ) = casal</li><li>婦人服 (ふじんふく) = roupa feminina</li></ul>|
 |  | acordar |<ul><li></li><li></li></ul>|<ul><li> () = Acordo de manhã.</li><li> () = levantar-se</li></ul>|
 |  | deus |<ul><li> ()</li><li> ()</li></ul>|<ul><li> () = deus</li><li> () = templo xintoísta</li></ul>|
 |  | idoso |<ul><li></li><li></li></ul>|<ul><li> () = minha avó idosa</li><li> () = idoso</li></ul>|

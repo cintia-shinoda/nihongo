@@ -69,14 +69,14 @@
 | 押 | empurrar |<ul><li>おす・おさえる</li><li>(オウ)</li></ul>|<ul><li>ベビーカーを押す。 (ベビーカーをおす。) = Empurro o carrinho de bebê.</li><li>手で紙をおさえる。 (てでかみをおさえる。) = Seguro o papel com a mão.</li></ul>|
 | 夫 | marido |<ul><li>おっと</li><li>フウ (フ)</li></ul>|<ul><li>妹の夫 (いもうとのおっと) = marido da minha irmã mais nova</li><li>工夫をする。 (くふうをする。) = Adapto. (Invento.)</li></ul>|
 | 婦 | mulher adulta |<ul><li>＊＊＊</li><li>フ</li></ul>|<ul><li>夫婦 (ふうふ) = casal</li><li>婦人服 (ふじんふく) = roupa feminina</li></ul>|
-|  | acordar |<ul><li></li><li></li></ul>|<ul><li> () = Acordo de manhã.</li><li> () = levantar-se</li></ul>|
-|  | deus |<ul><li> ()</li><li> ()</li></ul>|<ul><li> () = deus</li><li> () = templo xintoísta</li></ul>|
-|  | idoso |<ul><li></li><li></li></ul>|<ul><li> () = minha avó idosa</li><li> () = idoso</li></ul>|
-|  | jovem |<ul><li></li><li>()</li></ul>|<ul><li> () = casal jovem</li><li> () = É três anos mais jovem do que eu.</li></ul>|
-|  | fraco |<ul><li></li><li></li></ul>|<ul><li> () = time fraco</li><li> () = O corpo é fraco.</li><li> () = ponto fraco</li></ul>|
-|  | cidade / mercado |<ul><li></li><li></li></ul>|<ul><li> () = mercado de peixes</li><li> () = cidade de Osaka</li></ul>|
-|  | província |<ul><li>***</li><li></li></ul>|<ul><li> () = província de Aomori</li><li> () = prédio da sede do governo provincial</li></ul>|
-|  | portão |<ul><li>()</li><li></li></ul>|<ul><li> () = Fecho o portão</li><li> () = portão principal da escola</li></ul>|
+| 起 | acordar |<ul><li>おきる</li><li>キ</li></ul>|<ul><li>朝起きる。 (あさおきる。) = Acordo de manhã.</li><li>起立する (きりつする) = levantar-se</li></ul>|
+| 神 | deus |<ul><li>かみ (こう)</li><li>ジン・(シン)</li></ul>|<ul><li>神さま (かみさま) = deus</li><li>神社 (じんじゃ) = templo xintoísta</li></ul>|
+| 老 | idoso |<ul><li>おいる</li><li>ロウ</li></ul>|<ul><li>年老いたそ母 (としおいたそぼ) = minha avó idosa</li><li>老人 (ろうじん) = idoso</li></ul>|
+| 若 | jovem |<ul><li>わかい</li><li>(ジャク)</li></ul>|<ul><li>若い夫婦 (わかいふうふ) = casal jovem</li><li>私より三才若い。 (わたしよりさんさいわかい。) = É três anos mais jovem do que eu.</li></ul>|
+| 弱 | fraco |<ul><li>よわい</li><li>ジャク</li></ul>|<ul><li>弱いチーム (よわいチーム) = time fraco</li><li>体が弱い。 (からだがよわい。) = O corpo é fraco.</li><li>弱てん (じゃくてん) = ponto fraco</li></ul>|
+| 市 | cidade / mercado |<ul><li>いち</li><li>シ</li></ul>|<ul><li>魚市場 (うおいちば) = mercado de peixes</li><li>大さか市 (おおさかし) = cidade de Osaka</li></ul>|
+| 県 | província |<ul><li>＊＊＊</li><li>ケン</li></ul>|<ul><li>青森県 (あおもりけん) = província de Aomori</li><li>県ちょうのたて物 (けんちょうのたてもの) = prédio da sede do governo provincial</li></ul>|
+| 門 | portão |<ul><li>(かど)</li><li>モン</li></ul>|<ul><li>門を閉める。 (もんをしめる。) = Fecho o portão</li><li>学校の正門 (がっこうのせいもん) = portão principal da escola</li></ul>|
 
 
 ## E - 12
@@ -84,13 +84,13 @@
 | ideograma | traduções | leituras | exemplos |
 |:---:|:---|:---|:---|
 | 祭 | festival |<ul><li>**まつ**り</li><li>サイ</li></ul>|<ul><li>秋 **祭**り (あき **まつ**り) = festival de outono</li><li>前夜 **祭** (ぜんや **さい**) = véspera de festejos</li></ul>|
-|  |<ul><li>outro</li><li>separado</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = **Despeço**-me dos meus amigos.</li><li> () = quimono **especial**</li></ul>|
-|  |<ul><li>mente</li><li>significado</li></ul>|<ul><li>＊＊＊</li><li></li></ul>|<ul><li> () = chamar a atenção</li><li> () = Meu ponto **forte** é culinária.</li></ul>|
-|  | para ... de |<ul><li></li><li></li></ul>|<ul><li> () = **mais de** um milhão de pessoas</li><li> () = **menos de** mil ienes</li></ul>|
-|  |<ul><li>visitar um lugar sagrado</li><li>participar</li></ul>|<ul><li></li><li></li></ul>|<ul><li> () = visita ao túmulo</li><li> () = Participo de um festival.</li></ul>|
-|  | tempos antigos |<ul><li></li><li>()</li></ul>|<ul><li> () = nome antigo</li><li> () = histórias antigas</li></ul>|
-|  | flauta |<ul><li></li><li></li></ul>|<ul><li> () = **flauta** e tambor</li><li> () = **apito** do trem</li></ul>|
-|  | dificuldade |<ul><li></li><li></li></ul>|<ul><li> () = Este exercício é **difícil**.</li><li> () = exercício **difícil**</li></ul>|
+| 別 |<ul><li>outro</li><li>separado</li></ul>|<ul><li>わかれる</li><li>ベツ</li></ul>|<ul><li>友だちと別れる。 (ともだちとわかれる。) = **Despeço**-me dos meus amigos.</li><li>特別な着物 (とくべつなきもの) = quimono **especial**</li></ul>|
+| 意 |<ul><li>mente</li><li>significado</li></ul>|<ul><li>＊＊＊</li><li>イ</li></ul>|<ul><li>注意する (ちゅういする) = chamar a atenção</li><li>料理がとく意だ。 (りょうりがとくいだ。) = Meu ponto **forte** é culinária.</li></ul>|
+| 以 | para ... de |<ul><li>＊＊＊</li><li>イ</li></ul>|<ul><li>百万人以上 (ひゃくまんにんいじょう) = **mais de** um milhão de pessoas</li><li>千円以下 (せんえんいか) = **menos de** mil ienes</li></ul>|
+| 参 |<ul><li>visitar um lugar sagrado</li><li>participar</li></ul>|<ul><li>まいる</li><li>サン</li></ul>|<ul><li>おはか参り (おはかまいり) = visita ao túmulo</li><li>祭りに参かする。 (まつりにさんかする。) = Participo de um festival.</li></ul>|
+| 昔 | tempos antigos |<ul><li>むかし</li><li>(セキ)</li></ul>|<ul><li>昔の名前 (むかしのなまえ) = nome antigo</li><li>昔話 (むかしばなし) = histórias antigas</li></ul>|
+| 笛 | flauta |<ul><li>ふえ</li><li>テキ</li></ul>|<ul><li>笛や太こ (ふえやたいこ) = **flauta** e tambor</li><li>電車のけい笛 (でんしゃのけいてき) = **apito** do trem</li></ul>|
+| 難 | dificuldade |<ul><li>むずかしい</li><li>ナン</li></ul>|<ul><li>この問だいは難しい。 (このもんだいはむずかしい。) = Este exercício é **difícil**.</li><li>難問 (なんもん) = exercício **difícil**</li></ul>|
 
 
 ## E - 18

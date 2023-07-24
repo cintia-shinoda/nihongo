@@ -102,6 +102,6 @@
 | 部 | seção | <ul><li>＊＊＊</li><li>**ブ**</li></ul> | <ul><li>学校 の 野球 **部** (がっこう の やきゅう **ぶ**) = clube de beisebol da escola</li><li>**部**屋 (**へ**や) = sala</li></ul> |
 | 配 | distribuir | <ul><li>く**ばる**</li><li>**ハイ**</li></ul> | <ul><li>みんな に 飲み物 を **配**る。 (みんな に のみもの を **くば**る。) = Distribuo bebida a todos.</li><li>両親 が 心**配** する。 (りょうしん が しん**ぱい** する。) = Meus pais ficam preocupados.</li></ul> |
 | 決 | decidir | <ul><li>きまる　きめる</li><li>ケツ</li></ul> | <ul><li> () = A programação está definida.</li><li> () = Não abra de maneira nenhuma.</li></ul> |
-|  | transformação | <ul><li></li><li></li></ul> | <ul><li> () = Transforma-se totalmente.</li><li> () = Mudo a programação.</li></ul> |
-|  | costa | <ul><li></li><li></li></ul> | <ul><li> () = O navio chega à costa.</li><li> () = costa, praia</li></ul> |
-|  | real | <ul><li></li><li></li></ul> | <ul><li> () = fruto do caquizeiro</li><li> () = na realidade</li></ul> |
+| 変 | transformação | <ul><li>かわる・かえる</li><li>ヘン</li></ul> | <ul><li>すっかり変わる。 (すっかりかわる。) = Transforma-se totalmente.</li><li>よていを変こうする。 (よていをへんこうする。) = Mudo a programação.</li></ul> |
+| 岸 | costa | <ul><li>きし</li><li>ガン</li></ul> | <ul><li>船が岸に着く。 (ふねがきしにつく。) = O navio chega à costa.</li><li>海岸 (かいがん) = costa, praia</li></ul> |
+| 実 | real | <ul><li>み・みのる</li><li>ジツ</li></ul> | <ul><li>かきの実 (かきのみ) = fruto do caquizeiro</li><li>実は (じつは) = na realidade</li></ul> |

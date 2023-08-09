@@ -158,3 +158,4 @@
 | 125 | 12/07/2023 | E - 191 | 語彙のまとめ (ごいのまとめ) | Revisão das palavras |
 | 126 | 19/07/2023 | Teste E | 日本語 テスト E | Teste de Assimilação E |
 | 127 | 03/08/2023 | F - 1 | 漢字 １ (かんじ １) | Kanji 1 |
+| 128 | 09/08/2023 | F - 11 | 命令表現 １ (めいれいひょうげん １) | Expressões imperativas 1 |

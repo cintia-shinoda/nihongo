@@ -1,6 +1,6 @@
 ## Nível F
 
-### Expressões Imperativas
+### Expressões IMPERATIVAS
 #### ```verbos do Grupo I```
 
 | infinitivo | imperativo |  なさい | proibição |
@@ -50,3 +50,9 @@
 | 連絡する (れんらくする) = avisar, comunicar |  () | 連絡しなさい (れんらくしなさい) | 連絡するな (れんらくするな) = não avise, não comunique |
 | 走って来る (はしってくる) = vir correndo | 走って来い (はしってこい) = venha correndo |
 | 連れて来る (つれてくる) = trazer |  () | 連れて来なさい (つれてきなさい) | 連れて来るな (つれてくるな) = não traga |
+
+<br>
+
+
+
+### Expressões de CONDIÇÃO

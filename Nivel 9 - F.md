@@ -51,8 +51,35 @@
 | 走って来る (はしってくる) = vir correndo | 走って来い (はしってこい) = venha correndo |
 | 連れて来る (つれてくる) = trazer |  () | 連れて来なさい (つれてきなさい) | 連れて来るな (つれてくるな) = não traga |
 
-<br>
+<br><br>
 
 
 
 ### Expressões de CONDIÇÃO
+#### ```verbos do Grupo I```
+
+| infinitivo | ば | negativo | なければ |
+|:---:|:---:|:---:|:---:|
+|  () = ir |  () |  () |  () |
+|  () = virar |  () |  () |  () |
+|  () = apertar |  () |  () |  () |
+|  () = subir |  () |  () |  () |
+
+<br>
+
+
+### ```verbos do Grupo II```
+| infinitivo | ば | negativo | なければ |
+|:---:|:---:|:---:|:---:|
+|  () = descer |  () |  () |  () |
+|  () = acordar |  () |  () |  () |
+|  () = pesquisar |  () |  () |  () |
+
+<br>
+
+
+### ```verbos Irregulares```
+| infinitivo | ば | negativo | なければ |
+|:---:|:---:|:---:|:---:|
+|  = fazer |  |  |  |
+|  () = vir |  () |  () |  () |

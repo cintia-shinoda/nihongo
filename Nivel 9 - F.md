@@ -102,3 +102,21 @@
 | 多い (おおい) = é muito | 多ければ (おおければ) | 多くない (おおくない) | 多くなければ (おおくなければ) |
 | おいしい = é gostoso | おいしければ | おいしくない | おいしくなければ |
 | いい  = é bom | よければ | よくない | よくなければ |
+
+## Afirmativo
+### ```com SUBSTANTIVOS```
+
+| だ | なら |
+|:---:|:---:|
+| 小学生 **だ** (しょうがくせい **だ**) = é estudante da escola do ensino fundamental | 小学生**なら** (しょうがくせい**なら**) = se for estudante da escola do ensino fundamental |
+|  () = o acesso é inconveniente |  () = se o acesso for inconveniente |
+|  () = é no domingo da próxima semana |  () = se for no domingo da próxima semana |
+
+### ```com ADJETIVOS な```
+
+### ```Negativo```
+| ではない | でなければ |
+|:---:|:---:|
+|  () = não é primavera |  () = se não for primavera |
+|  () = o corpo não é forte |  () = se o corpo não for forte |
+|  () = não gosto de comida japonesa |  () = se não gostar de comida japonesa |

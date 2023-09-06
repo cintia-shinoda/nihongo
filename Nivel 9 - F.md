@@ -103,20 +103,20 @@
 | おいしい = é gostoso | おいしければ | おいしくない | おいしくなければ |
 | いい  = é bom | よければ | よくない | よくなければ |
 
-## Afirmativo
+<br>
+
+
 ### ```com SUBSTANTIVOS```
 
-| だ | なら |
-|:---:|:---:|
-| 小学生 **だ** (しょうがくせい **だ**) = é estudante da escola do ensino fundamental | 小学生**なら** (しょうがくせい**なら**) = se for estudante da escola do ensino fundamental |
-|  () = o acesso é inconveniente |  () = se o acesso for inconveniente |
-|  () = é no domingo da próxima semana |  () = se for no domingo da próxima semana |
+|  | だ | なら / なければ |
+|:---:|:---:|:---:|
+| afirmativo | 小学生 **だ** (しょうがくせい **だ**) = é estudante da escola do ensino fundamental | 小学生**なら** (しょうがくせい**なら**) = se for estudante da escola do ensino fundamental |
+| afirmativo | 来週 の 日曜日 **だ** (らいしゅう の にちようび **だ**) = é no domingo da próxima semana | 来週 の 日曜日 **なら** (らいしゅう の にちようび **なら**) = se for no domingo da próxima semana |
+| negativo | 春 **ではない** (はる **ではない**) = não é primavera | 春 **でなければ** (はる **でなければ**) = se não for primavera |
+| negativo | わ食 が 好き ではない (わしょく が すき ではない) = não gosto de comida japonesa | わ食 が 好き でなければ (わしょく が すき でなければ) = se não gostar de comida japonesa |
 
 ### ```com ADJETIVOS な```
-
-### ```Negativo```
-| ではない | でなければ |
-|:---:|:---:|
-|  () = não é primavera |  () = se não for primavera |
-|  () = o corpo não é forte |  () = se o corpo não for forte |
-|  () = não gosto de comida japonesa |  () = se não gostar de comida japonesa |
+|  | だ | なら / なければ |
+|:---:|:---:|:---:|
+| afirmativo | 交通 が 不便 **だ** (こうつう が ふべん **だ**) = o acesso é inconveniente | 交通 が 不便 **なら** (こうつう が ふべん **なら**) = se o acesso for inconveniente |
+| negativo | 体 が じょう夫 **ではない** (からだ が じょうぶ **ではない**) = o corpo não é forte | 体 が じょう夫 **でなければ** (からだ が じょうぶ **でなければ**) = se o corpo não for forte |

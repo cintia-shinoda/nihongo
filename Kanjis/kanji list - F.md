@@ -36,3 +36,48 @@
 | 単 | único |<ul><li>＊＊＊</li><li>タン</li></ul>|<ul><li>単語 (たんご) = palavra</li><li>長さの単い (ながさのたんい) = unidade de comprimento</li></ul>|
 | 簡 | simples |<ul><li>＊＊＊</li><li>カン</li></ul>|<ul><li>簡単 (かんたん) = é fácil</li><li>簡いベッド (かんいベッド) = cama de armar</li></ul>|
 | 調 |<ul><li>tom</li><li>pesquisa</li><li> preparar</li></ul>|<ul><li>しらべる・(ととのう)・(ととのえる)</li><li>チョウ</li></ul>|<ul><li>調べる (しらべる) = pesquisar</li><li>調子 (ちょうし) = estado, condição</li></ul>|
+
+
+## F - 61
+
+| ideograma | traduções | leituras | exemplos |
+|:---:|:---|:---|:---|
+|  | <ul><li>permanecer</li><li>ficar</li></ul> | <ul><li> ()</li><li> ()</li></ul> | <ul><li> () = correio registrado</li><li> () = estudante estrangeiro</li></ul> |
+
+|  | fundo | <ul><li> ()</li><li> ()</li></ul> | <ul><li> () = lagoa funda</li><li> () = aprofundar o intercâmbio</li><li> () = altas horas da noite</li></ul> |
+
+|  | sem falta |<ul><li></li><li></li></ul>|<ul><li> () = sem falta</li><li> () = é necessário</li></ul>|
+
+|  | perigoso | <ul><li></li><li></li></ul> | <ul><li> () = é perigoso</li><li> () = é perigoso</li></ul> |
+|  | <ul><li>trabalho</li><li>negócio</li><li>indústria</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = projeto, negócio</li><li> () = graduando, formando</li></ul> |
+
+|  | <ul><li>desenho</li><li>criar um plano</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = plano, planejamento</li><li>pintor</li><li>filme</ul> |
+
+|  | coletar | <ul><li></li><li></li></ul> | <ul><li> () = reunir-se</li><li> () = coletânea de pinturas</li></ul> |
+
+|  | bebida alcoólica | <ul><li></li><li></li></ul> | <ul><li> () = bebida alcoólica</li><li> () = loja de bebidas alcoólicas</li><li> () = bebida alcoólica ocidental</ul> |
+
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |

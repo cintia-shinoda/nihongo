@@ -42,20 +42,14 @@
 
 | ideograma | traduções | leituras | exemplos |
 |:---:|:---|:---|:---|
-|  | <ul><li>permanecer</li><li>ficar</li></ul> | <ul><li> ()</li><li> ()</li></ul> | <ul><li> () = correio registrado</li><li> () = estudante estrangeiro</li></ul> |
-
-|  | fundo | <ul><li> ()</li><li> ()</li></ul> | <ul><li> () = lagoa funda</li><li> () = aprofundar o intercâmbio</li><li> () = altas horas da noite</li></ul> |
-
-|  | sem falta |<ul><li></li><li></li></ul>|<ul><li> () = sem falta</li><li> () = é necessário</li></ul>|
-
-|  | perigoso | <ul><li></li><li></li></ul> | <ul><li> () = é perigoso</li><li> () = é perigoso</li></ul> |
-|  | <ul><li>trabalho</li><li>negócio</li><li>indústria</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = projeto, negócio</li><li> () = graduando, formando</li></ul> |
-
-|  | <ul><li>desenho</li><li>criar um plano</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = plano, planejamento</li><li>pintor</li><li>filme</ul> |
-
-|  | coletar | <ul><li></li><li></li></ul> | <ul><li> () = reunir-se</li><li> () = coletânea de pinturas</li></ul> |
-
-|  | bebida alcoólica | <ul><li></li><li></li></ul> | <ul><li> () = bebida alcoólica</li><li> () = loja de bebidas alcoólicas</li><li> () = bebida alcoólica ocidental</ul> |
+| 留 | <ul><li>permanecer</li><li>ficar</li></ul> | <ul><li>とめる・(とまる)</li><li>リュウ・(ル)</li></ul> | <ul><li>書留 (かきとめ) = correio registrado</li><li>留学生 (りゅうがくせい) = estudante estrangeiro</li></ul> |
+| 深 | fundo | <ul><li>ふかい・ふかめる・(ふかまる)</li><li>シン</li></ul> | <ul><li>深い 池 (ふかい いけ) = lagoa funda</li><li>交りゅう を 深める。 (こうりゅう を ふかめる) = aprofundar o intercâmbio</li><li>深夜 (しんや) = altas horas da noite</li></ul> |
+| 必 | sem falta |<ul><li>かならず</li><li>ヒツ</li></ul>|<ul><li>必ず (かならず) = sem falta</li><li>必よう だ (ひつよう だ) = é necessário</li></ul>|
+| 危 | perigoso | <ul><li>あぶない・(あやうい)</li><li>キ</li></ul> | <ul><li>危ない (あぶない) = é perigoso</li><li>危けん だ (きけん=2だ) = é perigoso</li></ul> |
+| 業 | <ul><li>trabalho</li><li>negócio</li><li>indústria</li></ul> | <ul><li>(わざ)</li><li>ギョウ・(ゴウ)</li></ul> | <ul><li>事業 (じぎょう) = projeto, negócio</li><li>そつ業生 (そつぎょうせい) = graduando, formando</li></ul> |
+| 画 | <ul><li>desenho</li><li>criar um plano</li></ul> | <ul><li>＊＊＊</li><li>カク・ガ</li></ul> | <ul><li>計画 (けいかく) = plano, planejamento</li><li>画家 (がか) = pintor</li><li>えい画 (えいが) = filme</ul> |
+| 集 | coletar | <ul><li>あつまる・(あつめる)・(つどう)</li><li>シュウ</li></ul> | <ul><li>集まる (あつまる) = reunir-se</li><li>画集 (がしゅう) = coletânea de pinturas</li></ul> |
+| 酒 | bebida alcoólica | <ul><li>さけ・さか</li><li>シュ</li></ul> | <ul><li>お酒 (おさけ) = bebida alcoólica</li><li>酒屋 (さかや) = loja de bebidas alcoólicas</li><li>洋酒 (ようしゅ) = bebida alcoólica ocidental</ul> |
 
 |  |  |  |  |
 |  |  |  |  |

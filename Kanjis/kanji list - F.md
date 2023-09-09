@@ -50,28 +50,42 @@
 | 画 | <ul><li>desenho</li><li>criar um plano</li></ul> | <ul><li>＊＊＊</li><li>カク・ガ</li></ul> | <ul><li>計画 (けいかく) = plano, planejamento</li><li>画家 (がか) = pintor</li><li>えい画 (えいが) = filme</ul> |
 | 集 | coletar | <ul><li>あつまる・(あつめる)・(つどう)</li><li>シュウ</li></ul> | <ul><li>集まる (あつまる) = reunir-se</li><li>画集 (がしゅう) = coletânea de pinturas</li></ul> |
 | 酒 | bebida alcoólica | <ul><li>さけ・さか</li><li>シュ</li></ul> | <ul><li>お酒 (おさけ) = bebida alcoólica</li><li>酒屋 (さかや) = loja de bebidas alcoólicas</li><li>洋酒 (ようしゅ) = bebida alcoólica ocidental</ul> |
+| 続 | continuar | <ul><li>つづく・つづける</li><li>ゾク</li></ul> | <ul><li>続ける (つづける) = continuar, seguir</li><li>連続 (れんぞく) = consecutivo</li></ul> |
+| 失 | <ul><li>perder</li><li>falhar</li></ul> | <ul><li>うしなう・(うせる)</li><li>シツ</li></ul> | <ul><li>失う (うしなう) = perder</li><li>失ぱい (しっぱい) = falha</li></ul> |
+| 礼 | <ul><li>etiqueta</li><li>ritual</li></ul> | <ul><li>＊＊＊</li><li>レイ・(ライ)</li></ul> | <ul><li>朝礼 (ちょうれい) = reunião matinal</li><li>失礼 (しつれい する) = com licença, sair</li></ul> |
+| 過 | <ul><li>passar</li><li>exceder</li></ul> | <ul><li>すぎる・すごす・(あやまち)</li><li>カ</li></ul> | <ul><li>六時過ぎ (ろくじすぎ) = passar das seis horas</li><li>過ごす (すごす) = passar</li><li>過失 (かしつ) = negligência</li></ul> |
+| 器 | <ul><li>vasilha</li><li>instrumento</li></ul> | <ul><li>うつわ</li><li>キ</li></ul> | <ul><li>器 (うつわ) = vasilha</li><li>楽器 (がっき) = instrumento musical</li></ul> |
+| 油 | óleo | <ul><li>あぶら</li><li>ユ</li></ul> | <ul><li>油絵 (あぶらえ) = pintura a óleo</li><li>しょう油 (しょうゆ) = shoyu</li></ul> |
+| 塩 | sal | <ul><li>しお</li><li>エン</li></ul> | <ul><li>塩 (しお) = sal</li><li>塩分 (えんぶん) = teor de sal</li></ul> |
+| 味 | sabor | <ul><li>あじ・あじわう</li><li>ミ</li></ul> | <ul><li>味 (あじ) = sabor</li><li>しゅ味 (しゅみ) = hobby</li><li>味そ (みそ) = miso</li></ul> |
+| 者 | pessoa | <ul><li>もの</li><li>シャ・ジャ</li></ul> | <ul><li>若者 (わかもの) = jovem</li><li>い者 (いしゃ) = médico</li><li>かん者 (かんじゃ) = paciente</li></ul> |
 
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 葉 | folha | <ul><li></li><li></li></ul> | <ul><li> () = folha</li><li> () = palavra</li><li> () = coloração das folhas no outono</ul> |
+
+| 治 | <ul><li>governar</li><li>curar</li></ul> | <ul><li>()()</li><li></li></ul> | <ul><li> () = sarar, curar</li><li> () = tratamento</li></ul> |
+
+| 政 | administração política | <ul><li>()</li><li>()</li></ul> | <ul><li> () = política</li><li> () = governo</li><li> () = finanças</li></ul> |
+
+| 星 | estrela | <ul><li></li><li></li></ul> | <ul><li> () = estrela</li><li> () = constelação</li></ul> |
+
+| 科 | matéria de estudo | <ul><li></li><li></li></ul> | <ul><li> () = matéria</li><li> () = enciclopédia</li></ul> |
+
+| 接 | contato | <ul><li></li><li></li></ul> | <ul><li> () = entrevistar</li><li> () = diretamente</li></ul> |
+
+| 苦 | <ul><li>sofrer</li><li>amargo</li></ul> | <ul><li>()</li><li>()</li></ul> | <ul><li> () = sofrido</li><li> () = é o ponto fraco</li></ul> |
+
+| 反 | contra | <ul><li>()</li><li>()</li></ul> | <ul><li> () = Curvo o corpo (para trás)</li><li> () = reflexão</li></ul> |
+
+| 点 | ponto | <ul><li>()()</li><li></li></ul> | <ul><li> () = ponto</li><li> () = nota cem</li></ul> |
+
+| 身 | <ul><li>corpo</li><li>pessoa</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = sashimi</li><li> () = estatura</li><li>da cintura para cima (corpo)</ul> |
+
+| 重 | <ul><li>pesado</li><li>repetido</li></ul> | <ul><li>()</li><li></li></ul> | <ul><li> () = bagagem pesada</li><li> () = peso do corpo</li><li> () = é precioso</li></ul> |
+
+| 庭 | <ul><li>quadra</li><li>jardim</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = quintal</li><li> () = jardim</li></ul> |
+
+| 登 | subir | <ul><li></li><li></li></ul> | <ul><li> () = subir</li><li> () = aparecer</li><li> () = escalada de montanha</ul> |
+
+| 鳥 | pássaro | <ul><li></li><li></li></ul> | <ul><li> () = passarinho</li><li> () = ave silvestre</li></ul> |
+
+| 育 | criar | <ul><li>()()</li><li></li></ul> | <ul><li> () = criar, cultivar</li><li> () = criar (animais)</li></ul> |

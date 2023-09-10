@@ -46,31 +46,31 @@
 | 深 | fundo | <ul><li>```ふか```い・```ふか```める・(```ふか```まる)</li><li>```シン```</li></ul> | <ul><li>```深```い 池 (```ふか```い いけ) = lagoa funda</li><li>交りゅう を ```深```める。 (こうりゅう を ```ふか```める) = aprofundar o intercâmbio</li><li>```深```夜 (```しん```や) = altas horas da noite</li></ul> |
 | 必 | sem falta |<ul><li>```かなら```ず</li><li>```ヒツ```</li></ul>|<ul><li>```必```ず (```かなら```ず) = sem falta</li><li>```必```よう だ (```ひつ```よう だ) = é necessário</li></ul>|
 | 危 | perigoso | <ul><li>```あぶ```ない・(```あや```うい)</li><li>```キ```</li></ul> | <ul><li>```危```ない (```あぶ```ない) = é perigoso</li><li>```危```けん だ (```き```けん だ) = é perigoso</li></ul> |
-| 業 | <ul><li>trabalho</li><li>negócio</li><li>indústria</li></ul> | <ul><li>(わざ)</li><li>ギョウ・(ゴウ)</li></ul> | <ul><li>事業 (じぎょう) = projeto, negócio</li><li>そつ業生 (そつぎょうせい) = graduando, formando</li></ul> |
-| 画 | <ul><li>desenho</li><li>criar um plano</li></ul> | <ul><li>＊＊＊</li><li>カク・ガ</li></ul> | <ul><li>計画 (けいかく) = plano, planejamento</li><li>画家 (がか) = pintor</li><li>えい画 (えいが) = filme</ul> |
-| 集 | coletar | <ul><li>あつまる・(あつめる)・(つどう)</li><li>シュウ</li></ul> | <ul><li>集まる (あつまる) = reunir-se</li><li>画集 (がしゅう) = coletânea de pinturas</li></ul> |
-| 酒 | bebida alcoólica | <ul><li>さけ・さか</li><li>シュ</li></ul> | <ul><li>お酒 (おさけ) = bebida alcoólica</li><li>酒屋 (さかや) = loja de bebidas alcoólicas</li><li>洋酒 (ようしゅ) = bebida alcoólica ocidental</ul> |
-| 続 | continuar | <ul><li>つづく・つづける</li><li>ゾク</li></ul> | <ul><li>続ける (つづける) = continuar, seguir</li><li>連続 (れんぞく) = consecutivo</li></ul> |
-| 失 | <ul><li>perder</li><li>falhar</li></ul> | <ul><li>うしなう・(うせる)</li><li>シツ</li></ul> | <ul><li>失う (うしなう) = perder</li><li>失ぱい (しっぱい) = falha</li></ul> |
-| 礼 | <ul><li>etiqueta</li><li>ritual</li></ul> | <ul><li>＊＊＊</li><li>レイ・(ライ)</li></ul> | <ul><li>朝礼 (ちょうれい) = reunião matinal</li><li>失礼 (しつれい する) = com licença, sair</li></ul> |
-| 過 | <ul><li>passar</li><li>exceder</li></ul> | <ul><li>すぎる・すごす・(あやまち)</li><li>カ</li></ul> | <ul><li>六時過ぎ (ろくじすぎ) = passar das seis horas</li><li>過ごす (すごす) = passar</li><li>過失 (かしつ) = negligência</li></ul> |
-| 器 | <ul><li>vasilha</li><li>instrumento</li></ul> | <ul><li>うつわ</li><li>キ</li></ul> | <ul><li>器 (うつわ) = vasilha</li><li>楽器 (がっき) = instrumento musical</li></ul> |
-| 油 | óleo | <ul><li>あぶら</li><li>ユ</li></ul> | <ul><li>油絵 (あぶらえ) = pintura a óleo</li><li>しょう油 (しょうゆ) = shoyu</li></ul> |
-| 塩 | sal | <ul><li>しお</li><li>エン</li></ul> | <ul><li>塩 (しお) = sal</li><li>塩分 (えんぶん) = teor de sal</li></ul> |
-| 味 | sabor | <ul><li>あじ・あじわう</li><li>ミ</li></ul> | <ul><li>味 (あじ) = sabor</li><li>しゅ味 (しゅみ) = hobby</li><li>味そ (みそ) = miso</li></ul> |
-| 者 | pessoa | <ul><li>もの</li><li>シャ・ジャ</li></ul> | <ul><li>若者 (わかもの) = jovem</li><li>い者 (いしゃ) = médico</li><li>かん者 (かんじゃ) = paciente</li></ul> |
-| 葉 | folha | <ul><li>は・ば</li><li>ヨウ</li></ul> | <ul><li>葉 (は) = folha</li><li>言葉 (ことば) = palavra</li><li>こう葉 (こうよう) = coloração das folhas no outono</ul> |
-| 治 | <ul><li>governar</li><li>curar</li></ul> | <ul><li>なおる・(なおす)・(おさめる)</li><li>チ・ジ</li></ul> | <ul><li>治る (なおる) = sarar, curar</li><li>治りょう (ちりょう) = tratamento</li></ul> |
-| 政 | administração política | <ul><li>(まつりごと)</li><li>セイ・(ショウ)</li></ul> | <ul><li>政治 (せいじ) = política</li><li>政ふ (せいふ) = governo</li><li>ざい政 (ざいせい) = finanças</li></ul> |
-| 星 | estrela | <ul><li>ほし・ぼし</li><li>セイ</li></ul> | <ul><li>星 (ほし) = estrela</li><li>星座 (せいざ) = constelação</li></ul> |
-| 科 | matéria de estudo | <ul><li>＊＊＊</li><li>カ</li></ul> | <ul><li>教科 (きょうか) = matéria</li><li>百科事てん (ひゃっかじてん) = enciclopédia</li></ul> |
-| 接 | contato | <ul><li>＊＊＊</li><li>セツ</li></ul> | <ul><li>めん接する (めんせつする) = entrevistar</li><li>直接 (ちょくせつ) = diretamente</li></ul> |
-| 苦 | <ul><li>sofrer</li><li>amargo</li></ul> | <ul><li>くるしい・(くるしむ)・にがい</li><li>(ク)</li></ul> | <ul><li>苦しい (くるしい) = sofrido</li><li>苦手だ (にがてだ) = é o ponto fraco</li></ul> |
-| 反 | contra | <ul><li>そらす・(そる)</li><li>ハン・(タン)</li></ul> | <ul><li>体 を 反らす。 (からだ を そらす。) = Curvo o corpo (para trás)</li><li>反せい (はんせい) = reflexão</li></ul> |
-| 点 | ponto | <ul><li>(つく)・(つける)</li><li>テン</li></ul> | <ul><li>点 (てん) = ponto</li><li>百点 (ひゃくてん) = nota cem</li></ul> |
-| 身 | <ul><li>corpo</li><li>pessoa</li></ul> | <ul><li>み</li><li>シン</li></ul> | <ul><li>さし身 (さしみ) = sashimi</li><li>身長 (しんちょう) = estatura</li><li>上半身 (じょうはんしん) = da cintura para cima (corpo)</ul> |
-| 重 | <ul><li>pesado</li><li>repetido</li></ul> | <ul><li>おもい・(かさねる)</li><li>ジュウ・チョウ</li></ul> | <ul><li>重い 荷物 (おもい にもつ) = bagagem pesada</li><li>体重 (たいじゅう) = peso do corpo</li><li>き重 だ (きちょう だ) = é precioso</li></ul> |
-| 庭 | <ul><li>quadra</li><li>jardim</li></ul> | <ul><li>にわ</li><li>テイ</li></ul> | <ul><li>庭 (にわ) = quintal</li><li>庭園 (ていえん) = jardim</li></ul> |
-| 登 | subir | <ul><li>のぼる</li><li>トウ・ト</li></ul> | <ul><li>登る (のぼる) = subir</li><li>登場 する (とうじょう する) = aparecer</li><li>登山 (とざん) = escalada de montanha</ul> |
-| 鳥 | pássaro | <ul><li>とり</li><li>チョウ</li></ul> | <ul><li>小鳥 (ことり) = passarinho</li><li>野鳥 (やちょう) = ave silvestre</li></ul> |
-| 育 | criar | <ul><li>そだてる・(そだつ)・(はぐくむ)</li><li>イク</li></ul> | <ul><li>育てる (そだてる) = criar, cultivar</li><li>しいく する (しいく する) = criar (animais)</li></ul> |
+| 業 | <ul><li>trabalho</li><li>negócio</li><li>indústria</li></ul> | <ul><li>(```わざ```)</li><li>```ギョウ```・(```ゴウ```)</li></ul> | <ul><li>事```業``` (じ```ぎょう```) = projeto, negócio</li><li>そつ```業```生 (そつ```ぎょう```せい) = graduando, formando</li></ul> |
+| 画 | <ul><li>desenho</li><li>criar um plano</li></ul> | <ul><li>＊＊＊</li><li>```カク```・```ガ```</li></ul> | <ul><li>計```画``` (けい```かく```) = plano, planejamento</li><li>```画```家 (が```か```) = pintor</li><li>えい```画``` (えい```が```) = filme</ul> |
+| 集 | coletar | <ul><li>```あつ```まる・(```あつ```める)・(```つど```う)</li><li>```シュウ```</li></ul> | <ul><li>```集```まる (```あつ```まる) = reunir-se</li><li>画```集``` (が```しゅう```) = coletânea de pinturas</li></ul> |
+| 酒 | bebida alcoólica | <ul><li>```さけ```・```さか```</li><li>```シュ```</li></ul> | <ul><li>お```酒``` (お```さけ```) = bebida alcoólica</li><li>```酒```屋 (```さか```や) = loja de bebidas alcoólicas</li><li>洋```酒``` (よう```しゅ```) = bebida alcoólica ocidental</ul> |
+| 続 | continuar | <ul><li>```つづ```く・```つづ```ける</li><li>```ゾク```</li></ul> | <ul><li>```続```ける (```つづ```ける) = continuar, seguir</li><li>連```続``` (れん```ぞく```) = consecutivo</li></ul> |
+| 失 | <ul><li>perder</li><li>falhar</li></ul> | <ul><li>```うしな```う・(```う```せる)</li><li>```シツ```</li></ul> | <ul><li>```失```う (```うしな```う) = perder</li><li>```失```ぱい (```しっ```ぱい) = falha</li></ul> |
+| 礼 | <ul><li>etiqueta</li><li>ritual</li></ul> | <ul><li>＊＊＊</li><li>```レイ```・(```ライ```)</li></ul> | <ul><li>朝```礼``` (ちょう```れい```) = reunião matinal</li><li>失```礼``` (しつ```れい``` する) = com licença, sair</li></ul> |
+| 過 | <ul><li>passar</li><li>exceder</li></ul> | <ul><li>```す```ぎる・```す```ごす・(```あやま```ち)</li><li>```カ```</li></ul> | <ul><li>六時```過```ぎ (ろくじ```す```ぎ) = passar das seis horas</li><li>```過```ごす (```す```ごす) = passar</li><li>```過```失 (```か```しつ) = negligência</li></ul> |
+| 器 | <ul><li>vasilha</li><li>instrumento</li></ul> | <ul><li>```うつわ```</li><li>```キ```</li></ul> | <ul><li>```器``` (```うつわ```) = vasilha</li><li>楽```器``` (がっ```き```) = instrumento musical</li></ul> |
+| 油 | óleo | <ul><li>```あぶら```</li><li>```ユ```</li></ul> | <ul><li>```油```絵 (```あぶら```え) = pintura a óleo</li><li>しょう```油``` (しょう```ゆ```) = shoyu</li></ul> |
+| 塩 | sal | <ul><li>```しお```</li><li>```エン```</li></ul> | <ul><li>```塩``` (```しお```) = sal</li><li>```塩```分 (```えん```ぶん) = teor de sal</li></ul> |
+| 味 | sabor | <ul><li>```あじ```・```あじ```わう</li><li>```ミ```</li></ul> | <ul><li>```味``` (```あじ```) = sabor</li><li>しゅ```味``` (しゅ```み```) = hobby</li><li>```味```そ (```み```そ) = miso</li></ul> |
+| 者 | pessoa | <ul><li>```もの```</li><li>```シャ```・```ジャ```</li></ul> | <ul><li>若```者``` (わか```もの```) = jovem</li><li>い```者``` (い```しゃ```) = médico</li><li>かん```者``` (かん```じゃ```) = paciente</li></ul> |
+| 葉 | folha | <ul><li>```は```・```ば```</li><li>```ヨウ```</li></ul> | <ul><li>```葉``` (```は```) = folha</li><li>言```葉``` (こと```ば```) = palavra</li><li>こう```葉``` (こう```よう```) = coloração das folhas no outono</ul> |
+| 治 | <ul><li>governar</li><li>curar</li></ul> | <ul><li>```なお```る・(```なお```す)・(```おさ```める)</li><li>```チ```・```ジ```</li></ul> | <ul><li>```治```る (```なお```る) = sarar, curar</li><li>```治```りょう (```ち```りょう) = tratamento</li></ul> |
+| 政 | administração política | <ul><li>(```まつりごと```)</li><li>```セイ```・(```ショウ```)</li></ul> | <ul><li>```政```治 (```せい```じ) = política</li><li>```政```ふ (```せい```ふ) = governo</li><li>ざい```政``` (ざい```せい```) = finanças</li></ul> |
+| 星 | estrela | <ul><li>```ほし```・```ぼし```</li><li>```セイ```</li></ul> | <ul><li>```星``` (```ほし```) = estrela</li><li>```星```座 (```せい```ざ) = constelação</li></ul> |
+| 科 | matéria de estudo | <ul><li>＊＊＊</li><li>```カ```</li></ul> | <ul><li>教```科``` (きょう```か```) = matéria</li><li>百```科```事てん (ひゃっ```か```じてん) = enciclopédia</li></ul> |
+| 接 | contato | <ul><li>＊＊＊</li><li>```セツ```</li></ul> | <ul><li>めん```接```する (めん```せつ```する) = entrevistar</li><li>直```接``` (ちょく```せつ```) = diretamente</li></ul> |
+| 苦 | <ul><li>sofrer</li><li>amargo</li></ul> | <ul><li>```くる```しい・(```くる```しむ)・```にが```い</li><li>(```ク```)</li></ul> | <ul><li>```苦```しい (```くる```しい) = sofrido</li><li>```苦```手だ (```にが```てだ) = é o ponto fraco</li></ul> |
+| 反 | contra | <ul><li>```そ```らす・(```そ```る)</li><li>```ハン```・(```タン```)</li></ul> | <ul><li>体 を ```反```らす。 (からだ を ```そ```らす。) = Curvo o corpo (para trás)</li><li>```反```せい (```はん```せい) = reflexão</li></ul> |
+| 点 | ponto | <ul><li>(```つ```く)・(```つ```ける)</li><li>```テン```</li></ul> | <ul><li>```点``` (```てん```) = ponto</li><li>百```点``` (ひゃく```てん```) = nota cem</li></ul> |
+| 身 | <ul><li>corpo</li><li>pessoa</li></ul> | <ul><li>```み```</li><li>```シン```</li></ul> | <ul><li>さし```身``` (さし```み```) = sashimi</li><li>```身```長 (```しん```ちょう) = estatura</li><li>上半```身``` (じょうはん```しん```) = da cintura para cima (corpo)</ul> |
+| 重 | <ul><li>pesado</li><li>repetido</li></ul> | <ul><li>```おも```い・(```かさ```ねる)</li><li>```ジュウ```・```チョウ```</li></ul> | <ul><li>```重```い 荷物 (```おも```い にもつ) = bagagem pesada</li><li>体```重``` (たい```じゅう```) = peso do corpo</li><li>き```重``` だ (き```ちょう``` だ) = é precioso</li></ul> |
+| 庭 | <ul><li>quadra</li><li>jardim</li></ul> | <ul><li>```にわ```</li><li>```テイ```</li></ul> | <ul><li>```庭``` (```にわ```) = quintal</li><li>```庭```園 (```てい```えん) = jardim</li></ul> |
+| 登 | subir | <ul><li>```のぼ```る</li><li>```トウ```・```ト```</li></ul> | <ul><li>```登```る (```のぼ```る) = subir</li><li>```登```場 する (```とう```じょう する) = aparecer</li><li>```登```山 (```と```ざん) = escalada de montanha</ul> |
+| 鳥 | pássaro | <ul><li>```とり```</li><li>```チョウ```</li></ul> | <ul><li>小```鳥``` (こ```とり```) = passarinho</li><li>野```鳥``` (や```ちょう```) = ave silvestre</li></ul> |
+| 育 | criar | <ul><li>```そだ```てる・(```そだ```つ)・(```はぐく```む)</li><li>```イク```</li></ul> | <ul><li>```育```てる (```そだ```てる) = criar, cultivar</li><li>し育 する (し```いく``` する) = criar (animais)</li></ul> |

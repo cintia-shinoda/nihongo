@@ -42,10 +42,10 @@
 
 | ideograma | traduções | leituras | exemplos |
 |:---:|:---|:---|:---|
-| 留 | <ul><li>permanecer</li><li>ficar</li></ul> | <ul><li>とめる・(とまる)</li><li>リュウ・(ル)</li></ul> | <ul><li>書留 (かきとめ) = correio registrado</li><li>留学生 (りゅうがくせい) = estudante estrangeiro</li></ul> |
-| 深 | fundo | <ul><li>ふかい・ふかめる・(ふかまる)</li><li>シン</li></ul> | <ul><li>深い 池 (ふかい いけ) = lagoa funda</li><li>交りゅう を 深める。 (こうりゅう を ふかめる) = aprofundar o intercâmbio</li><li>深夜 (しんや) = altas horas da noite</li></ul> |
-| 必 | sem falta |<ul><li>かならず</li><li>ヒツ</li></ul>|<ul><li>必ず (かならず) = sem falta</li><li>必よう だ (ひつよう だ) = é necessário</li></ul>|
-| 危 | perigoso | <ul><li>あぶない・(あやうい)</li><li>キ</li></ul> | <ul><li>危ない (あぶない) = é perigoso</li><li>危けん だ (きけん=2だ) = é perigoso</li></ul> |
+| 留 | <ul><li>permanecer</li><li>ficar</li></ul> | <ul><li>```と```める・(```と```まる)</li><li>```リュウ```・(```ル```)</li></ul> | <ul><li>書```留``` (かき```とめ```) = correio registrado</li><li>```留```学生 (```りゅう```がくせい) = estudante estrangeiro</li></ul> |
+| 深 | fundo | <ul><li>```ふか```い・```ふか```める・(```ふか```まる)</li><li>```シン```</li></ul> | <ul><li>```深```い 池 (```ふか```い いけ) = lagoa funda</li><li>交りゅう を ```深```める。 (こうりゅう を ```ふか```める) = aprofundar o intercâmbio</li><li>```深```夜 (```しん```や) = altas horas da noite</li></ul> |
+| 必 | sem falta |<ul><li>```かなら```ず</li><li>```ヒツ```</li></ul>|<ul><li>```必```ず (```かなら```ず) = sem falta</li><li>```必```よう だ (```ひつ```よう だ) = é necessário</li></ul>|
+| 危 | perigoso | <ul><li>```あぶ```ない・(```あや```うい)</li><li>```キ```</li></ul> | <ul><li>```危```ない (```あぶ```ない) = é perigoso</li><li>```危```けん だ (```き```けん だ) = é perigoso</li></ul> |
 | 業 | <ul><li>trabalho</li><li>negócio</li><li>indústria</li></ul> | <ul><li>(わざ)</li><li>ギョウ・(ゴウ)</li></ul> | <ul><li>事業 (じぎょう) = projeto, negócio</li><li>そつ業生 (そつぎょうせい) = graduando, formando</li></ul> |
 | 画 | <ul><li>desenho</li><li>criar um plano</li></ul> | <ul><li>＊＊＊</li><li>カク・ガ</li></ul> | <ul><li>計画 (けいかく) = plano, planejamento</li><li>画家 (がか) = pintor</li><li>えい画 (えいが) = filme</ul> |
 | 集 | coletar | <ul><li>あつまる・(あつめる)・(つどう)</li><li>シュウ</li></ul> | <ul><li>集まる (あつまる) = reunir-se</li><li>画集 (がしゅう) = coletânea de pinturas</li></ul> |
@@ -59,33 +59,18 @@
 | 塩 | sal | <ul><li>しお</li><li>エン</li></ul> | <ul><li>塩 (しお) = sal</li><li>塩分 (えんぶん) = teor de sal</li></ul> |
 | 味 | sabor | <ul><li>あじ・あじわう</li><li>ミ</li></ul> | <ul><li>味 (あじ) = sabor</li><li>しゅ味 (しゅみ) = hobby</li><li>味そ (みそ) = miso</li></ul> |
 | 者 | pessoa | <ul><li>もの</li><li>シャ・ジャ</li></ul> | <ul><li>若者 (わかもの) = jovem</li><li>い者 (いしゃ) = médico</li><li>かん者 (かんじゃ) = paciente</li></ul> |
-
-| 葉 | folha | <ul><li></li><li></li></ul> | <ul><li> () = folha</li><li> () = palavra</li><li> () = coloração das folhas no outono</ul> |
-
-| 治 | <ul><li>governar</li><li>curar</li></ul> | <ul><li>()()</li><li></li></ul> | <ul><li> () = sarar, curar</li><li> () = tratamento</li></ul> |
-
-| 政 | administração política | <ul><li>()</li><li>()</li></ul> | <ul><li> () = política</li><li> () = governo</li><li> () = finanças</li></ul> |
-
-| 星 | estrela | <ul><li></li><li></li></ul> | <ul><li> () = estrela</li><li> () = constelação</li></ul> |
-
-| 科 | matéria de estudo | <ul><li></li><li></li></ul> | <ul><li> () = matéria</li><li> () = enciclopédia</li></ul> |
-
-| 接 | contato | <ul><li></li><li></li></ul> | <ul><li> () = entrevistar</li><li> () = diretamente</li></ul> |
-
-| 苦 | <ul><li>sofrer</li><li>amargo</li></ul> | <ul><li>()</li><li>()</li></ul> | <ul><li> () = sofrido</li><li> () = é o ponto fraco</li></ul> |
-
-| 反 | contra | <ul><li>()</li><li>()</li></ul> | <ul><li> () = Curvo o corpo (para trás)</li><li> () = reflexão</li></ul> |
-
-| 点 | ponto | <ul><li>()()</li><li></li></ul> | <ul><li> () = ponto</li><li> () = nota cem</li></ul> |
-
-| 身 | <ul><li>corpo</li><li>pessoa</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = sashimi</li><li> () = estatura</li><li>da cintura para cima (corpo)</ul> |
-
-| 重 | <ul><li>pesado</li><li>repetido</li></ul> | <ul><li>()</li><li></li></ul> | <ul><li> () = bagagem pesada</li><li> () = peso do corpo</li><li> () = é precioso</li></ul> |
-
-| 庭 | <ul><li>quadra</li><li>jardim</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = quintal</li><li> () = jardim</li></ul> |
-
-| 登 | subir | <ul><li></li><li></li></ul> | <ul><li> () = subir</li><li> () = aparecer</li><li> () = escalada de montanha</ul> |
-
-| 鳥 | pássaro | <ul><li></li><li></li></ul> | <ul><li> () = passarinho</li><li> () = ave silvestre</li></ul> |
-
-| 育 | criar | <ul><li>()()</li><li></li></ul> | <ul><li> () = criar, cultivar</li><li> () = criar (animais)</li></ul> |
+| 葉 | folha | <ul><li>は・ば</li><li>ヨウ</li></ul> | <ul><li>葉 (は) = folha</li><li>言葉 (ことば) = palavra</li><li>こう葉 (こうよう) = coloração das folhas no outono</ul> |
+| 治 | <ul><li>governar</li><li>curar</li></ul> | <ul><li>なおる・(なおす)・(おさめる)</li><li>チ・ジ</li></ul> | <ul><li>治る (なおる) = sarar, curar</li><li>治りょう (ちりょう) = tratamento</li></ul> |
+| 政 | administração política | <ul><li>(まつりごと)</li><li>セイ・(ショウ)</li></ul> | <ul><li>政治 (せいじ) = política</li><li>政ふ (せいふ) = governo</li><li>ざい政 (ざいせい) = finanças</li></ul> |
+| 星 | estrela | <ul><li>ほし・ぼし</li><li>セイ</li></ul> | <ul><li>星 (ほし) = estrela</li><li>星座 (せいざ) = constelação</li></ul> |
+| 科 | matéria de estudo | <ul><li>＊＊＊</li><li>カ</li></ul> | <ul><li>教科 (きょうか) = matéria</li><li>百科事てん (ひゃっかじてん) = enciclopédia</li></ul> |
+| 接 | contato | <ul><li>＊＊＊</li><li>セツ</li></ul> | <ul><li>めん接する (めんせつする) = entrevistar</li><li>直接 (ちょくせつ) = diretamente</li></ul> |
+| 苦 | <ul><li>sofrer</li><li>amargo</li></ul> | <ul><li>くるしい・(くるしむ)・にがい</li><li>(ク)</li></ul> | <ul><li>苦しい (くるしい) = sofrido</li><li>苦手だ (にがてだ) = é o ponto fraco</li></ul> |
+| 反 | contra | <ul><li>そらす・(そる)</li><li>ハン・(タン)</li></ul> | <ul><li>体 を 反らす。 (からだ を そらす。) = Curvo o corpo (para trás)</li><li>反せい (はんせい) = reflexão</li></ul> |
+| 点 | ponto | <ul><li>(つく)・(つける)</li><li>テン</li></ul> | <ul><li>点 (てん) = ponto</li><li>百点 (ひゃくてん) = nota cem</li></ul> |
+| 身 | <ul><li>corpo</li><li>pessoa</li></ul> | <ul><li>み</li><li>シン</li></ul> | <ul><li>さし身 (さしみ) = sashimi</li><li>身長 (しんちょう) = estatura</li><li>上半身 (じょうはんしん) = da cintura para cima (corpo)</ul> |
+| 重 | <ul><li>pesado</li><li>repetido</li></ul> | <ul><li>おもい・(かさねる)</li><li>ジュウ・チョウ</li></ul> | <ul><li>重い 荷物 (おもい にもつ) = bagagem pesada</li><li>体重 (たいじゅう) = peso do corpo</li><li>き重 だ (きちょう だ) = é precioso</li></ul> |
+| 庭 | <ul><li>quadra</li><li>jardim</li></ul> | <ul><li>にわ</li><li>テイ</li></ul> | <ul><li>庭 (にわ) = quintal</li><li>庭園 (ていえん) = jardim</li></ul> |
+| 登 | subir | <ul><li>のぼる</li><li>トウ・ト</li></ul> | <ul><li>登る (のぼる) = subir</li><li>登場 する (とうじょう する) = aparecer</li><li>登山 (とざん) = escalada de montanha</ul> |
+| 鳥 | pássaro | <ul><li>とり</li><li>チョウ</li></ul> | <ul><li>小鳥 (ことり) = passarinho</li><li>野鳥 (やちょう) = ave silvestre</li></ul> |
+| 育 | criar | <ul><li>そだてる・(そだつ)・(はぐくむ)</li><li>イク</li></ul> | <ul><li>育てる (そだてる) = criar, cultivar</li><li>しいく する (しいく する) = criar (animais)</li></ul> |

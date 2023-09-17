@@ -55,7 +55,7 @@
 
 
 
-### Expressões de CONDIÇÃO
+### Expressões de ```CONDIÇÃO```
 #### ```verbos do Grupo I```
 
 | infinitivo | ば | negativo | なければ |
@@ -121,41 +121,70 @@
 | afirmativo | 交通 が 不便 ```だ``` (こうつう が ふべん ```だ```) = o acesso é inconveniente | 交通 が 不便 ```なら``` (こうつう が ふべん ```なら```) = se o acesso for inconveniente |
 | negativo | 体 が じょう夫 ```ではない``` (からだ が じょうぶ ```ではない```) = o corpo não é forte | 体 が じょう夫 ```でなければ``` (からだ が じょうぶ ```でなければ```) = se o corpo não for forte |
 
+<br>
 
-### Expressões EXPLICATIVAS
-- ```"ので"``` e ```"から"``` expressam *causa* ou *motivo* 
+
+### Expressões ```EXPLICATIVAS```
+- **```ので```** e **```から```** expressam ```causa``` ou ```motivo```
 - são usado praticamente da mesma maneira
 
 #### ```VERBOS/ADJETIVOS い　+ ので/から```
-##### ```VERBOS```
+###### ```VERBOS```
 たまねぎ　を　[**切った**　```ので``` / **切った**　```から```]、 なみだ　が　出た。
 
 たまねぎ　を [**きった**　```ので``` / **きった**　```から```]
 
-Como corte cebola, saíram lágrimas.
+Como cortei cebola, saíram lágrimas.
 
-##### ```ADJETIVOS い```
+###### ```ADJETIVOS い```
 背　が　[**高い**　```ので``` / **高い**　```から```]、後ろ　に　立って　ください。
 
 せ　が　[**たかい**　```ので``` / **たかい**　```から```]、うしろ　に　たって　ください。
 
 Como (você) é alto, fique de pé atrás, por favor.
+<br>
 
-#### ```SUBSTANTIVO/ADJETIVOS な no PRETÉRITO + ので/から```
-[大雨　だった　```ので``` / 大雨　だった　```から```]、でんしゃ が 遅れている。
+#### ```SUBSTANTIVO/ADJETIVOS な no PRETÉRITO + ので / から```
+[大雨　**だった**　```ので``` / 大雨　**だった**　```から```]、でんしゃ が 遅れている。
 
 [おおあめ　だった　```ので``` / おおあめ　だった　```から```]、でんしゃ が おくれている。
 
 Como (houve) chuva forte, o trem está atrasado.
+<br>
 
 #### ```SUBSTANTIVO/ADJETIVOS な no NÃO PRETÉRITO + なので/(だ)から```
 - troca-se "な + ので" por "だ + から"
 
-##### ```SUBSTANTIVO```
+###### ```SUBSTANTIVO```
 [きねん 写真　```なので``` / きねん　写真```だから```]、みなさん、わらって　ください。
 
 [きねん しゃしん ```なので``` / きねん しゃしん```だから```]、みなさん、わらって　ください。
 
 Como é uma foto comemorativa, sorriam todos, por favor.
+<br>
 
-##### ```NÃO PRETÉRITO```
+#### ```verbo no IMPERATIVO ou na forma て```
+- quando a frase expressa pedido ou intenção e o verbo estiver no ```imperativo``` ou na ```forma て``` (sem "ください") usa-se **```(だ)から```**
+
+###### ```verbo no IMPERATIVO```
+危ない　```から```、　**やめろ**。
+
+あぶない　```から```、　**やめろ**。
+
+Pare porque é perigoso.
+
+###### ```verbo na forma て```
+熱湯　```だから```、　気　を　**つけて**。
+
+ねっとう　```だから```、　き　を　**つけて**。
+
+Tome cuidado porque é água fervente.
+<br>
+
+#### ```なぜ / どうして```
+- quando são usadas as interrogativas ```なぜ```, ```どうして``` na pergunta e se deseja dar uma resposta simples usa-se **```から です```**
+[**なぜ** / **どうして**]　エアコン　を　つけましたか。
+
+Por que ligou o ar-condicionado?
+
+暑かった　```から　です```。

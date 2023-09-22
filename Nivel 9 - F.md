@@ -188,3 +188,8 @@ Tome cuidado porque é água fervente.
 Por que ligou o ar-condicionado?
 
 暑かった　```から　です```。
+
+<br>
+
+
+### Expressões de ```TEMPO```

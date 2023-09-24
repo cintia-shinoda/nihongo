@@ -193,3 +193,41 @@ Por que ligou o ar-condicionado?
 
 
 ### Expressões de ```TEMPO```
+#### ```ながら``` 
+- duas ações ou atitudes acontecem **ao mesmo tempo**
+- transforma-se ```ます``` em ```ながら```
+- Aながら B: indica que A e B ocorrem ou ocorreram simultaneamente
+
+ピアノ　を　ひき```ながら```、　歌　を　歌う。
+
+ピアノ　を　ひき```ながら```、　うた　を　うたう。
+
+Canto uma canção ```enquanto``` toco piano.
+
+<br>
+
+し料　を　調べ```ながら```、レポート　を　書いた。
+
+しりょう　を　しらべ```ながら```、レポート　を　かいた。
+
+Escrevi o relatório ```enquanto``` pesquisava o material.
+<br>
+
+
+#### ```てから```
+- expressa relação de tempo **antes e depois do acontecimento de uma ação ou atitude**
+- passa-se o verbo para a forma ```て``` e acrescenta-se ```から```
+- Aてから B: indica que depois de A é realizado B
+
+ひらがな　を　習っ```てから```、　かたかな　を　習う。
+
+ひらがな　を　ならっ```てから```、　かたかな　を　ならう。
+
+Aprendo katakana ```depois de aprender hiragana```.
+<br>
+
+日本　に　来```てから```、はじめて　そば　を　食べた。
+
+にほん　に　き```てから```、はじめて　そば　を　たべた。
+
+Comi soba pela primeira vez ```depois de vir ao Japão```.

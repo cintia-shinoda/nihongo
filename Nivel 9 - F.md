@@ -231,3 +231,14 @@ Aprendo katakana ```depois de aprender hiragana```.
 にほん　に　き```てから```、はじめて　そば　を　たべた。
 
 Comi soba pela primeira vez ```depois de vir ao Japão```.
+<br><br>
+
+
+### Conjunções
+#### ```そして```
+
+
+#### ```それで```
+
+
+#### ```すると```

@@ -235,10 +235,12 @@ Comi soba pela primeira vez ```depois de vir ao Japão```.
 
 
 ### Conjunções
-#### ```そして```
+#### ```そして = E```
+- para ordenar mais de uma informação
+- para relatar acontecimentos contínuos
 
+#### ```それで = POR ISSO```
+- utilizada quando a frase anterior é a CAUSA da frase posterior
 
-#### ```それで```
-
-
-#### ```すると```
+#### ```すると = ENTÃO```
+- utilizada quando a frase posterior complementa a informação com algo que aconteceu ou se percebeu

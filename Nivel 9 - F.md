@@ -238,9 +238,24 @@ Comi soba pela primeira vez ```depois de vir ao Japão```.
 #### ```そして = E```
 - para ordenar mais de uma informação
 - para relatar acontecimentos contínuos
+<br>
 
 #### ```それで = POR ISSO```
-- utilizada quando a frase anterior é a CAUSA da frase posterior
+utilizada quando a frase anterior é a **causa** da frase posterior
+<br>
 
 #### ```すると = ENTÃO```
-- utilizada quando a frase posterior complementa a informação com algo que aconteceu ou se percebeu
+utilizada quando a frase posterior complementa a informação com **algo que aconteceu ou se percebeu**
+<br>
+
+#### ```しかし = MAS```
+- quando se quer expressar um **conteúdo contrário** à frase anterior
+<br>
+
+#### ```ところが = NO ENTANTO```
+- quando se deseja expressar **contrariedade em relação às suposições ou expectativas** da frase anterior
+<br>
+
+#### ```なぜなら = PORQUE```
+- para descrever as **causas** da frase anterior
+- é utilizada juntamente com  ```から + だ``` ou```から + です``` (estes ao final da frase)

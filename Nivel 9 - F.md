@@ -259,3 +259,15 @@ utilizada quando a frase posterior complementa a informação com **algo que aco
 #### ```なぜなら = PORQUE```
 - para descrever as **causas** da frase anterior
 - é utilizada juntamente com  ```から + だ``` ou```から + です``` (estes ao final da frase)
+
+
+## F-111: ストーリー　１ (Histórias 1)
+###  (すもう) : *Sumo*
+
+
+
+
+
+<br>
+
+###  () : História do kanji

@@ -74,3 +74,17 @@
 | 登 | subir | <ul><li>```のぼ```る</li><li>```トウ```・```ト```</li></ul> | <ul><li>```登```る (```のぼ```る) = subir</li><li>```登```場 する (```とう```じょう する) = aparecer</li><li>```登```山 (```と```ざん) = escalada de montanha</ul> |
 | 鳥 | pássaro | <ul><li>```とり```</li><li>```チョウ```</li></ul> | <ul><li>小```鳥``` (こ```とり```) = passarinho</li><li>野```鳥``` (や```ちょう```) = ave silvestre</li></ul> |
 | 育 | criar | <ul><li>```そだ```てる・(```そだ```つ)・(```はぐく```む)</li><li>```イク```</li></ul> | <ul><li>```育```てる (```そだ```てる) = criar, cultivar</li><li>し育 する (し```いく``` する) = criar (animais)</li></ul> |
+
+
+## F - 111
+
+| ideograma | traduções | leituras | exemplos |
+|:---:|:---|:---|:---|
+| 横 | lado | <ul><li></li><li></li></ul> | <ul><li> () = lado</li><li> () = faixa para pedestres</li></ul> |
+| 央 | centro | <ul><li>＊＊＊</li><li></li></ul> |  () = centro |
+| 戦 | guerra | <ul><li></li><li></li></ul> | <ul><li> () = lutar</li><li> () = guerra</li></ul> |
+| 活 | <ul><li>ativo</li><li>ao vivo</li></ul>|<ul><li>＊＊＊</li><li></li></ul>|<ul><li> () = vida</li><li> () = atuar</li></ul>|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |

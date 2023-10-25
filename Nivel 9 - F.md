@@ -263,11 +263,146 @@ utilizada quando a frase posterior complementa a informação com **algo que aco
 
 ## F-111: ストーリー　１ (Histórias 1)
 ###  (すもう) : *Sumo*
+いよいよ　横づな　の　とりくみ　が　始まる。
 
+いよいよ　よこづな　の　とりくみ　が　はじまる。
 
-
-
-
+Finalmente começará a luta do yokozuna.
 <br>
 
-###  () : História do kanji
+大きな　力し　が、　土ひょう　の　上　に　上がった。
+
+おおきな　りきし　が、　どひょう　の　うえ　に　あがった。
+
+Lutadores de sumo corpulentos subiram ao ringue.
+<br>
+
+すると、 観客席　から　大きな　声　が　飛んだ。
+
+すると、　かんきゃくせき　から　おおきな　こえ　が　とんだ。
+
+Então, gritos saltaram do público.
+<br>
+
+横づな、　がんばれ。　がんばれ。
+
+よこづな、　がんばれ。　がんばれ。
+
+"Yokozuna, esforce-se!" "Esforce-se!"
+<br>
+
+二人　の　力し　は、　土ひょう　に　上がって　から、　塩　を　まいた。
+
+ふたり　の　りきし　は、　どひょう　に　あがって　から、しお　を　まいた。
+
+Os dois lutadores de sumo espalharam sal depois de subir ao ringue.
+<br>
+
+力し　は、　相手　の　顔　を　にらみ　ながら、　が　土ひょう　の　中央　に　しゃがん　だ。
+
+りきし　は、　あいて　の　かお　を　にらみ　ながら、　が　どひょう　の　ちゅうおう　に　しゃがん　だ。
+
+Os lutadores de sumo agacharam-se no centro do ringue, enquanto fitavam o rosto do adversário.
+<br>
+
+行じ　の　合図　に　合わせて、　二人　の　きょ人　が　ぶつかった。
+
+ぎょうじ　の　あいず　に　あわせて、　ふたり　ぼ　きょじん　が　ぶつかった。
+
+Em sincronia com o sinal do árbitro de sumo, os dois gigantes se chocaram.
+<br>
+
+押せ、　押せ。
+
+おせ、　おせ。
+
+"Empurre, empurre!"
+<br>
+
+下がるな。　そこだ、　投げろ。
+
+さがるな。　そこだ、　なげろ。
+
+"Não recue. É isso, atire!"
+<br>
+
+横づな　が　相手　を　投げ飛ばした。
+
+よこづな　が　あいて　を　なげとばした。
+
+O yokozuna arremessou o adversário.
+<br>
+
+すもう は、　じゅう道　や　けん道　と　ならんで、　日本　の　でんとうてきな　スポーツ　だ。
+
+すもう は、　じゅうどう　や　けんどう　と　ならんで、　にほん　の　でんとうてきな　スポーツ　だ。
+
+O sumo, juntamente com o judô e o kendo, é um esporte tradicional japonês.
+<br>
+
+身長　１８０　センチ　以上、　体重　１００　キロ　以上　の　力し　が、　まるい　土ひょう　の　上　　で、　ほとんど　はだか　で　戦う。
+
+しんちょう　１８０　センチ　いじょう、　たいじゅう　１００　キロ　いじょう　の　力し　が、　まるい　どひょう　の　うえ　で、　ほとんど　はだか　で　たたかう。
+
+Lutadores de sumo de mais de 180 centímetros de altura e peso de mais de 100 quilos, lutam sobre um ringue circular, praticamente nus.
+<br>
+
+勝つ　ため　には、　相手　を　たおすか、　土ひょう　の　外　に　押し出せばいい。
+
+かつ　ため　には、　あいて　を　たおすか、　どひょう　の　そと　に　おしだせばいい。
+
+Para vencer, deve-se derrubar o adversário ou empurrá-lo para fora do ringue.
+<br>
+
+十五　日間、　毎日　一回　ずつ　とりくんで、　最も　多く　勝った　力し　が　優勝　する。
+
+じゅうご　にちかん、　まいにち　いっかい　ずつ　とりくんで、　もっとも　おおく　かった　りきし　が　ゆうしょう　する。
+
+Durante quinze dias, todos os dias, lutam uma vez por dia, e se torna campeão o lutador de sumo que mais vencer.
+<br>
+
+一ばん　強い　力し　が　横づな　だ。
+
+いちばん　つよい　りきし　が　よこづな　だ。
+
+O lutador de sumo mais forte é o yokozuna.
+<br>
+
+すもう　は　日本　の　国ぎ　だ。
+
+すもう　は　にほん　の　こくぎ　だ。
+
+O sumo é o esporte representativo do Japão.
+<br>
+
+しかし、　最近　は、　外国人　の　力し　も　たくさん　活やくしている。
+
+しかし、　さいきん　は、　がいこくじん　の　りきし　も　たくさん　かつやくしている。
+Mas ultimamente, muitos lutadores de sumo estrangeiros também estão atuando.
+<br><br>
+
+
+
+
+### 漢字 の 話 (かんじ の はなし) : História do kanji
+
+Vejamos os seguintes kanji.
+<br>
+
+ (mar),   (lagoa),  (lago).
+ <br>
+
+Estes kanji, todos possuem "".
+<br>
+
+"" representa a forma modificada de "".
+<br>
+
+Além disso, quanto ao significado, todos estão relacionados com água.
+<br>
+
+A esta parte do kanji chamamos de "bushu" (radical).
+<br>
+
+Que outros radicais existem?
+<br>

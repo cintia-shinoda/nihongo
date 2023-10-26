@@ -386,23 +386,74 @@ Mas ultimamente, muitos lutadores de sumo estrangeiros também estão atuando.
 
 ### 漢字 の 話 (かんじ の はなし) : História do kanji
 
+つぎ　の　漢字　を　見てみましょう。
+
+つぎ　の　かんじ　を　みてみましょう。
+
 Vejamos os seguintes kanji.
 <br>
 
- (mar),   (lagoa),  (lago).
+海、　池、　湖。
+
+うみ、　いけ、　みずうみ。
+
+海 (mar), 池 (lagoa), 湖 (lago).
  <br>
 
-Estes kanji, todos possuem "".
+これら　の　漢字　には、　すべて　氵 が 入っています。
+
+これら　の　かんじ　には　すべて　氵 が　はいっています。
+
+Estes kanji, todos possuem "氵".
 <br>
 
-"" representa a forma modificada de "".
+氵　は　水　が　変かした　形　です。
+
+さんずい　は　みず　が　へんかした　かたち　です。
+
+"氵" representa a forma modificada de "水".
 <br>
+
+また、　意味　は　どれも　水　と　かんけい　が　あります。
+
+また、　いみ　は　どれも　みず　と　かんけい　が　あります。
 
 Além disso, quanto ao significado, todos estão relacionados com água.
 <br>
 
+この　ような　漢字　の　部分　を、　部首　と　言います。
+
+この　ような　かんじ　の　ぶぶん　を、　ぶしゅ　と　いいます。
+
 A esta parte do kanji chamamos de "bushu" (radical).
 <br>
 
+ほか　に、　どんな　部首　が　あるでしょうか。
+
+ほか　に、　どんな　ぶしゅ　が　あるでしょうか。
+
 Que outros radicais existem?
 <br>
+
+細い、　結、　絵。
+
+ほそい、　むすぶ、　え。
+
+細 (fino), 結 (amarrar), 絵 (desenho).
+<br>
+
+これら の 漢字　に　きょう通する　部分　は　糸 です。
+
+これら　の　かんじ　に　きょうつうする　ぶぶん　は　いとへん　です。
+
+A parte que é comum a estes kanji é "糸"
+<br>
+
+
+O significado da maioria dos kanji que possuem "" está relacionado com linha ou tecido.
+<br>
+
+"" e "" são radicais que aparecem do lado esquerdo do kanji.
+<br>
+
+"" é o radical chamado "" e "" é chamado "".

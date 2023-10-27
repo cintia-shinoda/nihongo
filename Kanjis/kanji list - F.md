@@ -80,11 +80,11 @@
 
 | ideograma | traduções | leituras | exemplos |
 |:---:|:---|:---|:---|
-| 横 | lado | <ul><li></li><li></li></ul> | <ul><li> () = lado</li><li> () = faixa para pedestres</li></ul> |
-| 央 | centro | <ul><li>＊＊＊</li><li></li></ul> |  () = centro |
-| 戦 | guerra | <ul><li></li><li></li></ul> | <ul><li> () = lutar</li><li> () = guerra</li></ul> |
-| 活 | <ul><li>ativo</li><li>ao vivo</li></ul>|<ul><li>＊＊＊</li><li></li></ul>|<ul><li> () = vida</li><li> () = atuar</li></ul>|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 横 | lado | <ul><li>よこ</li><li>オウ</li></ul> | <ul><li>横 (よこ) = lado</li><li>横だん歩道 (おうだんほどう) = faixa para pedestres</li></ul> |
+| 央 | centro | <ul><li>＊＊＊</li><li>オウ</li></ul> | 中央 (ちゅうおう) = centro |
+| 戦 | guerra | <ul><li>たたかう</li><li>セン</li></ul> | <ul><li>戦う (たたかう) = lutar</li><li>戦そう (せんそう) = guerra</li></ul> |
+| 活 | <ul><li>ativo</li><li>ao vivo</li></ul>|<ul><li>＊＊＊</li><li>カツ</li></ul>|<ul><li>生活 (せいかつ) = vida</li><li>活やく する (かつやく する) = atuar</li></ul>|
+| 湖 | lago | <ul><li>みずうみ</li><li>コ</li></li></ul> | <ul><li>湖 (みずうみ) = lago</li><li>びわ湖 (びわこ) = Lago Biwa</li></ul> |
+| 糸 | linha | <ul><li>いと</li><li>シ</li></li></ul> | <ul><li>け糸 (けいと) = lã</li><li>せい糸 (せいし) = fiação</li></ul> |
+| 守 | proteger | <ul><li>まもる</li><li>シュ・ス</li></ul> | <ul><li>国きょう　を　守る。 (こっきょう を まもる。) = Protejo a fronteira do país.</li><li>守備 (しゅび) = defesa</li><li>留守 (るす) = ausente</li></ul> |
+| 基 | base | <ul><li>もとづく</li><li>キ</li></ul> | <ul><li>けいけん に 基づく。 (けいけん に もとづな。) = Basear-se na experiência.</li><li>基本 (きほん) = base</li></ul> |

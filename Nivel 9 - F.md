@@ -449,11 +449,84 @@ Que outros radicais existem?
 A parte que é comum a estes kanji é "糸"
 <br>
 
+糸　が　入っている　漢字　の　意味　には、　糸　や　おり物　に　かんけい　する　もの　が　多い　です。
 
-O significado da maioria dos kanji que possuem "" está relacionado com linha ou tecido.
+いとへん　が　はいっている　かんじ　の　いみ　には、　いと　や　おりもの　に　かんけい　する　もの　が　おおい　です。
+
+O significado da maioria dos kanji que possuem "糸" está relacionado com linha ou tecido.
 <br>
 
-"" e "" são radicais que aparecem do lado esquerdo do kanji.
+糸、　氵　は、　漢字　の　左　がわ　に　つく　部首　です。
+
+いとへん、　さんずい　は、　かんじ　の　ひだり　がわ　に　つく　ぶしゅ　です。
+
+"糸" e "氵" são radicais que aparecem do lado esquerdo do kanji.
 <br>
 
-"" é o radical chamado "" e "" é chamado "".
+糸　は　いとへん、　氵　は　さんずい　と　いう　名前　の　部首　です。
+
+いとへん　は　いとへん、　さんずい　は　さんずい　と　いう　なまえ　の　ぶしゅ　です。
+
+"糸" é o radical chamado "いとへん" e "氵" é chamado "さんずい".
+<br>
+
+つぎ に、　家、　室、　守　は　どうでしょうか。
+
+つぎ に、　いえ、　しつ、　まも(る) は　どうでしょうか。
+Em seguida, como seria para  (casa),  (sala),  (proteger)?
+<br>
+
+　が　きょう通しています。
+
+うかんむり　が　きょうつうしています。
+
+"" é o que está em comum.
+<br>
+
+これ　は、　家　の　屋ね　から　できた　形　で、　うかんむり　と　言います。
+
+これ　は、　いえ　の　やね　から　できた　かたち　で、うかんむり　と　いいます。
+
+Isto é uma forma que se originou do telhado de casa e é chamada "うかんむり".
+<br>
+
+うかんむり　の　漢字　には、　屋ね　や　家　に　かんけい　する　もの　が　多い　です。
+
+うかんむり　の　かんじ　には、　やね　や　いえ　に　かんけい　する　もの　が　おおい　です。
+
+A maioria dos kanji com "うかんむり" está relacionada com telhado ou casa.
+<br>
+
+そして、　うかんむり　は、　上　に　つく　部首　です。
+
+そして、　うかんむり　は、　うえ　に　つく　ぶしゅ　です。
+
+E "うかんむり" é um radical que aparece na parte superior.
+<br>
+
+思、　忘、　悲　は、　気持ち　や　心　の　はたらき　に　かんけい　する　漢字　です。　どの　漢字　にも　心　が　はいっています。
+
+おもう、　わすれる、　かなしい　は、　きもち　や　こころ　の　はたらき　に　かんけい　する　かんじ　です。　どの　かんじ　にも　こころ　が　はいっています。
+
+ (思) pensar, 忘 (esquecer), 悲 (triste) são kanji que estão relacionados com os sentimentos ou a mente. Todos os kanji possuem "".
+ <br>
+
+この　よう　に　部首　には、　漢字　の　下　に　つくもの　も　あります。
+
+この　よう　に　ぶしゅ　には　かんじ　の　した　に　つくもの　も　あります。
+
+Deste modo, entre os radicais, há também os que aparecem abaixo no kanji.
+ <br>
+
+部首　は　漢字　の　意味　と　かんけい　が　深い　です。
+
+ぶしゅ　は　かんじ　の　いみ　と　かんけい　が　ふかい　です。
+
+ O radical tem uma relação profunda com o significado dos kanji.
+ <br>
+
+それで、 基本てきな　部首　を　知ること　は、　漢字　の　形　だけで　なく、　意味　の　理かい　にも　やく　立ちます。
+
+それで、　きほんてきな　ぶしゅ　を　しること　は、　かんじ　の　かたち　だけで　なく、　いみ　の　りかい　にも　やく　だちます。
+
+Por isso, saber os radicais básicos ajuda não só na compreensão da forma do kanji, mas também do seu significado.

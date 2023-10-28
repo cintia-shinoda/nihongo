@@ -53,7 +53,7 @@
 
 <br><br>
 
-
+-----
 
 ### Expressões de ```CONDIÇÃO```
 #### ```verbos do Grupo I```
@@ -123,6 +123,7 @@
 
 <br>
 
+-----
 
 ### Expressões ```EXPLICATIVAS```
 - **```ので```** e **```から```** expressam ```causa``` ou ```motivo```
@@ -191,6 +192,7 @@ Por que ligou o ar-condicionado?
 
 <br>
 
+-----
 
 ### Expressões de ```TEMPO```
 #### ```ながら``` 
@@ -233,6 +235,7 @@ Aprendo katakana ```depois de aprender hiragana```.
 Comi soba pela primeira vez ```depois de vir ao Japão```.
 <br><br>
 
+-----
 
 ### Conjunções
 #### ```そして = E```
@@ -260,6 +263,7 @@ utilizada quando a frase posterior complementa a informação com **algo que aco
 - para descrever as **causas** da frase anterior
 - é utilizada juntamente com  ```から + だ``` ou```から + です``` (estes ao final da frase)
 
+-----
 
 ## F-111: ストーリー　１ (Histórias 1)
 ###  (すもう) : *Sumo*
@@ -530,3 +534,44 @@ Deste modo, entre os radicais, há também os que aparecem abaixo no kanji.
 それで、　きほんてきな　ぶしゅ　を　しること　は、　かんじ　の　かたち　だけで　なく、　いみ　の　りかい　にも　やく　だちます。
 
 Por isso, saber os radicais básicos ajuda não só na compreensão da forma do kanji, mas também do seu significado.
+<br><br>
+
+-----
+
+### Expressões de ```DESEJO```
+#### ```não pretérito```
+##### afirmativo
+- afirmativo: substitui-se ```ます``` por ```たい```
+- afirmativo formal: acrescenta-se ```です```　ao ```たい```
+
+##### negativo
+- negativo informal: substitui-se ```たい``` por ```たくない```
+- negativo formal: substitui-se ```たい``` por ```たくありません```
+- há casos em que ```は``` é utilizada para enfatizar o signficado negativo
+
+#### ```pretérito```
+- afirmativo: ```たい``` para ```たかった```
+- negativo: ```たく``` para ```たくなかった```
+
+###### ```休む (やすむ)``` = QUERO descansar / NÃO QUERO descansar
+|   | afirmativo | negativo |
+|:---:|:---:|:---:|
+| INformal | 休みたい | 休みたくない |
+| formal | 休みたいです | 休みたくありません |
+| pretérito | 休みたかった | 休みたくなかった |
+
+<br>
+
+###### ```食べる (たべる)``` = QUERO comer / NÃO QUERO comer
+|   | afirmativo () | negativo () |
+|:---:|:---:|:---:|
+| INformal | 食べたい | 食べたくない |
+| formal | 食べたいです | 食べたくありません |
+| pretérito |  |  |
+
+###### なる = tornar-se
+|   | afirmativo () | negativo () |
+|:---:|:---:|:---:|
+| INformal |  |  |
+| formal |  |  |
+| pretérito | なりたかった | なりたくなかった |

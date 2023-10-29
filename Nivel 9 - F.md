@@ -560,18 +560,18 @@ Por isso, saber os radicais básicos ajuda não só na compreensão da forma do 
 | formal | 休みたいです | 休みたくありません |
 | pretérito | 休みたかった | 休みたくなかった |
 
-<br>
 
 ###### ```食べる (たべる)``` = QUERO comer / NÃO QUERO comer
-|   | afirmativo () | negativo () |
+|   | afirmativo | negativo |
 |:---:|:---:|:---:|
 | INformal | 食べたい | 食べたくない |
 | formal | 食べたいです | 食べたくありません |
-| pretérito |  |  |
+| pretérito | 食べたかった | 食べたくなかった |
 
-###### なる = tornar-se
-|   | afirmativo () | negativo () |
+
+###### ```なる``` = QUERO me tornar / NÃO QUERO me tornar
+|   | afirmativo | negativo |
 |:---:|:---:|:---:|
-| INformal |  |  |
-| formal |  |  |
+| INformal | なりたい | なりたくない |
+| formal | なりたい です | なりたくありません |
 | pretérito | なりたかった | なりたくなかった |

@@ -575,3 +575,6 @@ Por isso, saber os radicais básicos ajuda não só na compreensão da forma do 
 | INformal | なりたい | なりたくない |
 | formal | なりたい です | なりたくありません |
 | pretérito | なりたかった | なりたくなかった |
+
+---
+

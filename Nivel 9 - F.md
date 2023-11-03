@@ -578,3 +578,39 @@ Por isso, saber os radicais básicos ajuda não só na compreensão da forma do 
 
 ---
 
+### Expressões de ```DEVER```
+- indica algo que se deve fazer ou respeitar
+- substitui-se ```ない``` da forma ```ない``` por **```なければならない```**
+- para se passar para o estilo formal passa-se ```ならない``` para ```なりません```
+
+#### ```verbos do Grupo I```
+- o ```う``` se transforma em ```わ```
+- o ```る``` se transforma em ```ら```
+
+|  |  |
+|:---|:---|
+| INformal | あか しんごう では とま```らなければ``` **```ならない```** |
+| formal | あか しんごう では とま```らなければ``` **```なりません```** |
+
+
+#### ```verbos do Grupo II```
+- se retira o ```る```
+
+|  |  |
+|:---|:---|
+| INformal | あした まで に　しりょう　を　しらべ```なければ``` **```ならない```** |
+| formal | あした まで に　しりょう　を　しらべ```なければ``` **```なりません```** |
+
+#### ```verbos Irregulares```
+- する -> しない -> しなければ ならない
+- くる -> こない -> こなければ ならない
+
+|  |  |
+|:---|:---|
+| INformal | としょかん では　しずか　に　```しなければ``` **```ならない```** |
+| formal | としょかん では　しずか　に　```しなければ``` **```なりません```** |
+
+|  |  |
+|:---|:---|
+| INformal | きょう は ろくじ まで に　かえって```こなければ``` **```ならない```** |
+| formal | きょう は ろくじ まで に　かえって```こなければ``` **```なりません```** |

@@ -614,3 +614,107 @@ Por isso, saber os radicais básicos ajuda não só na compreensão da forma do 
 |:---|:---|
 | INformal | きょう は ろくじ まで に　かえって```こなければ``` **```ならない```** |
 | formal | きょう は ろくじ まで に　かえって```こなければ``` **```なりません```** |
+
+
+### Expressões de ```PERMISSÃO```
+- utilizada para solicitar a permissão a outrem, ou permitir a atitude de outrem
+
+#### ```não pretérito```
+- forma-se unindo ```てもいい``` à forma ```て``` do verbo
+- estilo formal: ```もいい です```
+- forma interrogativa: ```てもいい ですか```
+- negativa: substitui-se ```ない``` por ```なく てもいい``` 
+    - além de expressão de permissão, pode significar ```não é preciso```
+
+#### ```pretérito```
+- ても```いい```  ->  ても```よかった```
+- negativo: **なく** ても```いい``` -> **なく** ても```よかった```
+<br>
+
+##### ```帰る (かえる) = ir embora```
+###### ```não pretérito```
+|  |  |
+|:---:|:---|
+| afirmativo | 帰っ```てもいい``` |
+| negativo |  |
+
+###### ```pretérito```
+|  |  |
+|:---:|:---|
+| afirmativo |  |
+| negativo |  |
+
+<br>
+
+##### ``` () = perguntar```
+###### ```não pretérito```
+|  |  |
+|:---:|:---|
+|  |  |
+|  |  |
+
+###### ```pretérito```
+|  |  |
+|:---:|:---|
+|  |  |
+|  |  |
+
+<br>
+
+##### ``` () = vir```
+###### ```não pretérito```
+|  |  |
+|:---:|:---|
+|  |  |
+|  |  |
+
+###### ```pretérito```
+|  |  |
+|:---:|:---|
+|  |  |
+|  |  |
+
+<br>
+
+##### ``` () = apressar-se```
+###### ```não pretérito```
+|  |  |
+|:---:|:---|
+|  |  |
+|  |  |
+
+###### ```pretérito```
+|  |  |
+|:---:|:---|
+|  |  |
+|  |  |
+
+<br>
+
+##### ``` () = preocupar-se```
+###### ```não pretérito```
+|  |  |
+|:---:|:---|
+|  |  |
+|  |  |
+
+###### ```pretérito```
+|  |  |
+|:---:|:---|
+|  |  |
+|  |  |
+
+<br>
+
+##### ``` () = trazer```
+###### ```não pretérito```
+|  |  |
+|:---:|:---|
+|  |  |
+|  |  |
+
+###### ```pretérito```
+|  |  |
+|:---:|:---|
+|  |  |
+|  |  |

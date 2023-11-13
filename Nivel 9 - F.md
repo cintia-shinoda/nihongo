@@ -641,80 +641,80 @@ Por isso, saber os radicais básicos ajuda não só na compreensão da forma do 
 ###### ```pretérito```
 |  |  |
 |:---:|:---|
-| afirmativo |  |
+| afirmativo | 帰っ```てもよかった``` |
 | negativo |  |
 
 <br>
 
-##### ``` () = perguntar```
+##### ```質問する (しつもんする) = perguntar```
 ###### ```não pretérito```
 |  |  |
 |:---:|:---|
-|  |  |
-|  |  |
+| afirmativo | 質問してもいい |
+| negativo |  |
 
 ###### ```pretérito```
 |  |  |
 |:---:|:---|
-|  |  |
-|  |  |
+| afirmativo | 質問してもよかった |
+| negativo |  |
 
 <br>
 
-##### ``` () = vir```
+##### ```来る (くる) = vir```
 ###### ```não pretérito```
 |  |  |
 |:---:|:---|
-|  |  |
-|  |  |
+| afirmativo | 来てもいい　(きてもいい) |
+| negativo |  |
 
 ###### ```pretérito```
 |  |  |
 |:---:|:---|
-|  |  |
-|  |  |
+| afirmativo | 来てもよかった　(きてもよかった) |
+| negativo |  |
 
 <br>
 
-##### ``` () = apressar-se```
+##### ```急ぐ (いそぐ) = apressar-se```
 ###### ```não pretérito```
 |  |  |
 |:---:|:---|
-|  |  |
-|  |  |
+| afirmativo |  |
+| negativo | 急がなくてもいい　(いそがなくてもいい) |
 
 ###### ```pretérito```
 |  |  |
 |:---:|:---|
-|  |  |
-|  |  |
+| afirmativo |  |
+| negativo | 急がなくてもよかった　(いそがなくてもよかった) |
 
 <br>
 
-##### ``` () = preocupar-se```
+##### ```心配する (しんぱいする) = preocupar-se```
 ###### ```não pretérito```
 |  |  |
 |:---:|:---|
-|  |  |
-|  |  |
+| afirmativo |  |
+| negativo | 心配しなくてもいい |
 
 ###### ```pretérito```
 |  |  |
 |:---:|:---|
-|  |  |
-|  |  |
+| afirmativo |  |
+| negativo | 心配しなくてもよかった |
 
 <br>
 
-##### ``` () = trazer```
+##### ```持って来る (もってくる) = trazer```
 ###### ```não pretérito```
 |  |  |
 |:---:|:---|
-|  |  |
-|  |  |
+| afirmativo |  |
+| negativo | 持って来なくてもいい　(もってこなくてもいい) |
 
 ###### ```pretérito```
 |  |  |
 |:---:|:---|
-|  |  |
-|  |  |
+| afirmativo |  |
+| negativo | 持って来なくてもよかった　(もってこなくてもよかった) |

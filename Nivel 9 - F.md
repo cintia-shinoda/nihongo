@@ -718,3 +718,45 @@ Por isso, saber os radicais básicos ajuda não só na compreensão da forma do 
 |:---:|:---|
 | afirmativo |  |
 | negativo | 持って来なくてもよかった　(もってこなくてもよかった) |
+<br>
+
+
+### Expressões de ```PROIBIÇÃO```
+- expressão que proíbe uma atitude
+- forma-se unindo à forma て do verbo ```はいけない```
+- estilo formal: ```はいけません```
+<br>
+
+#### のこす ＝ deixar (comida)
+食べ物　を　のこす。 (たべもの　を　のこす。) = Deixar comida.
+|  | Não pode deixar comida |
+|:---:|:---:|
+| informal | 食べ物　を　のこして```はいけない``` |
+| formal | 食べ物　を　のこして```はいけません``` |
+
+<br>
+
+#### 遅れる (おくれる) = atrasar-se
+約そく　の　時間　に　遅れる。 (約そく　の　時間　に　おくれる。) = Atrasar-se para o horário combinado.
+|  | Não pode se atrasar para o horário combinado. |
+|:---:|:---:|
+| informal |  |
+| formal |  |
+
+<br>
+
+#### 電話　する (でんわ する) = telefonar
+ () = Telefonar a altas horas da noite.
+|  | Não pode telefonar a altas horas da noite. |
+|:---:|:---:|
+| informal |  |
+| formal |  |
+
+<br>
+
+#### 連れて　来る (つれて くる) = trazer
+ () = Trazer cachorro à escola.
+|  | Não pode trazer cachorro à escola. |
+|:---:|:---:|
+| informal |  |
+| formal |  |

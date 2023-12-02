@@ -576,7 +576,8 @@ Por isso, saber os radicais básicos ajuda não só na compreensão da forma do 
 | formal | なりたい です | なりたくありません |
 | pretérito | なりたかった | なりたくなかった |
 
----
+-----
+
 
 ### Expressões de ```DEVER```
 - indica algo que se deve fazer ou respeitar
@@ -614,6 +615,8 @@ Por isso, saber os radicais básicos ajuda não só na compreensão da forma do 
 |:---|:---|
 | INformal | きょう は ろくじ まで に　かえって```こなければ``` **```ならない```** |
 | formal | きょう は ろくじ まで に　かえって```こなければ``` **```なりません```** |
+
+-----
 
 
 ### Expressões de ```PERMISSÃO```
@@ -718,7 +721,8 @@ Por isso, saber os radicais básicos ajuda não só na compreensão da forma do 
 |:---:|:---|
 | afirmativo |  |
 | negativo | 持って来なくてもよかった　(もってこなくてもよかった) |
-<br>
+
+-----
 
 
 ### Expressões de ```PROIBIÇÃO```
@@ -760,3 +764,60 @@ Por isso, saber os radicais básicos ajuda não só na compreensão da forma do 
 |:---:|:---:|
 | informal |  |
 | formal |  |
+
+-----
+
+
+### Expressões de ```EXPERIÊNCIA```
+- expressão que indica ter vivenciado ou não uma experiência
+- une-se ao estilo informal no pretérito ```た こと が ある```
+- estilo formal: ```た こと が あります```
+- forma interrogativa: ```た こと が ありますか```
+- negativa informal: ```た こと が ない```
+- negativa formal: ```た こと が ありません```
+
+#### ```およぐ``` = nadar
+|  |  |
+|:---:|:---|
+| afirmativo informal |  |
+| afirmativo formal |  |
+| interrogativo |  |
+| negativo informal |  |
+| negativo formal |  |
+
+
+#### `````` = ir
+|  |  |
+|:---:|:---|
+| afirmativo informal |  |
+| afirmativo formal |  |
+| interrogativo |  |
+| negativo informal |  |
+| negativo formal |  |
+
+#### `````` = ensinar
+|  |  |
+|:---:|:---|
+| afirmativo informal |  |
+| afirmativo formal |  |
+| interrogativo |  |
+| negativo informal |  |
+| negativo formal |  |
+
+#### `````` = vir
+|  |  |
+|:---:|:---|
+| afirmativo informal |  |
+| afirmativo formal |  |
+| interrogativo |  |
+| negativo informal |  |
+| negativo formal |  |
+
+#### `````` = machucar-se
+|  |  |
+|:---:|:---|
+| afirmativo informal |  |
+| afirmativo formal |  |
+| interrogativo |  |
+| negativo informal |  |
+| negativo formal |  |

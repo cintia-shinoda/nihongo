@@ -776,48 +776,48 @@ Por isso, saber os radicais básicos ajuda não só na compreensão da forma do 
 - negativa informal: ```た こと が ない```
 - negativa formal: ```た こと が ありません```
 
-#### ```およぐ``` = nadar
+#### ```泳よぐ　(およぐ)``` = nadar
 |  |  |
 |:---:|:---|
-| afirmativo informal |  |
-| afirmativo formal |  |
-| interrogativo |  |
-| negativo informal |  |
-| negativo formal |  |
+| afirmativo informal | 泳いだ こと が ```ある``` |
+| afirmativo formal | 泳いだ こと が ```あります``` |
+| interrogativo | 泳いだ こと が ```ありますか``` |
+| negativo informal | 泳いだ こと が ```ない``` |
+| negativo formal | 泳いだ こと が ```ありません``` |
 
 
-#### `````` = ir
+#### ```行く　(いく)``` = ir
 |  |  |
 |:---:|:---|
-| afirmativo informal |  |
-| afirmativo formal |  |
-| interrogativo |  |
-| negativo informal |  |
-| negativo formal |  |
+| afirmativo informal | 行ったことが```ある``` |
+| afirmativo formal | 行ったことが```あります``` |
+| interrogativo | 行ったことが```ありますか``` |
+| negativo informal | 行ったことが```ない``` |
+| negativo formal | 行ったことが```ありません``` |
 
-#### `````` = ensinar
+#### ```教える　(おしえる)``` = ensinar
 |  |  |
 |:---:|:---|
-| afirmativo informal |  |
-| afirmativo formal |  |
-| interrogativo |  |
-| negativo informal |  |
-| negativo formal |  |
+| afirmativo informal | 教えたことが```ある``` |
+| afirmativo formal | 教えたことが```あります``` |
+| interrogativo | 教えたことが```ありますか``` |
+| negativo informal | 教えたことが```ない``` |
+| negativo formal | 教えたことが```ありません``` |
 
-#### `````` = vir
+#### ```来る　(くる)``` = vir
 |  |  |
 |:---:|:---|
-| afirmativo informal |  |
-| afirmativo formal |  |
-| interrogativo |  |
-| negativo informal |  |
-| negativo formal |  |
+| afirmativo informal | 来たことが```ある``` (きたことが```ある```) |
+| afirmativo formal | 来たことが```あります``` (きたことが```あります```) |
+| interrogativo | 来たことが```ありますか``` (きたことが```ありますか```) |
+| negativo informal | 来たことが```ない``` (きたことが```ない```) |
+| negativo formal | 来たことが```ありません``` (きたことが```ありません```) |
 
-#### `````` = machucar-se
+#### ```けが を する``` = machucar-se
 |  |  |
 |:---:|:---|
-| afirmativo informal |  |
-| afirmativo formal |  |
-| interrogativo |  |
-| negativo informal |  |
-| negativo formal |  |
+| afirmativo informal | けが を した こと が ```ある``` |
+| afirmativo formal | けが を した こと が ```あります``` |
+| interrogativo | けが を した こと が ```ありますか``` |
+| negativo informal | けが を した こと が ```ない``` |
+| negativo formal | けが を した こと が ```ありません``` |

@@ -3,7 +3,7 @@
 ## F - 1
 
 | ideograma | traduções | leituras | exemplos |
-|:---:|:---|:---|:---|
+|:---------:|:----------|:---------|:---------|
 | 選 | escolher |<ul><li>**えら**ぶ</li><li>**セン**</li></ul>|<ul><li>市長を**選**ぶ。 (しちょうを**えら**ぶ。) = Escolho o prefeito.</li><li>**選**手 (**せん**しゅ) = jogador</li></ul>|
 | 投 |<ul><li>atirar</li><li>enviar</li></ul>|<ul><li>**な**げる</li><li>**トウ**</li></ul>|<ul><li>**投**げる (**な**げる) = arremessar</li><li>**投**ひょうする (**とう**ひょうする) = votar</li></ul>|
 | 速 | rápido |<ul><li>**はや**い (**はや**める) (**はや**まる)</li><li>**ソク**</li></ul>|<ul><li>**速**い球 (**はや**いたま) = bola rápida</li>高**速**道ろ (こう**そく**どうろ) = rodovia expressa</ul>|
@@ -41,7 +41,7 @@
 ## F - 61
 
 | ideograma | traduções | leituras | exemplos |
-|:---:|:---|:---|:---|
+|:---------:|:----------|:---------|:---------|
 | 留 | <ul><li>permanecer</li><li>ficar</li></ul> | <ul><li>```と```める・(```と```まる)</li><li>```リュウ```・(```ル```)</li></ul> | <ul><li>書```留``` (かき```とめ```) = correio registrado</li><li>```留```学生 (```りゅう```がくせい) = estudante estrangeiro</li></ul> |
 | 深 | fundo | <ul><li>```ふか```い・```ふか```める・(```ふか```まる)</li><li>```シン```</li></ul> | <ul><li>```深```い 池 (```ふか```い いけ) = lagoa funda</li><li>交りゅう を ```深```める。 (こうりゅう を ```ふか```める) = aprofundar o intercâmbio</li><li>```深```夜 (```しん```や) = altas horas da noite</li></ul> |
 | 必 | sem falta |<ul><li>```かなら```ず</li><li>```ヒツ```</li></ul>|<ul><li>```必```ず (```かなら```ず) = sem falta</li><li>```必```よう だ (```ひつ```よう だ) = é necessário</li></ul>|
@@ -79,7 +79,7 @@
 ## F - 111
 
 | ideograma | traduções | leituras | exemplos |
-|:---:|:---|:---|:---|
+|:---------:|:----------|:---------|:---------|
 | 横 | lado | <ul><li>```よこ```</li><li>```オウ```</li></ul> | <ul><li>```横``` (```よこ```) = lado</li><li>```横```だん歩道 (```おう```だんほどう) = faixa para pedestres</li></ul> |
 | 央 | centro | <ul><li>＊＊＊</li><li>```オウ```</li></ul> | 中```央``` (ちゅう```おう```) = centro |
 | 戦 | guerra | <ul><li>```たたか```う</li><li>```セン```</li></ul> | <ul><li>```戦```う (```たたか```う) = lutar</li><li>```戦```そう (```せん```そう) = guerra</li></ul> |
@@ -88,3 +88,18 @@
 | 糸 | linha | <ul><li>```いと```</li><li>```シ```</li></li></ul> | <ul><li>け```糸``` (け```いと```) = lã</li><li>せい```糸``` (せい```し```) = fiação</li></ul> |
 | 守 | proteger | <ul><li>```まも```る</li><li>```シュ```・```ス```</li></ul> | <ul><li>国きょう　を　```守```る。 (こっきょう を ```まも```る。) = Protejo a fronteira do país.</li><li>```守```備 (```しゅ```び) = defesa</li><li>留```守``` (る```す```) = ausente</li></ul> |
 | 基 | base | <ul><li>```もと```づく</li><li>```キ```</li></ul> | <ul><li>けいけん に ```基```づく。 (けいけん に ```もと```づな。) = Basear-se na experiência.</li><li>```基```本 (```き```ほん) = base</li></ul> |
+
+
+## F - 181
+
+| ideograma | traduções | leituras | exemplos |
+|:---------:|:----------|:---------|:---------|
+|  | primeiro | <ul><li></li><li></li></ul> | <ul><li> () = pela primeira vez</li><li> () = visita a templos no Ano Novo</li><li> () = taxa da primeira consulta</li></ul> |
+|  | escrever | <ul><li></li><li></li></ul> | <ul><li> () = Escrevo no caderno.</li><li> () = memorizar</li></ul> |
+|  | dor | <ul><li></li><li></li></ul> | <ul><li> () = Dói a barriga.</li><li> () = Machuquei o pé.</li><li> () = dor de cabeça</li></ul> |
+|  | nariz | <ul><li></li><li></li></ul> | <ul><li> () = coriza</li><li> () = otorrinolaringologia</li></ul> |
+|  | quieto | <ul><li></li><li></li></ul> | <ul><li> () = floresta silenciosa</li><li> () = A tempestade se acalma.</li><li> () = repouso</li></ul> |
+|  | <ul><li>espalhar</li><li>esticar</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = Estico a linha.</li><li> () = fazer uma viagem de negócios</li></ul> |
+|  | origem | <ul><li></li><li></li></ul> | <ul><li> () = trava do gás</li><li> () = estar saudável</li><li> () = primeiro dia do ano</li></ul> |
+|  | <ul><li>modo</li><li>formal</li><li>título</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = visita</li><li> () = situação</li></ul> |
+|  | próximo | <ul><li></li><li></li></ul> | <ul><li> () = frase seguinte</li><li> () = retorno, próxima vez</li></ul> |

@@ -821,3 +821,90 @@ Por isso, saber os radicais básicos ajuda não só na compreensão da forma do 
 | interrogativo | けが を した こと が ```ありますか``` |
 | negativo informal | けが を した こと が ```ない``` |
 | negativo formal | けが を した こと が ```ありません``` |
+
+-----
+
+
+### Expressões de ```ADVERTÊNCIA```
+#### ```afirmativo```
+- expressão utilizada quando avisamos ou incentivamos uma conduta
+- une-se ao estilo informal no pretérito ```た ほう が いい```
+
+#### ```negativo```
+- expressão utilizada para avisar ou incentivar a NÃO fazer algo
+- une-se ao verbo na forma ```ない``` + ```ほう が いい```
+<br>
+
+
+#### ```かむ``` = mastigar
+| afirmativo | negativo |
+|:---:|:---|
+| かん```だ ほう が いい``` | かま```ない ほう が　いい``` |
+
+<br>
+
+
+#### ```くり返す (くりかえす)``` = repetir
+| afirmativo | negativo |
+|:---:|:---|
+| くり返し```た ほう が いい``` (くりかえし```た ほう が いい```) | くり返さ```ない ほう が いい``` (くりかえさ```ない ほう が いい```) |
+
+<br>
+
+
+#### ```おぼえる``` = memorizar
+| afirmativo | negativo |
+|:---:|:---|
+| おぼえ```た ほう が いい``` | おぼえ```ない　ほう　が　いい``` |
+
+<br>
+
+
+#### ```持って来る (もってくる)``` = trazer
+| afirmativo | negativo |
+|:---:|:---|
+| 持って来```た ほう が いい``` (もってき```た　ほう が いい```) | 持って来```ない　ほう が いい```　(もってこ```ない　ほう が いい```) |
+
+<br>
+
+
+#### ```む理 を する (むり を する)``` = exceder-se
+| afirmativo | negativo |
+|:---:|:---|
+| む理 を ```した ほう が いい```　(むり を ```した ほう が いい```) | む理 を ```しない ほう が いい``` (むり を ```しない ほう が いい```) |
+
+-----
+
+
+## F-181: ストーリー　２ (Histórias 2)
+### 病院で (びょういんで) : *No hospital*
+
+- 上野：　
+- うえの：
+- Ueno: Com licença. Dói um pouco a cabeça, e também sinto o corpo cansado.
+<br>
+
+- 金子：
+- かねこ：
+- Kaneko: É mesmo? Já veio a este hospital antes?
+<br>
+
+- 上野：　
+- うえの：
+- Ueno: Não, é a primeira vez.
+<br>
+
+- 金子：
+- かねこ：
+- Kaneko: Então, como vou fazer o cartão de consulta, mostre a carteira de seguro de saúde, por favor.
+<br><br>
+
+
+- 上野：　
+- うえの：
+- Ueno:
+<br>
+
+- 金子：
+- かねこ：
+- Kaneko:

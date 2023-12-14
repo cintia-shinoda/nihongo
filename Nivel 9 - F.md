@@ -879,32 +879,44 @@ Por isso, saber os radicais básicos ajuda não só na compreensão da forma do 
 ## F-181: ストーリー　２ (Histórias 2)
 ### 病院で (びょういんで) : *No hospital*
 
-- 上野：　
-- うえの：
-- Ueno: Com licença. Dói um pouco a cabeça, e também sinto o corpo cansado.
+上野：　すみません。　ちょっと　頭　が　いたくて、　体　も　だるいん　です。
+
+うえの：　すみません。　ちょっと　あたま　が　いたくて、　からだ　も　だるいん　です。
+
+Ueno: Com licença. Dói um pouco a cabeça, e também sinto o corpo cansado.
 <br>
 
-- 金子：
-- かねこ：
-- Kaneko: É mesmo? Já veio a este hospital antes?
+金子：　そうですか。　今　まで　に　この　病院　に　来た　こと　は　ありますか。
+
+かねこ：　そうですか。　いま　まで　に　この　びょういん　に　きた　こと　は　ありますか。
+
+Kaneko: É mesmo? Já veio a este hospital antes?
 <br>
 
-- 上野：　
-- うえの：
-- Ueno: Não, é a primeira vez.
+上野：　いいえ、　初めて　です。
+
+うえの：　いいえ、　はじめて　です。
+
+Ueno: Não, é a primeira vez.
 <br>
 
-- 金子：
-- かねこ：
-- Kaneko: Então, como vou fazer o cartão de consulta, mostre a carteira de seguro de saúde, por favor.
+金子：　では、　しんさつけん　を　作る　ので、　ほけんしょう　を　出して　ください。
+
+かねこ：　では、　しんさつけん　を　つくる　ので、　ほけんしょう　を　だして　ください。
+
+Kaneko: Então, como vou fazer o cartão de consulta, mostre a carteira de seguro de saúde, por favor.
 <br><br>
 
 
-- 上野：　
-- うえの：
-- Ueno:
+上野：　
+
+うえの：
+
+Ueno:
 <br>
 
-- 金子：
-- かねこ：
-- Kaneko:
+金子：
+
+かねこ：
+
+Kaneko:

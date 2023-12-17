@@ -908,15 +908,88 @@ Kaneko: Então, como vou fazer o cartão de consulta, mostre a carteira de segur
 <br><br>
 
 
-上野：　
+上野：　すみません。　ほけんしょう　を　忘れました。
+じ回、　持って来て　もいい　ですか。
 
-うえの：
+うえの：　すみません。　ほけんしょう　を　わすれました。
+じかい、　もってきて　もいい　ですか。
 
-Ueno:
+Ueno: Desculpe-me. Esqueci a carteira de seguro de saúde. 
+Posso trazer na próxima vez?
 <br>
 
-金子：
+金子：　いいですよ。　
+今回　は　高く　なりますが、　
+じ回、　さがく　を　返金　します。
+では、　こちら　の　用紙　に　お名前　と　連絡先　を　記入して　ください。
 
-かねこ：
+かねこ：　いいですよ。
+こんかい　は　たかく　なりますが、
+じかい、　さがく　を　へんきん　します。
+では、　こちら　の　ようし　に　おなまえ　と　れんらくさき　を　きにゅうして　ください。
 
-Kaneko:
+Kaneko: Sim, pode. 
+Desta vez ficará caro, 
+mas na próxima vez devolveremos a diferença.
+Então nesta folha preencha o nome e o endereço para contato, por favor.
+
+<br><br>
+
+
+い者：上野　けんじさん。　しんさつ室　に　どうぞ。
+どうしましたか。
+
+いしゃ：　うえの　けんじさん。　しんさつしつ　に　どうぞ。
+どうしましたか。
+
+Médico: Ueno Kenji-san. Entre no consultório.
+O que tem?
+<br>
+
+上野：　朝　から　頭　が　痛くて、　体　も　だるいん　です。
+
+うえの：　あさ　から　あたま　が　いたくて、　からだ　も　だるいん　です。
+
+Ueno: Desde manhã dói a cabeça, e também sinto o corpo cansado.
+<br>
+
+い者：　熱　は　何度　ですか。
+
+いしゃ：　ねつ　は　なんど　ですか。
+
+Médico: Quanto tem de febre?
+<br>
+
+上野：　わかりません。　今、　計って　もいい　ですか。
+
+うえの：　わかりません。　いま、　はかって　もいい　ですか。
+
+Ueno: Não sei. Posso medir agora?
+<br>
+
+い者：　どうぞ。　体温計　で　計って　ください。
+
+いしゃ：　どうぞ。　たいおんけい　で　はかって　ください。
+
+Médico: À vontade. Meça com o termômetro, por favor.
+<br><br>
+
+
+い者：
+いしゃ：
+Médico: Então, abra a boca, por favor.
+Ah, deve doer porque a garganta está inflamada.
+Tem coriza ou tosse?
+
+上野：
+うえの：
+Ueno: Não tenho coriza, mas tenho um pouco de tosse.
+
+い者：
+いしゃ：
+Médico: Desde quando?
+
+上野：
+うえの：
+Ueno: Desde uns dois dias atrás.
+<br><br>

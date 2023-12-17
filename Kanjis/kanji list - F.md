@@ -94,12 +94,12 @@
 
 | ideograma | traduções | leituras | exemplos |
 |:---------:|:----------|:---------|:---------|
-|  | primeiro | <ul><li></li><li></li></ul> | <ul><li> () = pela primeira vez</li><li> () = visita a templos no Ano Novo</li><li> () = taxa da primeira consulta</li></ul> |
-|  | escrever | <ul><li></li><li></li></ul> | <ul><li> () = Escrevo no caderno.</li><li> () = memorizar</li></ul> |
-|  | dor | <ul><li></li><li></li></ul> | <ul><li> () = Dói a barriga.</li><li> () = Machuquei o pé.</li><li> () = dor de cabeça</li></ul> |
-|  | nariz | <ul><li></li><li></li></ul> | <ul><li> () = coriza</li><li> () = otorrinolaringologia</li></ul> |
-|  | quieto | <ul><li></li><li></li></ul> | <ul><li> () = floresta silenciosa</li><li> () = A tempestade se acalma.</li><li> () = repouso</li></ul> |
-|  | <ul><li>espalhar</li><li>esticar</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = Estico a linha.</li><li> () = fazer uma viagem de negócios</li></ul> |
-|  | origem | <ul><li></li><li></li></ul> | <ul><li> () = trava do gás</li><li> () = estar saudável</li><li> () = primeiro dia do ano</li></ul> |
-|  | <ul><li>modo</li><li>formal</li><li>título</li></ul> | <ul><li></li><li></li></ul> | <ul><li> () = visita</li><li> () = situação</li></ul> |
-|  | próximo | <ul><li></li><li></li></ul> | <ul><li> () = frase seguinte</li><li> () = retorno, próxima vez</li></ul> |
+| 初 | primeiro | <ul><li>```はじ```めて・(```はじ```め)・```はつ```</li><li>```ショ```</li></ul> | <ul><li>```初```めて (```はじ```めて) = pela primeira vez</li><li>```初```もうで (```はつ```もうで) = visita a templos no Ano Novo</li><li>```初```しん料 (```しょ```しんりょう) = taxa da primeira consulta</li></ul> |
+| 記 | escrever | <ul><li>```しる```す</li><li>```キ```</li></ul> | <ul><li>ノート　に　書き```記```す。 (ノート　に　かき```しる```す。) = Escrevo no caderno.</li><li>暗```記```　する (あん```き``` する) = memorizar</li></ul> |
+| 痛 | dor | <ul><li>```いた```い・```いた```める・(```いた```む)</li><li>```ツウ```</li></ul> | <ul><li>おなか　が　```痛```い。 (おなか が ```いた```い。) = Dói a barriga.</li><li>足　を　```痛```めた。 (あし を ```いた```めた。) = Machuquei o pé.</li><li>頭```痛``` (ず```つう```) = dor de cabeça</li></ul> |
+| 鼻 | nariz | <ul><li>```はな```</li><li>```ビ```</li></ul> | <ul><li>```鼻```水 (```はな```みず) = coriza</li><li>耳```鼻```科 (じ```び```か) = otorrinolaringologia</li></ul> |
+| 静 | quieto | <ul><li>```しず```か・```しず```まる・(```しず```める)</li><li>```セイ```</li></ul> | <ul><li>```静```かな　森 (```しず```かな もり) = floresta silenciosa</li><li>あらし が ```静```まる。 (あらし が しずまる。) = A tempestade se acalma.</li><li>安```静``` (あん```せい```) = repouso</li></ul> |
+| 張 | <ul><li>espalhar</li><li>esticar</li></ul> | <ul><li>```は```る(```ば```る)</li><li>```チョウ```</li></ul> | <ul><li>糸　を　```張```る。 (いと を ```は```る。) = Estico a linha.</li><li>出```張```　する (しゅっ```ちょう```　する) = fazer uma viagem de negócios</li></ul> |
+| 元 | origem | <ul><li>```もと```</li><li>```ゲン```・```ガン```</li></ul> | <ul><li>ガス　の　```元```せん (ガス　の　```もと```せん) = trava do gás</li><li>```元```気　だ (```げん```き だ) = estar saudável</li><li>```元```日 (```がん```じつ) = primeiro dia do ano</li></ul> |
+| 様 | <ul><li>modo</li><li>formal</li><li>título</li></ul> | <ul><li>```さま```</li><li>```ヨウ```</li></ul> | <ul><li>お客```様``` (おきゃく```さま```) = visita</li><li>```様```子 (```よう```す) = situação</li></ul> |
+| 次 | próximo | <ul><li>```つぎ```</li><li>```ジ```</li></ul> | <ul><li>```次``` の 文 (```つぎ``` の ぶん) = frase seguinte</li><li>```次```回 (```じ```かい) = retorno, próxima vez</li></ul> |

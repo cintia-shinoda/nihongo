@@ -975,21 +975,64 @@ Médico: À vontade. Meça com o termômetro, por favor.
 <br><br>
 
 
-い者：
-いしゃ：
+い者：　では、　口　を　開けて　ください。
+
+ああ、　のど　が　はれている　から、　痛い　でしょう。
+
+鼻水　や　せき　は　でますか。
+
+いしゃ： では、　くち　を　あけて　ください。
+
+ああ、　のど　が　はれている　から、　いたい　でしょう。
+
+はなみず　や　せき　は　でますか。
+
 Médico: Então, abra a boca, por favor.
-Ah, deve doer porque a garganta está inflamada.
-Tem coriza ou tosse?
 
-上野：
-うえの：
+Ah, deve doer porque a garganta está inflamada.
+
+Tem coriza ou tosse?
+<br>
+
+上野：　鼻水　は　出ません　が、　せき　は　少し　出ます。
+
+うえの：　はなみず　は　でません　が、　せき　は　すこし　でます。
+
 Ueno: Não tenho coriza, mas tenho um pouco de tosse.
+<br>
+
+い者：　いつ　ごろ　から　ですか。
+
+いしゃ：　いつ　ごろ　から　ですか。
+
+Médico: Desde quando?
+<br>
+
+上野：　二日　くらい　前　から　です。
+
+うえの：　ふつか　くらい　まえ　から　です。
+
+Ueno: Desde uns dois dias atrás.
+<br><br>
+
 
 い者：
 いしゃ：
-Médico: Desde quando?
+Médico: Já teve alguma doença grave até agora?
 
 上野：
 うえの：
-Ueno: Desde uns dois dias atrás.
+Ueno: Não, nenhuma em especial.
+
+い者：
+いしゃ：
+Médico: É mesmo? Bem, quantos graus de febre tinha?
+
+上野：
+うえの：
+Ueno: Tinha trinta e oito ponto um graus.
+
+い者：
+いしゃ：
+Médico: É gripe. Deve ficar dois ou três dias de repouso em casa.
 <br><br>

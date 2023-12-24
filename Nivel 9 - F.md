@@ -1016,23 +1016,54 @@ Ueno: Desde uns dois dias atrás.
 <br><br>
 
 
-い者：
-いしゃ：
+い者：　今　まで　に　大きい　病気　に　なった　こと　が　ありますか。
+
+いしゃ：　いま　まで　に　おおきい　びょうき　に　なった　こと　が　ありますか。
+
 Médico: Já teve alguma doença grave até agora?
+<br>
 
-上野：
-うえの：
+上野：　いいえ、　特　に　ありません。
+
+うえの：　いいえ、とく　に　ありません。
+
 Ueno: Não, nenhuma em especial.
+<br>
 
-い者：
-いしゃ：
+い者：　そうですか。　ところ　で、　熱　は　何度　でしたか。
+
+いしゃ：　そうですか。　ところ　で、　ねつ　は　なんど　でしたか。
+
 Médico: É mesmo? Bem, quantos graus de febre tinha?
+<br>
+
+上野：　三十八　度　一　分　でした。
+
+うえの：　さんじゅうはち　ど　いち　ぶ　でした。
+
+Ueno： Tinha trinta e oito ponto um graus.
+<br>
+
+い者：　かぜ　ですね。　二、三日　家　で　安静　に　して　いなければ　なりませんね。
+
+いしゃ：　かぜ　ですね。　に、さんにち　いえ　で　あんせい　に　して　いなければ　なりませんね。
+
+Médico: É gripe. Deve ficar dois ou três dias de repouso em casa.
+<br><br>
+
 
 上野：
+
 うえの：
-Ueno: Tinha trinta e oito ponto um graus.
+
+Ueno： Mas na próxima semana vou fazer uma viagem de negócios aos Estados Unidos.
+
+Como agora estou atarefado com esses preparativos, não quero faltar à empresa.
+<br>
 
 い者：
+
 いしゃ：
-Médico: É gripe. Deve ficar dois ou três dias de repouso em casa.
+
+Médico: É mesmo? Então não precisa faltar à empresa, mas volte cedo e durma o suficiente. Não pode se exceder.
 <br><br>

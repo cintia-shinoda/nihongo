@@ -1067,3 +1067,16 @@ Como agora estou atarefado com esses preparativos, não quero faltar à empresa.
 
 Médico: É mesmo? Então não precisa faltar à empresa, mas volte cedo e durma o suficiente. Não pode se exceder.
 <br><br>
+
+
+上野：
+
+うえの：
+
+Ueno：
+
+い者：
+
+いしゃ：
+
+Médico:

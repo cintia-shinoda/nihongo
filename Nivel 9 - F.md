@@ -1052,20 +1052,45 @@ Médico: É gripe. Deve ficar dois ou três dias de repouso em casa.
 <br><br>
 
 
-上野：
+上野：　でも、　来週　アメリカ　に　出張するん　です。
 
-うえの：
+今　は　その　準備　で　いそがしい　ので、
+
+会社　を　休みたく　ありません。
+
+うえの：　でも、　らいしゅう　アメリカ　に　しゅっちょう　するん　です。
+
+いま　は　その　じゅんび　で　いそがしい　ので、
+
+かいしゃ　を　やすみたく　ありません。
 
 Ueno： Mas na próxima semana vou fazer uma viagem de negócios aos Estados Unidos.
 
-Como agora estou atarefado com esses preparativos, não quero faltar à empresa.
+Como agora estou atarefado com esses preparativos, 
+
+não quero faltar à empresa.
 <br>
 
-い者：
+い者：　そうですか。
 
-いしゃ：
+じゃ、　会社　は　やすまなく　てもいい　ですが、
 
-Médico: É mesmo? Então não precisa faltar à empresa, mas volte cedo e durma o suficiente. Não pode se exceder.
+早め　に　かえってじゅうぶん　寝て　ください。
+
+む理　を　してはいけませんよ。
+
+いしゃ：　そうですか。
+
+じゃ、　かいしゃ　は　やすまなく　てもいい　ですが、
+
+はやめ　に　かえってじゅうぶん　ねて　ください。
+
+むり　を　してはいけませんよ。
+
+Médico: É mesmo? 
+Então não precisa faltar à empresa, 
+mas volte cedo e durma o suficiente. 
+Não pode se exceder.
 <br><br>
 
 
@@ -1073,10 +1098,23 @@ Médico: É mesmo? Então não precisa faltar à empresa, mas volte cedo e durma
 
 うえの：
 
-Ueno：
+Ueno： Posso tomar banho de ofuro?
+<br>
 
 い者：
 
 いしゃ：
 
-Médico:
+Médico: Enquanto tiver febre é melhor evitar.
+Depois que a febre abaixar, poderá tomar banho de ofuro.
+Além disso, não poderá beber bebida alcoólica.
+Não beba por um tempo, até estar saudável.
+
+<br>
+
+上野：
+
+うえの：
+
+Ueno： Sim, entendi.
+<br><br>

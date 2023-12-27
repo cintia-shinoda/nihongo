@@ -1094,16 +1094,22 @@ Não pode se exceder.
 <br><br>
 
 
-上野：
+上野：　おふろ　に　入ってもいい　ですか。
 
-うえの：
+うえの：　おふろ　に　はいってもいい　ですか。
 
 Ueno： Posso tomar banho de ofuro?
 <br>
 
-い者：
+い者：　熱　が　ある　間　は、　やめた　ほう　が　いい　ですね。
+熱　が　下がれば、　おふろ　に　入っていい　ですよ。
+それ　から、　お酒　を　飲んではいけません。
+元気　に　なる　まで、　しばらく　飲まないん　で　ください。
 
-いしゃ：
+いしゃ：　ねつ　が　ある　あいだ　は、　やめた　ほう　が　いい　ですね。
+ねつ　が　さがれば、　おふろ　に　はいっていい　ですよ。
+それ　から、　おさけ　を　のんではいけません。
+げんき　に　なる　まで、　しばらく　のまない　で　ください。
 
 Médico: Enquanto tiver febre é melhor evitar.
 Depois que a febre abaixar, poderá tomar banho de ofuro.
@@ -1112,9 +1118,9 @@ Não beba por um tempo, até estar saudável.
 
 <br>
 
-上野：
+上野：　はい、わかりました。
 
-うえの：
+うえの：　はい、　わかりました。
 
 Ueno： Sim, entendi.
 <br><br>

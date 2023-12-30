@@ -1087,9 +1087,12 @@ não quero faltar à empresa.
 
 むり　を　してはいけませんよ。
 
-Médico: É mesmo? 
-Então não precisa faltar à empresa, 
-mas volte cedo e durma o suficiente. 
+Médico: É mesmo?
+
+Então não precisa faltar à empresa,
+
+mas volte cedo e durma o suficiente.
+
 Não pode se exceder.
 <br><br>
 
@@ -1102,18 +1105,29 @@ Ueno： Posso tomar banho de ofuro?
 <br>
 
 い者：　熱　が　ある　間　は、　やめた　ほう　が　いい　ですね。
+
 熱　が　下がれば、　おふろ　に　入っていい　ですよ。
+
 それ　から、　お酒　を　飲んではいけません。
+
 元気　に　なる　まで、　しばらく　飲まないん　で　ください。
+<br>
 
 いしゃ：　ねつ　が　ある　あいだ　は、　やめた　ほう　が　いい　ですね。
+
 ねつ　が　さがれば、　おふろ　に　はいっていい　ですよ。
+
 それ　から、　おさけ　を　のんではいけません。
+
 げんき　に　なる　まで、　しばらく　のまない　で　ください。
+<br>
 
 Médico: Enquanto tiver febre é melhor evitar.
+
 Depois que a febre abaixar, poderá tomar banho de ofuro.
+
 Além disso, não poderá beber bebida alcoólica.
+
 Não beba por um tempo, até estar saudável.
 
 <br>
@@ -1124,3 +1138,51 @@ Não beba por um tempo, até estar saudável.
 
 Ueno： Sim, entendi.
 <br><br>
+
+
+い者：　それ　では、　薬　を　三日分、　出して　おきましょう。
+しばらく　様子　を　見て、
+熱　が　下がらなければ、　また　来て　ください。
+お大事に。
+
+いしゃ：　それ　では、　くすり　を　みっかぶん、　だして　おきましょう。
+しばらく　ようす　を　みて、
+ねつ　が　さがらなければ、また　きて　ください。
+おだいじに。
+
+Médico: Então receitarei remédio para três dias.
+Vamos observar a situação por um tempo,
+e se a febre não abaixar, venha novamente, por favor.
+Estimo melhoras
+<br>
+
+上野：　ありがとう　ございました。
+
+うえの：　ありがとう　ございました。
+
+Ueno： Muito obrigado.
+<br>
+
+金子：　上野　けんじ様、　こちら　が　しょ方せん　です。
+向かい　の　薬局　で、　薬　を　うけとって　ください。
+
+かねこ：　うえの　けんじさま、　こちら　が　しょほうせん　です。
+むかい　の　やっきょく　で、　くすり　を　うけとって　ください。
+
+Kaneko: Ueno Kenji-sama, aqui está a receita médica.
+Retire os remédios na farmácia em frente, por favor.
+<br><br>
+
+
+金子：
+かねこ：
+Kaneko: Os remédios são para três dias. Tome três comprimidos por vez após as refeições, por favor.
+A taxa de hoje, incluindo a taxa da primeira consulta, é de seis mil e trezentos ienes.
+
+上野：
+うえの：
+Ueno： É preciso marcar hora para o retorno?
+
+金子：
+かねこ：
+Kaneko: Não, não é preciso marcar hora. Estimo melhoras

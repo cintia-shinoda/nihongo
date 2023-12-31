@@ -1101,7 +1101,7 @@ Não pode se exceder.
 
 うえの：　おふろ　に　はいってもいい　ですか。
 
-Ueno： Posso tomar banho de ofuro?
+Ueno： Posso tomar banho de *ofuro*?
 <br>
 
 い者：　熱　が　ある　間　は、　やめた　ほう　が　いい　ですね。
@@ -1124,7 +1124,7 @@ Ueno： Posso tomar banho de ofuro?
 
 Médico: Enquanto tiver febre é melhor evitar.
 
-Depois que a febre abaixar, poderá tomar banho de ofuro.
+Depois que a febre abaixar, poderá tomar banho de *ofuro*.
 
 Além disso, não poderá beber bebida alcoólica.
 
@@ -1174,9 +1174,12 @@ Retire os remédios na farmácia em frente, por favor.
 <br><br>
 
 
-金子：
-かねこ：
-Kaneko: Os remédios são para três dias. Tome três comprimidos por vez após as refeições, por favor.
+金子：　お薬　は　三日分　です。
+
+かねこ：　おくすり　は　みっかぶん　です。
+
+Kaneko: Os remédios são para três dias. 
+Tome três comprimidos por vez após as refeições, por favor.
 A taxa de hoje, incluindo a taxa da primeira consulta, é de seis mil e trezentos ienes.
 
 上野：

@@ -1175,19 +1175,31 @@ Retire os remédios na farmácia em frente, por favor.
 
 
 金子：　お薬　は　三日分　です。
+食後　に、　三じょう　ずつ　飲んで　ください。
+本日　の　お会計　は、初しん料　を　入れて、　六千三百円　です。
+
 
 かねこ：　おくすり　は　みっかぶん　です。
+しょくご　に、　さんじょう　ずつ　のんで　ください。
+ほんじつ　の　おかいけい　は、　しょしんりょう　を　いれて、　ろくせんさんびゃくえん　です。
 
 Kaneko: Os remédios são para três dias. 
 Tome três comprimidos por vez após as refeições, por favor.
 A taxa de hoje, incluindo a taxa da primeira consulta, é de seis mil e trezentos ienes.
 <br>
 
-上野：
-うえの：
+上野：　次回　は　予約しなければ　なりませんか。
+
+うえの：　じかい　は　よやくしなければ　なりませんか。
+
 Ueno： É preciso marcar hora para o retorno?
 <br>
 
-金子：
-かねこ：
-Kaneko: Não, não é preciso marcar hora. Estimo melhoras
+金子：　いいえ、　予約しなく　てもいい　ですよ。
+お大事に。
+
+かねこ：　いいえ、　よやくしなく　てもいい　ですよ。
+おだいじに。
+
+Kaneko: Não, não é preciso marcar hora. 
+Estimo melhoras。

@@ -1181,10 +1181,12 @@ Retire os remédios na farmácia em frente, por favor.
 Kaneko: Os remédios são para três dias. 
 Tome três comprimidos por vez após as refeições, por favor.
 A taxa de hoje, incluindo a taxa da primeira consulta, é de seis mil e trezentos ienes.
+<br>
 
 上野：
 うえの：
 Ueno： É preciso marcar hora para o retorno?
+<br>
 
 金子：
 かねこ：

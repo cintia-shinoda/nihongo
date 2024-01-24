@@ -3,6 +3,10 @@
 ### Expressões verbais
 #### verbo INtransitivo:
 - não exige objeto
+- em geral são verbos que designam:
+    - fenômenos naturais: chover, nevar, relampejar...
+    - ação: estudar, correr, andar, brincar...
+    - movimento: ir, vir, voltar...
 - o sujeito é indicado por ```~が```
 
 #### verbo transitivo:

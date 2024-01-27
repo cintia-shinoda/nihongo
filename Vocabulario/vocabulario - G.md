@@ -10,3 +10,11 @@
 |  |  | farol vermelho |
 |  |  | prestar atenção |
 |  |  | é preciso |
+|  |  | tufão |
+|  |  | ao anoitecer |
+|  |  | segundo o noticiário |
+|  |  | danos |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |

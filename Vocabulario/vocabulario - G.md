@@ -10,11 +10,7 @@
 |  |  | farol vermelho |
 |  |  | prestar atenção |
 |  |  | é preciso |
-|  |  | tufão |
-|  |  | ao anoitecer |
-|  |  | segundo o noticiário |
-|  |  | danos |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  |  | vivenciar |
+|  |  | balançar |
+|  |  | fazer barulho |
+|  |  | tremor |

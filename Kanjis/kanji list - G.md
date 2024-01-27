@@ -9,3 +9,7 @@
 | 割れる | quebrar | われる |  |
 | 落ちる | cair | おちる |  |
 | 残る | sobrar | のこる |  |
+|  | tufão |  |  |
+|  | ao anoitecer |  |  |
+|  | segundo o noticiário |  |  |
+|  | danos |  |  |

@@ -187,3 +187,4 @@
 | 145 | 10/01/2024 | F - 181 | ストーリー　２ | Histórias 2 |
 | 146 | 18/01/2024 | <ul><li>F - 191</li><li>Teste F</li></ul> | <ul><li>語彙の まとめ (ごいの まとめ)</li><li>日本語 テスト F</li></ul> | <ul><li>Revisão das palavras</li><li>Teste de Assimilação F</li></ul> |
 | 147 | 24/01/2024 | G - 1 | 動詞のいろいろな表現　１ (どうしのいろいろなひょうげん １) | Diversas expressões verbais 1 |
+| 148 | 31/01/2024 | G - 11 | 動詞のいろいろな表現　２ (どうしのいろいろなひょうげん ２) | Diversas expressões verbais 2 |

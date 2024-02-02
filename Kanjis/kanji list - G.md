@@ -9,3 +9,9 @@
 | 割れる | われる | quebrar |
 | 落ちる | おちる | cair |
 | 残る | のこる | sobrar |
+
+
+## G - 11
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|

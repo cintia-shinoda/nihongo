@@ -15,3 +15,9 @@
 |  |  | farol vermelho |
 |  |  | prestar atenção |
 |  |  | é preciso |
+
+
+## G - 11
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|

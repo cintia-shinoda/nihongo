@@ -28,3 +28,12 @@
 |  () |  () |
 |  () |  () |
 |  () |  () |
+
+---
+
+#### Começar / Continuar / Terminar
+
+
+---
+
+#### ser Fácil / ser Difícil

@@ -37,3 +37,22 @@
 ---
 
 #### ser Fácil / ser Difícil
+
+| verbo | é fácil | foi fácil | é difícil | foi difícil |
+|:---:|:---|:---|:---|:---|
+|  = sujar-se |  = ser fácil de sujar |  |  |  |
+|  = confundir |  = ser fácil de confundir |  |  |  |
+|  () = trabalhar |  () = ser (um ambiente) tranquilo para trabalhar |  |  |  |
+|  () = pronunciar |  () = ser fácil de pronunciar |  |  |  |
+|  () = comer |  |  |  () = ser difícil de comer |  |
+|  () = ver |  |  |  () = ser difícil de ver |  |
+|  () = beber |  |  |  () = ser difícil de beber |  |
+|  () = ler |  |  |  () = ser difícil de ler |  |
+|  = quebrar |  = ser fácil de quebrar |  = foi/era fácil de quebrar |  |  |
+|  () = andar |  () = ser confortável para andar |  () = foi/era confortável para andar |  |  |
+|  = viver |  = ser fácil para se viver |  = foi/era fácil para se viver |  |  |
+|  () = passar |  () = ser tranquilo passar (uns dias) |  () = foi/era tranquilo passar (uns dias) |  |  |
+|  () = estudar |  |  |  () = ser difícil de estudar |  () = foi/era difícil de estudar |
+|  = entender |  |  |  = ser difícil de entender |  = foi era difícil de entender |
+|  () = correr |  |  |  () = ser difícil de correr |  () = foi/era difícil de correr |
+|  = pedir |  |  |  = ser difícil de pedir |  = foi/era difícil de pedir |

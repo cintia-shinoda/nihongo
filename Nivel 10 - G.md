@@ -56,3 +56,11 @@
 |  = entender |  |  |  = ser difícil de entender |  = foi era difícil de entender |
 |  () = correr |  |  |  () = ser difícil de correr |  () = foi/era difícil de correr |
 |  = pedir |  |  |  = ser difícil de pedir |  = foi/era difícil de pedir |
+
+---
+
+#### ```て + みる``` ação de experimentar algo, ou planejar fazer algo
+
+#### ```て + しまう``` ação não intencional, geralmente com resultado insatisfatório. Ação completa
+　
+#### ```て + おく``` continuação de um estado ou condição. Agir previamente, tendo em ista um determinado objetivo

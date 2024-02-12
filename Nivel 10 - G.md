@@ -61,6 +61,13 @@
 
 #### ```て + みる``` ação de experimentar algo, ou planejar fazer algo
 
+| verbo | て + みる |
+|:---:|:---|
+|  () = abrir |  () = abrir para ver |
+|  () = comparar |  () = comparar para ver |
+
+
+
 #### ```て + しまう``` ação não intencional, geralmente com resultado insatisfatório. Ação completa
 　
 #### ```て + おく``` continuação de um estado ou condição. Agir previamente, tendo em ista um determinado objetivo

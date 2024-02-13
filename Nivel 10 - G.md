@@ -67,7 +67,12 @@
 |  () = comparar |  () = comparar para ver |
 
 
-
 #### ```て + しまう``` ação não intencional, geralmente com resultado insatisfatório. Ação completa
+
+| verbo | て + しまう |
+|:---:|:---|
+|  () = comer |  () = acabar comendo |
+|  () = perder |  () = acabar perdendo |
 　
+
 #### ```て + おく``` continuação de um estado ou condição. Agir previamente, tendo em ista um determinado objetivo

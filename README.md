@@ -189,3 +189,4 @@
 | 147 | 24/01/2024 | G - 1 | 動詞のいろいろな表現　１ (どうしのいろいろなひょうげん １) | Diversas expressões verbais 1 |
 | 148 | 31/01/2024 | G - 11 | 動詞のいろいろな表現　２ (どうしのいろいろなひょうげん ２) | Diversas expressões verbais 2 |
 | 149 | 07/02/2024 | G - 21 | 動詞のいろいろな表現　３ (どうしのいろいろなひょうげん ３) | Diversas expressões verbais 3 |
+| 150 | 15/02/2023 | G - 31 | 動詞のいろいろな表現　４ (どうしのいろいろなひょうげん ４) | Diversas expressões verbais 4 |

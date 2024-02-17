@@ -76,3 +76,16 @@
 　
 
 #### ```て + おく``` continuação de um estado ou condição. Agir previamente, tendo em ista um determinado objetivo
+
+---
+
+#### ストーリー １:　忠犬ハチ公　(ちゅうけんハチこう): Hachiko, o cão fiel
+
+一九二三年　十二月
+
+せんきゅうひゃく にじゅうさんねん にがつ、
+
+Em dezembro de 1923, em uma cidade da província de Akita,
+
+
+uma cadela da raça akita deu à luz filhotes.

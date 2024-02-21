@@ -81,11 +81,26 @@
 
 #### ストーリー １:　忠犬ハチ公　(ちゅうけんハチこう): Hachiko, o cão fiel
 
-一九二三年　十二月
+一九二三年　十二月、秋田県　の　ある　町　で、
 
-せんきゅうひゃく にじゅうさんねん にがつ、
+せんきゅうひゃくにじゅうさんねん にがつ、　あきたけん　の　ある　まち　で、
 
 Em dezembro de 1923, em uma cidade da província de Akita,
 
 
+一匹　の　秋田犬　が　子犬　を　生みました。
+
+いっぴき　の　あきたいぬ　が　こいぬ　を　うみました。
+
 uma cadela da raça akita deu à luz filhotes.
+
+
+秋田犬　とは、　秋田　地方　特有　の　犬　の　種類　です。
+
+あきたいぬ　とは、　あきた　ちほう　とくゆう　の　いぬ　の　しゅるい　です。
+
+O cão akita é uma raça peculiar da região de Akita.
+
+
+
+É um cão de grande porte, mas é conhecido por sua lealdade ao dono.

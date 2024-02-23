@@ -104,3 +104,7 @@ O cão akita é uma raça peculiar da região de Akita.
 
 
 É um cão de grande porte, mas é conhecido por sua lealdade ao dono.
+
+O dono dessa cadela presenteou o Dr. Ueno, professor de uma universidade em Tóquio, com um dos filhotes nascidos.
+
+Fazia tempo que o Dr. Ueno estava procurando um filhote genuíno da raça akita.

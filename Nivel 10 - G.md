@@ -102,9 +102,35 @@ uma cadela da raça akita deu à luz filhotes.
 O cão akita é uma raça peculiar da região de Akita.
 
 
+体　は　大きい　ですが、　飼い主　に　忠実な　こと　で　有名　です。
+
+からだ　は　おおきい　ですが、　かいぬし　に　ちゅうじつな　こと　で　ゆうめい　です。
 
 É um cão de grande porte, mas é conhecido por sua lealdade ao dono.
 
+
+その　犬　の　飼い主　は、　生まれた　子犬　の　なか　の　一匹　を、　東京　の　大学教授、　上野　博士　に　贈りました。
+
+その　いぬ　の　かいぬし　は、　うまれた　こいぬ　の　中　の　いっぴき　を、　とうきょう　の　だいがくきょうじゅ、　うえの　はかせ　に　おくりました。
+
 O dono dessa cadela presenteou o Dr. Ueno, professor de uma universidade em Tóquio, com um dos filhotes nascidos.
 
+
+上野　博士　は、　以前　から　純粋な　秋田犬　の　子犬　を　探していました。
+
+うえの　はかせ　は、　いぜん　から　じゅんすいな　あきたいぬ　の　こいぬ　を　さがしていました。
+
 Fazia tempo que o Dr. Ueno estava procurando um filhote genuíno da raça akita.
+
+<br>
+
+
+O Dr. Ueno, que ganhou o filhote, ficou muito contente.
+
+O casal Ueno não tinha filhos.
+
+A esposa também gostou muito do filhote e os dois começaram a criá-lo.
+
+Deram ao filhote o nome de "Hachi".
+
+Porque quando olhavam o filhote por trás, o formato de suas pernas se parecia com o kanji "oito".

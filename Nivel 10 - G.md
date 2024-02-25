@@ -124,13 +124,49 @@ Fazia tempo que o Dr. Ueno estava procurando um filhote genuíno da raça akita.
 
 <br>
 
+子犬　を　もらった　上野博士　は、　たいへん　喜びました。
+
+こいぬ　を　もらった　うえのはかせ　は、　たいへん　よろこびました。
 
 O Dr. Ueno, que ganhou o filhote, ficou muito contente.
 
+
+博士　の　夫婦　には　子ども　が　いませんでした。
+
+はかせ　の　ふうふ　には　こども　が　いませんでした。
+
 O casal Ueno não tinha filhos.
+
+
+奥さん　も　子犬　が　とても　気　に　入って、　二人　で　飼い始めました。
+
+おくさん　も　こいぬ　が　とても　き　に　いって、　ふたり　で　かいはじめました。
 
 A esposa também gostou muito do filhote e os dois começaram a criá-lo.
 
+
+子犬　の　名前　は　「ハチ」に　しました。
+
+こいぬ　の　なまえ　は　「ハチ」に　しました。
+
 Deram ao filhote o nome de "Hachi".
 
+
+子犬　を　後ろ　から　見た　とき、　足　の　形　が　漢字　の　「八」に　似ていた　から　です。
+
+こいぬ　を　うしろ　から　みた　とき、　あし　の　かたち　が　かんじ　の　「はち」に　にていた　から　です。
+
 Porque quando olhavam o filhote por trás, o formato de suas pernas se parecia com o kanji "oito".
+
+
+
+
+Hachi cresceu rapidamente, desde que veio para a casa do Dr. Ueno.
+
+O seu corpo chegou a medir 160 centímetros e pesar 40 quilos.
+
+Dizem que o cão akita, por ser um cão de grande porte, é difícil de criar.
+
+Porém, como o Dr. Ueno cuidou de Hachi com afeto,
+
+Hachi logo se apegou ao Dr. Ueno.

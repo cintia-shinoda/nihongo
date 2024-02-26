@@ -160,13 +160,47 @@ Porque quando olhavam o filhote por trás, o formato de suas pernas se parecia c
 
 
 
+上野　博士　の　家　に　来て　から、　ハチ　は　どんどん　そだちました。
+
+うえの　はかせ　の　いえ　に　きて　から、　ハチ　は　どんどん　そだちました。
 
 Hachi cresceu rapidamente, desde que veio para a casa do Dr. Ueno.
 
+体長　は　百六十　センチメートル、　体重　は　四十　キロ　に　も　なりました。
+
+たいちょう　は　ひゃくろくじゅっ　センチメートル、　たいじゅう　は　よんじゅっ　キロ　に　も　なりました。
+
 O seu corpo chegou a medir 160 centímetros e pesar 40 quilos.
+
+秋田犬　は　体　も　大きく、　飼い　にくい　犬　だと　言われています。
+
+あきたいぬ　は　からだ　も　おおきく、　かい　にくい　いぬ　だと　いわれています。
 
 Dizem que o cão akita, por ser um cão de grande porte, é difícil de criar.
 
+しかし、　上野　博士　が　愛情　を　持って　育てた　ので、　
+
+しかし、　うえの　はかせ　が　あいじょう　を　もって　そだてた　ので、
+
 Porém, como o Dr. Ueno cuidou de Hachi com afeto,
 
+ハチ　は　すぐに　上野　博士　に　なつきました。
+
+ハチ　は　すぐに　うえの　はかせ　に　なつきました。
+
 Hachi logo se apegou ao Dr. Ueno.
+
+
+
+
+O Dr. Ueno morava em Shibuya.
+
+Ao terminar de tomar o café da manhã,
+
+o doutor pegava o trem da estação de Shibuya e ia à universidade.
+
+Todas as manhãs, quando o doutor saía de casa, Hachi o acompanhava até a estação.
+
+E, ao anoitecer, também quando o doutor voltava,
+
+ia sem falta buscá-lo na estação.

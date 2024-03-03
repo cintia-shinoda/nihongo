@@ -192,15 +192,48 @@ Hachi logo se apegou ao Dr. Ueno.
 
 
 
+上野博士　は　渋谷　に　住んでいました。
+
+うえのはかせ　は　しぶや　に　すんでいました。
 
 O Dr. Ueno morava em Shibuya.
 
+博士　は　朝食　を　食べ終わる　と、
+
+はかせ　は　ちょうしょく　を　たべおわる　と、
+
 Ao terminar de tomar o café da manhã,
+
+渋谷　駅　から　電車　に　乗って、大学　に　通いました。
+
+しぶや　えき　から　でんしゃ　に　のって、だいがく　に　かよいました。
 
 o doutor pegava o trem da estação de Shibuya e ia à universidade.
 
+
+毎朝、　博士　が　家　を　出る　とき、　ハチ　は　駅　まで　ついて　行きました。
+
+まいあさ、　はかせ　が　いえ　を　でる　とき、　ハチ　は　えき　まで　ついて　いきました。
+
 Todas as manhãs, quando o doutor saía de casa, Hachi o acompanhava até a estação.
+
+そして、　夕方、　博士　が　帰って　来る　とき　も、
+
+そして、　ゆうがた、　はかせ　が　かえって　くる　とき　も、
 
 E, ao anoitecer, também quando o doutor voltava,
 
+必ず　駅　まで　迎え　に　行きました。
+
+かならず　えき　まで　むかえ　に　いきました。
+
 ia sem falta buscá-lo na estação.
+
+
+
+Quando passou aproximadamente um ano e meio desde que o doutor
+começou a criar Hachi, aconteceu uma desgraça.
+O doutor faleceu de repente durante uma aula na universidade.
+Foi em maio de 1925.
+Ao anoitecer desse dia, Hachi, como sempre, foi à estação de Shibuya.
+Porém, mesmo chegando o horário de costume, o doutor não aparece.

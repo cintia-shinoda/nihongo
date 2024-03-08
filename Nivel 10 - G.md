@@ -79,7 +79,7 @@
 
 ---
 
-#### ストーリー １:　忠犬ハチ公　(ちゅうけんハチこう): Hachiko, o cão fiel
+### ストーリー １:　忠犬ハチ公　(ちゅうけんハチこう): Hachiko, o cão fiel
 
 一九二三年　十二月、秋田県　の　ある　町　で、
 
@@ -230,10 +230,75 @@ E, ao anoitecer, também quando o doutor voltava,
 ia sem falta buscá-lo na estação.
 
 
+博士　が　ハチ　を　飼い始めて、　一年半　ほど　過ぎた　とき、
+
+はかせ　が　ハチ　を　かいはじめて、　いちねんはん　ほど　すぎた　とき、
 
 Quando passou aproximadamente um ano e meio desde que o doutor
+
+不幸な　こと　が　起こりました。
+
+ふこうな　こと　が　おこりました。
+
 começou a criar Hachi, aconteceu uma desgraça.
+
+博士　が　大学　の　授業中　に、　突然、　死んでしまいました。
+
+はかせ　が　だいがく　の　じゅぎょうちゅう　に、　とつぜん、　しんでしまいました。
+
 O doutor faleceu de repente durante uma aula na universidade.
+
+一九二五年　五月　の　こと　でした。
+
+せんきゅうひゃくにじゅうごねん　ごがつ　の　こと　でした。
+
 Foi em maio de 1925.
+
+その　日　の　夕方、　ハチ　は　いつもの　よう　に、　渋谷　駅　に　行きました。
+
+その　ひ　の　ゆうがた、　ハチ　は　いつもの　よう　に、　しぶや　えき　に　いきました。
+
 Ao anoitecer desse dia, Hachi, como sempre, foi à estação de Shibuya.
+
+けれども、　いつもの　時間　に　なっても、　博士　は　出て来ません。
+
+けれども、　いつもの　じかん　に　なっても、　はかせ　は　でてきません。
+
 Porém, mesmo chegando o horário de costume, o doutor não aparece.
+
+
+
+
+Hachi continuou esperando o doutor em frente à estação.
+Quando Hachi voltou para casa já eram altas horas da noite.
+Na casa do doutor, estavam sendo realizados os preparativos para o funeral,
+mas Hachi não conseguia compreender a morte do doutor.
+Também ao anoitecer do dia seguinte, Hachi foi à estação (para ver se o encontrava).
+Porém, Dr. Ueno não voltou.
+
+
+
+---
+
+### ```relações pessoais 1```
+
+#### A ```は``` B ```に``` ```あげる``` : A dá a B   (A -> B)
+
+#### A ```が``` B ```に``` ```くれる``` : A dá a B　(A -> B)
+B é o falante ou alguém próximo (familiar ou pessoas íntimas do falante)
+
+#### A ```は``` B ```から``` ```もらう``` : A ganha de B (A <- B)
+
+---
+
+### ```relações pessoais 2```
+
+#### 
+- quando alguém pratica uma ação em benefício do outro - dar em benefício
+
+#### 
+- quando alguém faz uma ação em MEU benefício ou de pessoas próximas a mim (familiares ou pessoas íntimas) - receber em benefício
+
+
+####
+receber em benefício devido à ação do outro ou a PEDIDO próprio - receber em benefício

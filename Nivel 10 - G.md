@@ -283,6 +283,8 @@ Porém, Dr. Ueno não voltou.
 ### ```relações pessoais 1```
 
 #### A ```は``` B ```に``` ```あげる``` : A dá a B   (A -> B)
+- primeira pessoa -> terceira pessoa
+- terceira pessoa -> terceira pessoa
 
 #### A ```が``` B ```に``` ```くれる``` : A dá a B　(A -> B)
 B é o falante ou alguém próximo (familiar ou pessoas íntimas do falante)
@@ -302,3 +304,43 @@ B é o falante ou alguém próximo (familiar ou pessoas íntimas do falante)
 
 ####
 receber em benefício devido à ação do outro ou a PEDIDO próprio - receber em benefício
+
+---
+
+
+### ```relações pessoais 3```
+
+#### ```いる``` (estar), ```行く　(いく)``` (ir), ```来る (くる)``` (vir)
+|  |  |linguagem de tratamento |
+|:---|:---:|:---:|
+| 行く・来る | informal ・ não pretérito | いらっしゃる |
+| 行った・来た (きた) | informal ・ pretérito | いらっしゃった |
+| 行きます・来ます (きます) | formal ・ não pretérito | いらっしゃいます |
+| 行きました・来ました (きました) | formal ・ pretérito | いらっしゃいました |
+
+
+#### ```くれる``` (dar/enviar)
+|  |  |linguagem de tratamento |
+|:---|:---:|:---:|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+#### ```もらう``` (ganhar)
+|  |  |linguagem de tratamento |
+|:---|:---:|:---:|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+#### ```あげる``` (dar)
+|  | informal | linguagem de tratamento |
+|:---|:---:|:---:|
+| あげる (não pretérito) |  |  |
+| あげた (pretérito) |  |  |
+| あげます | formal ・ não pretérito |  |
+| あげました | formal ・ pretérito |  |

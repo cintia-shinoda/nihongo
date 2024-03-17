@@ -295,14 +295,14 @@ B é o falante ou alguém próximo (familiar ou pessoas íntimas do falante)
 
 ### ```relações pessoais 2```
 
-#### 
+#### ```て + あげる``` 
 - quando alguém pratica uma ação em benefício do outro - dar em benefício
 
-#### 
+#### ```て + くれる```
 - quando alguém faz uma ação em MEU benefício ou de pessoas próximas a mim (familiares ou pessoas íntimas) - receber em benefício
 
 
-####
+#### ```て + もらう```
 receber em benefício devido à ação do outro ou a PEDIDO próprio - receber em benefício
 
 ---
@@ -338,9 +338,25 @@ receber em benefício devido à ação do outro ou a PEDIDO próprio - receber e
 
 
 #### ```あげる``` (dar)
-|  | informal | linguagem de tratamento |
-|:---|:---:|:---:|
-| あげる (não pretérito) |  |  |
-| あげた (pretérito) |  |  |
+|  |  |
+|:---|:---:|
+| あげる (não formal não pretérito) |  |
+| あげた (não formal pretérito) |  |
 | あげます | formal ・ não pretérito |  |
 | あげました | formal ・ pretérito |  |
+
+<br>
+
+
+### ```relações pessoais 4```
+#### ```お～する```
+- linguagem de modéstia
+- usada em relação a nossa própria ação
+- para mostrarmos respeito à pessoa a quem se dirige nossa ação
+
+
+#### ```お～ください```
+- linguagem de respeito
+- usada em relação à ação de outra pessoa
+- para mostrarmos respeito à pessoa que pratica essa ação
+- expressão polida de fazer um pedido

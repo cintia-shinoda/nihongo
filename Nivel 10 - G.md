@@ -360,3 +360,22 @@ receber em benefício devido à ação do outro ou a PEDIDO próprio - receber e
 - usada em relação à ação de outra pessoa
 - para mostrarmos respeito à pessoa que pratica essa ação
 - expressão polida de fazer um pedido
+
+
+
+
+
+-----
+
+### ストーリー ２: 日本語 の 敬語 (にほんご の けいご): A linguagem de tratamento do japonês
+
+
+"(Meu) amigo (me) deu um livro."
+
+"O professor (me) deu um livro."
+
+"Espere um momento."
+
+"Espere um momento, por favor."
+
+Nas frases acima, "くださった" é a linguagem de tratamento de "くれた", e "お待ちください” é a linguagem de tratamento de "待って".

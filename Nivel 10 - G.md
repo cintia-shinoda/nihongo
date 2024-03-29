@@ -379,3 +379,15 @@ receber em benefício devido à ação do outro ou a PEDIDO próprio - receber e
 "Espere um momento, por favor."
 
 Nas frases acima, "くださった" é a linguagem de tratamento de "くれた", e "お待ちください” é a linguagem de tratamento de "待って".
+
+
+
+"Enviei uma bagagem ao meu irmão mais novo."
+
+"Enviei uma bagagem a Yamada-san."
+
+"Enviei uma bagagem ao cliente."
+
+Nas frases acima, tanto "" como "" são linguagens de tratamento de "".
+
+"" é o estilo mais polido.

@@ -391,3 +391,63 @@ Nas frases acima, "くださった" é a linguagem de tratamento de "くれた",
 Nas frases acima, tanto "" como "" são linguagens de tratamento de "".
 
 "" é o estilo mais polido.
+
+
+---
+
+
+
+
+
+
+
+---
+
+### expressões de sentimentos
+
+
+
+
+
+#### ```pensar em``` = ```と思う (とおもう)```
+
+##### ```1o. grupo```
+
+|  | expressão de intenção | pensar em ... |
+|:---:|:---|:---|
+|  () = ir  |  () |  = pensar em ir |
+| 作る (つくろ) = preparar | 作ろう (つくろう) | 作ろう　と思う = pensar em preparar |
+|  () = voltar |  () |  = pensar em voltar |
+|  () = descansar |  () |  = pensar em descansar |
+|  () = convidar |  () |  = pensar em convidar |
+
+
+##### ```2o. grupo```
+
+|  | expressão de intenção | pensar em ... |
+|:---:|:---|:---|
+|  () = dormir |  () |  = pensar em dormir |
+|  |  |  |
+
+##### ```irregulares```
+
+|  | expressão de intenção | pensar em ... |
+|:---:|:---|:---|
+|  |  |  |
+
+
+<br>
+
+
+#### ```tentar ...``` = ```とする```
+
+##### ```1o. grupo```
+|  | expressão de intenção | pensar em ... |
+|:---:|:---|:---|
+|  |  |  |
+
+
+##### ```2o. grupo```
+
+
+##### ```irregulares```

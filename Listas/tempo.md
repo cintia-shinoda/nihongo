@@ -1,6 +1,6 @@
 # Tempo
 
-|   |   | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 今日 | きょう | hoje |
 | 昨日 | きのう | ontem |
@@ -21,7 +21,7 @@
 ## Horário
 ### horas
 
-|   |   | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 一時 | いちじ | 1:00 |
 | 二時 | にじ | 2:00 |
@@ -39,7 +39,7 @@
 
 ### minutos
 
-|   |   | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 一分 | いっぷん | :01 |
 | 二分 | にふん | :02 |
@@ -63,7 +63,7 @@
 
 ## Meses
 
-|   |   | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 一月 | いちがつ | Janeiro |
 | 二月 | にがつ | Fevereiro |
@@ -81,7 +81,7 @@
 
 ## Dias
 
-|   |   | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 一日 | ついたち | dia 1º (primeiro) |
 | 二日 | ふつか | dia dois |
@@ -110,7 +110,7 @@
 
 ## Dias da semana
 
-|   |   | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 日よう日 | にちようび | domingo |
 | 月よう日 | げつようび | segunda-feira |

@@ -116,3 +116,25 @@
 |  |  |  |
 |  |  |  |
 |  |  |  |
+
+
+## G - 111
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
+## G - 121
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  | ペット | animal de estimação |
+| 一度 | いちど | uma vez |
+|  | 〜たら | expressa suposição ou condição |
+|  |  |  |
+|  |  |  |

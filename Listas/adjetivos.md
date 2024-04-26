@@ -1,6 +1,6 @@
 # ```Adjetivos```
 
-| kanji | furigana | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---:|
 | 大き | おおき | grande |
 | 小さい | ちいさい | pequeno |
@@ -10,7 +10,7 @@
 | 重い | おもい | pesado |
 |  | かるい | leve |
 |  | やさしい | fácil |
-|  | むずかしい | difícil |
+| 難しい | むずかしい | difícil |
 |  | きれい | limpo |
 |  | きたない | sujo |
 | 広い | ひろい | amplo |
@@ -23,12 +23,12 @@
 | 古い | ふるい | velho, antigo |
 |  | いい | bom |
 |  | わるい | ruim |
-|  | ちかい | perto |
+| 近い | ちかい | perto |
 | 遠い | とおい | longe |
 |  | おもしろい | interessante |
 |  | いそがしい | atarefado |
 |  | おいしい | gostoso |
-|  |  | divertido |
+|  | たのしい | divertido |
 |  |  | ruidoso |
 |  |  | movimentado |
 |  |  | bem |

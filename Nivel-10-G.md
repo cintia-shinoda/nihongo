@@ -451,3 +451,18 @@ Nas frases acima, tanto "" como "" são linguagens de tratamento de "".
 
 
 ##### ```irregulares```
+
+-----
+
+#### ```querer```
+
+##### ```ます``` substituído por ```たがる```: (ele) quer ~
+
+|  | quer + verbo | não quer + verbo |
+|:---:|:---:|:---:|
+|  () = ir |  () = (ele) quer ir |  () = (ele) não quer ir |
+|  () = sair |  () = (ele) quer sair |  () = (ele) não quer sair |
+
+
+
+##### (EU) quero ~ x (ELE) quer ~

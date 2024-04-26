@@ -20,7 +20,7 @@
 
 ### Quantidade
 
-| kanji |   | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---|
 | 一つ | ひとつ | 1 |
 | 二つ | ふたつ | 2 |
@@ -38,7 +38,7 @@
 
 ### Pessoas
 
-|   |   | tradução |
+| kanji | hiragana | tradução |
 |:---:|:---:|:---|
 | 一人 | ひとり | 1 |
 | 二人 | ふたり | 2 |
@@ -97,13 +97,16 @@
 
 <br>
 
-
-### Pequenos animais
+### Animais
+#### Pequenos animais
 | quantidade | kanji | leitura |
 |:---:|:---:|:---:|
 | 1 | 一ぴき | いっぴき |
 
-
+#### Animais grandes
+| quantidade | kanji | leitura |
+|:---:|:---:|:---:|
+|  |  |  |
 
 ###
 - contagem de vezes: sufixo "かい"

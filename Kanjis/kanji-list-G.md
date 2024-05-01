@@ -124,3 +124,13 @@
 | ```世```話 | ```せ```わ | cuidado, assistência |
 | ```責```任 | ```せき```にん | responsabilidade |
 | 責```任``` | せき```にん``` | responsabilidade |
+
+
+### G - 131
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| 野```原``` | の```はら``` | campo |
+| ```芽``` | ```め``` | broto |
+| ```農```民 | ```のう```みん | lavradores |
+| 農```民``` | のう```みん``` | lavradores |
+| ```鳴```く | ```な```く | cantar / chorar |

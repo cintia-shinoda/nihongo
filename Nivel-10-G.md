@@ -466,3 +466,8 @@ Nas frases acima, tanto "" como "" são linguagens de tratamento de "".
 
 
 ##### (EU) quero ~ x (ELE) quer ~
+
+
+-----
+
+#### ```quando/se ~``` = ```~ なると```

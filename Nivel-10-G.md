@@ -468,6 +468,223 @@ Nas frases acima, tanto "" como "" são linguagens de tratamento de "".
 ##### (EU) quero ~ x (ELE) quer ~
 
 
------
+----------
 
-#### ```quando/se ~``` = ```~ なると```
+#### ```quando/se ~ = ~ なると```
+
+
+
+----------
+
+### ストーリー ３: 名前の呼び方 (なまえのよびかた): Maneiras de chamar nomes
+
+イチロー　という　日本人　を　知っていますか。
+
+イチロー　という　にほんじん　を　しっていますか。
+
+Conhecem um japonês chamado Ichiro?
+<br>
+
+大リーグ　で　活躍している　野球　選手　です。
+
+だいリーグ　で　かつやくしている　やきゅう　せんしゅ　です。
+
+É um jogador de beisebol que atua na Major League.
+<br>
+
+かれ　の　本名　は　「すずき　いちろう」　です。
+
+かれ　の　ほんみょう　は　「すずき　いちろう」　です。
+
+Seu verdadeiro nome é "Suzuki Ichiro".
+<br>
+
+漢字　では　「鈴木　一朗」　と　書きます。
+
+かんじ　では　「すずき　いちろう」　と　かきます。
+
+Em kanji se escreve "鈴木　一朗".
+<br>
+
+けれども、　皆、　彼　を　「イチロー」　と　呼びます。
+
+けれども、　みな、　かれ　を　「イチロー」　と　よびます。
+
+Entretanto, todos o chamam de "Ichiro".
+<br>
+
+書くときも、　かたかな　で　「イチロー」　と　書きます。
+
+かくときも、　かたかな　で　「イチロー」　と　かきます。
+
+Quando se escreve também, se escreve "" em katakana.
+<br><br>
+
+
+日本　には　たくさん　の　姓　が　あります。
+
+にほん　には　たくさん　の　せい　が　あります。
+
+No Japão há muitos sobrenomes.
+<br>
+
+全部　合わせると、　二十万　種類　以上　に　あります。
+
+ぜんぶ　あわせると、　にじゅうまん　しゅるい　いじょう　に　あります。
+
+Juntando todos, são mais de duzentos mil tipos.
+<br>
+
+その　中　で、　「鈴木」　という　姓　は、
+
+その　なか　で、　「すずき」　という　せい　は、
+
+Entre eles, o sobrenome "Suzuki"
+<br>
+
+『佐藤」、「高橋」　と　並んで、　最　も　多い　姓　の　一つ　です。
+
+「さとう」、「たかはし」　と　ならんで、　もっと　も　おおい　せい　の　ひとつ　です。
+
+é um dos sobrenomes mais comuns, ao lado de "Sato" e "Takahashi".
+<br>
+
+日本　の　野球　選手　の　中　にも、　「鈴木」　という　姓　の　選手　が　たくさん　います。
+
+にほん　の　やきゅう　せんしゅ　の　なか　にも、　「すずき」　という　せい　の　せんしゅ　が　たくさん　います。
+
+Mesmo entre os jogadores de beisebol do Japão, há muitos jogadores com o sobrenome "Suzuki".
+<br><br>
+
+
+「 鈴木さん」　が　多い　のは、　野球　選手　だけ　では　ありません。
+
+「すずきさん」　が　おおい　のは、　やきゅう　せんしゅ　だけ　では　ありません。
+
+Há muitos "Suzuki-san" não só entre os jogadores de beisebol.
+<br>
+
+学校　や　会社　でも、　「鈴木さん」　が　二人、　三人　いる　場合　が　あります。
+
+がっこう　や　かいしゃ　でも、　「すずきさん」　が　ふたり、　さんにん　いる　ばあい　が　あります。
+
+Mesmo nas escolas e empresas, há casos de existirem dois ou três "Suzuki-san".
+<br>
+
+「すずきさん」　だけ　では、　だれ　の　こと　かわかりません。
+
+「すずきさん」　だけ　では、　だれ　の　こと　かわかりません。
+
+Somente por "Suzuki-san", não saberemos de quem se trata.
+<br>
+
+こんな　とき　は、　名前　で　呼ばらいと　区別　が　つきません。
+
+こんな　とき　は、　なまえ　で　よばらいと　くべつ　が　つきません。
+
+Neste caso, não é possível diferenciá-los se não chamarmos pelo nome.
+<br><br>
+
+
+イチロー　選手　は、　ファン　に　自分　の　こと　を　覚えて　ほしい　と　思いました。
+
+イチロー　せんしゅ　は、　ファン　に　じぶん　の　こと　を　おぼえて　ほしい　と　おもいました。
+
+O jogador Ichiro queria que os fãs se lembrassem dele.
+<br>
+
+しかし、　「鈴木」　では　目立ちません。
+
+しかし、　「すずき」　では　めだちません。
+
+Mas "Suzuki" não chamaria atenção.
+<br>
+
+そこで、　監督　の　すすめで、　「イチロー」　という　名前　で　試合　に　出ました。
+
+そこで、　かんとく　の　すすめで、　「イチロー」　という　なまえ　で　しあい　に　でました。
+
+Então, seguindo a sugestão do técnico, participou dos jogos com o nome "Ichiro".
+<br>
+
+また、　外国人　選手　の　ように　かたかな　で　「イチロー」　と　書きました。
+
+また、　がいこくじん　せんしゅ　の　ように　かたかな　で　「イチロー」　と　かきました。
+
+Além disso, escreveu o seu nome em katakana, "Ichiro",
+como (fazem) os jogadores estrangeiros.
+<br><br>
+
+はじめのうちは、 ファン　の　人たち　は　驚いたり、
+
+はじめのうちは、 ファン　の　ひとたち　は　おどろいたり、
+
+No início, (alguns) fãs se assustaram,
+<br>
+
+笑ったりしました。
+
+わらったりしました。
+
+(outros) riram.
+<br>
+
+しかし、　イチロー　は　アメリカ　の　球団　も　ほしがる　素晴らしい　選手　に　なりました。
+
+しかし、　イチロー　は　アメリカ　の　きゅうだん　も　ほしがる　すばらしい　せんしゅ　に　なりました。
+
+Porém, Ichiro se tornou um grande jogador, cobiçado também por equipes americanas de beisebol.
+<br>
+
+イチロー　が　活躍　すると、
+
+イチロー　が　かつやく　すると、
+
+Com o sucesso de Ichiro,
+<br>
+
+子供たち　は　イチロー　の　ような　選手　に　なりたがりました。
+
+こどもたち　は　イチロー　の　ような　せんしゅ　に　なりたがりました。
+
+as crianças quiseram se tornar um jogador como Ichiro.
+<br><br>
+
+
+
+
+
+
+
+
+
+O jogador Ichiro é um exemplo muito especial.
+Na maioria dos casos, os japoneses chamam os outros pelo sobrenome.
+Neste caso também, se não acrescentar "san" ou "kun",
+pode ocorrer de ser considerado descortês.
+Quando se tornam bastante próximos, pode ocorrer de se chamarem também
+pelo nome, em vez de se chamarem pelo sobrenome.
+<br><br>
+
+Uma pessoa chamada "Tanaka Minoru",
+normalmente a chamamos de "Tanaka-san",
+Caso tenha a mesma idade ou seja mais jovem,
+podemos chamá-la também de "Tanaka-kun".
+Também há casos em que (chamar de) "Tanaka" pode ser descortês.
+Também é muito raro chamar repentinamente de "Minoru".
+<br><br>
+
+
+"San" é usado tanto para homens como para mulheres.
+"Kun" não é muito usado para mulheres.
+Os japoneses, ao ouvir "Tanaka-kun", pensam tratar-se de um homem.
+Chamando uma mulher de "kun",
+pode ser que soe um pouco estranho.
+<br><br>
+
+
+Se pensa em se amigar mais com os japoneses,
+experimente pedir-lhes para que o chame pelo seu nome.
+Talvez lhe diga: "Chame-me também pelo meu nome".
+Ao se chamarem reciprocamente pelo nome,
+provavelmente se sentirão mais próximos do que antes.

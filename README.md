@@ -200,3 +200,4 @@
 | 158 | 17/04/2024 | G - 111 | 気持ちの表現　２ (きもちのひょうげん 2) | Expressões de sentimentos 2 |
 | 159 | 26/04/2024 | G - 121 | 気持ちの表現　３ (きもちのひょうげん ３) | Expressões de sentimentos 3 |
 | 160 | 01/05/2024 | G - 131 | 気持ちの表現　４ (きもちのひょうげん ４) | Expressões de sentimentos 4 |
+| 161 | 08/05/2024 | G - 141 | ストーリー　３ | Histórias 3 |

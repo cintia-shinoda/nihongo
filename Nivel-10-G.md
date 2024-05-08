@@ -615,6 +615,7 @@ Além disso, escreveu o seu nome em katakana, "Ichiro",
 como (fazem) os jogadores estrangeiros.
 <br><br>
 
+
 はじめのうちは、 ファン　の　人たち　は　驚いたり、
 
 はじめのうちは、 ファン　の　ひとたち　は　おどろいたり、
@@ -651,40 +652,157 @@ as crianças quiseram se tornar um jogador como Ichiro.
 <br><br>
 
 
+イチロー　選手　は　とても　特別な　例　です。
 
-
-
-
-
-
+イチロー　せんしゅ　は　とても　とくべつな　れい　です。
 
 O jogador Ichiro é um exemplo muito especial.
+<br>
+
+多く　の　場合、　日本人　は　相手　の　姓　を　呼びます。
+
+おおく　の　ばあい、　にほんじん　は　あいて　の　せい　を　よびます。
+
 Na maioria dos casos, os japoneses chamam os outros pelo sobrenome.
+<br>
+
+この　ときも、　「さん」　や　「くん」　を　つけないと、
+
 Neste caso também, se não acrescentar "san" ou "kun",
+
+<br>
+
+失礼だと　思われる　こと　が　あります。
+
+しつれいだと　おもわれる　こと　が　あります。
+
 pode ocorrer de ser considerado descortês.
+<br>
+
+とても　親しく　なると、　相手　の　姓　で　なく　名前　を
+
+とても　したしく　なると、　あいて　の　せい　で　なく　なまえ　を
+
 Quando se tornam bastante próximos, pode ocorrer de se chamarem também
+<br>
+
+呼ぶ　こと　も　あります。
+
+よぶ　こと　も　あります。
+
 pelo nome, em vez de se chamarem pelo sobrenome.
 <br><br>
 
+
+田中　実　という　人　の　こと　は、
+
+たなか　みのる　という　ひと　の　こと　は、
+
 Uma pessoa chamada "Tanaka Minoru",
+<br>
+
+ふつう　は　「田中さん」　と　呼びます。
+
+ふつう　は　「たなかさん」　と　よびます。
+
 normalmente a chamamos de "Tanaka-san",
+<br>
+
+自分　と　同じ　年　か　年下　の　場合　は、
+
+じぶん　と　おなじ　とし　か　としした　の　ばあい　は、
+
 Caso tenha a mesma idade ou seja mais jovem,
+<br>
+
+「田中くん」　と　呼ぶ　こと　も　あります。
+
+「たなかくん」　と　よぶ　こと　も　あります。
+
 podemos chamá-la também de "Tanaka-kun".
+<br>
+
+「田中」　では　失礼　に　なる　こと　も　あります。
+
+「たなか」　では　しつれい　に　なる　こと　も　あります。
+
 Também há casos em que (chamar de) "Tanaka" pode ser descortês.
+<br>
+
+いきなり　「実」　と　呼ぶ　こと　も　ほとんど　ありません。
+
+いきなり　「みのる」　と　よぶ　こと　も　ほとんど　ありません。
+
 Também é muito raro chamar repentinamente de "Minoru".
 <br><br>
 
 
+「さん」　は　男の人　にも　女の人　にも　使います。
+
+「さん」　は　おとこのひと　にも　おんなのひと　にも　つかいます。
+
 "San" é usado tanto para homens como para mulheres.
+<br>
+
+「くん」　は　女の人　には　あまり　使いません。
+
+「くん」　は　おんなのひと　には　あまり　つかいません。
+
 "Kun" não é muito usado para mulheres.
+<br>
+
+日本人　は　「田中くん」　と　聞く　と、　男の人　だと　考えます。
+
+にほんじん　は　「たなかくん」　と　きく　と、　おとこのひと　だと　かんがえます。
+
 Os japoneses, ao ouvir "Tanaka-kun", pensam tratar-se de um homem.
+<br>
+
+女の人　の　こと　を　「くん」　と　呼んでいる　と、
+
+おんなのひと　の　こと　を　「くん」　と　よんでいる　と、
+
 Chamando uma mulher de "kun",
+<br>
+
+少し　おかしな　感じ　が　する　かもしれません。
+
+すこし　おかしな　かんじ　が　する　かもしれません。
+
 pode ser que soe um pouco estranho.
 <br><br>
 
 
+日本人　と　もっと　親しく　なろう　と　思うなら、
+
+にほんじん　と　もっと　したしく　なろう　と　おもうなら、
+
 Se pensa em se amigar mais com os japoneses,
+<br>
+
+自分　の　名前　を　呼んで　ほしい　と　頼んで　みましょう。
+
+じぶん　の　なまえ　を　よんで　ほしい　と　たのんで　みましょう。
+
 experimente pedir-lhes para que o chame pelo seu nome.
+<br>
+
+もしかしたら、　「私　の　こと　も　名前　で　呼んで」　と　言って　くれる　かもしれません。
+
+もしかしたら、　「わたし　の　こと　も　なまえ　で　よんで」　と　いって　くれる　かもしれません。
+
 Talvez lhe diga: "Chame-me também pelo meu nome".
+<br>
+
+お互い　に　名前　で　呼び合う　と、
+
+おたがい　に　なまえ　で　よびあう　と、
+
 Ao se chamarem reciprocamente pelo nome,
+<br>
+
+今　まで　以上　に　仲良く　なれたと　感じる　でしょう。
+
+いま　まで　いじょう　に　なかよく　なれたと　かんじる　でしょう。
+
 provavelmente se sentirão mais próximos do que antes.

@@ -193,3 +193,42 @@
 |  | 〜たら | expressa suposição ou condição |
 |  |  |  |
 |  |  |  |
+
+---
+
+
+## G - 131
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  | superfície |
+|  |  | as folhas crescem |
+|  |  | (planta do) arroz |
+|  |  | (não cresce) bem |
+|  |  | com frequência |
+|  |  |  |
+
+---
+
+
+## G - 141
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| 大リーグ | だいリーグ | Major League. Liga americana de beisebol |
+| 本名 | ほんみょう | verdadeiro nome |
+| 姓 | せい | sobrenome |
+| 区別　が　つく | くべつ　が　つく | diferenciar |
+| 目立つ | めだつ | chamar atenção |
+| 監督 | かんとく | técnico |
+| 球団 | きゅうだん | equipe de beisebol |
+| ようだ |  | parecer-se (com) |
+| 失礼　だ | しつれい　だ | é descortês |
+| 思われる | おもわれる | ser considerado (expressão na voz passiva) |
+| 親しい | したしい | próximo, íntimo |
+| 年下 | としした | (pessoa) mais jovem |
+| ほとんど〜ない |  | é muito raro |
+| 〜かもしれない |  | pode ser que ~ |
+| 〜かもしれません |  | talvez |
+| 互い | たがい | reciprocidade |
+| 仲良く | なかよく | próximos |

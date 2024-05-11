@@ -806,3 +806,14 @@ Ao se chamarem reciprocamente pelo nome,
 いま　まで　いじょう　に　なかよく　なれたと　かんじる　でしょう。
 
 provavelmente se sentirão mais próximos do que antes.
+
+----------
+
+
+### ```é como ~``` = ```(の) ようだ```
+
+
+### ```verbo + como ~``` = ```(の) ように```
+
+
+### ```como ~``` = ```(の)ような```

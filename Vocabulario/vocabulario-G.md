@@ -232,3 +232,19 @@
 | 〜かもしれません |  | talvez |
 | 互い | たがい | reciprocidade |
 | 仲良く | なかよく | próximos |
+
+---
+
+
+## G - 151
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| 博物館 | はくぶつかん | museu |
+| 模型 | もけい | modelo |
+| まるで |  | quase o mesmo. Usado para mostrar semelhança |
+| 十倍 | じゅうばい | dez vezes |
+| 展示室 | てんじしつ | sala de exposição |
+| 展示する | てんじする | expôr |
+| 巨大　だ | きょだい だ | é enorme |
+| 意外　だ | いがい だ | é surpreendente; é, para (minha) surpresa |

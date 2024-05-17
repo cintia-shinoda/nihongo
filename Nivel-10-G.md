@@ -809,6 +809,7 @@ provavelmente se sentirão mais próximos do que antes.
 
 ----------
 
+## 
 
 ### ```é como ~``` = ```(の) ようだ```
 

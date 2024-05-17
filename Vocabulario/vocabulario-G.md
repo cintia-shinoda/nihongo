@@ -248,3 +248,12 @@
 | 展示する | てんじする | expôr |
 | 巨大　だ | きょだい だ | é enorme |
 | 意外　だ | いがい だ | é surpreendente; é, para (minha) surpresa |
+
+---
+
+
+## G - 161
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  |  |

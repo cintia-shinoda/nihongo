@@ -256,4 +256,5 @@
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-|  |  |  |
+| 一口 | ひとくち | uma bocada, um gole, uma pequena porção |
+| おかわり |  | repetição do prato |

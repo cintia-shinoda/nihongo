@@ -818,3 +818,18 @@ provavelmente se sentirão mais próximos do que antes.
 
 
 ### ```como ~``` = ```(の)ような```
+
+
+## 
+
+### ```radical do adjetivo``` + ```- い``` + ```そうだ```　ou ```radical do adjetivo``` + ```- い``` + ```そうな```
+
+| adjetivo | parece estar ~ | que parece estar ~ |
+|:---|:---|:---|
+| おいしい = saboroso | おいしそうだ = parece estar saboroso | おいしそうな = que parece estar saboroso |
+| うれしい = contente |  |  |
+| 辛い (からい) = picante |  |  |
+| まじめだ = sério |  |  |
+
+
+### 

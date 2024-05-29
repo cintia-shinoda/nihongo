@@ -832,4 +832,4 @@ provavelmente se sentirão mais próximos do que antes.
 | まじめだ = sério |  |  |
 
 
-### 
+### ```talvez``` = verbo no infinitivo informal + ```かもしれない```

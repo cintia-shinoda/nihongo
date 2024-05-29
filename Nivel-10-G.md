@@ -831,5 +831,21 @@ provavelmente se sentirão mais próximos do que antes.
 | 辛い (からい) = picante |  |  |
 | まじめだ = sério |  |  |
 
+-----
 
-### 
+### ```talvez``` = verbo no infinitivo informal + ```かもしれない```
+
+| verbo | informal ```〜 かもしれない``` | formal ```〜 かもしれません``` |
+|:---|:---|:---|
+| なくなる = acabar | なくなる かもしれない = talvez acabe | なくなる かもしれません = talvez acabe |
+| 遅れる (おくれる) = atrasar-se | 遅れる かもしれない (おくれる　かもしれない) = talvez se atrase | 遅れる　かもしれません (おくれる かもしれません) = talvez se atrase |
+| 寒い (さむい) = estar frio | 寒い　かもしれない (さむい かもしれない) = talvez esteja frio | 寒い　かもしれません (さむい かもしれません) = talvez esteja frio |
+
+
+### ```talvez não``` = verbo forma ```ない``` + ```かもしれない```
+
+| verbo | informal ```〜 かもりれない``` | formal ```〜 かもしれません``` |
+|:---|:---|:---|
+| 終わる (おわる) = terminar | 終わらない　かもしれない (おわらない かもしれない) = talvez não termine | 終わらない　かもしれません (おわらない　かもしれません) = talvez não termine |
+| 来る (くる) = vir | 来ない　かもしれない (こない　かもしれない) = talvez não venha | 来ない　かもしれません (こない かもしれません) = talvez não venha |
+| あまい = ser doce | あまくない　かもしれない = talvez não seja doce | あまくない かもしれません = talvez não seja doce  |

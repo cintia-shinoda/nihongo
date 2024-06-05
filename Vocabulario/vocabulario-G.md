@@ -258,3 +258,29 @@
 |:---------:|:--------|:---------|
 | 一口 | ひとくち | uma bocada, um gole, uma pequena porção |
 | おかわり |  | repetição do prato |
+
+---
+
+
+## G - 171
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+---
+
+
+## G - 181
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| もしかしたら |  | pode ser que |
+| 手分けする | てわけする | dividir-se |
+| テント |  | barraca |
+| ひろう |  | apanhar |
+| ぞ |  | usado para reforçar a opinião do falante |

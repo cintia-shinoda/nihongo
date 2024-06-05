@@ -1,6 +1,8 @@
 # Cronograma
 
-## 2020
+
+<details>
+<summary>2020</summary>
 
 |  #  | Data       | Conteúdo  |       |   |
 |:---:|:----------:|:--------:|:-----|:---|
@@ -31,11 +33,13 @@
 |  25  | 09/12/2020 | A - 31   |　めいしぶん　２ | Frases substantivas 2 |
 |  26  | 17/12/2020 | A - 41 |　めいしぶん　３ | Frases substantivas 3 |
 
-<br><br><br>
+</details>
+
+<br>
 
 
-
-## 2021
+<details>
+<summary>2021</summary>
 
 |  #  | Data       | Conteúdo |       |  |
 |:---:|:----------:|:-------:|:-----|:---|
@@ -71,11 +75,13 @@
 |  56  | 09/12/2021 | B - 101 (2nd half) | かんじ １ | Kanji 1 |
 |  57  | 15/12/2021 | B - 111 | ストーリ　１ | Histórias 1 |
 
-<br><br><br>
+</details>
+
+<br>
 
 
-
-## 2022
+<details>
+<summary>2022</summary>
 
 |  #  | Data       | Conteúdo |       | |
 |:---:|:----------:|:-------:|:-----|:---|
@@ -122,11 +128,13 @@
 | 98 | 14/12/2022 | D - 121 | 動詞の　た形と　て形 ５ (どうしの　たけいと　てけい　５) | Forma た e forma て 5 |
 | 99 | 21/12/2022 | D - 131 | ストーリー　１ | Histórias 1 |
 
-<br><br><br>
+</details>
+
+<br>
 
 
-
-## 2023
+<details>
+<summary>2023</summary>
 
 |  #  | Data      | Conteúdo |      |    |
 |:---:|:----------:|:-------:|:-----|:---|
@@ -176,8 +184,9 @@
 | 143 | 06/12/2023 | F - 161 | 経験表現 (けいけんひょうげん) | Expressões de Experiência |
 | 144 | 13/12/2023 | F - 171 | 忠告表現 (ちゅうこくひょうげん) | Expressões de Advertência |
 
-<br><br><br>
+</details>
 
+<br>
 
 
 ## 2024
@@ -204,3 +213,4 @@
 | 162 | 17/05/2024 | G - 151 | 判断表現 １ (はんだんひょうげん １) | Expressões decisivas 1 |
 | 163 | 24/05/2024 | G - 161 | 判断表現 ２ (はんだんひょうげん ２) | Expressões decisivas 2 |
 | 164 | 29/05/2024 | G - 171 | 判断表現 ３ (はんだんひょうげん ３) | Expressões decisivas 3 |
+| 165 | 05/06/2024 | G - 181 | 判断表現 ４ (はんだんひょうげん ４) | Expressões decisivas 4 |

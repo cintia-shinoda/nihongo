@@ -872,3 +872,48 @@ provavelmente se sentirão mais próximos do que antes.
 |:---|:---|:---|
 | 行く (いく) = ir | 行く ```こと に した``` (いく　```こと に した```) = resolveu ir | 行く ```こと に しました``` (いく　```こと に しました```) |
 | 待つ (まつ) = aguardar | 待つ ```こと に した``` (まつ ```こと に した```) = resolveu aguardar | 待つ ```こと に しました``` (まつ ```こと に しました``` |
+
+-----
+
+
+### ストーリー ４: 旅行の計画 (りょこうのけいかく): Planos de viagem
+
+「今度　の　ゴールデン・ウィーク　に、
+こんど　の　ゴールデン・ウィーク　に、
+"Que tal viajarmos juntos
+<br>
+
+いっしょに　旅行　に　いきませんか。」
+いっしょに　りょこう　に　いきませんか。」
+na próxima Golden Week?"
+<br>
+
+同じ　会社　で　働く　山田さん　が　旅行　に　誘って　くれました。
+おなじ　かいしゃ　で　はたらく　やまださん　が　りょこう　に　さそって　くれました。
+Yamada-san, que trabalha na mesma empresa, me convidou para uma viagem.
+<br>
+
+私　は、日本　を　旅行　する　のは　今回　が　はじめて　です。
+わたし　は、にほん　を　りょこう　する　のは　こんかい　が　はじめて　です。
+Esta é a primeira vez que eu viajo pelo Japão.
+<br>
+
+山田さん　と　いっしょに　旅行　を　する　のは、
+やまださん　と　いっしょに　りょこう　を　する　のは、
+Viajar junto com Yamada-san
+<br>
+
+とても　楽しそう　です。
+とても　たのしそう　です。
+parece ser muito divertido
+<br><br>
+
+
+
+29 de abril, 3, 4 e 5 de maio são feriados no Japão.
+Combinados com o sábado e o domingo,
+por vezes chegam a ser um descanso de aproximadamente uma semana.
+Este período é chamado de Golden Week.
+Como as escolas também entram em férias,
+as crianças também parecem ficar com o rosto radiante.
+<br><br>

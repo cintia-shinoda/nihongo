@@ -909,11 +909,227 @@ parece ser muito divertido
 <br><br>
 
 
-
+四月　二十九日、　五月三日・四日・五日　は　日本　の　祝日　です。
+しがつ　にじゅうくにち、　ごがつ　みっか・よっか・いつか　は　にほん　の　しゅくじつ　です。
 29 de abril, 3, 4 e 5 de maio são feriados no Japão.
+<br>
+
+土曜日、　日曜日　と　合わせて、
+どようび、　にちようび　と　あわせて、
 Combinados com o sábado e o domingo,
+<br>
+
+一週間　前後　の　休み　に　なる　こと　も　あります。
+いっしゅうかん　ぜんご　の　やすみ　に　なる　こと　も　あります。
 por vezes chegam a ser um descanso de aproximadamente uma semana.
+<br>
+
+この　時期　を　ゴールデン・ウィーク　と　呼びます。
+この　じき　を　ゴールデン・ウィーク　と　よびます。
 Este período é chamado de Golden Week.
+<br>
+
+学校　も　休み　に　なる　ので、
+がっこう　も　やすみ　に　なる　ので、
 Como as escolas também entram em férias,
+<br>
+
+子供たち　も　うれしそうな　顔　を　しています。
+こどもたち　も　うれしそうな　かお　を　しています。
 as crianças também parecem ficar com o rosto radiante.
 <br><br>
+
+
+ゴールデン・ウィーク　は　多く　の　人　が　旅行　に　行きます。
+ゴールデン・ウィーク　は　おおく　の　ひと　が　りょこう　に　いきます。
+Durante a Golden Week, muitas pessoas viajam.
+<br>
+
+どこも　非常　に　混雑する　ので、
+どこも　ひじょう　に　こんざつする　ので、
+Como todos os lugares ficam extremamente congestionados, devemos
+<br>
+
+早め　に　ホテル　を　予約しなくて　は　なりません。
+はやめ　に　ホテル　を　よやくしなくて　は　なりません。
+reservar o hotel com antecedência.
+<br>
+
+そうしないと、　ホテル　に　泊まれない　かもしれません。
+そうしないと、　ホテル　に　とまれない　かもしれません。
+Caso contrário, talvez não possamos nos hospedar num hotel.
+<br>
+
+行き先　を　決めて、　すぐ　に　ホテル　を　探す　こと　に　しました。
+いきさき　を　きめて、　すぐ　に　ホテル　を　さがす　こと　に　しました。
+Resolvemos definir o destino e imediatamente procurar um hotel.
+<br><br>
+
+
+山田さん　が　パンフレット　を　たくさん　持って来て　くれました。
+やまださん　が　パンフレット　を　たくさん　もってきて　くれました。
+Yamada-san me trouxe muitos panfletos.
+<br>
+
+「ます、　どこ　に　行くか　決めなくちゃ　ならないわ。」
+「ます、　どこ　に　いくか　きめなくちゃ　ならないわ。」
+"Primeiramente, devemos decidir aonde iremos."
+<br>
+
+パンフレット　には　美しい　写真　が　載っています。
+パンフレット　には　うつくしい　しゃしん　が　のっています。
+Os panfletos trazem belas fotos.
+<br>
+
+きれいな　風景　は、　まるで　絵　の　よう　です。
+きれいな　ふうけい　は、　まるで　え　の　よう　です。
+As paisagens bonitas são exatamente como pinturas.
+<br>
+
+見ていると、　時間　が　たつ　の　を　忘れそう　です。
+みていると、　じかん　が　たつ　の　を　わすれそう　です。
+Olhando, parece que nos esquecemos das horas que passam.
+<br><br>
+
+
+一枚　の　パンフレット　に　目　が　とまりました。
+いちまい　の　パンフレット　に　め　が　とまりました。
+Meus olhos se detiveram em um panfleto.
+<br>
+
+夢　の　よう　に　美しい　山　の　写真　が　載っていました。
+ゆめ　の　よう　に　うつくしい　やま　の　しゃしん　が　のっていました。
+Trazia uma foto de uma montanha linda como um sonho.
+<br>
+
+山　の　上　の　方　には、
+やま　の　うえ　の　ほう　には、
+No pico da montanha,
+<br>
+
+白い　冠　の　ような　雪　が　積もっています。
+しろい　かんむり　の　ような　ゆき　が　つもっています。
+há neve acumulada como uma coroa branca.
+<br>
+
+「こんなに　きれいな　山　は　初めて　見ました。
+「こんなに　きれいな　やま　は　はじめて　みました。
+"É a primeira vez que vi uma montanha tão linda assim.
+<br>
+
+これ　は　なんと　いう　山　ですか。」
+これ　は　なんと　いう　やま　ですか。」
+Como se chama esta montanha?"
+<br><br>
+
+「それ　は　富士山　です。
+「それ　は　ふじさん　です。
+"Esse é o Monte Fuji.
+<br>
+
+富士山　は　日本　で　いちばん　高い　山　ですよ。」
+ふじさん　は　にほん　で　いちばん　たかい　やま　ですよ。」
+O Monte Fuji é a montanha mais alta do Japão."
+<br>
+
+「富士山　に　登る　こと　は　できますか。」
+「ふじさん　に　のぼる　こと　は　できますか。」
+"É possível escalar o Monte Fuji?"
+<br>
+
+「富士山　は　とても　高い　山な　ので、上　の　方　は　かなり　寒いん　ですよ。
+「ふじさん　は　とても　たかい　やまな　ので、うえ　の　ほう　は　かなり　さむいん　ですよ。
+"Como o Monte Fuji é uma montanha muito alta, no pico é bastante frio.
+<br>
+
+今　の　時期　は、　まだ　無理　かもしれません。」
+いま　の　じき　は、　まだ　むり　かもしれません。」
+Nesta época, talvez ainda seja impossível.
+<br><br>
+
+
+「山登り　無理　でも、
+「やまのぼり　むり　でも、
+"Apesar de ser impossível escalarmos a montanha,
+<br>
+
+ふもと　まで　行く　こと　は　できますよ。
+ふもと　まで　いく　こと　は　できますよ。
+é possível irmos até o sopé.
+<br>
+
+富士山　の　近く　には　きれいな　湖　も　あります。
+ふじさん　の　ちかく　には　きれいな　みずうみ　も　あります。
+Próximo do Monte Fuji, há também lagos bonitos.
+<br>
+
+今　の　季節　なら、　チューリップ　や　つつじ　が　見られる　かもしれません。」
+いま　の　きせつ　なら、　チューリップ　や　つつじ　が　みられる　かもしれません。」
+Se for nesta estação, talvez possamos ver　tulipas e azaleias."
+<br>
+
+山田さん　は　ホテル　も　調べて　くれました。
+やまださん　は　ホテル　も　しらべて　くれました。
+Yamada-san também procurou um hotel para nós.
+<br><br>
+
+
+旅行好き　の　山田さん　は、
+りょこうずき　の　やまださん　は、
+Yamada-san, que gosta de viajar,
+<br>
+
+計画　を　立てる　のが　楽しそう　でした。
+けいかく　を　たてる　のが　たのしそう　でした。
+parecia se divertir programando o roteiro.
+<br>
+
+ゴールデン・ウィーク　は　道路　も　とても　混雑します。
+ゴールデン・ウィーク　は　どうろ　も　とても　こんざつします。
+Durante a Golden Week, as estradas também ficam muito congestionadas.
+<br>
+
+何時間　も　ほとんど　車　が　進まない　こと　も　あります。
+なんじかん　も　ほとんど　くるま　が　すすまない　こと　も　あります。
+Às vezes os carros não avançam quase nada durante horas.
+<br>
+
+私たち　は　電車　で　行く　こと　に　しました。
+わたしたち　は　でんしゃ　で　いく　こと　に　しました。
+Nós decidimos ir de trem.
+<br>
+
+電車　も　ホテル　も　予約する　こと　が　できました。
+でんしゃ　も　ホテル　も　よやくする　こと　が　できました。
+Conseguimos reservar tanto o trem como o hotel.
+<br><br>
+
+
+「もう　一つ、　しなくて　は　ならない　こと　が　あるわ。」
+「もう　ひとつ、　しなくて　は　ならない　こと　が　あるわ。」
+"Há mais uma coisa que devemos fazer."
+<br>
+
+旅行　の　前日、　山田さん　は　白い　布　で　人形　を　作りました。
+りょこう　の　ぜんじつ、　やまださん　は　しろい　ぬの　で　にんぎょう　を　つくりました。
+No dia anterior à viagem, Yamada-san fez um bonequinho com um pano branco.
+<br>
+
+「これ　は　てるてる坊主　と　言って、
+「これ　は　てるてるぼうず　と　いって、
+"Isto se chama *teru teru bozu*,
+<br>
+
+日本　の　おまじない　です。
+にほん　の　おまじない　です。
+e é uma crendice japonesa.
+<br>
+
+軒下　に　つるして、　晴れ　を　祈る　の　です。」
+のきした　に　つるして、　はれ　を　いのる　の　です。」
+Penduramos debaixo do beiral e oramos para que faça sol."
+<br>
+
+てるてる坊主、　明日　天気　に　して　ください。
+てるてるぼうず、　あした　てんき　に　して　ください。
+*Teru teru bozu*, faça com que o tempo amanhã seja (bom), por favor.

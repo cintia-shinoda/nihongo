@@ -5,6 +5,8 @@
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
 | 窓 | まど | janela |
+| 運転手 | うんてんしゅ | motorista |
+| 起こる | おこる | ocorrer |
 | 増える | ふえる | aumentar (em número) |
 | 割れる | われる | quebrar |
 | 落ちる | おちる | cair |
@@ -16,11 +18,14 @@
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-| 被 | ```ひ```がい |  |
-| 害 | ひ```がい``` |  |
-| 番 | ```ばん```ぐみ |  |
-| 組 | ばん```ぐみ``` |  |
-| 灯 | でん```とう``` |  |
+| 台風 | たいふう | tufão |
+| 夜　に　なって | よる に なって | ao anoitecer |
+| ニュース　に　よれば |  | segundo o noticiário |
+| 被害 | ひがい | danos |
+| 番組 | ばんぐみ | programa (de TV, rádio) |
+| 電```灯``` | でん```とう``` | lustre |
+| 間 | あいだ | período |
+
 
 ---
 
@@ -28,11 +33,15 @@
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-| 比 | くらべる |  |
-| 覚 |  |  |
-| 値 |  |  |
-| 段 |  |  |
-| 詞 |  |  |
+| 比 | くらべる | comparar |
+| 発音しやすい | はつおんしやすい | fácil de pronunciar |
+| 覚えやすい | おぼえやすい | fácil de memorizar |
+| 覚えにくい | おぼえにくい | difícil de memorizar |
+| 読み方 | よみかた | forma de leitura |
+| 手　に　入れる | て に いれる | adquirir |
+| 値段 | ねだん | preço |
+| 歌詞 | かし | letra (de música) |
+| 速く | はやく | rápido |
 
 ---
 

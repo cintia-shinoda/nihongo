@@ -4,18 +4,14 @@
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-|  |  | sufixo usado para contar carros e máquinas |
-|  |  | polícia |
-|  |  | curiosos |
-|  |  | motorista |
-|  |  | ocorrer |
-|  |  | carro da polícia |
-|  |  | marca |
-|  |  | causa |
-|  |  | farol vermelho |
-|  |  | prestar atenção |
-|  |  | é preciso |
-|  |  |  |
+| 台 | だい | sufixo usado para contar carros e máquinas |
+| 警察 | けいさつ | polícia |
+| 見物人 | けんぶつにん | curiosos |
+| あと |  | marca |
+| 原因 | げんいん | causa |
+| 赤信号 | あかしんごう | farol vermelho |
+| 気　を　つける | き を つける | prestar atenção |
+| 〜なければならない |  | é preciso |
 
 ---
 
@@ -24,13 +20,12 @@
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-|  |  | aproximar-se |
-|  |  | intensifica-se a ação ou o estado |
-|  |  | vivenciar |
-|  |  | balançar |
-|  |  | fazer barulho |
-|  |  | tremor |
-|  |  |  |
+| 近づく | ちかづく | aproximar-se |
+| いっそう |  | intensifica-se a ação ou o estado |
+| 経験する | けいけんする | vivenciar |
+| ゆれる |  | balançar |
+| 音　を　たてる | おと を　たてる | fazer barulho |
+| ゆれ |  | tremor |
 
 ---
 
@@ -39,11 +34,10 @@
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-|  |  | aprender |
-|  |  | língua, idioma |
-|  |  | vogais. leitura especial |
-|  |  | ser encontrado |
-|  |  |  |
+| 学ぶ | まなぶ | aprender |
+| 言語 | げんご | língua, idioma |
+| 母音 | ぼいん | vogais. leitura especial |
+| 見つかる | みつかる | ser encontrado |
 
 ---
 

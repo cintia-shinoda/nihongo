@@ -18,3 +18,6 @@
 | Grupo II | 入れる　いれる = colocar (dentro) | 入れ```ないで``` (いれ```ないで```) = Não coloque. | 入れ```ないで　ください``` (いれ```ないで ください```) = Não coloque, por favor. |
 | verbo irregular | 電話　する (でんわ する) = telefonar | 電話 し```ないで``` (でんわ　し```ないで```) = Não telefone. | 電話し```ないで　ください``` (でんわ し```ないで　ください```) = Não telefone, por favor. |
 | verbo irregular | 来る (くる) = vir | 来```ないで``` (こ```ないで```) = Não venha. | 来```ないで　ください``` (こ```ないで ください```) = Não venha, por favor |
+
+
+###

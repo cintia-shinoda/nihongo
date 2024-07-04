@@ -20,4 +20,27 @@
 | verbo irregular | 来る (くる) = vir | 来```ないで``` (こ```ないで```) = Não venha. | 来```ないで　ください``` (こ```ないで ください```) = Não venha, por favor |
 
 
-###
+### pedir permissão: poder ~ : ```forma て ＋　もいい``` ou ```forma て　もいい　ですか```
+
+| verbo | poder ~ | forma abreviada |
+|:---|:---|:---|
+|  () = perguntar |  () = posso perguntar? |  |
+|  () = pedir emprestado |  () = posso pedir emprestado? |  |
+
+### não haver problema em ~ : ```て ＋　もかまわない``` 
+| verbo | não haver problema em ~ | estilo formal |
+|:---|:---|:---|
+|  () = pôr (dentro) |  () = não há problema em pôr |  () |
+|  () = pegar/tomar (meio de transporte) |  () = não há problema em pegar. |  () |
+
+### não haver problema se não ~ : ``````
+| verbo | não haver problema se não ~ | estilo formal |
+|:---|:---|:---|
+|  = colocar (em cima) |  = não há problema se não colocar |  |
+|  () = vir vestido |  () = não há problema se não vier vestido |  |
+
+### ligação de dois ou mias verbos ou adjetivos no infinitivo ou na forma ない: ```し```
+
+|  |  |  |
+| adjetivo い |  () = é inteligente |  () = é inteligente e também |
+| adjetivo な |  () = é habilidoso |  () é habilidoso e também 

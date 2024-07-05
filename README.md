@@ -217,3 +217,4 @@
 | 166 | 14/06/2024 | G - 191 | ストーリー ４ | Histórias 4 |
 | 167 | 19/06/2024 | Teste G | 日本語 テスト G | Teste de Assimilação G |
 | 168 | 26/06/2024 | H - 1 | 外部への影響　１ (がいぶへのえいきょう １) | Influenciando os demais 1 |
+| 169 | 04/07/2024 | H - 11 | 外部への影響　２ (がいぶへのえいきょう ２) | Influenciando os demais 2 |

@@ -44,3 +44,23 @@
 |  |  |  |
 | adjetivo い |  () = é inteligente |  () = é inteligente e também |
 | adjetivo な |  () = é habilidoso |  () é habilidoso e também 
+
+
+### forma causativa
+#### verbos irregulares
+##### ``````
+| estilo | causativa (fazer ~) | causativa negativa (não faz ~) |
+|:---|:---|:---|
+| informal |  = fazer |  = fazer fazer | = não fazer fazer |
+| informal |  () = vir |  () = fazer vir |  () = não fazer vir |
+
+##### ``````
+| estilo | verbo | causativa (fazer ~) | causativa negativa (não faz ~) |
+|:---|:---|:---|:---|
+
+
+
+#### verbos do Grupo II
+| verbo | causativa (fazer ~) | causativa negativa (não faz ~) |
+|:---|:---|:---|
+|  |  |  |

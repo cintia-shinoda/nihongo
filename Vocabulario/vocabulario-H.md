@@ -27,8 +27,9 @@
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 理科 | りか | ciência |
+| 気体 | きたい | corpo gasoso |
+| 発生する | はっせいする | gerar |
+| 器具 | きぐ | instrumento, instrumental |
+| 勢いよく | いきおいよく | intensamente |
+| もえる |  | queimar |

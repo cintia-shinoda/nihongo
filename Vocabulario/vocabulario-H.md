@@ -33,3 +33,9 @@
 | 器具 | きぐ | instrumento, instrumental |
 | 勢いよく | いきおいよく | intensamente |
 | もえる |  | queimar |
+
+
+## H - 31
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|

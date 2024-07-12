@@ -31,3 +31,9 @@
 | 結果 | けっか | resultado |
 | 酸素 | さんそ | Oxigênio |
 | 酸素 | さんそ | Oxigênio |
+
+
+### H - 31
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|

@@ -46,21 +46,43 @@
 | adjetivo な |  () = é habilidoso |  () é habilidoso e também 
 
 
-### forma causativa
-#### verbos irregulares
-##### ``````
-| estilo | causativa (fazer ~) | causativa negativa (não faz ~) |
+### *```Forma Causativa```*
+#### *```verbos Irregulares```*
+##### Informal:
+###### Afirmativo
+| verbo | causativa (fazer ~) |  |
 |:---|:---|:---|
-| informal |  = fazer |  = fazer fazer | = não fazer fazer |
-| informal |  () = vir |  () = fazer vir |  () = não fazer vir |
+|  = fazer |  = fazer fazer |  |
+|  () = vir |  () = fazer vir |   |
 
-##### ``````
-| estilo | verbo | causativa (fazer ~) | causativa negativa (não faz ~) |
+###### Negativo
+| verbo | causativa (fez ~) |  |
+|:---|:---|:---|
+
+##### Formal:
+
+
+
+#### *```verbos do Grupo II```*
+##### Informal:
+###### Afirmativo
+
+###### Negativo
+
+<br>
+
+#### *```verbos do Grupo I```*
+##### Informal: *-```ない``` + ```せる```*
+###### Afirmativo
+| verbo |  | forma *```ない```* | causativa (fazer ~) *``` + せる```* | causativa no pretérito (fez ~) *``` + せた```* |
+|:---|:---:|:---|:---|:---|
+| 通```う``` (かよ```う```) = frequentar | ```う``` -> ```わ``` | 通```わない``` (かよ```わない```) | 通```わせる``` (かよ```わせる```) = fazer frequentar | 通```わせた``` (かよ```わせた```) = fez frequentar |
+| 帰```る``` (かえ```る```) = voltar | ```る``` -> ```ら``` | 帰```らない``` (かえ```らない```) | 帰```らせる``` (かえ```らせる```) = fazer voltar | 帰```らせた``` (かえ```らせた```) = fez voltar |
+| すわ```る``` = sentar | ```る``` -> ```ら``` | すわ```らない``` | すわ```らせる``` = fazer sentar | すわ```らせた``` = fez sentar |
+| 運```ぶ``` (はこ```ぶ```) = carregar | ```ぶ``` -> ```ば``` | 運```ばない``` (はこ```ばない```) | 運```ばせる``` (はこ```ばせる```) = fazer carregar | 運```ばせた``` (はこ```ばせた```) = fez carregar |
+
+###### Negativo
+| verbo | causativa (fazer ~) | causativa negativa (não faz ~) | causativa negativa no pretérito (não fez ~) |
 |:---|:---|:---|:---|
 
-
-
-#### verbos do Grupo II
-| verbo | causativa (fazer ~) | causativa negativa (não faz ~) |
-|:---|:---|:---|
-|  |  |  |
+##### Formal:

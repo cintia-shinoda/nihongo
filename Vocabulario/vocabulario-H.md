@@ -39,3 +39,7 @@
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
+| あら | - | Expressão usada quando está surpreso ou em uma situação inesperada. É usada principalmente por mulheres. |
+| ううん | - | Não. Expressão usada na resposta pra indicar negação. |
+| 別 に | べつ に | Nenhum, em especial. Acompanha um sentido negativo. |
+| ぐっすり | - | Estado em que se encontra em sono profundo. |

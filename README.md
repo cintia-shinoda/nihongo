@@ -219,3 +219,4 @@
 | 168 | 26/06/2024 | H - 1 | 外部への影響　１ (がいぶへのえいきょう １) | Influenciando os demais 1 |
 | 169 | 04/07/2024 | H - 11 | 外部への影響　２ (がいぶへのえいきょう ２) | Influenciando os demais 2 |
 | 170 | 10/07/2024 | H - 21 | 外部への影響　３ (がいぶへのえいきょう ３) | Influenciando os demais 3 |
+| 171 | 26/07/2024 | H - 31 | 外部への影響　４ (がいぶへのえいきょう ４) | Influenciando os demais 4 |

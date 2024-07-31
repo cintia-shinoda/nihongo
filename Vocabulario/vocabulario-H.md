@@ -43,3 +43,9 @@
 | ううん | - | Não. Expressão usada na resposta pra indicar negação. |
 | 別 に | べつ に | Nenhum, em especial. Acompanha um sentido negativo. |
 | ぐっすり | - | Estado em que se encontra em sono profundo. |
+
+
+## H - 41
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|

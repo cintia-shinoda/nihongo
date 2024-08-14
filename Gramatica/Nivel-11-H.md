@@ -45,6 +45,7 @@
 | adjetivo い |  () = é inteligente |  () = é inteligente e também |
 | adjetivo な |  () = é habilidoso |  () é habilidoso e também 
 
+-----
 
 ### *```Forma Causativa```*
 #### *```verbos Irregulares```*
@@ -86,3 +87,36 @@
 |:---|:---|:---|:---|
 
 ##### Formal:
+
+
+-----
+
+### *```Forma Passiva```*
+
+#### *```verbos Irregulares```*
+
+#### *```verbos do Grupo II```*
+
+
+
+#### *```verbos do Grupo I```* 
+- acrescenta-se ```れる``` ao radical do verbo na forma ```ない```
+
+##### Informal:
+###### Afirmativo
+| verbo |  | forma *```ない```* | (ser ~) | (foi ~) |
+|:---|:---:|:---|:---|:---|
+|  |  |  |  |
+
+###### Negativo
+| verbo |  | forma *```ない```* | (não é ~) | (não foi ~) |
+|:---|:---:|:---|:---|:---|
+|  |  |  |  |
+
+
+##### Formal:
+###### Afirmativo
+
+###### Negativo
+
+-----

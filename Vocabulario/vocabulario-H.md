@@ -56,7 +56,18 @@
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  |  | amorosa |
+|  |  | laboratório |
+|  |  | curiosidade |
+|  |  | muito, em excesso |
+
+
+## H - 61
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| 投票 | とうひょう | votação |
+| 作る | つくろ | produzir |
+| 入場 | にゅうじょう | entrada (entrar) |
+| 拍手 | はくしゅ | aplauso |
+| 包む | つつむ | envolver |

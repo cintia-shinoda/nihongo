@@ -221,4 +221,5 @@
 | 170 | 10/07/2024 | H - 21 | 外部への影響　３ (がいぶへのえいきょう ３) | Influenciando os demais 3 |
 | 171 | 26/07/2024 | H - 31 | 外部への影響　４ (がいぶへのえいきょう ４) | Influenciando os demais 4 |
 | 172 | 31/07/2024 | H - 41 | ストーリー １ | Histórias 1 |
-| 173 | 09/08/2024 | H - 51 | 外部からの影響　１ (がいぶからのえいきょう) | Influências de terceiros 1 |
+| 173 | 09/08/2024 | H - 51 | 外部からの影響　１ (がいぶからのえいきょう１) | Influências de terceiros 1 |
+| 174 | 14/08/2024 | H - 61 | 外部からの影響　２ (がいぶからのえいきょう　２) | Influências de terceiros 2 |

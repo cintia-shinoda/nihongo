@@ -60,3 +60,14 @@
 | 才能 | さいのう | talento |
 | 認める | みとめる | reconhecer |
 | 困らせる | こまらせる | irritar |
+
+
+### H - 61
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| 開催する | かいさいする | sediar |
+| 世界中 | せかいじゅう | mundo todo |
+| 参加する | さんかする | participar |
+| 奪う | うばう | fascinar |
+| 活躍する | かつやくする | atuar (participar) |

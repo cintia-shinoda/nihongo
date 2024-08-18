@@ -15,59 +15,52 @@
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-| 豚 | ぶた | porco |
-| 混ぜる | まぜる | misturar |
-| パン粉 | パンこ | farinha de rosca |
-| 必要 | ひつよう | necessário |
-| 大根 | だいこん | nabo |
+| ```豚``` | ```ぶた``` | porco |
+| ```混```ぜる | ```ま```ぜる | misturar |
+| パン```粉``` | パン```こ``` | farinha de rosca |
+| 必```要``` | ひつ```よう``` | necessário |
+| 大```根``` | だい```こん``` | nabo |
 
 
 ### H - 21
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-| 実験 | じっけん | experimento |
-| 生徒 | せいと | aluno |
-| 結果 | けっか | resultado |
-| 酸素 | さんそ | Oxigênio |
-| 酸素 | さんそ | Oxigênio |
+| 実```験``` | じっ```けん``` | experimento |
+| 生```徒``` | せい```と``` | aluno |
+| 結```果``` | けっ```か``` | resultado |
+| ```酸```素 | ```さん```そ | Oxigênio |
+| 酸```素``` | さんそ | Oxigênio |
 
 
 ### H - 31
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-| 二階 | にかい | 2º andar |
-| 抱こう | だこう |  |
-| 眠る | ねむる | dormir |
-| 踊り | おどり | dança |
-| 姿 | すがた | cena |
-
-
-### H - 41
-
-| ideograma | leitura | tradução |
-|:---------:|:--------|:---------|
-|  |  |  |
+| 二```階``` | に```かい``` | 2º andar |
+| ```抱```く | ```だ```く | pegar no colo |
+| ```眠```る | ```ねむ```る | dormir |
+| ```踊```り | ```おど```り | dança |
+| ```姿``` | ```すがた``` | cena |
 
 
 ### H - 51
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-|  |  |  |
-|  |  |  |
-| 才能 | さいのう | talento |
-| 認める | みとめる | reconhecer |
-| 困らせる | こまらせる | irritar |
+| 発明```王``` | はつめい```おう``` | ```rei``` da invenção |
+| ```興```味 | ```きょう```み | interesse |
+| 才```能``` | さい```のう``` | talento |
+| ```認```める | ```みと```める | reconhecer |
+| ```困```らせる | ```こま```らせる | irritar |
 
 
 ### H - 61
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-| 開催する | かいさいする | sediar |
-| 世界中 | せかいじゅう | mundo todo |
-| 参加する | さんかする | participar |
-| 奪う | うばう | fascinar |
-| 活躍する | かつやくする | atuar (participar) |
+| 開```催```する | かい```さい```する | sediar |
+| 世```界```中 | せ```かい```じゅう | mundo todo |
+| 参```加```する | さん```か```する | participar |
+| ```奪```う | ```うば```う | fascinar |
+| 活```躍```する | かつ```やく```する | atuar (participar) |

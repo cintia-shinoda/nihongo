@@ -1,6 +1,7 @@
 # Nível H
 
-## H - 1
+
+### H - 1
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
@@ -12,7 +13,7 @@
 | 髪　を　とかす | かみ を とかす | pentear o cabelo |
 
 
-## H - 11
+### H - 11
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
@@ -23,7 +24,7 @@
 |  |  |  |
 
 
-## H - 21
+### H - 21
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
@@ -35,7 +36,7 @@
 | もえる |  | queimar |
 
 
-## H - 31
+### H - 31
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
@@ -45,14 +46,7 @@
 | ぐっすり | - | Estado em que se encontra em sono profundo. |
 
 
-## H - 41
-
-| ideograma | leitura | tradução |
-|:---------:|:--------|:---------|
-|  |  |  |
-
-
-## H - 51
+### H - 51
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
@@ -62,7 +56,7 @@
 |  |  | muito, em excesso |
 
 
-## H - 61
+### H - 61
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
@@ -71,3 +65,14 @@
 | 入場 | にゅうじょう | entrada (entrar) |
 | 拍手 | はくしゅ | aplauso |
 | 包む | つつむ | envolver |
+
+
+### H - 71
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |

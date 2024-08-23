@@ -71,8 +71,5 @@
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| なんとか |  | de alguma forma. Utilizar-se de meios para conseguir realizar algo. |
+| すらすら |  | sem dificuldades. Quando as coisas avançam de forma favorável. |

@@ -116,7 +116,47 @@
 
 ##### Formal:
 ###### Afirmativo
-
 ###### Negativo
 
 -----
+
+### ```~ため: Indicação de Causa ou Motivo: devido a ~, como ~```
+
+#### ```substantivo```
+| substantivo | devido à/ao ~ |
+|:---:|:---|
+| 雨 (あめ) = chuva | 雨```のため``` (あめ```のため```) = devido à chuva |
+| 病気 (びょうき) = doença | 病気```のため``` (びょうき```のため```) = devido à doença |
+| 工事 (こうじ) = obra | 工事```のため``` (こうじ```のため```) = devido à obra |
+| 台風 (たいふう) = tufão | 台風```のため``` (たいふう```のため```) = devido ao tufão |
+| 運動不足 (うんどうぶそく) = falta de exercício | 運動不足```のため``` (うんどうぶそく```のため```) = devido à falta de exercício |
+
+
+#### ```adjetivo な```
+|  | pretérito | como era ~ |
+|:---:|:---:|:---|
+| 不便```だ``` (ふべん```だ```) = ser inconveniente | 不便```だった``` (ふべん```だった```) = era inconveniente | 不便```だったため``` (ふべん```だったため```) = como era inconveniente |
+| 不安```だ``` (ふあん```だ```) = estar inseguro | 不安```だった``` (ふあん```だった```) = estava inseguro | 不安```だったため``` (ふあん```だったため```) = como estava inseguro |
+| 生意気```だ``` (なまいき```だ```) = ser atrevido | 生意気```だった``` (なまいき```だった```) = era atrevido | 生意気```だったため``` (なまい```だったため```) = como era atrevido |
+| 心配```だ``` (しんぱい```だ```) = estar preocupado | 心配```だった``` (しんぱ```だった```) = estava preocupado | 心配```だったため``` (しんぱい```だったため```) = como estava preocupado |
+
+
+#### ```adjetivo い```
+|  | pretérito | como era ~ |
+|:---:|:---:|:---|
+| ひご```い``` = ser grave | ひご```かった``` = era grave | ひご```かったため``` = como era grave |
+| ```ない``` = não ter | ```なかった``` = não tinha | ```なかったため``` = como não tinha |
+| いそがし```い``` = estar atarefado | いそがし```かった``` = estava atarefado | いそがし```かったため``` = como estava atarefado |
+| まず```い``` = ser ruim | まずかった = era ruim | まず```かったため``` = como era ruim |
+
+
+#### ```verbo```
+|  | pretérito | como ~ |
+|:---:|:---:|:---|
+| 降る (ふる) = chover, nevar | 降```った``` (ふ```った```) = choveu, nevou | 降```ったため``` (ふ```ったため```) = como choveu, nevou |
+| さわぐ = badernar | さわ```いだ``` = badernou | さわ```いだため``` = como badernou |
+| おれる = quebrar | おれ```た``` = quebrou | おれ```たため``` = como quebrou |
+| 遅刻```する``` (ちこく```する```) = atrasar | 遅刻```した``` (ちこく```した```) = atrasou | 遅刻```したため``` (ちこく```したため```) = como atrasou |
+
+
+* NÃO se usa "ため" após verbo ou adjetivo no estivo formal.

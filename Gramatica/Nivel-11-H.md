@@ -160,3 +160,32 @@
 
 
 * NÃO se usa "ため" após verbo ou adjetivo no estivo formal.
+
+---
+
+### ```Indicação de Causa ou Motivo: graças a ~, por ter ~, talvez por ~```
+
+#### Quando se obtém BONS RESULTADOS = ```おかげ```
+##### ```substantivo``` + ```の おかげで```
+| substantivo | graças à/ao ~ |
+|:---:|:----|
+| めぐみ | めぐみ ```の おかげで``` = graças à Megumi |
+| インターネット | インターネット ```の おかげで``` = graças à internet |
+
+##### ```verbo no pretérito``` + ```おかげだ```
+| verbo | por ter ~ |
+|:---:|:---|
+|  () = ensinar-me |  () = por ter-me ensinado |
+|  () = atuar |  () = por ter atuado |
+
+
+#### Quando se obtém RESULTADOS NEGATIVOS = ```せい```
+##### ```verbo no pretérito``` + ```せいで```
+| verbo | por ter ~ |
+|:---:|:---|
+|  () = comer |  () = por ter comido |
+|  = relaxar |  = por ter relaxado |
+
+##### ```verbo no pretérito``` + ```せいか```
+| verbo | talvez por ~ |
+|:---:|:---|

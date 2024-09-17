@@ -73,3 +73,37 @@
 |:---------:|:--------|:---------|
 | なんとか |  | de alguma forma. Utilizar-se de meios para conseguir realizar algo. |
 | すらすら |  | sem dificuldades. Quando as coisas avançam de forma favorável. |
+
+
+
+
+### H - 81
+
+
+### H - 91
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| アルファベット | - | alfabeto |
+| 伝える | つたえる | transmitir |
+| すべて | - | todos, tudo |
+|  |  | introduzir |
+|  |  | ambas |
+|  |  | ser fácil, tranquilo |
+|  |  | quantidade de traços que compõem o *kanji* |
+|  |  | esperar |
+|  |  | representar |
+|  |  | literatura clássica |
+|  |  | romance extenso |
+|  |  | principalmente |
+|  |  | nome de lugar |
+|  |  | nome de pessoa |
+|  |  | abreviar |
+|  |  | por exemplo |
+|  |  | iniciais |
+|  |  | alfabeto romano |
+|  |  | dedicar uma parte do tempo ou dinheiro |
+|  |  | restringir |
+|  |  | permitir |
+|  |  |  |
+|  |  | crachá |
+|  |  | leitura de *kanji*. pode ser indicado em *hiragana* ou *katakana* |

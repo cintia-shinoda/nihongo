@@ -20,21 +20,55 @@ acho que posso aperfeiçoar mais o meu conhecimento de japonês.
 
 ### 日本語 の 文字 (にほんご の もじ) : A escrita japonesa
 
+日本語　には　四　種類　の　文字　が　使われている。
+
+にほんご　には　よん　しゅるい　の　もじ　が　つかわれている。
 
 No japonês, são usados quatro tipos de escrita.
+<br>
+
+漢字、　ひらがな、　かたかな、　そして　アルファベット　だ。
+
+かんじ、　ひらがな、　かたかな、　そして　アルファベット　だ。
 
 São *kanji*, *hiragana*, *katakana* e alfabeto romano.
+<br>
+
+いちばん　古く　から　使われている　のは　漢字　で、
+
+いちばん　ふるく　から　つかわれている　のは　かんじ　で、
 
 A mais antiga a ser usada é o *kanji* e,
+<br>
+
+今　から　千五百　くらい　前　に　中国　から　日本　に　伝えられた。
+
+いま　から　せんごひゃく　くらい　まえ　に　ちゅうごく　から　にほん　に　つたえられた。
 
 foi transmitida há uns 1500 anos, da China para o Japão.
+<br>
+
+その　ころ　の　日本　には　まだ　文字　が　なかった　ため、
+
+その　ころ　の　にほん　には　まだ　もじ　が　なかった　ため、
 
 Nessa época, como no Japão ainda não havia escrita,
+<br>
+
+文章　は　すべて　漢字　で　書き　表していた。
+
+ぶんしょう　は　すべて　かんじ　で　かき　あらわしていた。
 
 todos os textos eram escritos em *kanji*.
+<br><br>
 
+私　が　日本語　を　学んでいて、　いちばん　苦労した　のが　漢字　だ。
+
+わたし　が　にほんご　を　まなんでいて、　いちばん　くろうした　のが　かんじ　だ。
 
 Aprendendo o japonês, o que eu mais sofri foi com o *kanji*.
+<br>
+
 
 No japonês, a maioria dos *kanji* possui dois ou mais tipos de leituras.
 

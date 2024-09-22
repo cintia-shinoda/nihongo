@@ -175,17 +175,19 @@
 ##### ```verbo no pretérito``` + ```おかげだ```
 | verbo | por ter ~ |
 |:---:|:---|
-|  () = ensinar-me |  () = por ter-me ensinado |
-|  () = atuar |  () = por ter atuado |
+| 教えて　```くれる``` (おしえて ```くれる```) = ensinar-me | 教えて くれ```た　おかげだ``` (おしえて くれ```た おかげだ```) = por ter-me ensinado |
+| 活躍　```する``` (かつやく する) = atuar | 活躍　```した　おかげだ``` (かつやく ```した おかげだ```) = por ter atuado |
 
 
 #### Quando se obtém RESULTADOS NEGATIVOS = ```せい```
 ##### ```verbo no pretérito``` + ```せいで```
 | verbo | por ter ~ |
 |:---:|:---|
-|  () = comer |  () = por ter comido |
-|  = relaxar |  = por ter relaxado |
+| 食べる (たべる) = comer | 食べ```た　せいで``` (たべ```た せいで```) = por ter comido |
+| なまけ```る``` = relaxar | なまけ```た せいで``` = por ter relaxado |
 
 ##### ```verbo no pretérito``` + ```せいか```
 | verbo | talvez por ~ |
 |:---:|:---|
+| 入れすぎ```る``` (いれすぎ```る```) = colocar demais | 入れすぎ```た せいか``` (いれすぎ```た けいか```) = talvez por ter colocado demais |
+| 風邪　を　```ひく``` (かぜ を ```ひく```) = pegar um resfriado | 風邪　を　```ひいた　せいか``` (かぜ　を　```ひいた　せいか```) = talvez por ter pegado um resfriado |

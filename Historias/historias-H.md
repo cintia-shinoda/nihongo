@@ -62,6 +62,7 @@ Nessa época, como no Japão ainda não havia escrita,
 todos os textos eram escritos em *kanji*.
 <br><br>
 
+
 私　が　日本語　を　学んでいて、　いちばん　苦労した　のが　漢字　だ。
 
 わたし　が　にほんご　を　まなんでいて、　いちばん　くろうした　のが　かんじ　だ。
@@ -69,31 +70,126 @@ todos os textos eram escritos em *kanji*.
 Aprendendo o japonês, o que eu mais sofri foi com o *kanji*.
 <br>
 
+日本語　では、　多く　の　漢字　に　二　種類　以上　の　読み方　が　ある。
+
+にほんご　では、　おおく　の　かんじ　に　に　しゅるい　いじょう　の　よみかた　が　ある。
 
 No japonês, a maioria dos *kanji* possui dois ou mais tipos de leituras.
+<br>
+
+「山」という　漢字　が　表す　もの　を　中国語　では　「サン」　と言い、　日本語　では　「やま」　と言った。
+
+「やま」という　かんじ　が　あらわす　もの　を　ちゅうごくご　では　「サン」　といい、　にほんご　では　「やま」　といった。
 
 Em chinês, o *kanji* que expressa "montanha" se diz "*san*" e em japonês se diz "*yama*".
+<br>
+
+「山」という　漢字　を　取り入れた　とき、
+
+「やま」という　かんじ　を　とりいれた　とき、
 
 Quando introduziram o *kanji* de "montanha",
+<br>
+
+その　両方　の　読み方　を　残した　ため、
+
+その　りょうほう　の　よみかた　を　のこした　ため、
 
 como mantiveram ambas as leituras,
+<br>
+
+「山」は　二種類　の　読み方　を　待つ　こと　に　なった。
+
+「やま」は　にしゅるい　の　よみかた　を　まつ　こと　に　なった。
 
 "montanha" passou a ter dois tipos de leituras.
+<br><br>
 
+
+私　は　漢字　の　読み方　を　覚える　のに　苦労した。
+
+わたし　は　かんじ　の　よみかた　を　おぼえる　のに　くろうした。
 
 Eu sofri para memorizar a leitura do *kanji*.
+<br>
+
+けれども、　ひらがな　と　かたかな　を　覚える　のは　楽　だった。
+
+けれども、　ひらがな　と　かたかな　を　おぼえる　のは　らく　だった。
+
 Mas memorizar *hiragana* e *katakana* foi fácil.
+<br>
+
+漢字　に　比べて　数　が　少ないし、　読み方　も　一種類　だから　だ。
+
+かんじ　に　くらべて　かず　が　すくないし、　よみかた　も　いっしゅるい　だから　だ。
+
 Porque, comparados ao *kanji*, a quantidade é menor e há um tipo de leitura.
+<br>
+
+しかし、　「は」と「へ」には　二　種類　の　読み方　が　ある。
+
+しかし、　「は」と「へ」には　に　しゅるい　の　よみかた　が　ある。
+
 Porém, "は" e "へ"  possuem dois tipos de leituras.
+<br>
+
+日本　に　来た　ばかり　の　頃　は、　読み方　を　間違えた　<、>せいで<、
+
+にほん　に　きた　ばかり　の　ころ　は、　よみかた　を　まちがえた　せいで。
+
 Quando recém-cheguei ao Japão, por ter errado a forma da leitura,
+<br>
+
+友達　に　笑われた　こと　も　ある。
+
+ともだち　に　わらわれた　こと　も　ある。
+
 cheguei a ser alvo de risadas de meus amigos.
+<br><br>
+
+
+ひらがな　と　かたかな　は、　日本人　に　よって　発明　された。
+
+ひらがな　と　かたかな　は、　にほんじん　に　よって　はつめい　された。
 
 *Hiragana* e *katakana* foram inventados pelos japoneses.
+<br>
+
+漢字　は　画数　が　多く、　書く　のに　時間　が　かかる。
+
+かんじ　は　かくすう　が　おおく、　かく　のに　じかん　が　かかる。
+
 *Kanji* possui numerosos traços e leva mais tempo para escrever.
+<br>
+
+それで、　より　簡単な　文字　が　望まれていた。
+
+それで、　より　かんたんな　もじ　が　のぞまれていた。
+
 Por isso se esperava uma escrita ainda mais simples.
+<br>
+
+ひらがな　も　かたかな　も、　漢字　より　書く　のが　楽な　文字　だ。
+
+ひらがな　も　かたかな　も、　かんじ　より　かく　のが　らくな　もじ　だ。
+
 Tanto o *hiragana* como o *katakana* são escritas mais fáceis de escrever do que o *kanji*.
+<br>
+
+ひらがな　と　かたかな　が　できた　おかげで、
+
 Graças à criação do *hiragana* e *katakana*,
+<br>
+
+より　多く　の　人　が　文章　を　書く　ように　なった。
+
+より　おおく　の　ひと　が　ぶんしょう　を　かく　ように　なった。
+
 muito mais pessoas passaram a escrever textos.
+<br><br>
+
+
 
 "Contos de Genji", literatura clássica que representa o Japão,
 foi escrito misturando *kanji* e *hiragana*.

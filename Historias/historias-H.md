@@ -260,36 +260,95 @@ Por eu ter relaxado no estudo de *katakana*,
 cheguei também a escrever errado no teste de japonês.
 <br>
 
-かたかな　は　主に　外国　から　入ってきた　言葉　に　使われ、
+かたかな　は　```主に```　外国　から　入ってきた　言葉　に　使われ、
 
-かたかな　は　おもに　がいこく　から　はいってきた　ことば　に　つかわれ、
+かたかな　は　```おもに```　がいこく　から　はいってきた　ことば　に　つかわれ、
 
 *Katakana* é usado principalmente para as palavras que vieram do exterior,
 <br>
 
-外国　の　地名　や　人名　も　かたかな　で　書く。
+外国　の　```地名```　や　```人名```　も　かたかな　で　書く。
 
-がいこく　の　ちめい　や　じんめい　も　かたかな　で　かく。
+がいこく　の　```ちめい```　や　```じんめい```　も　かたかな　で　かく。
 
 e nomes de lugares e pessoas do exterior também se escrevem em *katakana*.
 <br><br>
 
 
+アルファべっと　は、　言葉　を　```省略　する```　とき　に　よく　用いられる。
+
+アルファベット　は、　ことば　を　```しょうりゃく　する```　とき　に　よく　もちいられる。
 
 O alfabeto é usado com frequência para abreviar as palavras.
-Por exemplo, "Japan Railways", a partir das iniciais, se diz "JR".
-O canal de televisão NHK é "Nippon Housou Kyokai",
-ou seja, iniciais de "Nippon Housou Kyokai" (Corporação de Radiodifusão Japonesa).
-Estas iniciais foram retiradas, não do inglês, mas do japonês escrito em alfabeto romano.
+<br>
 
-Os japoneses aprendem aproximadamente dois mil *kanji* nas escolas do 
-ensino fundamental.
+たとえば、　「Japan Railways」　は　その　頭　文字　を　とって　JR という。
+
+たとえば、　「Japan Railways」　は　その　かしら　もじ　を　とって　ジェーアール　という。
+
+Por exemplo, "Japan Railways", a partir das iniciais, se diz "JR".
+<br>
+
+テレビ　局　の　NHK　は　「Nippon Housou Kyokai」、　
+
+テレビ　きょく　の　NHK　は　「Nippon Housou Kyokai」、
+
+O canal de televisão NHK é "Nippon Housou Kyokai",
+<br>
+
+すなわち　「日本　放送　協会」　の　頭　文字　で　ある。
+
+すなわち　「にっぽん　ほうそう　きょうかい」　の　かしら　もじ　で　ある。
+
+ou seja, iniciais de "Nippon Housou Kyokai" (Corporação de Radiodifusão Japonesa).
+<br>
+
+これ　は　英語　では　なく、　日本語　を　ローマ字　で　書いた　とき　の　頭　文字　を　とった　もの　だ。
+
+これ　は　えいご　では　なく、　にほんご　を　ローマじ　で　かいた　とき　の　かしら　もじ　を　とった　もの　だ。
+
+Estas iniciais foram retiradas, não do inglês, mas do japonês escrito em alfabeto romano.
+<br><br>
+
+
+日本人　は　小中学校　で　約　二千　の　漢字　を　学ぶ。
+
+にほんじん　は　しょうちゅうがっこう　で　やく　にせん　の　かんじ　を　まなぶ。
+
+Os japoneses aprendem aproximadamente dois mil *kanji* nas escolas do ensino fundamental.
+<br>
+
+学校　の　国語　の　授業　では、　漢字　学習　の　ために、多く　の　時間　を　割いている。
+
+がっこう　の　こくご　の　じゅぎょう　では、　かんじ　がくしゅう　の　ために、　おおく　の　じかん　を　さいている。
+
 Nas aulas de língua pátria nas escolas, dedica-se muito tempo
 ao aprendizado do *kanji*.
+<br>
+
+人　の　名前　に　使う　漢字　は　さらに　多く、　約　三千　字　ある。
+
+ひと　の　なまえ　に　つかう　かんじ　は　さらに　おおく、　やく　さんぜん　じ　ある。
+
 *Kanji* usados em nomes de pessoas ainda são mais numerosos, e existem
 aproximadamente três mil letras.
+<br>
+
+そして、　人　の　名前　に　限って　は、
+
+そして、　ひと　の　なまえ　に　かぎって　は、
+
 E restritamente a nomes de pessoas,
+<br>
+
+どんな　読み方　を　する　ことも　許されている。
+
+どんな　よみかた　を　する　ことも　ゆるされている。
+
 é permitida qualquer forma de leitura.
+<br><br>
+
+
 
 Por exemplo, escreve-se "大翔 (voar amplamente)", e lê-se "ひろと",
 ou lê-se "はると", ou lê-se "そら".

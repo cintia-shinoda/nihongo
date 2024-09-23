@@ -232,13 +232,49 @@ talvez tivesse sido mais curto.
 <br><br>
 
 
+かたかな は 形　の　よく　似たもの　が　多い。
+
+かたかな　は　かたち　の　よく　にたもの　が　おおい。
 
 Há muitos *katakana* com formatos similares.
+<br>
+
+「ツ」　と　「シ」、　「ソ」　と　「ン」　など　は　区別　する　のが　難しい。
+
+「ツ」　と　「シ」、　「ソ」　と　「ン」　など　は　くべつ　する　のが　むずかしい。
+
 É difícil distinguir "ツ" do "シ" e "ソ" do "ン", etc.
+<br>
+
+私　は　かたかな　なの　学習　を　なまけた　せいで、
+
+わたし　は　かたかな　なの　がくしゅう　を　なまけた　せいで、
+
 Por eu ter relaxado no estudo de *katakana*,
+<br>
+
+日本語　の　試験　で　書き　間違えた　こと　も　ある。
+
+にほんご　の　しけん　で　かき　まちがえた　こと　も　ある。
+
 cheguei também a escrever errado no teste de japonês.
+<br>
+
+かたかな　は　主に　外国　から　入ってきた　言葉　に　使われ、
+
+かたかな　は　おもに　がいこく　から　はいってきた　ことば　に　つかわれ、
+
 *Katakana* é usado principalmente para as palavras que vieram do exterior,
+<br>
+
+外国　の　地名　や　人名　も　かたかな　で　書く。
+
+がいこく　の　ちめい　や　じんめい　も　かたかな　で　かく。
+
 e nomes de lugares e pessoas do exterior também se escrevem em *katakana*.
+<br><br>
+
+
 
 O alfabeto é usado com frequência para abreviar as palavras.
 Por exemplo, "Japan Railways", a partir das iniciais, se diz "JR".

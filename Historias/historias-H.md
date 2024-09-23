@@ -190,13 +190,48 @@ muito mais pessoas passaram a escrever textos.
 <br><br>
 
 
+日本　を　代表　する　古典文学　である　「源氏　物語」　は、
+
+にほん　を　だいひょう　する　こてんぶんがく　である　「げんじ　ものがたり」　は、
 
 "Contos de Genji", literatura clássica que representa o Japão,
+<br>
+
+漢字　と　ひらがな　を　混ぜて　書かれている。
+
+かんじ　と　ひらがな　を　まぜて　かかれている。
+
 foi escrito misturando *kanji* e *hiragana*.
+<br>
+
+「源氏　物語」は　約　百万　字　に　およぶ　長編　小説　だ。
+
+「げんじ　ものがたり」は　やく　ひゃくまん　じ　に　およぶ　ちょうへん　しょうせつ　だ。
+
 "Contos de Genji" é um romance extenso com aproximadamente um milhão de letras.
+<br>
+
+ひらがな　の　おかげで、　これだけ　長い　小説　が　生まれた　の　だろう。
+
+ひらがな　の　おかげで、　これだけ　ながい　しょうせつ　が　うまれた　の　だろう。
 Graças ao *hiragana*, talvez tenha surgido um romance tão extenso como este.
+<br>
+
+もしも　漢字　しか　なかったら、　書く　のが　大変　だった　ために、
+
+もしも　かんじ　しか　なかったら、　かく　のが　たいへん　だった　ために、
+
 Caso existisse só o *kanji*, por ser difícil de escrever,
+<br>
+
+もっと　短く　なっていた　かもしれない。
+
+もっと　みじかく　なっていた　かもしれない。
+
 talvez tivesse sido mais curto.
+<br><br>
+
+
 
 Há muitos *katakana* com formatos similares.
 É difícil distinguir "ツ" do "シ" e "ソ" do "ン", etc.

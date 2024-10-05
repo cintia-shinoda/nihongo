@@ -349,10 +349,37 @@ E restritamente a nomes de pessoas,
 <br><br>
 
 
+たとえば、　「大翔」(大きく翔ぶ)」 と 書いて　「ひろと」　と　読んだり、　「はると」　と　読んだり、　「そら」　と　読んだり　する。
+
+たとえば、　「おおきくとぶ」　と　かいて　「ひろと」　と　よんだり、　「はると」　と　よんだり、　「そら」　と　よんだり　する。
 
 Por exemplo, escreve-se "大翔 (voar amplamente)", e lê-se "ひろと",
 ou lê-se "はると", ou lê-se "そら".
+<br>
+
+名札　に　ふりがな　を　つけていなかった　せいで、
+
+なふだ　に　ふりがな　を　つけていなかった　せいで、
+
 Por não ter *furigana* no crachá,
+<br>
+
+学校　の　先生　に　名前　を　間違えられる　子供　も　いる。
+
+がっこう　の　せんせい　に　なまえ　を　まちがえられる　こども　も　いる。
+
 há crianças cujos nomes são lidos errado pelos professores da escola.
+<br>
+
+また、　漢字　では　なく、　ひらがな　や　かたかな　で　名前　を　つける　人　も　いる。
+
+また、　かんじ　では　なく、　ひらがな　や　かたかな　で　なまえ　を　つける　ひと　も　いる。
+
 E, há também pessoas que dão nomes não em *kanji*, mas em *hiragana* ou *katakana*.
+<br>
+
+しかし、　アルファベット　の　名前　は　認められていない。
+
+しかし、　アルファベット　の　なまえ　は　みとめられていない。
+
 Porém, não é permitido nomes em alfabeto.

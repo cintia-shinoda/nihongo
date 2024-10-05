@@ -83,27 +83,27 @@
 ### H - 91
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-| アルファベット | - | alfabeto |
+| アルファベット | ー | alfabeto |
 | 伝える | つたえる | transmitir |
 | すべて | - | todos, tudo |
-|  |  | introduzir |
-|  |  | ambas |
-|  |  | ser fácil, tranquilo |
-|  |  | quantidade de traços que compõem o *kanji* |
-|  |  | esperar |
-|  |  | representar |
-|  |  | literatura clássica |
-|  |  | romance extenso |
-|  |  | principalmente |
-|  |  | nome de lugar |
-|  |  | nome de pessoa |
-|  |  | abreviar |
-|  |  | por exemplo |
-|  |  | iniciais |
-|  |  | alfabeto romano |
-|  |  | dedicar uma parte do tempo ou dinheiro |
-|  |  | restringir |
-|  |  | permitir |
-|  |  |  |
-|  |  | crachá |
-|  |  | leitura de *kanji*. pode ser indicado em *hiragana* ou *katakana* |
+| 取り入れる | とりいれる | introduzir |
+| 両方 | りょうほう | ambas |
+| 楽　だ | らく　だ | ser fácil, tranquilo |
+| 画数 | かくすう | quantidade de traços que compõem o *kanji* |
+| 望む | のぞむ | esperar |
+| 代表　する | だいひょう する | representar |
+| 古典文学 | こてんぶんがく | literatura clássica |
+| 長編小説 | ちょうへんしょうせつ | romance extenso |
+| 主に | おもに | principalmente |
+| 地名 | ちめい | nome de lugar |
+| 人名 | じんめい | nome de pessoa |
+| 省略する | しょうりゃく | abreviar |
+| たとえば | ー | por exemplo |
+| 頭文字 | かしらもじ | iniciais |
+| ローマ字 |  | alfabeto romano |
+| 割く | さく | dedicar uma parte do tempo ou dinheiro |
+| 限る | かぎる | restringir |
+| 許す | ゆるす | permitir |
+| 翔ぶ = 飛ぶ | とぶ | voar |
+| 名札 | なふだ | crachá |
+| ふりがな | ー | leitura de *kanji*. pode ser indicado em *hiragana* ou *katakana* |

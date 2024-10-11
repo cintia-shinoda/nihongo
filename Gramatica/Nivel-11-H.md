@@ -42,6 +42,7 @@
 ### ligação de dois ou mias verbos ou adjetivos no infinitivo ou na forma ない: ```し```
 
 |  |  |  |
+|:---|:---|:---|
 | adjetivo い |  () = é inteligente |  () = é inteligente e também |
 | adjetivo な |  () = é habilidoso |  () é habilidoso e também 
 
@@ -191,3 +192,34 @@
 |:---:|:---|
 | 入れすぎ```る``` (いれすぎ```る```) = colocar demais | 入れすぎ```た せいか``` (いれすぎ```た けいか```) = talvez por ter colocado demais |
 | 風邪　を　```ひく``` (かぜ を ```ひく```) = pegar um resfriado | 風邪　を　```ひいた　せいか``` (かぜ　を　```ひいた　せいか```) = talvez por ter pegado um resfriado |
+
+---
+
+### Forma ```POTENCIAL```
+
+#### 
+retira ```する``` e adiciona ```できる```
+|  () = utilizar  | Afirmativo | Negativo |
+|:---|:---|:---|
+| INformal / NÃO pretérito |  |  |
+| INformal / pretérito |  |  |
+| Formal / NÃO pretérito |  |  |
+| Formal / pretérito |  |  |
+
+
+#### verbos do grupo II e irregulares
+##### grupo II
+| 食べる (たべる) = comer  | Afirmativo | Negativo |
+|:---|:---|:---|
+| INformal / NÃO pretérito |  |  |
+| INformal / pretérito |  |  |
+| Formal / NÃO pretérito |  |  |
+| Formal / pretérito |  |  |
+
+##### verbos irregulares
+|  () = vir  | Afirmativo | Negativo |
+|:---|:---|:---|
+| INformal / NÃO pretérito |  |  |
+| INformal / pretérito |  |  |
+| Formal / NÃO pretérito |  |  |
+| Formal / pretérito |  |  |

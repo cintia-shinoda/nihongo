@@ -199,27 +199,28 @@
 
 #### 
 retira ```する``` e adiciona ```できる```
-|  () = utilizar  | Afirmativo | Negativo |
+| 利用```する``` (りよう```する```) = utilizar  | Afirmativo | Negativo |
 |:---|:---|:---|
-| INformal / NÃO pretérito |  |  |
-| INformal / pretérito |  |  |
-| Formal / NÃO pretérito |  |  |
-| Formal / pretérito |  |  |
+| INformal / NÃO pretérito | 利用　```できる``` = pode utilizar | 利用　```できない``` = não pode utilizar |
+| INformal / pretérito |  = pôde utilizar |  = não pôde utilizar |
+| Formal / NÃO pretérito | 利用　```できます``` = pode utilizar | 利用　```できません``` = não pode utilizar |
+| Formal / pretérito | 利用　```できました``` = pôde utilizar | 利用　```できませえん でした``` = não pode utilizar |
 
 
 #### verbos do grupo II e irregulares
+- ```- る``` --> + ```られる```
 ##### grupo II
-| 食べる (たべる) = comer  | Afirmativo | Negativo |
+| 食べる (たべ```る```) = comer  | Afirmativo | Negativo |
 |:---|:---|:---|
 | INformal / NÃO pretérito |  |  |
 | INformal / pretérito |  |  |
-| Formal / NÃO pretérito |  |  |
-| Formal / pretérito |  |  |
+| Formal / NÃO pretérito | 食べ```られます``` = pode comer | 食べ```られません``` = não pode comer |
+| Formal / pretérito | 食べ```られました``` = pôde comer | 食べ```られません　でした``` = não pôde comer |
 
 ##### verbos irregulares
-|  () = vir  | Afirmativo | Negativo |
+| くる (くる) = vir  | Afirmativo | Negativo |
 |:---|:---|:---|
 | INformal / NÃO pretérito |  |  |
 | INformal / pretérito |  |  |
-| Formal / NÃO pretérito |  |  |
-| Formal / pretérito |  |  |
+| Formal / NÃO pretérito | 来```られます``` (こ```られます```) = pode vir | 来```られません``` (こ```られません```) = não pode vir |
+| Formal / pretérito | 来```られました``` (こ```られました```) = pôde vir | 来```られません でした``` (こ```られません でした```) = não pode vir |

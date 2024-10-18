@@ -224,3 +224,12 @@ retira ```する``` e adiciona ```できる```
 | INformal / pretérito |  |  |
 | Formal / NÃO pretérito | 来```られます``` (こ```られます```) = pode vir | 来```られません``` (こ```られません```) = não pode vir |
 | Formal / pretérito | 来```られました``` (こ```られました```) = pôde vir | 来```られません でした``` (こ```られません でした```) = não pode vir |
+
+
+#####
+|  | Afirmativo | Negativo |
+|:---|:---|:---|
+| INformal / NÃO pretérito |  |  |
+| INformal / pretérito |  |  |
+| Formal / NÃO pretérito |  |  |
+| Formal / pretérito |  |  |

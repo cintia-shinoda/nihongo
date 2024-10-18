@@ -73,11 +73,19 @@
 |:---------:|:--------|:---------|
 | なんとか |  | de alguma forma. Utilizar-se de meios para conseguir realizar algo. |
 | すらすら |  | sem dificuldades. Quando as coisas avançam de forma favorável. |
-
-
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 
 ### H - 81
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 
 ### H - 91
@@ -107,3 +115,23 @@
 | 翔ぶ = 飛ぶ | とぶ | voar |
 | 名札 | なふだ | crachá |
 | ふりがな | ー | leitura de *kanji*. pode ser indicado em *hiragana* ou *katakana* |
+
+
+### H - 101
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  | "não pode senão só" |
+|  |  | tirar cópia |
+|  |  | pago (não-gratuito) |
+|  |  | cada. expressa uma quantia ou uma unidade |
+|  |  |  |
+
+
+### H - 111
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  | carregar |
+|  |  | divertir-se |
+|  |  | expressa múltiplas ações ou estados que ocorrem ao mesmo tempo. |
+|  |  |  |
+|  |  |  |

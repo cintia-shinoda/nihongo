@@ -135,3 +135,10 @@
 |  |  | expressa múltiplas ações ou estados que ocorrem ao mesmo tempo. |
 |  |  |  |
 |  |  |  |
+
+
+### H - 121
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  | (verbo intransitivo) juntar-se |
+|  |  | (verbo transitivo) juntar |

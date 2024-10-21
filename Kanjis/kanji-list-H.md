@@ -108,3 +108,14 @@
 | 表 | ひょう | tabela |
 | ```情```報 | ```じょう```ほう | informações |
 | 情```報``` | じょう```ほう``` | informações |
+
+
+### H - 121
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| ある程度 | あるていど | razoavelmente |
+| 確かめてみたい | たしかめてみたい | gostaria de verificar |
+| 貯まる | たまる | juntar |
+|  |  |  |
+|  |  |  |

@@ -142,3 +142,16 @@
 |:---------:|:--------|:---------|
 |  |  | (verbo intransitivo) juntar-se |
 |  |  | (verbo transitivo) juntar |
+
+
+### H - 131
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  | Fukuoka, Nagasaki, Kagoshima (províncias da região de Kyushu) |
+|  |  | Agência Meteorológica |
+|  |  | registrar |
+|  |  | cair |
+|  |  | ferimentos |
+|  |  | a longo prazo |
+|  |  | num período de, dentro de |
+|  |  | chamar |

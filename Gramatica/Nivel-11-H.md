@@ -243,3 +243,10 @@ retira ```する``` e adiciona ```できる```
 
 #### ```"acha que pode ~"```
 
+#### ```"haver o RISCO de ~"```
+
+#### ```"haver a POSSIBILIDADE de ~"```
+
+#### ```"ser PROVÁVEL que ~"```
+
+#### ```"ser IMPROVÁVEL que ~"```

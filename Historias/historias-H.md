@@ -383,3 +383,20 @@ E, há também pessoas que dão nomes não em *kanji*, mas em *hiragana* ou *kat
 しかし、　アルファベット　の　なまえ　は　みとめられていない。
 
 Porém, não é permitido nomes em alfabeto.
+
+---
+<br>
+
+
+
+### 初めての仕事 (はじめてのしごと) : O primeiro emprego
+
+Formei-me na escola de língua japonesa e a partir de hoje, fiquei de trabalhar em uma empresa.
+
+Eu consigo conversar em japonês e também consigo ler japonês.
+
+Mas no trabalho há muitas situações em que se utiliza computador.
+
+Até agora, eu não usei muito computador.
+
+Será que conseguirei escrever textos em japonês no computador?

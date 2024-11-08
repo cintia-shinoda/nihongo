@@ -243,10 +243,72 @@ retira ```する``` e adiciona ```できる```
 
 #### ```"acha que pode ~"```
 
-#### ```"haver o RISCO de ~"```
+#### ```"haver o RISCO de ~"``` = ```infinitivo + おそれ　が　あります```
+| 起こる (おこる) = ocorrer | Afirmativo | Negativo |
+|:---|:---|:---|
+| INformal / NÃO pretérito |  |  |
+| INformal / pretérito |  |  |
+| Formal / NÃO pretérito | 起こる ```おそれ　が　あります``` = haver o risco de ocorrer |  |
+| Formal / pretérito |  |  |
 
-#### ```"haver a POSSIBILIDADE de ~"```
+| 広がる (ひろがる) = espalhar | Afirmativo | Negativo |
+|:---|:---|:---|
+| INformal / NÃO pretérito |  |  |
+| INformal / pretérito |  |  |
+| Formal / NÃO pretérito | 広がる ```おそれ　が　あります``` = haver o risco de espalhar |  |
+| Formal / pretérito |  |  |
+
+#### ```"haver a POSSIBILIDADE de ~"``` = ```infinitivo + 可能性 (かのうせい)　が　あります```
+| 下がる (さがる) = abaixar | Afirmativo | Negativo |
+|:---|:---|:---|
+| INformal / NÃO pretérito |  |  |
+| INformal / pretérito |  |  |
+| Formal / NÃO pretérito | 下がる ```可能性 が あります``` (さがる　```かのうせい　が　あります```) = haver a possibilidade de abaixar |  |
+| Formal / pretérito |  |  |
+
+| 登場　する (とうじょう　する) = surgir | Afirmativo | Negativo |
+|:---|:---|:---|
+| INformal / NÃO pretérito |  |  |
+| INformal / pretérito |  |  |
+| Formal / NÃO pretérito | 登場　する　```可能性　が　あります```　（とうじょう　する　```かのうせい　が　あります```) = haver possibilidade de surgir |  |
+| Formal / pretérito |  |  |
 
 #### ```"ser PROVÁVEL que ~"```
+| ある = haver | Afirmativo | Negativo |
+|:---|:---|:---|
+| INformal / NÃO pretérito |  |  |
+| INformal / pretérito |  |  |
+| Formal / NÃO pretérito |  () = ser provável que haja |  |
+| Formal / pretérito |  |  |
+
+| 起こる (おこる) = ocorrer | Afirmativo | Negativo |
+|:---|:---|:---|
+| INformal / NÃO pretérito |  |  |
+| INformal / pretérito |  |  |
+| Formal / NÃO pretérito |  () = ser provável que ocorra  |  |
+| Formal / pretérito |  |  |
 
 #### ```"ser IMPROVÁVEL que ~"```
+| 証明　する (しょうめい　する) = comprovar | Afirmativo | Negativo |
+|:---|:---|:---|
+| INformal / NÃO pretérito | () = ser improvável que comprove |  |
+| INformal / pretérito |  |  |
+| Formal / NÃO pretérito |  |  |
+| Formal / pretérito |  |  |
+
+| ある = haver | Afirmativo | Negativo |
+|:---|:---|:---|
+| INformal / NÃO pretérito |  () = ser improvável que haja |  |
+| INformal / pretérito |  |  |
+| Formal / NÃO pretérito |  |  |
+| Formal / pretérito |  |  |
+
+
+
+
+<!-- |  | Afirmativo | Negativo |
+|:---|:---|:---|
+| INformal / NÃO pretérito |  |  |
+| INformal / pretérito |  |  |
+| Formal / NÃO pretérito |  |  |
+| Formal / pretérito |  |  | -->

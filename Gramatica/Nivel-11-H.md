@@ -312,3 +312,6 @@ retira ```する``` e adiciona ```できる```
 | INformal / pretérito |  |  |
 | Formal / NÃO pretérito |  |  |
 | Formal / pretérito |  |  | -->
+
+
+### Expressões de ```CERTEZA```

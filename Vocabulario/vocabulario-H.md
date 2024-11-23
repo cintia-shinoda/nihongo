@@ -155,3 +155,18 @@
 |  |  | a longo prazo |
 |  |  | num período de, dentro de |
 |  |  | chamar |
+
+
+### H - 141
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |

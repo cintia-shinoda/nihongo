@@ -391,12 +391,91 @@ Porém, não é permitido nomes em alfabeto.
 
 ### 初めての仕事 (はじめてのしごと) : O primeiro emprego
 
+日本語　学校　を　卒業して、　今日　から　会社　で　働く　こと　に　なった。
+
+にほんご　がっこう　を　そつぎょうして、　きょう　から　かいしゃ　で　はたらく　こと　に　なった。
+
 Formei-me na escola de língua japonesa e a partir de hoje, fiquei de trabalhar em uma empresa.
+<br>
+
+私　は　日本語　で　会話　できるし、　日本語　を　読む　こと　も　できる。
+
+わたし　は　にほんご　で　かいわ　できるし、　にほんご　を　よむ　こと　も　できる。
 
 Eu consigo conversar em japonês e também consigo ler japonês.
+<br>
+
+しかし、　仕事　では　パソコン　を　使う　こと　が　多い。
+
+しかし、　しごと　では　パソコン　を　つかう　こと　が　おおい。
 
 Mas no trabalho há muitas situações em que se utiliza computador.
+<br>
+
+私　は　今　まで、　あまり　パソコン　を　使った　こと　が　ない。
+
+わたし　は　いま　まで、　あまり　パソコン　を　つかった　こと　が　ない。
 
 Até agora, eu não usei muito computador.
+<br>
+
+パソコン　で　日本語　の　文章　を　書く　こと　が　できる　だろうか。
+
+パソコン　で　にほんご　の　ぶんしょう　を　かく　こと　が　できる　だろうか。
 
 Será que conseguirei escrever textos em japonês no computador?
+<br><br>
+
+
+Pela manhã, em frente dos veteranos que encontrarei pela primeira vez,
+
+precisarei me apresentar em japonês.
+
+Ouvi dizer que há possibilidade do presidente da empresa estar presente.
+
+Se ficar nervosa, há o risco de me dar um branco, e
+
+não conseguir falar em japonês.
+
+Por isso, durante a noite passada deixei pensando o que eu iria falar.
+<br><br>
+
+
+Todos ouviram com um sorriso os meus cumprimentos em japonês.
+
+Se for com estas pessoas, parece que poderemos ser companheiros.
+
+No local de trabalho,  primeiramente aprendi como atender ao telefone.
+
+É provável que receba ligação de pessoas que não conheço.
+
+Nessas horas, devemos dizer o nome da empresa e não o próprio nome.
+<br><br>
+
+
+Imediatamente, a campainha do telefone tocou.
+
+Mas fiquei nervosa e não consegui atender ao telefone.
+
+Hashimoto-san, a vizinha de mesa, atendeu no meu lugar.
+
+"A próxima, esteja preparada para você atender, por favor.
+
+Fique tranquila e se falar devagar tudo estará bem."
+
+Com o conselho de Hashimoto-san, fiquei um pouco tranquila.
+<br><br>
+
+
+Quando Hashimoto-san não estava, o telefone tocou novamente.
+
+Desta vez, não posso pedir para outra pessoa.
+
+Caso siga o conselho há pouco, talvez eu mesma possa atender ao telefone.
+
+"Sim, Comércio Yamakawa."
+
+"É dessa maneira! Saiu-se muito bem!"
+
+Quem havia telefonado era Hashimoto-san.
+<br><br>

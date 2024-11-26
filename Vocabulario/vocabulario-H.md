@@ -170,3 +170,19 @@
 |  |  |  |
 |  |  |  |
 |  |  |  |
+
+
+### H - 151
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| かがやく |  | brilhar |
+| 〜てもいい |  | expressa concessão, permissão |
+| 宇宙人 | うちゅうじん | alienígena |
+| 本当に | ほんとうに | de verdade |
+| 毎晩 | まいばん | todas as noites |
+
+
+### H - 161
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| 公開　する | こうかい　する | lançar |

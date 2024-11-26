@@ -315,3 +315,17 @@ retira ```する``` e adiciona ```できる```
 
 
 ### Expressões de ```CERTEZA```
+####
+
+
+
+
+
+
+#### suposição baseada em alguma razão ou evidência: ```PARECE QUE ~ = 〜らしい```
+|   |  | INformal | formal |
+|:---:|:---|:---|:---|
+| Substantivo | <ul><li>こわい　映画 (こわい　えいが) = filme assustador</li><li> 有名な　大学 (ゆうめいな　だいがく) = universidade famosa</li></ul> | <ul><li> こわい 映画　```らしい``` (こわい えいが　```らしい```) = parece que é um filme assustador</li><li> 有名な　大学　```らしい``` (ゆうめいな　だいがく　```らしい```) = parece que é uma universidade famosa</li></ul> | <ul><li> こわい 映画　```らしい　です``` (こわい えいが　```らしい　です```) = parece que é um filme assustador</li><li> 有名な　大学　```らしい　です``` (ゆうめいな　だいがく　```らしい　です```) = parece que é uma universidade famosa</li></ul> |
+| Adjetivo い | <ul><li> 高い (たかい) = alto, caro</li><li> 暑い (あつい) = quente</li></ul> | <ul><li> 高い　```らしい``` (たかい　```らしい```) = parece que é alto</li><li> 暑い ```らしい``` (あつい　```らしい```) = parece que é quente</li></ul> | <ul><li> 高い　```らしい です``` (たかい　```らしい　です```) = parece que é alto</li><li> 暑い ```らしい　です``` (あつい　```らしい　です```) = parece que é quente</li></ul> |
+| Adjetivo な | <ul><li> 有名 だ (ゆうめい　だ) = ser famoso</li><li> 好き　だ (すき　だ) = gostar</li></ul> | <ul><li> 有名 ```らしい``` (ゆうめい　```らしい```) = parece que é famoso</li><li> 好きな ```らしい``` (すきな　```らしい```) = parece que gosta</li></ul> | <ul><li> 有名 ```らしい　です``` (ゆうめい　```らしい　です```) = parece que é famoso</li><li> 好きな ```らしい　です``` (すきな　```らしい　です```) = parece que gosta</li></ul> |
+| Verbo | <ul><li>行く (いく) = ir</li><li>留学 する (りゅうがく する) = estudar no exterior</li></ul> | <ul><li>  () = parece que vai</li><li>  () = parece que estudará no exterior</li></ul> |  |

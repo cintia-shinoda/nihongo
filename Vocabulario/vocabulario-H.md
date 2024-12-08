@@ -186,3 +186,12 @@
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
 | 公開　する | こうかい　する | lançar |
+
+
+### H - 171
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| 列島 | れっとう | arquipélago |
+|  |  |  |
+| 牧畜 | ぼくちく | pecuária |
+| 盛ん | さかん | próspero |

@@ -346,3 +346,12 @@ retira ```する``` e adiciona ```できる```
 | Adjetivo い | <ul><li> 高い (たかい) = alto, caro</li><li> 暑い (あつい) = quente</li></ul> | <ul><li> 高い　```らしい``` (たかい　```らしい```) = parece que é alto</li><li> 暑い ```らしい``` (あつい　```らしい```) = parece que é quente</li></ul> | <ul><li> 高い　```らしい です``` (たかい　```らしい　です```) = parece que é alto</li><li> 暑い ```らしい　です``` (あつい　```らしい　です```) = parece que é quente</li></ul> |
 | Adjetivo な | <ul><li> 有名 だ (ゆうめい　だ) = ser famoso</li><li> 好き　だ (すき　だ) = gostar</li></ul> | <ul><li> 有名 ```らしい``` (ゆうめい　```らしい```) = parece que é famoso</li><li> 好きな ```らしい``` (すきな　```らしい```) = parece que gosta</li></ul> | <ul><li> 有名 ```らしい　です``` (ゆうめい　```らしい　です```) = parece que é famoso</li><li> 好きな ```らしい　です``` (すきな　```らしい　です```) = parece que gosta</li></ul> |
 | Verbo | <ul><li>行く (いく) = ir</li><li>留学 する (りゅうがく する) = estudar no exterior</li></ul> | <ul><li> 行く ```らしい``` (いく　```らしい```) = parece que vai</li><li> 留学 する ```らしい``` (りゅうがく　する　```らしい```) = parece que estudará no exterior</li></ul> | <ul><li> 行く ```らしい　です``` (いく　```らしい　です```) = parece que vai</li><li> 留学 する ```らしい　です``` (りゅうがく　する　```らしい　です```) = parece que estudará no exterior</li></ul> |
+
+
+#### expressão de algo que se ouviu dizer: ```DIZEM QUE ~ = 〜そうだ```
+|   |  | INformal | formal |
+|:---:|:---|:---|:---|
+| Substantivo | <ul><li>  () = verão</li><li> () = dia 15 de junho</li></ul> | <ul><li>  () = dizem que é verão</li><li>  () = dizem que é dia 15 de junho</li></ul> |  |
+| Adjetivo い | <ul><li>  () = grande (quantidade)</li><li>  () = frio</li></ul> | <ul><li>  () = dizem que é grande (quantidade)</li><li>  () = dizem que é frio</li></ul> |  |
+| Adjetivo な | <ul><li>  () = estar bem</li><li>  = ser sério</li></ul> | <ul><li>  () = dizem que está bem</li><li>  () = dizem que é sério</li></ul> |  |
+| Verbo | <ul><li>  () = nevar, chover</li><li>  () = começou</li> | <ul><li>  () = dizem que neva, chove</li><li>  () = dizem que começou</li></ul> |  |

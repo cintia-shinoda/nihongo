@@ -478,4 +478,132 @@ Caso siga o conselho há pouco, talvez eu mesma possa atender ao telefone.
 "É dessa maneira! Saiu-se muito bem!"
 
 Quem havia telefonado era Hashimoto-san.
+
+---
+<br>
+
+
+
+### 竹　取　物語 (たけとり　ものがたり) : O conto do cortador de bambu
+
+Há muito tempo atrás, em uma vila, vivia um velhinho que fazia cestos de bambu.
+
+Certo dia, encontrou um bambu cujo pé brilhava.
+
+"Dentro deve haver algo."
+
+O velhinho cortou o bambu e dentro havia uma menina pequena.
+
+O velhinho ficou contente e voltou para casa levando essa criança.
 <br><br>
+
+
+O velhinho e a velhinha, que não tinham filhos,
+
+decidiram criar essa menina.
+
+Os dois deram à menina o nome de "Kaguya-hime (princesa radiante)".
+
+Depois disso, por várias vezes o velhinho encontrou ouro dentro do bambu.
+
+"Parece que Kaguya-hime tem um poder misterioso."
+
+O casal de velhinhos cuidou da Kaguya-hime com muito carinho.
+<br><br>
+
+
+Kaguya-hime cresceu muito rápido,
+
+e seu boato espalhou-se pelo país todo.
+
+"Naquela vila parece que há uma princesa misteriosa.
+
+Parece que é muito bela. E dizem que a família também é rica."
+
+Depois de um tempo, cinco homens vieram pedir Kaguya-hime em casamento.
+
+Kaguya-hime respondeu: "Não tenho intenção de me casar".
+<br><br>
+
+
+Os cinco homens não desistiram.
+
+"É que nós estamos falando sério."
+
+"Então, caso-me com a pessoa que encontrar uma pedra preciosa.
+
+Dizem que isso (a pedra preciosa), existe em uma montanha da China onde mora um dragão.
+
+E dizem que é uma pedra preciosa muito bela."
+
+Mas nenhum dos homens conseguiu encontrar a pedra preciosa.
+<br><br>
+
+
+"Não deve existir uma pedra preciosa dessas.
+
+Nem Kaguya-hime deve ter visto.
+
+Kaguya-hime é que está mentindo."
+
+Por fim, os homens desistiram de casar com Kaguya-hime.
+
+Mais tarde, Kaguya-hime passou a derramar lágrimas enquanto observava a lua.
+
+E também não fazia mais as suas refeições.
+<br><br>
+
+
+O velhinho e a velhinha ficaram muito preocupados.
+
+"Por que é que chora?
+
+Por que é que não come nada esta noite também?"
+
+"É que na realidade, eu sou do reino daquela lua que vemos lá.
+
+Na próxima noite de lua cheia, terei que retornar à lua."
+
+O velhinho e a velhinha ficaram assustados.
+<br><br>
+
+
+"Kaguya-hime também deve querer ficar aqui.
+
+Mas parece que com as nossas forças é inútil."
+
+O velhinho foi pedir ajuda ao imperador.
+
+O imperador, no dia da noite de lua cheia. enviou 3000 samurais
+
+e fez guardar o entorno da casa de Kaguya-hime.
+
+"Com isso Kaguya-hime não deve poder voltar para a lua."
+<br><br>
+
+
+No céu a leste, a lua veio subindo.
+
+De repente, o céu ficou claro como ao meio-dia.
+
+Os samurais armaram suas lanças e direcionaram seus arcos para o céu.
+
+Uma carruagem da lua veio descendo vagarosamente por dentro do brilho.
+
+Os samurais tentaram lançar com os arcos, mas não conseguiram.
+
+É que seus corpos endureceram como a pedra.
+<br><br>
+
+
+Kaguya-hime aproximou-se silenciosamente do carro.
+
+"Vovô, vovó, adeus.
+
+Ao ver a lua, lembrem-se de mim."
+
+Kaguya-hime foi subindo devagar ao céu noturno.
+
+O "Conto do cortador de bambu" é uma história antiga muito famosa no Japão.
+
+Dizem que se for japonês, quase todos conhecem.

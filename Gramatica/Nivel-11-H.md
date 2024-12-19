@@ -355,3 +355,6 @@ retira ```する``` e adiciona ```できる```
 | Adjetivo い | <ul><li>  () = grande (quantidade)</li><li>  () = frio</li></ul> | <ul><li>  () = dizem que é grande (quantidade)</li><li>  () = dizem que é frio</li></ul> |  |
 | Adjetivo な | <ul><li>  () = estar bem</li><li>  = ser sério</li></ul> | <ul><li>  () = dizem que está bem</li><li>  () = dizem que é sério</li></ul> |  |
 | Verbo | <ul><li>  () = nevar, chover</li><li>  () = começou</li> | <ul><li>  () = dizem que neva, chove</li><li>  () = dizem que começou</li></ul> |  |
+
+
+#### forma utilizada para dar ênfase à explicação da causa, ou dar ênfase à situação ou condição de algo. (somente usado oralmente) = ```É QUE 〜 = 〜 の だ```

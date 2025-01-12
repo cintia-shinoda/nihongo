@@ -485,42 +485,121 @@ Quem havia telefonado era Hashimoto-san.
 
 
 ### 竹　取　物語 (たけとり　ものがたり) : O conto do cortador de bambu
+昔、ある　村　に　竹　で　かご　を　作る　おじいさん　が　いた。
+
+むかし、ある　むら　に　たけ　で　かご　を　つくる　おじいさん　が　いた。
 
 Há muito tempo atrás, em uma vila, vivia um velhinho que fazia cestos de bambu.
+<br>
+
+ある　日、　一本　の　竹　の　根元　が　輝いてる　の　を　見つけた。
+
+ある　ひ、　いっぽん　の　たけ　の　ねもと　が　かがやいてる　の　を　みつけた。
 
 Certo dia, encontrou um bambu cujo pé brilhava.
+<br>
+
+「中 に　何か　ある　はずだ。」
+
+「なか　に　なにか　ある　はずだ。」
 
 "Dentro deve haver algo."
+<br>
+
+おじいさん が　竹　を　切る　と、　中　には　小さな　女の子　が　いた。
+
+おじいさん　が　たけ　を　切る　と、　なか　には　ちいさな　おんなのこ　が　いた。
 
 O velhinho cortou o bambu e dentro havia uma menina pequena.
+<br>
+
+おじいさん は　喜んで、　その　子　を　連れて　家　に　帰った。
+
+おじいさん　は　よろこんで、　その　こ　を　つれて　いえ　に　かえった。
 
 O velhinho ficou contente e voltou para casa levando essa criança.
 <br><br>
 
+子供　が　いない　おじいさん　と　おばあさん　は、
+
+こども　が　いない　おじいさん　と　おばあさん　は、
 
 O velhinho e a velhinha, que não tinham filhos,
+<br>
+
+その 女の子　を　育てる　こと　に　した。
+
+その　おんなのこ　を　そだてる　こと　に　した。
 
 decidiram criar essa menina.
+<br>
+
+二人 は　女の子　に　「かぐや　ひめ」　という　名前　を　つけた。
+
+ふたり　は　おんなのこ　に　「かぐや　ひめ」　という　なまえ　を　つけた。
 
 Os dois deram à menina o nome de "Kaguya-hime (princesa radiante)".
+<br>
+
+その後、　おじいさん　は　竹　の　中　から　何度も　金　を　見つけた。
+
+そのご、　おじいさん　は　たけ　の　なか　から　なんども　きん　を　みつけた。
 
 Depois disso, por várias vezes o velhinho encontrou ouro dentro do bambu.
+<br>
+
+「かぐや　ひめ　には　不思議な　力　が　あるらしい。
+
+「かぐや　ひめ　には　ふしぎな　ちから　が　あるらしい。
 
 "Parece que Kaguya-hime tem um poder misterioso."
+<br>
+
+老夫婦 は、　かぐや　ひめ　を　いっそう　かわいがった。
+
+ろうふうふ　は、　かぐや　ひめ　を　いっそう　かわいがった。
 
 O casal de velhinhos cuidou da Kaguya-hime com muito carinho.
 <br><br>
 
+かぐや　ひめ　は、　あっという間に　大きくなり、
+
+かぐや　ひめ　は、　あっというまに　おおきくなり、
 
 Kaguya-hime cresceu muito rápido,
+<br>
+
+その うわさ　は　国中　に　伝わった。
+
+その　うわさ　は　くにじゅう　に　つたわった。
 
 e seu boato espalhou-se pelo país todo.
+<br>
+
+「あの 村　に　不思議な　娘　が　いるらしい。
+
+「あの　むら　に　ふしぎな　むすめ　が　いるらしい。
 
 "Naquela vila parece que há uma princesa misteriosa.
+<br>
+
+とても 美しい　らしい。　家　も　金持ち　だそうだ。」
+
+とても　うつくしい　らしい。　いえ　も　かねもち　だそうだ。」
 
 Parece que é muito bela. E dizem que a família também é rica."
+<br>
+
+しばら くして、　5人　の　男　が　かぐや　ひめ　に　結婚　を　申し込んだ。
+
+しばら　くして、　ごにん　の　おとこ　が　かぐや　ひめ　に　けっこん　を　もうしこんだ。
 
 Depois de um tempo, cinco homens vieram pedir Kaguya-hime em casamento.
+<br>
+
+かぐや　ひめ　は　「私　は　結婚　する　気　は　ありません。」　と　答えた。
+
+かぐや　ひめ　は　「わたし　は　けっこん　する　き　は　ありません。」　と　こたえた。
 
 Kaguya-hime respondeu: "Não tenho intenção de me casar".
 <br><br>

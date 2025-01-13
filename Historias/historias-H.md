@@ -604,85 +604,251 @@ Depois de um tempo, cinco homens vieram pedir Kaguya-hime em casamento.
 Kaguya-hime respondeu: "Não tenho intenção de me casar".
 <br><br>
 
+五人　の　男たち　は　あきらめなかった。
+
+ごにん　の　おとこたち　は　あきらめなかった。
 
 Os cinco homens não desistiram.
+<br>
+
+「私たち　は　真剣　なの　です。」
+
+「わたしたち　は　しんけん　なの　です。」
 
 "É que nós estamos falando sério."
+<br>
+
+「では、　宝石　を　探して来た　人　と　結婚　しましょう。
+
+「では、　ほうせき　を　さがしてきた　ひと　と　けっこん　しましょう。
 
 "Então, caso-me com a pessoa que encontrar uma pedra preciosa.
+<br>
+
+それ　は、　竜　が　住んでいる　中国　の　山　に　ある　そう　です。
+
+それ　は、　りゅう　が　すんでいる　ちゅうごく　の　やま　に　ある　そう　です。
 
 Dizem que isso (a pedra preciosa), existe em uma montanha da China onde mora um dragão.
+<br>
+
+その 宝石　は　とても　美しい　そう　です。」
+
+その　ほうせき　は　とても　うつくしい　そう　です。」
 
 E dizem que é uma pedra preciosa muito bela."
+<br>
+
+しかし、 男たち　は　だれも　宝石　を　見つけられなかった。
+
+しかし、　おとこたち　は　だれも　ほうせき　を　みつけられなかった。
 
 Mas nenhum dos homens conseguiu encontrar a pedra preciosa.
 <br><br>
 
+「そんな　宝石　は　ある　はず　が　ない。
+
+「そんな　ほうせき　は　ある　はず　が　ない。
 
 "Não deve existir uma pedra preciosa dessas.
+<br>
+
+かぐや　ひめ　だって　見た　こと　が　ない　はず　だ。
+
+かぐや　ひめ　だって　みた　こと　が　ない　はず　だ。
 
 Nem Kaguya-hime deve ter visto.
+<br>
+
+かぐや　ひめ　は　うそ　を　ついている　の　だ。」
+
+かぐや　ひめ　は　うそ　を　ついている　の　だ。」
 
 Kaguya-hime é que está mentindo."
+<br>
+
+結局、 男たち　は、　かぐや　ひめ　と　結婚　する　こと　を　あきらめた。
+
+けっきょく、　おとこたち　は、　かぐや　ひめ　と　けっこん　する　こと　を　あきらめた。
 
 Por fim, os homens desistiram de casar com Kaguya-hime.
+<br>
+
+やがて、 かぐや　ひめ　は、　月　を　見て　涙　を　流す　ように　なった。
+
+やがて、　かぐや　ひめ　は、　つき　を　みて　なみだ　を　ながす　ように　なった。
 
 Mais tarde, Kaguya-hime passou a derramar lágrimas enquanto observava a lua.
+<br>
+
+食事 も　取らなく　なった。
+
+しょくじ　も　とらなく　なった。
 
 E também não fazia mais as suas refeições.
 <br><br>
 
+おじいさん と　おばあさん　は　とても　心配　した。
+
+おじいさん　と　おばあさん　は　とても　しんぱい　した。
 
 O velhinho e a velhinha ficaram muito preocupados.
+<br>
+
+「なぜ 泣く　の　です。
+
+「なぜ　なく　の　です。
 
 "Por que é que chora?
+<br>
+
+どうして 今夜　も　何も　食べない　の　ですか。」
+
+どうして　こんや　も　なにも　たべない　の　ですか。」
 
 Por que é que não come nada esta noite também?"
+<br>
+
+実　は、　私　は　あそこ　に　見える　月　の　世界　の　者　なの　です。
+
+じつ　は、　わたし　は　あそこ　に　みえる　つき　の　せかい　の　もの　なの　です。
 
 "É que na realidade, eu sou do reino daquela lua que vemos lá.
+<br>
+
+今度 の　十五夜　に、　月　に　帰らなければ　なりません。」
+
+こんど　の　じゅうごや　に、　つき　に　かえらなければ　なりません。」
 
 Na próxima noite de lua cheia, terei que retornar à lua."
+<br>
+
+おじいさん　と　おばあさん　は　びっくりした。
+
+おじいさん　と　おばあさん　は　びっくりした。
 
 O velhinho e a velhinha ficaram assustados.
 <br><br>
 
+「かぐや　ひめ　も　ここ　に　いたいと　思っている　はず　だ。
+
+「かぐや　ひめ　も　ここ　に　いたいと　おもっている　はず　だ。
 
 "Kaguya-hime também deve querer ficar aqui.
+<br>
+
+しかし、　私たち　の　力　では　駄目　らしい。」
+
+しかし、　わたしたち　の　ちから　では　だめ　らしい。」
 
 Mas parece que com as nossas forças é inútil."
+<br>
+
+おじいさん　は　みかど　に　助け　を　求めた。
+
+おじいさん　は　みかど　に　たすけ　を　もとめた。
 
 O velhinho foi pedir ajuda ao imperador.
+<br>
+
+みかど　は、　十五夜　の　日、　三千人　の　さむらい　を　送って、
+
+みかど　は、　じゅうごや　の　ひ、　さんぜんにん　の　さむらい　を　おくって、
 
 O imperador, no dia da noite de lua cheia. enviou 3000 samurais
+<br>
+
+かぐや　ひめ　の　家　の　まわり　を　守らせた。
+
+かぐや　ひめ　の　いえ　の　まわり　を　まもらせた。
 
 e fez guardar o entorno da casa de Kaguya-hime.
+<br>
+
+「これ　なら　かぐや　ひめ　も、月　に　帰れる　はず　が　ない。」
+
+「これ　なら　かぐや　ひめ　も、つき　に　かえれる　はず　が　ない。」
 
 "Com isso Kaguya-hime não deve poder voltar para a lua."
 <br><br>
 
+東　の　空　に、　月　が　昇って　来た。
+
+ひがし　の　そら　に、　つき　が　のぼって　きた。
 
 No céu a leste, a lua veio subindo.
+<br>
+
+突然　空　が　真昼　の　ように　明るくなった。
+
+とつぜん　そら　が　まひる　の　ように　あかるくなった。
 
 De repente, o céu ficou claro como ao meio-dia.
+<br>
+
+さむらいたち　は、やり　を　かまえ、　弓　を　空　に　向けた。
+
+さむらいたち　は、　やり　を　かまえ、　ゆみ　を　そら　に　むけた。
 
 Os samurais armaram suas lanças e direcionaram seus arcos para o céu.
+<br>
+
+光　の　中　を、　月　から　の　車　が　ゆっくり　降りて来た。
+
+ひかり　の　なか　を、つき　から　の　くるま　が　ゆっくり　おりてきた。
 
 Uma carruagem da lua veio descendo vagarosamente por dentro do brilho.
+<br>
+
+さむらいたち　は　弓　を　射よう　と　した　が、　できなかった。
+
+さむらいたち　は　ゆみ　を　いよう　と　した　が、　できなかった。
 
 Os samurais tentaram lançar com os arcos, mas não conseguiram.
+<br>
+
+体　が　石　の　ように　固まって　しまった　の　だ。
+
+からだ　が　いし　の　ように　かたまって　しまった　の　だ。
 
 É que seus corpos endureceram como a pedra.
 <br><br>
 
+かぐや　ひめ　は、　静か　に　車　に　近づいた。
+
+かぐや　ひめ　は、　しずか　に　くるま　に　ちかづいた。
 
 Kaguya-hime aproximou-se silenciosamente do carro.
+<br>
+
+「おじいさん、　おばあさん、　さようなら。
 
 "Vovô, vovó, adeus.
+<br>
+
+月　を　見たら、　私　の　こと　を　思い出して　ください。」
+
+つき　を　みたら、　わたし　の　こと　を　おもいだして　ください。」
 
 Ao ver a lua, lembrem-se de mim."
+<br>
+
+かぐや　ひめ　は、　ゆっくり　夜空　に　昇って　行った。
+
+かぐや　ひめ　は、　ゆっくり　よぞら　に　のぼって　いった。
 
 Kaguya-hime foi subindo devagar ao céu noturno.
+<br>
+
+竹取　物語　は、　日本　の　有名な　昔話　だ。
+
+たけとり　ものがたり　は、　にほん　の　ゆうめいな　むかしばなし　だ。
 
 O "Conto do cortador de bambu" é uma história antiga muito famosa no Japão.
+<br>
+
+日本人 なら、　ほとんど　誰　でも　知っている　そう　だ。
+
+にほんじん　なら、　ほとんど　だれ　でも　しっている　そう　だ。
 
 Dizem que se for japonês, quase todos conhecem.

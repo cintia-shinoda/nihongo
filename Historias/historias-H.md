@@ -484,7 +484,7 @@ Quem havia telefonado era Hashimoto-san.
 
 
 
-### 竹　取　物語 (たけとり　ものがたり) : O conto do cortador de bambu
+### 竹取　物語 (たけとり　ものがたり) : O conto do cortador de bambu
 昔、ある　村　に　竹　で　かご　を　作る　おじいさん　が　いた。
 
 むかし、ある　むら　に　たけ　で　かご　を　つくる　おじいさん　が　いた。

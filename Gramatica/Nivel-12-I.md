@@ -28,3 +28,6 @@
 
 #### ```たとえ　〜　ても``` - ```mesmo que```
 ```たとえ　〜　ても``` : usado para apresentar uma suposição.
+
+---
+

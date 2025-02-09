@@ -249,3 +249,4 @@
 | 187 | 19/01/2015 | <ul><li>H-19</li><li>Teste H</li></ul> | <ul><li>ストーリー　４</li><li>日本語 テスト H</li></ul> | <ul><li>Histórias 4</li><li>Teste de Assimilação H</li></ul> |
 | 188 | 25/01/2025 | I - 1 | 論理展開　１ (ろんりてんかい　１) | Sequência lógica 1 |
 | 189 | 01/02/2025 | I - 11 | 論理展開　２ (ろんりてんかい　２) | Sequência lógica 2 |
+| 190 | 08/02/2025 | I - 21 | 論理展開　３ (ろんりてんかい　３) | Sequência lógica 3 |

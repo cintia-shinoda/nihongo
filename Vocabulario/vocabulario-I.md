@@ -17,3 +17,10 @@
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
 | 一時的な | いちじてきな | temporário, provisório |
+
+
+### I - 21
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  |  |

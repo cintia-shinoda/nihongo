@@ -1,4 +1,31 @@
-# Cronograma
+# 日本語
+
+
+[Gramática](https://github.com/cintia-shinoda/nihongo/tree/master/Gramatica)
+
+[Histórias](https://github.com/cintia-shinoda/nihongo/tree/master/Historias)
+
+[Kanji](https://github.com/cintia-shinoda/nihongo/tree/master/Kanji)
+
+[Listas](https://github.com/cintia-shinoda/nihongo/tree/master/Listas)
+
+[Vocabulário](https://github.com/cintia-shinoda/nihongo/tree/master/Vocabulario)
+
+---
+
+## Cronograma
+
+## 2025
+
+|  #  | Data      | Conteúdo |       |   |
+|:---:|:----------:|:-------:|:-----|:---|
+| 187 | 19/01/2015 | <ul><li>H-19</li><li>Teste H</li></ul> | <ul><li>ストーリー　４</li><li>日本語 テスト H</li></ul> | <ul><li>Histórias 4</li><li>Teste de Assimilação H</li></ul> |
+| 188 | 25/01/2025 | I - 1 | 論理展開　１ (ろんりてんかい　１) | Sequência lógica 1 |
+| 189 | 01/02/2025 | I - 11 | 論理展開　２ (ろんりてんかい　２) | Sequência lógica 2 |
+| 190 | 08/02/2025 | I - 21 | 論理展開　３ (ろんりてんかい　３) | Sequência lógica 3 |
+| 191 | 15/02/2025 | I - 31 | 論理展開　４ (ろんりてんかい　４) | Sequência lógica 4 |
+
+<br>
 
 
 <details>
@@ -242,11 +269,3 @@
 <br>
 
 
-## 2025
-
-|  #  | Data      | Conteúdo |       |   |
-|:---:|:----------:|:-------:|:-----|:---|
-| 187 | 19/01/2015 | <ul><li>H-19</li><li>Teste H</li></ul> | <ul><li>ストーリー　４</li><li>日本語 テスト H</li></ul> | <ul><li>Histórias 4</li><li>Teste de Assimilação H</li></ul> |
-| 188 | 25/01/2025 | I - 1 | 論理展開　１ (ろんりてんかい　１) | Sequência lógica 1 |
-| 189 | 01/02/2025 | I - 11 | 論理展開　２ (ろんりてんかい　２) | Sequência lógica 2 |
-| 190 | 08/02/2025 | I - 21 | 論理展開　３ (ろんりてんかい　３) | Sequência lógica 3 |

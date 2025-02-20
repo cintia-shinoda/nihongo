@@ -23,11 +23,19 @@
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-|  |  |  |
+
 
 
 ### I - 31
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-|  |  |  |
+
+### I - 41
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  | gramática |
+|  |  | cotidiano |
+|  |  | relacionamento |
+|  |  | impressão |

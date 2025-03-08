@@ -23,13 +23,15 @@
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
-
+|  |  |  |
 
 
 ### I - 31
 
 | ideograma | leitura | tradução |
 |:---------:|:--------|:---------|
+|  |  |  |
+
 
 ### I - 41
 
@@ -39,3 +41,14 @@
 |  |  | cotidiano |
 |  |  | relacionamento |
 |  |  | impressão |
+
+
+### I - 51
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  |  |
+| チャーハン | - | arroz primavera (culinária chinesa) |
+| ```温```める | ```あたた```める | aquecer |
+| そうそう | - | expressão usada quando lembramos de algo |
+| ```取```りこむ | ```と```りこむ | recolher |

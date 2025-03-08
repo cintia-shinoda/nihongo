@@ -42,3 +42,9 @@ Além disso, não importa o quanto saiba ler e escrever em japonês, se não con
 Talvez possam achar que é uma pessoa rude.
 
 No entanto, se conseguir pelo menos cumprimentar, passará uma boa impressão à outra pessoa.
+<br><br>
+
+
+Os japoneses, quando acordam de manhã, cumprimentam "*ohayo* (bom dia)". 
+
+Para uma pessoa (de nível social) superior dizem de uma maneira ainda mais respeitosa: 

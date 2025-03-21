@@ -48,3 +48,45 @@
 
 ### ```verbo no infinitivo``` + ```ところ だった``` - quase ~ 
 - expressa uma situação que ia acontecer, mas não aconteceu
+
+
+### ```verbo no infinitivo``` + ```べきだ``` - deve ~
+- expressão que indica qual a conduta adequada
+- 
+| infinitivo | deve ~ |
+|:---|:---|
+|  () = acreditar |  () = deve acreditar |
+|  () = estudar |  () = deve estudar |
+|  = desculpar-se |  = deve desculpar-se |
+|  () = valorizar |  () = deve valorizar |
+
+### ```verbo no infinitivo``` + ```ではない```　- não deve ~
+- expressão que indica qual a conduta inadequada
+
+|  |  |
+|:---|:---|
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+### ```verbo no infinitivo``` + ```わけだ```　- (é) por isso que ~
+- expressão que indica que algo deve ocorrer como resultado natural de uma ação ou efeito
+  
+|  |  |
+|:---|:---|
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+### ```verbo no infinitivo negativo``` + ```わけではない```　- não é que ~
+- expressão utilizada para indicar que não necessariamente será desta forma
+- 
+
+|  |  |
+|:---|:---|
+|  |  |
+|  |  |
+|  |  |
+|  |  |

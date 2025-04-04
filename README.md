@@ -28,6 +28,8 @@
 | 193 | 08/03/2025 | I - 51 | 状況説明　１ (じょうきょうせつめい　１) | Descrição de circunstância 1 |
 | 194 | 15/03/2025 | I - 61 | 状況説明　２ (じょうきょうせつめい　２) | Descrição de circunstância 2 |
 | 195 | 21/03/2025 | I - 71 | 状況説明　３ (じょうきょうせつめい　３) | Descrição de circunstância 3 |
+| 196 | 29/03/2025 | I - 81 | 状況説明　４ (じょうきょうせつめい　４) | Descrição de circunstância 4 |
+| 197 | 04/04/2025 | I - 91 | ストーリー　２ | Histórias 2 |
 
 <br>
 

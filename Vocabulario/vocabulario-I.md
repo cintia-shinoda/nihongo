@@ -52,3 +52,39 @@
 | ```温```める | ```あたた```める | aquecer |
 | そうそう | - | expressão usada quando lembramos de algo |
 | ```取```りこむ | ```と```りこむ | recolher |
+
+
+### I - 61
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  |  |
+
+
+### I - 71
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  |  |
+
+
+### I - 81
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  |  |
+
+
+### I - 91
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+|  |  |  |
+
+
+### I - 101
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| 何でも | なんでも | o que, qualquer coisa |
+| ゲームソフト |  | jogo de videogame |

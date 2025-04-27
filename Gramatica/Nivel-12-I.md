@@ -117,3 +117,59 @@
 |  |  |
 |  |  |
 |  |  |
+
+
+
+---
+## Reforçando os sentimentos
+###
+###
+###
+###
+
+
+
+### ```verbo no infinitivo``` + ```に 決まっている (に きまっている)``` = sem dúvida ~
+- expressa a convicção, decisão do falante
+
+| verbo no infinitivo | sem dúvida ~ |
+|:---|:---|
+| 遅刻する　(ちこくする) = atrasar-se | 遅刻する　```に 決まっている``` (ちこくする　```に きまっている```) = ```sem dúvida``` se atrasará |
+| 負ける (まける) = perder | 負ける ```に 決まっている``` (まける ```に きまっている```) = ```sem dúvida``` perderá |
+| ある = haver | ある ```に 決まっている``` (ある ```に きまっている```) = ```sem dúvida``` haverá |
+| 怒っている (おこっている) = estar bravo | 怒っている ```に 決まっている``` (おこっている ```に きまっている```) = ```sem dúvida``` estará bravo |
+
+
+### ```verbo na forma ない``` + ```では　すまない``` = não ficará sem ~
+- enfatiza uma consequência
+
+| verbo no infinitivo | não ficará sem ~ |
+|:---|:---|
+|  () = comprar e devolver |  () = ```não ficará sem``` comprar e devolver |
+|  () = internar |  () = ```não ficará sem``` internar |
+|  () = assumir a responsabilidade |  () = ```não ficará sem``` assumir a responsabilidade |
+|  |  = ```não ficará sem``` se desculpar |
+
+
+### ```substantivo``` + ```に 違いない``` (に ちがいない) = certamente é ~
+
+| substantivo | certamente é ~ |
+|:---|:---|
+|  () = amiga |  () = ```certamente é``` a amiga |
+|  () = atriz |  () = ```certamente é``` a atriz |
+|  = carteira |  () = ```certamente é``` a carteira |
+|  () = criminoso |  () = ```certamente é``` o criminoso |
+|  () = história |  () = ```certamente é``` é a história |
+
+
+### ```verbo no infinitivo``` + ```こと に なっている``` = está combinado que ~
+
+- expressão usada para indicar que uma ação está prevista ou já está determinada a ocorrer
+
+| verbo no infinitivo | está combinado que ~ |
+|:---|:---|
+|  () = ir |  () = ```está combinado que``` irá |
+|  () = ajudar | () = ```está combinado que``` ajudará |
+|  () = perguntar |  () = ```está combinado que``` perguntará |
+|  () = participar |  () = ```está combinado que``` participará |
+|  = submeter | () = ```está combinado que``` submeterá |

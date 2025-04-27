@@ -119,3 +119,14 @@
 | ```支```度 | ```し```たく | preparação |
 | ```幼```い | ```おさな```い | jovem |
 | 時```代``` | じ```だい``` | era / época |
+
+
+### I - 111
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| 雷 | かみなり | trovão |
+| 響く | ひびく | ressoar |
+| 傘 |かさ | guarda-chuva |
+| ```玄```関 | ```げん```かん | entrada |
+| ```迎```える | ```むか```える | sair para encontrar/buscar |

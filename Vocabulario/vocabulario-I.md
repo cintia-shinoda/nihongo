@@ -88,3 +88,14 @@
 |:---------:|:--------|:---------|
 | 何でも | なんでも | o que, qualquer coisa |
 | ゲームソフト |  | jogo de videogame |
+
+
+### I - 111
+
+| ideograma | leitura | tradução |
+|:---------:|:--------|:---------|
+| さす | ー | abrir (o guarda-chuva) |
+| 待ってて (まってて) |  | expressão oral de: 待っていて (まっていて) |
+|  |  |  |
+|  |  |  |
+|  |  |  |

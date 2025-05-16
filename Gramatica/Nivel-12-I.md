@@ -173,3 +173,18 @@
 |  () = perguntar |  () = ```está combinado que``` perguntará |
 |  () = participar |  () = ```está combinado que``` participará |
 |  = submeter | () = ```está combinado que``` submeterá |
+
+
+### forma causativa passiva
+- ser obrigado por alguém a realizar uma ação
+
+| Grupo | Infinitivo | Causativo | Causativo Passivo |
+|:---|:---|:---|:---|
+| 1 | 行く (いく) = ir | 行かせる (いかせる) = fazer ir | 行かされる (いかされる) = ser obrigado a ir |
+| 1 | 立つ (たつ) = ficar de pé | 立たせる (たたせる) = fazer ficar de pé | 立たされる (たたされる) = ser obrigado a ficar de pé |
+| 1 | 走る (はしる) = correr |  |  |
+| 2 | 食べる (たべる) = comer | 食べさせる (たべさせる) = fazer comer | 食べさせられる (たべさせられる) = ser obrigado a comer |
+| 2 | 調べる　(しらべる) = pesquisar | 調べさせる (しらべさせる) = fazer pesquisar | 調べさせられる (しらべさせられる) = ser obrigado a pesquisar |
+| irregular | 来る (くる) = vir | 来させる (こさせる) = fazer vir | 来させられる (こさせられる) = ser obrigado a vir |
+| irregular | 転勤　する (てんきん　する) = mudar-se | 転勤　させる (てんきん　させる) = fazer mudar-se | 転勤　させられる (てんきん　させられる) = ser obrigado a mudar-se |
+| irregular | 残業　する (ざんぎょう　する) = fazer horas extras | 残業　させる (ざんぎょう　させる) = fazer (fazer) horas extras | 残業　させられる (ざんぎょう　させられる) = ser obrigado a fazer horas extras |

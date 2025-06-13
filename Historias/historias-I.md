@@ -227,3 +227,63 @@ Vivendo num país com uma cultura diferente, errar faz parte.
 <br>
 
 Mas, se pretende viver no exterior, não se deve se preocupar com os pequenos erros.
+
+
+
+----
+
+### 日本 の 食文化 (にほん の しょくぶんか): Cultura alimentar do Japão
+
+人間 の　生活　の　基本　に　「衣食住」　が　ある。
+
+にんげん　の　せいかつ　の　きほん　に　「いしょくじゅう」　が　ある。
+
+Como base para a vida do ser humano existe a "vestimenta, alimentação e moradia".
+<br>
+
+その　中　で　最も　重要　なの　は　「食」　に　違いない。
+
+その　なか　で　もっとも　じゅうよう　なの　は　「しょく」　に　ちがいない。
+
+Dentre esses, o mais importante é certamente, a "alimentação".
+<br>
+
+人　は　服　や　家　が　なくても　死ぬ　こと　は　ない。
+
+ひと　は　ふく　や　いえ　が　なくても　しぬ　こと　は　ない。
+
+As pessoas, mesmo não tendo vestimenta ou moradia, não chegam a morrer.
+<br>
+
+しかし、　食事　を　しない　わけ　には　いかない。
+
+しかし、　しょくじ　を　しない　わけ　には　いかない。
+
+Mas não se pode ficar sem fazer as refeições.
+<br>
+
+また、　十分な　栄養　を　とらなければ、　体調　を　崩さない　では　すまない　だろう。
+
+また、　じゅうぶんな　えいよう　を　とらなければ、　たいちょう　を　くずさない　では　すまない　だろう。
+
+E ainda, se não consumir nutrientes suficientes, provavelmente não ficará sem prejudicar a saúde.
+<br>
+
+そう　いう　意味　で、　食文化　は　さまざまな　文化　の　中　でも、　とても　大切　だと　言わざる　を　得ない。
+
+そう　いう　いみ　で、　しょくぶんか　は　さまざまな　ぶんか　の　なか　でも、　とても　たいせつ　だと　いわざる　を　えない。
+
+Nesse sentido, é inevitável dizer que a cultura alimentar em várias culturas é muito importante.
+<br><br>
+
+
+Cada um dos povos veio desenvolvendo uma cultura alimentar típica, de acordo ao ambiente natural, como clima, geografia, etc., ou de acordo com religião. 
+<br>
+
+Na cultura alimentar do Japão também não houve outra maneira senão sofrer a influência do ambiente natural e da religião.
+<br>
+
+Uma geografia rodeada pelo mar, clima com as quatro estações do ano bem distintas, ambiente natural com muitas árvores, fez surgir uma cultura alimentar própria do Japão.
+<br><br>
+
+

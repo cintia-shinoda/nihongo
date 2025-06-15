@@ -287,3 +287,43 @@ Uma geografia rodeada pelo mar, clima com as quatro estações do ano bem distin
 <br><br>
 
 
+O prato principal do Japão é o arroz.
+
+Além disso, no Japão, por estar rodeado pelo mar, desenvolveu-se vários pratos de peixes como *sashimi* ou *sushi*.
+
+No entanto, o consumo da carne esteve proibida por um longo período.
+
+Por este motivo, não houve outra maneira para as pessoas senão extrair as proteínas necessárias dos grãos e peixes.
+
+Pratos de carne, como *sukiyaki* ou *shabushabu*, surgiram todos após a Era Meiji.
+<br><br>
+
+
+Os japoneses dão muita importância a cada uma das quatro estações do ano.
+
+Isso também é visível na cultura alimentar.
+
+Para qualquer um dos alimentos, há uma estação em que é mais saboroso.
+
+Isso é o que chamamos "época mais propícia".
+
+A culinária japonesa dá importância ao fato de utilizar o alimento da época mais propícia.
+
+Porque, se for comer um mesmo alimento, é certo que comê-lo na época mais propícia será mais gostoso.
+
+Por exemplo, a época mais propícia do peixe chamado cavala é setembro e outubro.
+
+As pessoas que gostam de cavala não se contêm de tanto esperar por essa estação.
+<br><br>
+
+
+E também, na culinária japonesa, não são muito usados condimentos fortes, como a pimenta vermelha.
+
+Porque (a culinária japonesa) dá importância ao sabor que o próprio alimento possui.
+
+Há momentos em que, ao viajar para o exterior, os japoneses são obrigados a comer todos os dias só comida condimentada.
+
+Nesses momentos, são muitos os japoneses que não resistem e querem sem falta comer a comida japonesa que é mais leve.
+<br><br>
+
+

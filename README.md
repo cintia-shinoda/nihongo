@@ -40,6 +40,7 @@
 | 199 | 26/04/2025 | I - 111 | 心情の強調　２ (しんじょうのきょうちょう　２) | Reforçando os sentimentos 2 |
 | 200 | 03/05/2025 | I - 121 | 心情の強調　３ (しんじょうのきょうちょう　３) | Reforçando os sentimentos 3 |
 | 201 | 17/05/2025 | I - 131 | 心情の強調　４ (しんじょうのきょうちょう　４) | Reforçando os sentimentos 4 
+| 202 | 14/06/2025 | I - 141 | ストーリー　３ | Histórias 3 |
 
 <br>
 

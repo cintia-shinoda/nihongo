@@ -205,3 +205,28 @@
 | irregular | 来る (くる) = vir | 来られる (こられる) = vem |
 | irregular | する = fazer | される = faz |
 | irregular | 結婚 する (けっこん する) = casar-se | 結婚 される (けっこん される) = se casa |
+
+### Linguagem de Respeito
+- palavras que expressam ```respeito a outra pessoa, elevando-o```
+- usado para ```ação e atitude de outra pessoa```
+
+### Linguagem de Modéstia
+- expressões de respeito a outra pessoa que se manifestam quando ```o falante se rebaixa```
+- usado para ```ação ou atitude própria ou das pessoas próximas```
+
+| Infinitivo | Respeito | Modéstia |
+|:---|:---|:---|
+| する = fazer | なさる | いたす |
+| 来る (くる) = vir | いらっしゃる | 参る　まいる |　
+| いる = estar | いらっしゃる | おる |
+| 行く (いく) = ir | いらっしゃる | 参る 　まいる|
+| 見る (みる) = ver| ごらんになる | はいけんする |
+| 食べる (たべる) = comer | めしあがる |  |
+| 飲む (のむ) = beber | めしあがる | いただく |
+| もらう = receber |  | いただく |
+| くれる = dar-me | くださる |  |
+| 言う (いう) = dizer | おっしゃる | もうす |
+| 知っている (しっている) = saber | ごぞんじ　だ | 存じている |　　ぞんじている
+| 聞く (きく) = ouvir |  | うかがう |
+| 訪ねる (たずねる) = visitar |  | うかがう |
+| 会う (あう) = encontrar |  | おめにかかる |

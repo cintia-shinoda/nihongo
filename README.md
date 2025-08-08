@@ -43,6 +43,9 @@
 | 202 | 14/06/2025 | I - 141 | ストーリー　３ | Histórias 3 |
 | 203 | 21/06/2025 | I - 151 | 尊敬の気持ち　１ (そんけいのきもち　１) | Sentimentos de respeito　1 |
 | 204 | 19/07/2025 | I - 161 | 尊敬の気持ち　２ (そんけいのきもち　２) | Sentimentos de respeito　2 |
+| 205 | 25/07/2025 | I - 171 | 尊敬の気持ち　３ (そんけいのきもち　３) | Sentimentos de respeito　3 |
+| 206 | 02/08/2025 | I - 181 | 尊敬の気持ち　４ (そんけいのきもち　４) | Sentimentos de respeito　4 |
+| 207 | 08/08/2025 | I - 191 (1st half) | ストーリー　４ | Histórias 4 |
 
 <br>
 

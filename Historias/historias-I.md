@@ -327,3 +327,60 @@ Nesses momentos, são muitos os japoneses que não resistem e querem sem falta c
 <br><br>
 
 
+
+---
+
+### 日本 の 結婚式 (にほん の けっこんしき): Casamento no Japão
+
+Desde que comecei a trabalhar no Japão, já passou um ano.
+
+A veterana Hashimoto-san, que sempre me ajudou, irá se casar.
+
+Eu também fui convidada para o casamento.
+
+No Japão, é a primeira vez que participo de um casamento.
+
+Que tipo de traje devo usar?
+
+Quais são os preparativos necessários?
+
+Não entendo nada.
+<br><br>
+
+
+Então, resolvi ouvir da professora Ota, da escola de língua japonesa, sobre o casamento no Japão.
+
+No próximo sábado, ficou decidido que irei visitar a professora Ota.
+
+Irei encontrar a professora Ota depois de muito tempo.
+
+A professora corrigiu a (minha) redação todas as semanas.
+
+Mas graças a isso, consegui ingressar na empresa atual e estou agradecida.
+<br><br>
+
+
+"Professora, fui convidada para o casamento de uma veterana da empresa, mas com que traje devo ir?"
+
+"Nos casamentos do Japão, normalmente os homens vestem um terno preto para cerimônias formais.
+
+E a gravata branca é a mais usada".
+
+"E a gravata da mesma cor do terno preto?"
+
+"Se for gravata preta, acabará sendo um enterro."
+<br><br>
+
+
+"As mulheres, muitas vestem vestido de gala ou vestido simples.
+
+No casamento, como a noiva veste branco, devemos evitar o branco."
+
+Ouvindo o que a professora falava, senti um frio na barriga.
+
+Estava pensando em ir de vestido branco.
+
+"Vou mostrar uma foto de quando participei de um casamento de uma amigo.
+
+Tenha como referência."
+<br><br>

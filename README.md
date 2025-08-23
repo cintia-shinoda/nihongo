@@ -46,6 +46,8 @@
 | 205 | 25/07/2025 | I - 171 | 尊敬の気持ち　３ (そんけいのきもち　３) | Sentimentos de respeito　3 |
 | 206 | 02/08/2025 | I - 181 | 尊敬の気持ち　４ (そんけいのきもち　４) | Sentimentos de respeito　4 |
 | 207 | 08/08/2025 | I - 191 (1st half) | ストーリー　４ | Histórias 4 |
+| 208 | 16/08/2025 | I - 191 (2nd half) | ストーリー　４ | Histórias 4 |
+| 209 | 23/08/2025 | Teste I | 日本語 テスト | Teste de Assimilação I |
 
 <br>
 

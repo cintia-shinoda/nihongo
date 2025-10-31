@@ -11,7 +11,7 @@ Assim, resolveu convidar o bonzo e Ikkyu-san à sua mansão.
 
 ---
 
-### 
+### 言葉 の 誤解 　(ことば の ごかい): Os equívocos de entendimento
 
 
 ---

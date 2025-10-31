@@ -48,6 +48,11 @@
 | 207 | 08/08/2025 | I - 191 (1st half) | ストーリー　４ | Histórias 4 |
 | 208 | 16/08/2025 | I - 191 (2nd half) | ストーリー　４ | Histórias 4 |
 | 209 | 23/08/2025 | Teste I | 日本語 テスト | Teste de Assimilação I |
+| 210 | 06/09/2025 | J - 1 | 一休さん (いっきゅうさん) | O monge Ikkyu |
+| 211 | 19/09/2025 | J - 11 | 言葉 の 誤解 　(ことば の ごかい) | Os equívocos de entendimento |
+| 212 | 07/10/2025 | J - 21 (1/2) | いろはがるた １ | *Irohagaruta* 1 |  |
+| 213 | 18/10/2025 | J - 21 (2/2) | いろはがるた １ | *Irohagaruta* 1 |  |
+| 214 | 25/10/2025 | J - 31 | いろはがるた ２ | *Irohagaruta* 2 |
 
 <br>
 

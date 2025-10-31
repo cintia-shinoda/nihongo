@@ -28,7 +28,7 @@
 | I | 日本の家 (にほん の いえ) : Residência japonesa |
 | I | 日本 の 食文化 (にほん の しょくぶんか): Cultura alimentar do Japão |
 | I | 日本 の 結婚式 (にほん の けっこんしき): Casamento no Japão |
-| J |  |
-| J |  |
+| J | 一休　さん (いっきゅう　さん): O monge Ikkyu |
+| J | 言葉 の 誤解 　(ことば の ごかい): Os equívocos de entendimento |
 | J | いろはがるた １ - *Irohagaruta 1* |
 | J | いろはがるた ２ - *Irohagaruta 2* |

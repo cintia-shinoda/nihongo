@@ -15,44 +15,25 @@
 
 ## [Listas](https://github.com/cintia-shinoda/nihongo/tree/master/Listas)
 
+#### [Adjetivos](https://github.com/cintia-shinoda/nihongo/tree/master/Listas/adjetivos.md)
+#### [Partes do corpo](https://github.com/cintia-shinoda/nihongo/tree/master/Listas/corpo.md)
+#### [Numerais](https://github.com/cintia-shinoda/nihongo/tree/master/Listas/numerais.md)
+#### [Onomatopeias](https://github.com/cintia-shinoda/nihongo/tree/master/Listas/onomatopeias.md)
+#### [Tempo](https://github.com/cintia-shinoda/nihongo/tree/master/Listas/tempo.md)
+#### [Verbos](https://github.com/cintia-shinoda/nihongo/tree/master/Listas/verbos.md)
+
 ## [Vocabulário](https://github.com/cintia-shinoda/nihongo/tree/master/Vocabulario)
 
 ---
 
 ## Cronograma
 
-## 2025
+#### 2026
 
-|  #  | Data      | Conteúdo |       |   |
-|:---:|:----------:|:-------:|:-----|:---|
-| 187 | 19/01/2015 | <ul><li>H-19</li><li>Teste H</li></ul> | <ul><li>ストーリー　４</li><li>日本語 テスト H</li></ul> | <ul><li>Histórias 4</li><li>Teste de Assimilação H</li></ul> |
-| 188 | 25/01/2025 | I - 1 | 論理展開　１ (ろんりてんかい　１) | Sequência lógica 1 |
-| 189 | 01/02/2025 | I - 11 | 論理展開　２ (ろんりてんかい　２) | Sequência lógica 2 |
-| 190 | 08/02/2025 | I - 21 | 論理展開　３ (ろんりてんかい　３) | Sequência lógica 3 |
-| 191 | 15/02/2025 | I - 31 | 論理展開　４ (ろんりてんかい　４) | Sequência lógica 4 |
-| 192 | 28/02/2025 | I - 41 | ストーリー　１ | Histórias 1 |
-| 193 | 08/03/2025 | I - 51 | 状況説明　１ (じょうきょうせつめい　１) | Descrição de circunstância 1 |
-| 194 | 15/03/2025 | I - 61 | 状況説明　２ (じょうきょうせつめい　２) | Descrição de circunstância 2 |
-| 195 | 21/03/2025 | I - 71 | 状況説明　３ (じょうきょうせつめい　３) | Descrição de circunstância 3 |
-| 196 | 29/03/2025 | I - 81 | 状況説明　４ (じょうきょうせつめい　４) | Descrição de circunstância 4 |
-| 197 | 04/04/2025 | I - 91 | ストーリー　２ | Histórias 2 |
-| 198 | 11/04/2025 | I - 101 | 心情の強調　１ (しんじょうのきょうちょう　１) | Reforçando os sentimentos 1 |
-| 199 | 26/04/2025 | I - 111 | 心情の強調　２ (しんじょうのきょうちょう　２) | Reforçando os sentimentos 2 |
-| 200 | 03/05/2025 | I - 121 | 心情の強調　３ (しんじょうのきょうちょう　３) | Reforçando os sentimentos 3 |
-| 201 | 17/05/2025 | I - 131 | 心情の強調　４ (しんじょうのきょうちょう　４) | Reforçando os sentimentos 4 
-| 202 | 14/06/2025 | I - 141 | ストーリー　３ | Histórias 3 |
-| 203 | 21/06/2025 | I - 151 | 尊敬の気持ち　１ (そんけいのきもち　１) | Sentimentos de respeito　1 |
-| 204 | 19/07/2025 | I - 161 | 尊敬の気持ち　２ (そんけいのきもち　２) | Sentimentos de respeito　2 |
-| 205 | 25/07/2025 | I - 171 | 尊敬の気持ち　３ (そんけいのきもち　３) | Sentimentos de respeito　3 |
-| 206 | 02/08/2025 | I - 181 | 尊敬の気持ち　４ (そんけいのきもち　４) | Sentimentos de respeito　4 |
-| 207 | 08/08/2025 | I - 191 (1st half) | ストーリー　４ | Histórias 4 |
-| 208 | 16/08/2025 | I - 191 (2nd half) | ストーリー　４ | Histórias 4 |
-| 209 | 23/08/2025 | Teste I | 日本語 テスト | Teste de Assimilação I |
-| 210 | 06/09/2025 | J - 1 | 一休さん (いっきゅうさん) | O monge Ikkyu |
-| 211 | 19/09/2025 | J - 11 | 言葉 の 誤解 　(ことば の ごかい) | Os equívocos de entendimento |
-| 212 | 07/10/2025 | J - 21 (1/2) | いろはがるた １ | *Irohagaruta* 1 |  |
-| 213 | 18/10/2025 | J - 21 (2/2) | いろはがるた １ | *Irohagaruta* 1 |  |
-| 214 | 25/10/2025 | J - 31 | いろはがるた ２ | *Irohagaruta* 2 |
+|  #  |    Data    | Conteúdo  |      |    |
+|:---:|:----------:|:---------:|:-----|:---|
+| 221 | 05/01/2026 | J - 101 | 注文 の 多い 料理店 ３ (ちゅうもん の おおい りょうりてん ３) | O restaurante onde há vários pedidos 3 |
+
 
 <br>
 
@@ -60,8 +41,8 @@
 <details>
 <summary>2020</summary>
 
-|  #  | Data       | Conteúdo  |       |   |
-|:---:|:----------:|:--------:|:-----|:---|
+|  #  | Data       | Conteúdo  |      |    |
+|:---:|:----------:|:---------:|:-----|:---|
 |   1  | 03/06/2020 |  |  |
 |   2  | 10/06/2020 | 4A |  |
 |   3  | 17/06/2020 |  |  | 
@@ -298,3 +279,44 @@
 <br>
 
 
+<details>
+<summary>2025</summary>
+
+|  #  | Data      | Conteúdo |       |   |
+|:---:|:----------:|:-------:|:-----|:---|
+| 187 | 19/01/2025 | <ul><li>H-19</li><li>Teste H</li></ul> | <ul><li>ストーリー　４</li><li>日本語 テスト H</li></ul> | <ul><li>Histórias 4</li><li>Teste de Assimilação H</li></ul> |
+| 188 | 25/01/2025 | I - 1 | 論理展開　１ (ろんりてんかい　１) | Sequência lógica 1 |
+| 189 | 01/02/2025 | I - 11 | 論理展開　２ (ろんりてんかい　２) | Sequência lógica 2 |
+| 190 | 08/02/2025 | I - 21 | 論理展開　３ (ろんりてんかい　３) | Sequência lógica 3 |
+| 191 | 15/02/2025 | I - 31 | 論理展開　４ (ろんりてんかい　４) | Sequência lógica 4 |
+| 192 | 28/02/2025 | I - 41 | ストーリー　１ | Histórias 1 |
+| 193 | 08/03/2025 | I - 51 | 状況説明　１ (じょうきょうせつめい　１) | Descrição de circunstância 1 |
+| 194 | 15/03/2025 | I - 61 | 状況説明　２ (じょうきょうせつめい　２) | Descrição de circunstância 2 |
+| 195 | 21/03/2025 | I - 71 | 状況説明　３ (じょうきょうせつめい　３) | Descrição de circunstância 3 |
+| 196 | 29/03/2025 | I - 81 | 状況説明　４ (じょうきょうせつめい　４) | Descrição de circunstância 4 |
+| 197 | 04/04/2025 | I - 91 | ストーリー　２ | Histórias 2 |
+| 198 | 11/04/2025 | I - 101 | 心情の強調　１ (しんじょうのきょうちょう　１) | Reforçando os sentimentos 1 |
+| 199 | 26/04/2025 | I - 111 | 心情の強調　２ (しんじょうのきょうちょう　２) | Reforçando os sentimentos 2 |
+| 200 | 03/05/2025 | I - 121 | 心情の強調　３ (しんじょうのきょうちょう　３) | Reforçando os sentimentos 3 |
+| 201 | 17/05/2025 | I - 131 | 心情の強調　４ (しんじょうのきょうちょう　４) | Reforçando os sentimentos 4 
+| 202 | 14/06/2025 | I - 141 | ストーリー　３ | Histórias 3 |
+| 203 | 21/06/2025 | I - 151 | 尊敬の気持ち　１ (そんけいのきもち　１) | Sentimentos de respeito　1 |
+| 204 | 19/07/2025 | I - 161 | 尊敬の気持ち　２ (そんけいのきもち　２) | Sentimentos de respeito　2 |
+| 205 | 25/07/2025 | I - 171 | 尊敬の気持ち　３ (そんけいのきもち　３) | Sentimentos de respeito　3 |
+| 206 | 02/08/2025 | I - 181 | 尊敬の気持ち　４ (そんけいのきもち　４) | Sentimentos de respeito　4 |
+| 207 | 08/08/2025 | I - 191 (1st half) | ストーリー　４ | Histórias 4 |
+| 208 | 16/08/2025 | I - 191 (2nd half) | ストーリー　４ | Histórias 4 |
+| 209 | 23/08/2025 | Teste I | 日本語 テスト | Teste de Assimilação I |
+| 210 | 06/09/2025 | J - 1 | 一休さん (いっきゅうさん) | O monge Ikkyu |
+| 211 | 19/09/2025 | J - 11 | 言葉 の 誤解 　(ことば の ごかい) | Os equívocos de entendimento |
+| 212 | 07/10/2025 | J - 21 (1/2) | いろはがるた １ | *Irohagaruta* 1 |  |
+| 213 | 18/10/2025 | J - 21 (2/2) | いろはがるた １ | *Irohagaruta* 1 |  |
+| 214 | 25/10/2025 | J - 31 | いろはがるた ２ | *Irohagaruta* 2 |
+| 215 | 08/11/2025 | J - 41 | コロンブス の 卵 (コロンブス の たまご) | O ovo de Colombo |
+| 216 | 15/11/2025 | J - 51 | 日本 の 食文化 １ (にほん の しょくぶんか １) | Cultura alimentar japonesa 1 |
+| 217 | 24/11/2025 | J - 61 | 日本 の 食文化 ２ (にほん の しょくぶんか ２) | Cultura alimentar japonesa 2 |
+| 218 | 01/12/2025 | J - 71 | 日本 の 食文化 ３ (にほん の しょくぶんか ３) | Cultura alimentar japonesa 3 |
+| 219 | 10/12/2025 | J - 81 | 注文 の 多い 料理店 １ (ちゅうもん の おおい りょうりてん) １) | O restaurante onde há vários pedidos 1 |
+| 220 | 22/12/2025 | J - 91 | 注文 の 多い 料理店 ２ (ちゅうもん の おおい りょうりてん ２) | O restaurante onde há vários pedidos 2 |
+
+</details>

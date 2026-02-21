@@ -59,3 +59,20 @@ Este provérbio representa o ensinamento de que não se deve tomar atitudes desn
 
 <br><br>
 
+### コロンブス の 卵 (コロンブス の たまご) - O ovo de Colombo
+<br><br>
+
+
+### 日本 の 食文化 (にほん の しょくぶんか) | Cultura alimentar japonesa
+<br><br>
+
+
+### 注文 の 多い 料理店 (ちゅうもん の おおい りょうりてん) - O restaurante onde há vários pedidos
+<br><br>
+
+
+### 一 房 の ぶどう (ひと ふさ の ぶどう ) - Um cacho de uva
+<br><br>
+
+
+### ごん 狐 (ごん きつね) - O raposinho Gon
